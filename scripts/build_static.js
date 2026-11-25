@@ -1,0 +1,68 @@
+// Pre-render every route of Seniors of NY into static HTML with SEO and AI-search metadata.
+const {chromium}=require('/opt/npm-tools/node_modules/playwright');
+const fs=require('fs'),path=require('path');
+const DIST=process.argv[2], DOMAIN=process.argv[3]||'https://seniorsofny.com', PORT=8801;
+const esc=s=>String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;');
+const strip=h=>String(h).replace(/<[^>]+>/g,'').replace(/\s+/g,' ').trim();
+const HUBN={benefits:'Benefits & Money',health:'Health & Medicare',caregiving:'Caregiving',home:'Housing & Legal','things-to-do':'Things to Do',living:'Living Well'};
+(async()=>{
+ const b=await chromium.launch();const p=await b.newPage({viewport:{width:1300,height:900}});
+ const errs=[];p.on('pageerror',e=>errs.push(e.message));
+ await p.goto(`http://localhost:${PORT}/`);await p.waitForFunction(()=>window.__route&&document.querySelector('#app').children.length>0);
+ const data=await p.evaluate(async()=>{const j=u=>fetch(u).then(r=>r.json());const files=["benefits","health","caregiving","living","home","todo","local"];let A=[];for(const f of files){try{A=A.concat(await j('/content/'+f+'.json'))}catch(e){}}const C=await j('/content/counties.json');const X=await j('/content/extras.json');const T=await j('/content/towns.json').catch(()=>[]);const E=await j('/content/es.json').catch(()=>[]);return{t:T.map(x=>({slug:x.slug,name:x.name,county:x.county,countyName:x.countyName,intro:x.intro})),e:E.map(x=>({slug:x.slug,en:x.en,title:x.title,dek:x.dek,seoDesc:x.seoDesc,photo:x.photo,updated:x.updated,faq:x.faq||[]})),a:A.map(x=>({slug:x.slug,title:x.title,dek:x.dek,photo:x.photo,updated:x.updated,hub:x.hub,faq:x.faq||[]})),c:C.map(x=>({slug:x.slug,name:x.name,intro:x.intro})),s:X.steps.map(x=>x.slug),k:X.checklists.map(x=>x.slug),tools:(window.__TOOLS?window.__TOOLS.map(t=>t.slug):[]),toolT:(window.__TOOLS?window.__TOOLS.map(t=>[t.slug,t.title,t.dek]):[]),pros:(window.__PROS?window.__PROS.length:0)}});
+ const HHL=await p.evaluate(()=>typeof HH_LIVE!=="undefined"&&HH_LIVE);if(!HHL)data.a=data.a.filter(a=>a.slug!=="home-happenings");
+ const AM=Object.fromEntries(data.a.map(a=>[a.slug,a])),CM=Object.fromEntries(data.c.map(c=>[c.slug,c]));
+ const routes=['/'].concat(Object.keys(HUBN).filter(h=>data.a.some(a=>a.hub===h)).map(h=>'/hub/'+h),data.a.map(a=>'/article/'+a.slug),data.s.map(s=>'/steps/'+s),['/counties'],data.c.map(c=>'/county/'+c.slug),['/checker','/tools'],data.tools.map(t=>'/tools/'+t),['/dates','/glossary','/directory','/about','/articles'],data.k.map(s=>'/checklist/'+s),['/for/seniors','/for/families','/for/pros'],data.pros?['/find-help','/find-help/care-managers','/find-help/social-services','/find-help/home-care','/find-help/adult-day','/find-help/placement','/find-help/move-managers']:[],data.t.length?['/towns']:[],data.t.map(t=>'/town/'+t.slug),data.e.length?['/es']:[],data.e.map(e=>'/es/'+e.slug));
+ const EM=Object.fromEntries(data.e.map(e=>[e.slug,e])),EN2ES=Object.fromEntries(data.e.map(e=>[e.en,e]));
+ const OG=[];
+ const urlOf=r=>DOMAIN+(r==='/'?'/':r+'/');
+ const crumbsFor=r=>{const L=[['Home',DOMAIN+'/']];const [,a,b2]=r.split('/');
+  if(a==='hub')L.push([HUBN[b2],urlOf(r)]);
+  else if(a==='article'&&AM[b2]){L.push([HUBN[AM[b2].hub],urlOf('/hub/'+AM[b2].hub)]);L.push([AM[b2].title,urlOf(r)])}
+  else if(a==='county'&&CM[b2]){L.push(['Counties',urlOf('/counties')]);L.push([CM[b2].name,urlOf(r)])}
+  else if(a)L.push([null,urlOf(r)]);return L};
+ const render=async(r)=>{
+  await p.evaluate(r=>{window.__forcePath=r;window.__route()},r);await p.waitForTimeout(50);
+  const meta=await p.evaluate(()=>{const im=document.querySelector('main .phead img, main .hubhero img, main figure img');const m=im&&im.getAttribute('src').match(/img\/([\w-]+)\.jpg/);return{t:document.title,d:document.querySelector('meta[name="description"]').content,h:(document.querySelector('h1')||{}).textContent||'',pk:m?m[1]:''}});
+  let html='<!doctype html>\n'+await p.evaluate(()=>document.documentElement.outerHTML);
+  const url=urlOf(r);const slug=r.startsWith('/article/')?r.slice(9):null;const esSlug=r.startsWith('/es/')?r.slice(4):null;const esa=esSlug&&EM[esSlug];const art=(slug&&AM[slug])||(esa?{...esa,hub:(AM[esa.en]||{}).hub}:null);const pairEs=slug&&EN2ES[slug];
+  const ogName=r==='/'?'home':r.slice(1).replace(/\//g,'-');const img=DOMAIN+'/img/og/p/'+ogName+'.jpg';if(r!=='/not-found')OG.push({name:ogName,r,h:meta.h,pk:art?art.photo:meta.pk});
+  const ld=[];
+  const cr=crumbsFor(r);if(r!=='/')ld.push({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":cr.map((c,i)=>({"@type":"ListItem","position":i+1,"name":c[0]||meta.h,"item":c[1]}))});
+  if(art&&art.slug!=="home-happenings"){ld.push({"@context":"https://schema.org","@type":"Article","headline":art.title,"description":art.dek,"image":img,"dateModified":art.updated,"datePublished":art.updated,"inLanguage":esa?"es-US":"en-US","about":HUBN[art.hub],"author":{"@type":"Organization","name":"Seniors of NY","url":DOMAIN+'/'},"publisher":{"@type":"Organization","name":"Seniors of NY","url":DOMAIN+'/',"logo":{"@type":"ImageObject","url":DOMAIN+'/apple-touch-icon.png'}},"mainEntityOfPage":url,"spatialCoverage":{"@type":"State","name":"New York"}});
+   if(art.faq.length)ld.push({"@context":"https://schema.org","@type":"FAQPage","mainEntity":art.faq.map(f=>({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":strip(f.a)}}))})}
+  if(r==='/'){ld.push({"@context":"https://schema.org","@type":"WebSite","name":"Seniors of NY","url":DOMAIN+'/',"description":meta.d,"inLanguage":"en-US"});
+   ld.push({"@context":"https://schema.org","@type":"Organization","name":"Seniors of NY","url":DOMAIN+'/',"logo":DOMAIN+'/apple-touch-icon.png',"areaServed":{"@type":"State","name":"New York"},"founder":{"@type":"Person","name":"Aaron Reznik"}})}
+  let tags=`<link rel="canonical" href="${url}">\n<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">\n<meta property="og:type" content="${art?'article':'website'}">\n<meta property="og:site_name" content="Seniors of NY">\n<meta property="og:locale" content="${esa||r==='/es'?'es_US':'en_US'}">\n<meta property="og:title" content="${esc(meta.t)}">\n<meta property="og:description" content="${esc(meta.d)}">\n<meta property="og:url" content="${url}">\n<meta property="og:image" content="${img}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="${esc(meta.h)}">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:title" content="${esc(meta.t)}">\n<meta name="twitter:description" content="${esc(meta.d)}">\n<meta name="twitter:image" content="${img}">\n`;
+  if(art)tags+=`<meta property="article:modified_time" content="${art.updated}">\n`;
+  if(pairEs||esa){const en=urlOf('/article/'+(esa?esa.en:slug)),es=urlOf('/es/'+(esa?esa.slug:pairEs.slug));tags+=`<link rel="alternate" hreflang="en" href="${en}">\n<link rel="alternate" hreflang="es" href="${es}">\n<link rel="alternate" hreflang="x-default" href="${en}">\n`}
+  ld.forEach(o=>tags+=`<script type="application/ld+json">${JSON.stringify(o)}</script>\n`);
+  html=html.replace(/<link rel="alternate" hreflang[^>]*>\n?/g,'').replace(/<link rel="canonical"[^>]*>\n?/g,'').replace(/<meta name="robots"[^>]*>\n?/g,'').replace(/<meta (property="(og|article):|name="twitter:)[^>]*>\n?/g,'').replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>\n?/g,'').replace(/(<meta name="viewport"[^>]*>)/,m=>m+'\n'+tags);
+  const GAID=process.env.GA_ID||'';const GA=GAID?`<!-- ga --><script async src="https://www.googletagmanager.com/gtag/js?id=${GAID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","${GAID}");</script><!-- /ga -->`:'';
+  html=html.replace(/<!-- ga -->[\s\S]*?<!-- \/ga -->\n?/g,'').replace(/<script async="" src="https:\/\/www\.googletagmanager\.com[^>]*><\/script>/g,'').replace('<head>',GA?'<head>\n'+GA:'<head>');
+  return html;
+ };
+ for(const r of routes){const html=await render(r);const dir=path.join(DIST,r);fs.mkdirSync(dir,{recursive:true});fs.writeFileSync(path.join(dir,'index.html'),html)}
+ let nf=await render('/not-found');nf=nf.replace(/<link rel="canonical"[^>]*>\n?/,'').replace(/<meta name="robots"[^>]*>/,'<meta name="robots" content="noindex">');fs.writeFileSync(path.join(DIST,'404.html'),nf);
+ const today=new Date().toISOString().slice(0,10);
+ const lm=r=>{const s=r.startsWith('/article/')&&AM[r.slice(9)];return s?s.updated:today};
+ fs.writeFileSync(path.join(DIST,'sitemap.xml'),'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+routes.map(r=>`  <url><loc>${urlOf(r)}</loc><lastmod>${lm(r)}</lastmod></url>`).join('\n')+'\n</urlset>\n');
+ fs.writeFileSync(path.join(DIST,'robots.txt'),'User-agent: *\nAllow: /\nDisallow: /search/\n\nSitemap: '+DOMAIN+'/sitemap.xml\n');
+ // AI search: llms.txt summary of the site
+ const byHub=h=>data.a.filter(a=>a.hub===h).map(a=>`- [${a.title}](${urlOf('/article/'+a.slug)}): ${a.dek}`).join('\n');
+ const llms=`# Seniors of NY\n\n> The home for older adults in New York State. Independent, plain-English guides to New York senior benefits (EPIC, STAR and Enhanced STAR, SCHE, SCRIE and DRIE, HEAP, Medicaid and MLTC, CDPAP), Medicare, caregiving, housing and legal matters, with a page for each of the 62 counties including the five boroughs. Every guide is checked by a separate fact-checker against official sources and shows the date it was last updated. Not a government agency.\n\n`+Object.entries(HUBN).filter(([h])=>data.a.some(a=>a.hub===h)).map(([h,n])=>`## ${n}\n\n${byHub(h)}`).join('\n\n')+`\n\n## County guides\n\n`+data.c.map(c=>`- [${c.name}](${urlOf('/county/'+c.slug)}): Office for the Aging (or NYC Aging), senior transportation, social services and places to go`).join('\n')+`
+
+## Tools
+
+- [Benefits checker](${urlOf('/checker')}): quick questions to see which New York programs may fit
+`+(data.toolT||[]).map(([t,n,d])=>`- [${n}](${urlOf('/tools/'+t)}): ${d}`).join('\n')+`
+- [Key dates](${urlOf('/dates')}): deadlines and enrollment windows
+- [Phone directory](${urlOf('/directory')}): official offices that help older adults
+- [Glossary](${urlOf('/glossary')}): plain-English definitions
+`;
+ fs.writeFileSync(path.join(DIST,'llms.txt'),llms+(data.pros?`\n## Find care help\n\n- [Find care help in New York](${DOMAIN}/find-help/): geriatric care managers, social workers, home care agencies, adult day programs, senior living advisors and senior move managers with phone numbers\n- [Geriatric care managers](${DOMAIN}/find-help/care-managers/)\n- [Social workers and family services](${DOMAIN}/find-help/social-services/)\n- [Home care agencies](${DOMAIN}/find-help/home-care/)\n- [Adult day programs](${DOMAIN}/find-help/adult-day/)\n- [Senior living placement advisors](${DOMAIN}/find-help/placement/)\n- [Senior move managers](${DOMAIN}/find-help/move-managers/)\n`:'')+(data.t.length?`\n## Town guides\n\n`+data.t.map(t=>`- [Seniors in ${t.name}, NY](${DOMAIN}/town/${t.slug}/): senior center, rides, library and outings in ${t.countyName}`).join('\n')+'\n':'')+(data.e.length?`\n## En español\n\n`+data.e.map(e=>`- [${e.title}](${DOMAIN}/es/${e.slug}/): ${e.dek}`).join('\n')+'\n':''));
+ fs.writeFileSync(path.join(DIST,'_redirects'),'/search/*  /index.html  200\n');
+ await require('./og_cards.js')(b,DIST,OG);
+ console.log(routes.length,'pages',errs.slice(0,3));
+ await b.close();
+})();

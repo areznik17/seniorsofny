@@ -1,0 +1,70 @@
+# Seniors of NY
+
+> The home for older adults in New York State. Independent, plain-English guides to New York senior benefits (EPIC, STAR and Enhanced STAR, SCHE, SCRIE and DRIE, HEAP, Medicaid and MLTC, CDPAP), Medicare, caregiving, housing and legal matters, with a page for each of the 62 counties including the five boroughs. Every guide is checked by a separate fact-checker against official sources and shows the date it was last updated. Not a government agency.
+
+## Benefits & Money
+
+- [EPIC in New York: lower drug costs for people 65 and older](https://seniorsofny.com/article/epic-ny/): EPIC is New York's drug coverage program for people 65 and older. It works with Medicare Part D to bring most prescriptions down to $3 to $20. Here is who qualifies and how to apply.
+- [Extra Help for Medicare drug costs in New York: 2027 guide](https://seniorsofny.com/article/extra-help-medicare-ny/): Extra Help cuts Part D costs to a few dollars a prescription. Many New Yorkers get it automatically through the Medicare Savings Program, even with savings. Here is how.
+- [Free and discounted things for older New Yorkers](https://seniorsofny.com/article/free-and-discounted-ny/): Turning 62, 65 and 70 in New York opens up real savings. Here are the free state park days, half-price transit, cheap hunting and fishing licenses, federal park passes, train discounts and free museum options, with the official rules for each.
+- [HEAP in New York for 2026 to 2027: heating help for older adults](https://seniorsofny.com/article/heap-ny/): New York's Home Energy Assistance Program opened November 2, 2026 and can pay up to $1,086 toward heat. Households with someone 60 or older get extra. Here is who qualifies, how to apply in NYC and the rest of the state, and the utility discounts that come with it.
+- [Medicaid for New Yorkers 65 and older: 2026 limits and how to apply](https://seniorsofny.com/article/medicaid-ny-seniors/): Medicaid pays for home care and nursing home care for many older New Yorkers. Here are the 2026 limits, the lookback, Managed Long Term Care, spenddown and where to apply.
+- [Medicare Savings Program in New York: 2026 limits and how to apply](https://seniorsofny.com/article/medicare-savings-program-ny/): New York will pay your Medicare Part B premium if your income is under the limit, and it does not count your savings. Here are the 2026 limits, what QMB and QI pay, and where to apply.
+- [How New York taxes retirement income](https://seniorsofny.com/article/ny-retirement-income-tax/): New York is gentle on retirees. Social Security is not taxed, New York and federal government pensions are fully exempt, and most people 59½ or older can exclude up to $20,000 of other pension and IRA income. Here is how each piece works, plus a refundable credit for low-income households and where to get free help.
+- [SCRIE and DRIE: how the NYC rent freeze works for older adults](https://seniorsofny.com/article/scrie-drie-nyc/): New York City can freeze the rent of tenants 62 and older, and of tenants with disabilities, in rent-regulated apartments. The income limit just rose to $75,000. Here is how it works and how to sign up.
+- [The senior citizens homeowners' exemption in New York and NYC](https://seniorsofny.com/article/senior-homeowners-exemption-ny/): New York lets towns, cities, counties and school districts cut the taxable value of a senior's home by up to half. In New York City the program is called SCHE. Here is how the income scale works and how to apply.
+- [SNAP for New Yorkers 60 and older: income limits and how to apply](https://seniorsofny.com/article/snap-ny-seniors/): A New Yorker 60 or older living alone can have gross income up to $2,660 a month and still qualify for SNAP. Here are the current limits, the rules that help older adults, and how to apply in New York City and the rest of the state.
+- [Social Security in 2027: what changes for New Yorkers](https://seniorsofny.com/article/social-security-2027-ny/): Social Security and SSI checks rise 3.6% for 2027. Here is what that means for the average retiree, the new work limits, SSI and the New York State Supplement, the Medicare premium that comes out first, and how to reach a Social Security office in New York.
+- [Basic and Enhanced STAR in New York: limits, rules and how to apply](https://seniorsofny.com/article/star-enhanced-star-ny/): STAR cuts school taxes for New York homeowners, and the Enhanced version gives more to owners 65 and older. Here is who qualifies, what changed with the credit, and how to sign up.
+
+## Health & Medicare
+
+- [CDPAP in New York: how family caregivers get paid in 2026](https://seniorsofny.com/article/cdpap-ny/): The Consumer Directed Personal Assistance Program lets a New Yorker on Medicaid choose their own home care aide, often an adult child or other relative. Since 2025 every case runs through one statewide payroll company. Here is how it works now.
+- [Home care agencies in New York: how to choose and check them](https://seniorsofny.com/article/home-care-agencies-ny/): Before a stranger comes into your parent's home, it helps to know which kind of agency you are dealing with, who is paying and how to check them. A plain guide to LHCSAs, CHHAs, private aides and the state tools that let you verify them.
+- [Hospice care in New York: who qualifies, costs and choosing one](https://seniorsofny.com/article/hospice-ny/): What the Medicare hospice benefit covers, what it costs, where care happens and how to check a New York hospice before you call it.
+- [Medicare costs in 2027 for New Yorkers](https://seniorsofny.com/article/medicare-costs-2027-ny/): Every main 2027 Medicare premium, deductible and coinsurance figure from CMS, in plain English, plus the New York programs (Medicare Savings Program, Extra Help and EPIC) that can lower the bill.
+- [Medicare open enrollment and changing plans in New York](https://seniorsofny.com/article/medicare-open-enrollment-ny/): The dates that matter, what you can change in each window, how to compare plans on Medicare.gov, and where New York families get free help before December 7.
+- [Medigap in New York: buy any time, same price at any age](https://seniorsofny.com/article/medigap-ny/): New York lets older adults buy a Medicare Supplement policy any month of the year at a community-rated price. Here is how it works, what is sold and how to compare.
+- [Nursing home ratings in New York: stars, inspections, staffing](https://seniorsofny.com/article/nursing-home-ratings-ny/): How Medicare's five-star ratings work, where to find New York inspection and staffing records, how nursing home bills get paid and who to call when something goes wrong.
+- [NY Connects: where New Yorkers start for long-term care help](https://seniorsofny.com/article/ny-connects/): One free phone number links your family to home care, meals, transportation and help applying for Medicaid. Here is what NY Connects does, how it works in New York City and upstate, and how to get the most out of the first call.
+- [PACE in New York: all-in-one care for older adults at home](https://seniorsofny.com/article/pace-ny/): PACE, a Medicare and Medicaid program, gives one team responsibility for nearly all of your parent's care, so they can stay at home instead of moving to a nursing home. It runs only in certain counties. Here is how it works in New York.
+
+## Caregiving
+
+- [Elder abuse and Adult Protective Services in New York](https://seniorsofny.com/article/adult-protective-services-ny/): If you think an older New Yorker is being hurt, neglected or cheated, you can make a report today. Here is who to call in New York City and the rest of the state, and what happens next.
+- [Help for family caregivers in New York: respite, leave and support](https://seniorsofny.com/article/caregiver-support-ny/): New York has free counseling, respite, dementia support and paid leave for people caring for an older relative. Here is where to start, who qualifies and what each program pays.
+- [EISEP in New York: home care for older adults not on Medicaid](https://seniorsofny.com/article/eisep-ny/): The Expanded In-home Services for the Elderly Program helps New Yorkers 60 and older who need help at home but do not qualify for Medicaid. Here is who gets it, what it costs and how to apply.
+- [Article 81 guardianship in New York: when it's needed, how it works](https://seniorsofny.com/article/guardianship-article-81-ny/): When a parent can no longer manage money or care decisions and never signed a power of attorney, a court may need to appoint a guardian. Here is how New York's Article 81 process works.
+- [Health care proxy, living will and MOLST in New York](https://seniorsofny.com/article/health-care-proxy-molst-ny/): How to sign New York's health care proxy, what a living will adds, who decides when there is no proxy, and how MOLST orders work for people who are seriously ill.
+- [Power of attorney in New York: the form, the rules and the bank](https://seniorsofny.com/article/power-of-attorney-ny/): A power of attorney lets someone you trust handle your money and paperwork if you can't. Here is how New York's form works since the 2021 changes, and what to do when a bank pushes back.
+
+## Housing & Legal
+
+- [Access-A-Ride in NYC: how to qualify, book and pay](https://seniorsofny.com/article/access-a-ride-nyc/): Access-A-Ride is the MTA's shared-ride service for New Yorkers whose disability keeps them off buses and subways. Here is how to apply, book a trip and pay, plus what's available outside the city.
+- [New York estate tax: the 2026 exclusion, the cliff and filing](https://seniorsofny.com/article/estate-tax-ny/): Most New York estates owe no state estate tax, but the ones near the line need to plan carefully. Here is the 2026 exclusion amount, the cliff, and what an executor must file.
+- [Probate in New York: Surrogate's Court steps, fees and timing](https://seniorsofny.com/article/probate-ny/): When a parent dies in New York, their property usually passes through the Surrogate's Court. Here is which proceeding you need, what to file, what the court charges and how long creditors have.
+- [MTA reduced fare for 65+: half-price subway, bus and train rides](https://seniorsofny.com/article/reduced-fare-mta-ny/): At 65, New Yorkers can ride MTA subways and local buses for half price and get up to half off on the commuter railroads. Here is how to get the Reduced-Fare OMNY card, and what other New York transit systems offer.
+
+## County guides
+
+- [Brooklyn (Kings County)](https://seniorsofny.com/county/brooklyn/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Fulton County](https://seniorsofny.com/county/fulton/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Manhattan (New York County)](https://seniorsofny.com/county/manhattan/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Montgomery County](https://seniorsofny.com/county/montgomery/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Nassau County](https://seniorsofny.com/county/nassau/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Queens (Queens County)](https://seniorsofny.com/county/queens/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Schoharie County](https://seniorsofny.com/county/schoharie/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Staten Island (Richmond County)](https://seniorsofny.com/county/staten-island/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Suffolk County](https://seniorsofny.com/county/suffolk/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [The Bronx (Bronx County)](https://seniorsofny.com/county/bronx/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Westchester County](https://seniorsofny.com/county/westchester/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+
+## Tools
+
+- [Benefits checker](https://seniorsofny.com/checker/): quick questions to see which New York programs may fit
+- [Medicare late enrollment penalty calculator](https://seniorsofny.com/tools/medicare-late-penalty-calculator/): See what a late sign-up for Medicare Part B or Part D adds to your monthly premium, for life.
+- [New York pension exclusion calculator](https://seniorsofny.com/tools/ny-pension-exclusion-calculator/): Estimate how much of your pension, annuity and IRA income New York leaves off your state return.
+- [STAR and senior exemption checker for New York](https://seniorsofny.com/tools/star-exemption-checker/): See whether you may qualify for Enhanced STAR and the senior homeowners' exemption on your property taxes.
+- [Key dates](https://seniorsofny.com/dates/): deadlines and enrollment windows
+- [Phone directory](https://seniorsofny.com/directory/): official offices that help older adults
+- [Glossary](https://seniorsofny.com/glossary/): plain-English definitions

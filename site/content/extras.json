@@ -1,0 +1,558 @@
+{
+ "keyDates": [
+  {
+   "date": "2026-09-28",
+   "end": "2027-03-15",
+   "title": "NYC SCHE and DHE applications",
+   "text": "New York City homeowners 65 and older (SCHE) or with a disability (DHE) can apply online until March 15 for the tax year that starts July 1. Questions: call 311.",
+   "link": "#/article/senior-homeowners-exemption-ny"
+  },
+  {
+   "date": "2026-10-15",
+   "end": "2026-12-07",
+   "title": "Medicare open enrollment",
+   "text": "Compare and change your Medicare Advantage or Part D plan for 2027. Free, unbiased help from HIICAP: 1-800-701-0501.",
+   "link": "#/article/medicare-open-enrollment-ny"
+  },
+  {
+   "date": "2026-12-31",
+   "title": "SSI raise arrives",
+   "text": "The first Supplemental Security Income payments with the 3.6% increase go out on December 31, 2026.",
+   "link": "#/article/social-security-2027-ny"
+  },
+  {
+   "date": "2027-01-01",
+   "title": "3.6% Social Security raise begins",
+   "text": "The 2027 cost-of-living adjustment starts with benefits payable in January 2027.",
+   "link": "#/article/social-security-2027-ny"
+  },
+  {
+   "date": "2027-01-01",
+   "title": "New Medicare costs take effect",
+   "text": "The standard Part B premium is $209.40 a month in 2027 and the Part B deductible is $292. The Part A hospital deductible is $1,776.",
+   "link": "#/article/medicare-costs-2027-ny"
+  },
+  {
+   "date": "2027-01-01",
+   "end": "2027-03-31",
+   "title": "Medicare Advantage switch window",
+   "text": "If you're in a Medicare Advantage plan, you can switch to another Medicare Advantage plan or go back to Original Medicare.",
+   "link": "#/article/medicare-open-enrollment-ny"
+  },
+  {
+   "date": "2027-01-01",
+   "end": "2027-03-31",
+   "title": "Medicare General Enrollment Period",
+   "text": "Missed your first chance to sign up for Part A or B? You can sign up now. Coverage starts the month after you sign up.",
+   "link": "#/article/medicare-open-enrollment-ny"
+  },
+  {
+   "date": "2027-01-04",
+   "title": "Emergency HEAP opens",
+   "text": "Households facing a heating emergency can apply for the additional emergency HEAP benefit starting January 4, 2027. Regular HEAP has been open since November 2, 2026, and benefits are first come, first served.",
+   "link": "#/article/heap-ny"
+  },
+  {
+   "date": "2027-01-15",
+   "title": "Last 2026 estimated tax payment",
+   "text": "If you pay New York estimated tax on pension or investment income, the fourth 2026 payment is due January 15, 2027.",
+   "link": "#/article/ny-retirement-income-tax"
+  },
+  {
+   "date": "2027-03-01",
+   "title": "Senior exemption due in most towns",
+   "text": "Outside New York City, the senior citizens property tax exemption (Form RP-467) is due to your assessor by March 1 in most communities. Some cities and counties use other dates.",
+   "link": "#/article/senior-homeowners-exemption-ny"
+  },
+  {
+   "date": "2027-10-15",
+   "end": "2027-12-07",
+   "title": "Medicare open enrollment for 2028",
+   "text": "The yearly window to change Medicare Advantage or Part D plans comes around again.",
+   "link": "#/article/medicare-open-enrollment-ny"
+  }
+ ],
+ "steps": [
+  {
+   "slug": "apply-for-epic",
+   "title": "Apply for EPIC prescription help",
+   "dek": "EPIC helps New Yorkers 65 and older pay for prescriptions on top of a Medicare Part D plan. Here is the whole process, start to finish.",
+   "hub": "benefits",
+   "photo": "pharmacy",
+   "steps": [
+    {
+     "t": "Check that you qualify",
+     "d": "<p>EPIC (Elderly Pharmaceutical Insurance Coverage) is for people 65 or older. Your yearly income must be $75,000 or less if you're single, or $100,000 or less if you're married. You must be in a Medicare Part D drug plan, or be eligible to join one.</p>"
+    },
+    {
+     "t": "See which plan fits your income",
+     "d": "<ul><li><strong>Fee Plan:</strong> income up to $20,000 single or $26,000 married</li><li><strong>Deductible Plan:</strong> income from $20,001 to $75,000 single, or $26,001 to $100,000 married</li><li><strong>Help with Part D premiums:</strong> income up to $23,000 single or $29,000 married</li></ul>"
+    },
+    {
+     "t": "Fill out the application",
+     "d": "<p>Download the EPIC application from the state Department of Health site, or call the EPIC Helpline at <span class=\"tel\">1-800-332-3742</span> (TTY <span class=\"tel\">1-800-290-9138</span>), 8 a.m. to 5 p.m. on weekdays, to have one sent. You don't need to send proof of income.</p>"
+    },
+    {
+     "t": "Mail or fax it in",
+     "d": "<p>Send the finished form to EPIC by mail or fax. You can apply any time of year, so there's no reason to wait for a deadline.</p>"
+    },
+    {
+     "t": "Stay in a Part D plan",
+     "d": "<p>You need to stay enrolled in a Medicare Part D plan to get and keep EPIC. If you're changing plans during open enrollment, keep EPIC in mind. Free plan help comes from HIICAP at <span class=\"tel\">1-800-701-0501</span>. See our <a href=\"#/article/epic-ny\">full EPIC guide</a> and <a href=\"#/article/extra-help-medicare-ny\">Extra Help guide</a>.</p>"
+    }
+   ]
+  },
+  {
+   "slug": "sign-up-for-medicare-ny",
+   "title": "Sign up for Medicare in New York",
+   "dek": "The order of operations for getting Medicare right the first time in New York, including the state programs that help you pay.",
+   "hub": "health",
+   "photo": "paperwork",
+   "steps": [
+    {
+     "t": "Mark your enrollment window",
+     "d": "<p>Your Initial Enrollment Period lasts seven months. It starts three months before the month you turn 65 and ends three months after that month. Coverage always starts on the first of a month.</p>"
+    },
+    {
+     "t": "Ask about your job coverage first",
+     "d": "<p>If you or your spouse still have health insurance through a current job, ask the HR office in writing how that plan works with Medicare before you decide on Part B.</p>"
+    },
+    {
+     "t": "Apply through Social Security",
+     "d": "<p>Apply online at ssa.gov, by phone at <span class=\"tel\">1-800-772-1213</span> (TTY <span class=\"tel\">1-800-325-0778</span>), or at a local Social Security office. Phone lines are open 8 a.m. to 7 p.m. local time, Monday to Friday.</p>"
+    },
+    {
+     "t": "Choose how you'll get coverage",
+     "d": "<p>Pick Original Medicare with a Medigap policy and a Part D drug plan, or a Medicare Advantage plan. Our <a href=\"#/article/medigap-ny\">Medigap guide</a> explains how New York's rules work.</p>"
+    },
+    {
+     "t": "Get a free second opinion",
+     "d": "<p>HIICAP (Health Insurance Information, Counseling and Assistance Program) counselors give free, objective help comparing Medicare plans. Call <span class=\"tel\">1-800-701-0501</span>, say your county, and you'll be sent to your local office.</p>"
+    },
+    {
+     "t": "Check for help paying",
+     "d": "<p>At 65 you may also qualify for <a href=\"#/article/epic-ny\">EPIC</a> prescription help, a <a href=\"#/article/medicare-savings-program-ny\">Medicare Savings Program</a> or <a href=\"#/article/extra-help-medicare-ny\">Extra Help</a>. Missed your window? The General Enrollment Period runs January 1 to March 31 each year.</p>"
+    }
+   ]
+  }
+ ],
+ "checklists": [
+  {
+   "slug": "turning-65-ny",
+   "title": "Turning 65 in New York checklist",
+   "items": [
+    "Find the dates of your seven-month Initial Enrollment Period",
+    "Ask HR in writing how your job coverage works with Medicare",
+    "Sign up for Medicare Parts A and B through Social Security",
+    "Compare Medigap plus Part D against Medicare Advantage",
+    "Book a free HIICAP counseling call (1-800-701-0501)",
+    "Apply for EPIC prescription help",
+    "Homeowner? Make sure STAR moves up to Enhanced STAR (the state now does this automatically when you qualify) and ask about the senior exemption (SCHE in NYC)",
+    "In NYC, get a Reduced-Fare MetroCard or OMNY card",
+    "Use free weekday state park entry with the Golden Park Program (62 and older)",
+    "List every prescription, dose and pharmacy",
+    "Update beneficiaries on retirement accounts"
+   ]
+  },
+  {
+   "slug": "important-papers-ny",
+   "title": "Important papers checklist for New York",
+   "items": [
+    "Medicare, Medicaid, EPIC and other insurance cards",
+    "Social Security award letter",
+    "Most recent tax return",
+    "Deed and last two property tax bills, or your lease if you rent",
+    "STAR, Enhanced STAR, SCHE or SCRIE approval letters",
+    "Will and any trust documents",
+    "New York Statutory Short Form Power of Attorney, signed before a notary and two witnesses",
+    "New York Health Care Proxy naming your health care agent",
+    "MOLST form (DOH-5003) for a serious health condition, signed by a doctor, NP or PA",
+    "List of bank, retirement and investment accounts",
+    "List of doctors, medications and pharmacy",
+    "Passwords kept in a safe, agreed place"
+   ]
+  }
+ ],
+ "glossary": [
+  [
+   "Access-A-Ride",
+   "MTA paratransit in New York City for people whose disability keeps them from using buses and subways. Call 877-337-2017."
+  ],
+  [
+   "APS",
+   "Adult Protective Services. Helps adults who, because of a mental or physical impairment, can't protect themselves from abuse, neglect or exploitation and have no one able to help. In NYC call 718-557-1399. Outside NYC, the state helpline is 1-844-697-3505."
+  ],
+  [
+   "Article 81 guardianship",
+   "A court case under Article 81 of the Mental Hygiene Law to appoint a guardian for an adult who can no longer manage personal or money matters."
+  ],
+  [
+   "CDPAP",
+   "Consumer Directed Personal Assistance Program. A Medicaid program that lets you recruit, hire, train and supervise your own home care aide."
+  ],
+  [
+   "CHHA",
+   "Certified Home Health Agency. A home care agency certified by Medicare and Medicaid to provide skilled care at home, such as nursing and therapy."
+  ],
+  [
+   "COLA",
+   "Cost-of-living adjustment. The yearly raise in Social Security and SSI. It is 3.6% for 2027."
+  ],
+  [
+   "DHE",
+   "Disabled Homeowners' Exemption. A New York City property tax break for households where an owner or other legal resident has a disability. Combined income must be $58,399 or less. Apply by March 15."
+  ],
+  [
+   "DRIE",
+   "Disability Rent Increase Exemption. Part of the NYC Rent Freeze Program. Freezes the rent for eligible tenants 18 and older with a disability. Household income must be $75,000 or less."
+  ],
+  [
+   "DSS",
+   "Department of Social Services. The county office outside NYC that handles public benefits, including HEAP applications."
+  ],
+  [
+   "EISEP",
+   "Expanded In-home Services for the Elderly Program. Nonmedical help at home for people 60 and older who aren't eligible for Medicaid. Apply through your county Office for the Aging or NY Connects."
+  ],
+  [
+   "Enhanced STAR",
+   "The bigger STAR school tax break when at least one resident owner is 65 or older by December 31. For 2027 benefits, income must be $113,550 or less. Since 2026 the Tax Department moves eligible STAR homeowners up to Enhanced STAR automatically, with no new application."
+  ],
+  [
+   "EPIC",
+   "Elderly Pharmaceutical Insurance Coverage. New York's prescription help for people 65 and older that works alongside Medicare Part D. Helpline: 1-800-332-3742."
+  ],
+  [
+   "Extra Help",
+   "A federal program that lowers Medicare Part D premiums and drug copays for people with limited income and savings."
+  ],
+  [
+   "General Enrollment Period",
+   "January 1 to March 31 each year. If you missed your first chance to sign up for Medicare Part A or B, you can sign up then."
+  ],
+  [
+   "Golden Park Program",
+   "Free weekday vehicle entry (holidays excluded) to most New York State parks for residents 62 and older. Show your NY driver license or non-driver ID. No application needed."
+  ],
+  [
+   "Health care proxy",
+   "The New York form that names your health care agent, the person who makes medical decisions for you if you no longer can."
+  ],
+  [
+   "HEAP",
+   "Home Energy Assistance Program. Helps pay heating bills. Regular benefits opened November 2, 2026, and emergency benefits open January 4, 2027."
+  ],
+  [
+   "HIICAP",
+   "Health Insurance Information, Counseling and Assistance Program. Free, objective Medicare counseling. Call 1-800-701-0501."
+  ],
+  [
+   "HRA",
+   "Human Resources Administration. The NYC agency that runs many benefit programs, including HEAP and Adult Protective Services. DSS One Number: 718-557-1399."
+  ],
+  [
+   "Initial Enrollment Period",
+   "Your first chance to sign up for Medicare. It lasts seven months, starting three months before the month you turn 65."
+  ],
+  [
+   "IRMAA",
+   "Income-Related Monthly Adjustment Amount. An extra charge on Medicare Part B and Part D premiums for people with higher incomes."
+  ],
+  [
+   "LHCSA",
+   "Licensed Home Care Services Agency. A state-licensed agency that sends aides and other home care workers."
+  ],
+  [
+   "Long Term Care Ombudsman",
+   "A state program for older adults and people with disabilities who live in nursing homes, assisted living and other adult care homes. It helps them resolve problems and understand their rights. Call 1-855-582-6769."
+  ],
+  [
+   "Medicare Advantage",
+   "Private plans that take the place of Original Medicare. If you're in one, you can switch plans or go back to Original Medicare between January 1 and March 31."
+  ],
+  [
+   "Medigap",
+   "Private policies that help pay costs Original Medicare doesn't, such as deductibles and coinsurance."
+  ],
+  [
+   "MLTC",
+   "Managed Long Term Care. Medicaid plans that arrange and pay for long-term services, such as home care, for people who need ongoing help."
+  ],
+  [
+   "MOLST",
+   "Medical Orders for Life-Sustaining Treatment (form DOH-5003). Records the wishes of a patient with a serious health condition about CPR and other treatment. Signed by a doctor, nurse practitioner or physician assistant."
+  ],
+  [
+   "MSP",
+   "Medicare Savings Program. State help that pays the Medicare Part B premium, and sometimes deductibles and copays, for people with modest incomes. New York has no resource test."
+  ],
+  [
+   "NY Connects",
+   "Free, unbiased information on long-term services and supports for people of all ages or with any type of disability. Call 1-800-342-9871."
+  ],
+  [
+   "NYC Aging",
+   "New York City's Department for the Aging. Its Aging Connect line is 212-AGING-NYC (212-244-6469), or call 311."
+  ],
+  [
+   "NYSOFA",
+   "New York State Office for the Aging. The state agency that oversees county Offices for the Aging, HIICAP, EISEP and NY Connects."
+  ],
+  [
+   "Office for the Aging",
+   "Your county's Area Agency on Aging. It plans and funds services for older residents, such as meals, rides, home help and caregiver support."
+  ],
+  [
+   "PACE",
+   "Program of All-Inclusive Care for the Elderly. One team handles all your medical and long-term care. For people 55 and older who need nursing home level care, can live safely at home with PACE help and live in a PACE service area."
+  ],
+  [
+   "Reduced-Fare MetroCard and OMNY",
+   "Lower MTA fares for riders 65 and older or with a qualifying disability. Subway and local bus rides cost $1.50."
+  ],
+  [
+   "SCHE",
+   "Senior Citizen Homeowners' Exemption. Lowers property taxes for homeowners 65 and older. In NYC, combined income must be $58,399 or less and the deadline is March 15. Outside NYC, apply to your assessor."
+  ],
+  [
+   "SCRIE",
+   "Senior Citizen Rent Increase Exemption. Part of the NYC Rent Freeze Program. Freezes the rent for tenants 62 and older in rent-regulated apartments with household income of $75,000 or less who spend more than a third of their income on rent."
+  ],
+  [
+   "SSI State Supplement",
+   "An extra payment New York adds to federal Supplemental Security Income (SSI)."
+  ],
+  [
+   "STAR",
+   "School Tax Relief. A New York break on school property taxes for homeowners who live in the home. New homeowners register with the Tax Department and get STAR as a credit check."
+  ],
+  [
+   "Statutory short form power of attorney",
+   "New York's official power of attorney form. It names an agent to handle money matters and must be signed before a notary and two witnesses who aren't named as agents."
+  ],
+  [
+   "Surrogate's Court",
+   "The county court that handles the probate of wills and the administration of estates."
+  ]
+ ],
+ "season": [
+  {
+   "title": "Holiday Train Show",
+   "text": "The New York Botanical Garden's Holiday Train Show in the Bronx runs November 14, 2026 through January 10, 2027.",
+   "photo": "train"
+  },
+  {
+   "title": "Lightscape in Brooklyn",
+   "text": "Brooklyn Botanic Garden's Lightscape trail runs November 20, 2026 to January 3, 2027. The paths are wheelchair accessible, and a personal care attendant gets a free ticket.",
+   "photo": "garden"
+  },
+  {
+   "title": "Winter eagle watching",
+   "text": "State environmental officials say bald eagle viewing peaks in January and February. Try the Mongaup Valley viewing areas off Route 42 or Hudson spots like Norrie Point State Park.",
+   "photo": "birds"
+  },
+  {
+   "title": "Fahnestock Winter Park",
+   "text": "Near Carmel, this state winter park rents skis and snowshoes and is open 9 a.m. to 4:30 p.m. when there's snow. The Golden Park free entry doesn't apply here.",
+   "photo": "autumn-trail"
+  }
+ ],
+ "resources": [
+  {
+   "cat": "Benefits & money",
+   "name": "EPIC Helpline",
+   "phone": "1-800-332-3742",
+   "url": "https://www.health.ny.gov/health_care/epic/",
+   "desc": "Prescription help for New Yorkers 65 and older with Medicare Part D. TTY 1-800-290-9138."
+  },
+  {
+   "cat": "Benefits & money",
+   "name": "HEAP (OTDA Hotline)",
+   "phone": "1-800-342-3009",
+   "url": "https://otda.ny.gov/programs/heap/",
+   "desc": "Heating bill help. Outside NYC you can also apply through your county DSS."
+  },
+  {
+   "cat": "Benefits & money",
+   "name": "NYC HRA (DSS One Number)",
+   "phone": "718-557-1399",
+   "url": "https://www.nyc.gov/site/hra/help/energy-assistance.page",
+   "desc": "HEAP and other HRA benefits for New York City residents."
+  },
+  {
+   "cat": "Benefits & money",
+   "name": "STAR (NYS Tax Department)",
+   "phone": "518-457-2036",
+   "url": "https://www.tax.ny.gov/pit/property/star/",
+   "desc": "STAR and Enhanced STAR questions. 8:30 a.m. to 4:30 p.m. on weekdays."
+  },
+  {
+   "cat": "Benefits & money",
+   "name": "NYC Finance: SCHE, DHE and Rent Freeze",
+   "phone": "311",
+   "url": "https://www.nyc.gov/site/finance/property/landlords-sche.page",
+   "desc": "Homeowner exemptions (apply by March 15) and SCRIE or DRIE rent freezes."
+  },
+  {
+   "cat": "Benefits & money",
+   "name": "Social Security",
+   "phone": "1-800-772-1213",
+   "url": "https://www.ssa.gov/agency/contact/phone.html",
+   "desc": "Retirement, SSI and Medicare sign-up. TTY 1-800-325-0778."
+  },
+  {
+   "cat": "Benefits & money",
+   "name": "VA (MyVA411)",
+   "phone": "1-800-698-2411",
+   "url": "https://www.va.gov/resources/helpful-va-phone-numbers/",
+   "desc": "Veterans benefits and health care, 24/7. Veterans Crisis Line: dial 988, then press 1."
+  },
+  {
+   "cat": "Health & Medicare",
+   "name": "1-800-MEDICARE",
+   "phone": "1-800-633-4227",
+   "url": "https://www.medicare.gov/",
+   "desc": "Plan questions and enrollment. TTY 1-877-486-2048."
+  },
+  {
+   "cat": "Health & Medicare",
+   "name": "HIICAP",
+   "phone": "1-800-701-0501",
+   "url": "https://aging.ny.gov/health-insurance-information-counseling-and-assistance-program-hiicap",
+   "desc": "Free, objective Medicare counseling. Say your county to reach your local office."
+  },
+  {
+   "cat": "Health & Medicare",
+   "name": "NYS Medicaid Helpline",
+   "phone": "1-800-541-2831",
+   "url": "https://www.health.ny.gov/health_care/managed_care/contact/helplines.htm",
+   "desc": "Medicaid questions from the state Department of Health."
+  },
+  {
+   "cat": "Health & Medicare",
+   "name": "NY State of Health",
+   "phone": "1-855-355-5777",
+   "url": "https://nystateofhealth.ny.gov/",
+   "desc": "The state's health plan marketplace. TTY 1-800-662-1220."
+  },
+  {
+   "cat": "Health & Medicare",
+   "name": "988 Suicide and Crisis Lifeline",
+   "phone": "988",
+   "url": "https://www.omh.ny.gov/omhweb/crisis/988.html",
+   "desc": "Call or text 988, or chat online, any time. Free and confidential."
+  },
+  {
+   "cat": "Care at home",
+   "name": "NY Connects",
+   "phone": "1-800-342-9871",
+   "url": "https://www.nyconnects.ny.gov/",
+   "desc": "Free, unbiased help finding home care and long-term services, plus EISEP referrals."
+  },
+  {
+   "cat": "Care at home",
+   "name": "NYC Aging (Aging Connect)",
+   "phone": "212-244-6469",
+   "url": "https://www.nyc.gov/site/dfta/index.page",
+   "desc": "212-AGING-NYC. Services for older adults in the five boroughs, or call 311."
+  },
+  {
+   "cat": "Care at home",
+   "name": "Long Term Care Ombudsman",
+   "phone": "1-855-582-6769",
+   "url": "https://ltcombudsman.ny.gov/",
+   "desc": "Help for nursing home and adult care home residents with problems or rights questions."
+  },
+  {
+   "cat": "Safety",
+   "name": "Adult Protective Services (NYC)",
+   "phone": "718-557-1399",
+   "url": "https://www.nyc.gov/site/hra/help/adult-protective-services.page",
+   "desc": "Report suspected abuse, neglect or exploitation of an adult in New York City."
+  },
+  {
+   "cat": "Safety",
+   "name": "NYS Adult Protective Services Helpline",
+   "phone": "1-844-697-3505",
+   "url": "https://aging.ny.gov/programs/elder-abuse",
+   "desc": "Outside NYC. 8:30 a.m. to 8 p.m., Monday to Friday. Call 911 in an emergency."
+  },
+  {
+   "cat": "Safety",
+   "name": "Elder Abuse Helpline for Concerned Persons",
+   "phone": "844-746-6905",
+   "url": "https://www.nyc.gov/assets/statenislandcb2/downloads/pdf/2026/2026-Helpline-Flyer-for-circulation.pdf",
+   "desc": "For family and friends worried about an older adult. A specialist calls back within 1 to 2 business days."
+  },
+  {
+   "cat": "Safety",
+   "name": "NY Attorney General Help Line",
+   "phone": "1-800-771-7755",
+   "url": "https://ag.ny.gov/consumer-frauds/filing-a-consumer-complaint",
+   "desc": "Report scams and consumer fraud. Deaf or hard of hearing: 1-800-788-9898."
+  },
+  {
+   "cat": "Safety",
+   "name": "NYS Domestic Violence Hotline",
+   "phone": "1-800-942-6906",
+   "url": "https://aging.ny.gov/programs/elder-abuse",
+   "desc": "Free and confidential, 24 hours a day."
+  },
+  {
+   "cat": "Getting around",
+   "name": "Access-A-Ride",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride/contact",
+   "desc": "NYC paratransit. From other areas call 718-393-4999. Text 833-227-6928."
+  },
+  {
+   "cat": "Getting around",
+   "name": "MTA Reduced-Fare",
+   "phone": "511",
+   "url": "https://www.mta.info/fares-tolls/subway-bus/reduced-fare",
+   "desc": "Reduced fares for riders 65 and older. Say \"MTA,\" then \"Subway and Buses.\" OMNY help: 877-789-6669."
+  }
+ ],
+ "spotlight": [
+  {
+   "until": "2026-12-07",
+   "mon": "Dec",
+   "day": "7",
+   "title": "Medicare open enrollment ends",
+   "text": "Your last chance to change Medicare Advantage or drug plans for 2027. HIICAP counselors help for free.",
+   "count": true,
+   "link": "#/article/medicare-open-enrollment-ny",
+   "cta": "Compare your options"
+  },
+  {
+   "until": "2027-01-04",
+   "mon": "Jan",
+   "day": "4",
+   "title": "Emergency HEAP opens",
+   "text": "Running low on heating fuel or facing a shutoff? Emergency heating help applications open January 4, 2027.",
+   "count": false,
+   "link": "#/article/heap-ny",
+   "cta": "How HEAP works"
+  },
+  {
+   "until": "2027-03-15",
+   "mon": "Mar",
+   "day": "15",
+   "title": "NYC SCHE and DHE deadline",
+   "text": "New York City homeowners 65 and older, or with a disability, must apply or renew by March 15 for the tax year that starts July 1.",
+   "count": true,
+   "link": "#/article/senior-homeowners-exemption-ny",
+   "cta": "Check if you qualify"
+  },
+  {
+   "until": "2027-03-31",
+   "mon": "Mar",
+   "day": "31",
+   "title": "Medicare Advantage open enrollment",
+   "text": "Already in an Advantage plan? Until March 31 you can switch plans or go back to Original Medicare.",
+   "count": false,
+   "link": "#/article/medicare-open-enrollment-ny",
+   "cta": "How it works"
+  }
+ ]
+}

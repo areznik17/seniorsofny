@@ -1,0 +1,987 @@
+[
+ {
+  "slug": "brooklyn",
+  "name": "Brooklyn (Kings County)",
+  "region": "nyc",
+  "seat": "Brooklyn",
+  "towns": [
+   "Park Slope",
+   "Brooklyn Heights",
+   "Bay Ridge",
+   "Williamsburg",
+   "Flatbush",
+   "Sheepshead Bay",
+   "Brighton Beach",
+   "Bensonhurst"
+  ],
+  "intro": "Brooklyn sits across the East River from Manhattan, and older Brooklynites get help through NYC Aging. The agency's older adult centers serve daily meals, and it also offers caregiver help and job help for people who want to keep working. Call Aging Connect at 212-AGING-NYC (212-244-6469) or 311 to ask about Pop-Up Produce and other programs near you.",
+  "agingOffice": {
+   "name": "NYC Aging (New York City Department for the Aging)",
+   "phone": "212-244-6469",
+   "url": "https://www.nyc.gov/site/dfta/index.page"
+  },
+  "transport": {
+   "name": "Access-A-Ride Paratransit (MTA)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride/contact"
+  },
+  "dss": {
+   "name": "NYC Human Resources Administration (HRA), DSS OneNumber",
+   "phone": "718-557-1399",
+   "url": "https://www.nyc.gov/site/hra/about/contact.page"
+  },
+  "places": [
+   {
+    "name": "Brooklyn Botanic Garden",
+    "note": "Paved paths run throughout the garden, and wheelchairs are lent at each public entrance with a government-issued photo ID."
+   },
+   {
+    "name": "Brooklyn Bridge Park",
+    "note": "All park entrances and pathways are accessible, and benches throughout the park have backs and handrails."
+   },
+   {
+    "name": "Brooklyn Museum",
+    "note": "The Eastern Parkway-Brooklyn Museum subway station is wheelchair accessible, and Access-A-Ride can drop off and pick up at the museum."
+   },
+   {
+    "name": "Green-Wood Cemetery",
+    "note": "Admission is always free, and there is free parking inside the grounds."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office: New York City Department for the Aging",
+    "https://aging.ny.gov/location/new-york-city-department-aging"
+   ],
+   [
+    "NYC Aging",
+    "https://www.nyc.gov/site/dfta/index.page"
+   ],
+   [
+    "MTA: Contact Access-A-Ride",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "NYC HRA: Contact",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ],
+   [
+    "Brooklyn Botanic Garden: Accessibility",
+    "https://www.bbg.org/visit/accessibility"
+   ],
+   [
+    "Brooklyn Bridge Park: Accessibility",
+    "https://www.brooklynbridgepark.org/visit/accessibility/"
+   ],
+   [
+    "Brooklyn Museum: Visit",
+    "https://www.brooklynmuseum.org/visit"
+   ],
+   [
+    "Green-Wood: Visit",
+    "https://www.green-wood.com/visit/"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "fulton",
+  "name": "Fulton County",
+  "region": "mohawk-valley",
+  "seat": "Johnstown",
+  "towns": [
+   "Johnstown",
+   "Gloversville",
+   "Broadalbin",
+   "Mayfield",
+   "Northville",
+   "Caroga",
+   "Ephratah"
+  ],
+  "intro": "Fulton County sits in the southern foothills of the Adirondacks, home to Gloversville, Johnstown and the Great Sacandaga Lake. The Fulton County Office for the Aging in Johnstown helps residents 60 and over with meals, home care through EISEP, health insurance counseling, HEAP and NY Connects. Its own wheelchair accessible bus gives door to door rides across the county on weekdays to medical visits, senior centers, meal sites, banks and stores.",
+  "agingOffice": {
+   "name": "Fulton County Office for the Aging",
+   "phone": "518-736-5650",
+   "url": "https://www.fcofa.org/"
+  },
+  "transport": {
+   "name": "Fulton County Office for Aging transportation (door to door bus, age 60+, reserve 24 hours ahead)",
+   "phone": "518-736-5650",
+   "url": "https://www.fcofa.org/services.html#transportation"
+  },
+  "dss": {
+   "name": "Fulton County Department of Social Services",
+   "phone": "518-736-5600",
+   "url": "https://www.fultoncountyny.gov/fulton-county-department-social-services"
+  },
+  "places": [
+   {
+    "name": "Johnson Hall State Historic Site, Johnstown",
+    "note": "The grounds are open sunrise to sunset, the visitor center and picnic area are accessible, and seniors pay a reduced tour price."
+   }
+  ],
+  "sources": [
+   [
+    "Fulton County Office for Aging and Youth (NYSOFA listing)",
+    "https://aging.ny.gov/location/fulton-county-office-aging-and-youth"
+   ],
+   [
+    "Fulton County Office for the Aging",
+    "https://www.fcofa.org/"
+   ],
+   [
+    "Fulton County OFA services: transportation",
+    "https://www.fcofa.org/services.html"
+   ],
+   [
+    "Fulton County Department of Social Services",
+    "https://www.fultoncountyny.gov/fulton-county-department-social-services"
+   ],
+   [
+    "Johnson Hall State Historic Site",
+    "https://parks.ny.gov/historic-sites/johnsonhall/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "manhattan",
+  "name": "Manhattan (New York County)",
+  "region": "nyc",
+  "seat": "Manhattan",
+  "towns": [
+   "Upper West Side",
+   "Upper East Side",
+   "Harlem",
+   "Washington Heights",
+   "Chelsea",
+   "Greenwich Village",
+   "Lower East Side",
+   "Battery Park City"
+  ],
+  "intro": "Manhattan is the island borough at the center of New York City, and NYC Aging's office is here at 2 Lafayette Street. The agency supports older adult centers, caregiver help, a social adult day care finder and help for older adults facing elder abuse or crime. For any of it, call Aging Connect at 212-AGING-NYC (212-244-6469) or dial 311.",
+  "agingOffice": {
+   "name": "NYC Aging (New York City Department for the Aging)",
+   "phone": "212-244-6469",
+   "url": "https://www.nyc.gov/site/dfta/index.page"
+  },
+  "transport": {
+   "name": "Access-A-Ride Paratransit (MTA)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride/contact"
+  },
+  "dss": {
+   "name": "NYC Human Resources Administration (HRA), DSS OneNumber",
+   "phone": "718-557-1399",
+   "url": "https://www.nyc.gov/site/hra/about/contact.page"
+  },
+  "places": [
+   {
+    "name": "The Metropolitan Museum of Art",
+    "note": "You can borrow standard or wide manual wheelchairs at the 81st Street entrance coat check, first come, first served."
+   },
+   {
+    "name": "American Museum of Natural History",
+    "note": "Every public floor is reachable by elevator, and free manual wheelchairs are lent at several entrances with a photo ID."
+   },
+   {
+    "name": "The Museum of Modern Art (MoMA)",
+    "note": "Wheelchairs and portable stools are free to borrow, and elevators are located throughout the museum."
+   },
+   {
+    "name": "New York Public Library, Stephen A. Schwarzman Building",
+    "note": "The library lists the building as fully accessible, and you can reserve free timed tickets for its main exhibition."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office: New York City Department for the Aging",
+    "https://aging.ny.gov/location/new-york-city-department-aging"
+   ],
+   [
+    "NYC Aging",
+    "https://www.nyc.gov/site/dfta/index.page"
+   ],
+   [
+    "MTA: Contact Access-A-Ride",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "NYC HRA: Contact",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ],
+   [
+    "The Met: Accessibility",
+    "https://www.metmuseum.org/visit/accessibility"
+   ],
+   [
+    "AMNH: Accessibility",
+    "https://www.amnh.org/plan-your-visit/accessibility"
+   ],
+   [
+    "MoMA: Accessibility",
+    "https://www.moma.org/visit/accessibility/"
+   ],
+   [
+    "NYPL: Stephen A. Schwarzman Building",
+    "https://www.nypl.org/locations/schwarzman"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "montgomery",
+  "name": "Montgomery County",
+  "region": "mohawk-valley",
+  "seat": "Fonda",
+  "towns": [
+   "Amsterdam",
+   "Fonda",
+   "Canajoharie",
+   "St. Johnsville",
+   "Fort Plain",
+   "Palatine Bridge",
+   "Fultonville"
+  ],
+  "intro": "Montgomery County follows the Mohawk River and the Erie Canal between Amsterdam and St. Johnsville. The Montgomery County Office for Aging, with offices in Amsterdam and Canajoharie, runs meals, in-home help, NY Connects, health insurance counseling and legal services for older adults. Its OFA Senior Transport program uses volunteer drivers for medical rides for residents 60 and over, with a suggested $5 contribution per one way trip and at least seven days' notice.",
+  "agingOffice": {
+   "name": "Montgomery County Office for the Aging, Inc.",
+   "phone": "518-843-2300",
+   "url": "https://officeforaging.com/"
+  },
+  "transport": {
+   "name": "OFA Senior Transport and Taxi Tickets (medical rides, age 60+)",
+   "phone": "518-843-2300",
+   "url": "https://officeforaging.com/services"
+  },
+  "dss": {
+   "name": "Montgomery County Department of Social Services",
+   "phone": "518-212-5778",
+   "url": "https://www.montgomerycountyny.gov/web/sites/departments/socialservices/contact.asp"
+  },
+  "places": [
+   {
+    "name": "Schoharie Crossing State Historic Site, Fort Hunter",
+    "note": "The visitor center, picnic area and hiking trails are listed as accessible, there is no vehicle fee, and the visitor center museum is free."
+   }
+  ],
+  "sources": [
+   [
+    "Montgomery County Office for the Aging, Inc. (NYSOFA listing)",
+    "https://aging.ny.gov/location/montgomery-county-office-aging-inc"
+   ],
+   [
+    "Montgomery County Office for Aging",
+    "https://officeforaging.com/"
+   ],
+   [
+    "Montgomery County Office for Aging services",
+    "https://officeforaging.com/services"
+   ],
+   [
+    "Montgomery County Social Services contact",
+    "https://www.montgomerycountyny.gov/web/sites/departments/socialservices/contact.asp"
+   ],
+   [
+    "Schoharie Crossing State Historic Site",
+    "https://parks.ny.gov/historic-sites/schohariecrossing/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "nassau",
+  "name": "Nassau County",
+  "region": "long-island",
+  "seat": "Mineola",
+  "towns": [
+   "Hempstead",
+   "Long Beach",
+   "Glen Cove",
+   "Freeport",
+   "Garden City",
+   "Oyster Bay",
+   "Great Neck"
+  ],
+  "intro": "Nassau County covers western Long Island, between Queens and Suffolk County. Its Office for the Aging, part of the Department of Human Services in Uniondale, lists NY Connects, senior centers, nutrition programs and in-home services. People 60 and older can apply for regular HEAP heating help by mail through the Office for the Aging, which takes HEAP calls at 516-227-7386.",
+  "agingOffice": {
+   "name": "Nassau County Department of Human Services Office for the Aging",
+   "phone": "516-227-8900",
+   "url": "https://www.nassaucountyny.gov/agencies/Seniors/index.html"
+  },
+  "transport": {
+   "name": "NICE Able-Ride (door to door paratransit)",
+   "phone": "516-228-4000",
+   "url": "https://www.nicebus.com/able-ride"
+  },
+  "dss": {
+   "name": "Nassau County Department of Social Services",
+   "phone": "516-227-8519",
+   "url": "https://www.nassaucountyny.gov/2672/DSS-Home"
+  },
+  "places": [
+   {
+    "name": "Jones Beach State Park",
+    "note": "A 2-mile boardwalk runs along the beach, mobility mats reach the sand at several spots, and free water wheelchairs for swimmers are lent at Zach's Bay."
+   },
+   {
+    "name": "Nassau County Museum of Art",
+    "note": "Seniors 65 and older pay $10 for the mansion galleries, and the arboretum, trails and sculpture garden are free and open daily."
+   },
+   {
+    "name": "Hempstead Lake State Park",
+    "note": "The park has a historic hand-carved wooden carousel plus accessible fishing at its lake and ponds."
+   },
+   {
+    "name": "Bethpage State Park",
+    "note": "The picnic area is open year round, and seniors get 50% off tennis except on weekends and holidays."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/nassau-county-department-human-services-office-aging"
+   ],
+   [
+    "Nassau County Office for the Aging",
+    "https://www.nassaucountyny.gov/agencies/Seniors/index.html"
+   ],
+   [
+    "NICE: Able-Ride",
+    "https://www.nicebus.com/able-ride"
+   ],
+   [
+    "Nassau County DSS",
+    "https://www.nassaucountyny.gov/2672/DSS-Home"
+   ],
+   [
+    "Nassau County: HEAP",
+    "https://www.nassaucountyny.gov/1920/Home-Energy-Assistance-Program-HEAP"
+   ],
+   [
+    "NYS Parks: Jones Beach",
+    "https://parks.ny.gov/parks/jonesbeach/details.aspx"
+   ],
+   [
+    "Nassau County Museum of Art: Visit",
+    "https://nassaumuseum.org/visit/"
+   ],
+   [
+    "NYS Parks: Hempstead Lake",
+    "https://parks.ny.gov/parks/hempsteadlake/details.aspx"
+   ],
+   [
+    "NYS Parks: Bethpage",
+    "https://parks.ny.gov/parks/bethpage/details.aspx"
+   ],
+   [
+    "Nassau County: Cities, Towns & Villages",
+    "https://nassaucountyny.gov/3406/Cities-Towns-Villages"
+   ],
+   [
+    "NY.gov: Nassau County",
+    "https://www.ny.gov/counties/nassau"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "queens",
+  "name": "Queens (Queens County)",
+  "region": "nyc",
+  "seat": "Queens",
+  "towns": [
+   "Flushing",
+   "Astoria",
+   "Jackson Heights",
+   "Forest Hills",
+   "Bayside",
+   "Jamaica",
+   "Howard Beach",
+   "Rockaway"
+  ],
+  "intro": "Queens stretches from the East River to the Nassau County line and down to the Rockaway beaches. NYC Aging serves older adults here through older adult centers with daily meals, caregiver help and an online Services Finder. Families can call Aging Connect at 212-AGING-NYC (212-244-6469) or 311, and trips between Queens and Nassau are booked with both Able-Ride and Access-A-Ride.",
+  "agingOffice": {
+   "name": "NYC Aging (New York City Department for the Aging)",
+   "phone": "212-244-6469",
+   "url": "https://www.nyc.gov/site/dfta/index.page"
+  },
+  "transport": {
+   "name": "Access-A-Ride Paratransit (MTA)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride/contact"
+  },
+  "dss": {
+   "name": "NYC Human Resources Administration (HRA), DSS OneNumber",
+   "phone": "718-557-1399",
+   "url": "https://www.nyc.gov/site/hra/about/contact.page"
+  },
+  "places": [
+   {
+    "name": "Queens Museum",
+    "note": "Admission is pay what you wish, with a suggested price of $6 for seniors."
+   },
+   {
+    "name": "Louis Armstrong House Museum",
+    "note": "The Louis Armstrong Center, including its exhibitions and museum garden, is wheelchair accessible, and a virtual tour is offered for visitors who cannot manage the house's two sets of steep stairs."
+   },
+   {
+    "name": "New York Hall of Science",
+    "note": "General admission is free on Fridays from 2 to 5 pm with a reservation, and every exhibit space and public restroom is wheelchair accessible."
+   },
+   {
+    "name": "Queens County Farm Museum",
+    "note": "General admission is free 354 days a year, and the farm grounds and restrooms are accessible."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office: New York City Department for the Aging",
+    "https://aging.ny.gov/location/new-york-city-department-aging"
+   ],
+   [
+    "NYC Aging",
+    "https://www.nyc.gov/site/dfta/index.page"
+   ],
+   [
+    "MTA: Contact Access-A-Ride",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "NYC HRA: Contact",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ],
+   [
+    "Queens Museum: Visit",
+    "https://queensmuseum.org/visit/"
+   ],
+   [
+    "Louis Armstrong House Museum: Visit",
+    "https://www.louisarmstronghouse.org/visit/"
+   ],
+   [
+    "New York Hall of Science: Visit",
+    "https://nysci.org/visit/"
+   ],
+   [
+    "Queens County Farm Museum: Visit",
+    "https://www.queensfarm.org/visit/"
+   ],
+   [
+    "NICE: Able-Ride",
+    "https://www.nicebus.com/able-ride"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "schoharie",
+  "name": "Schoharie County",
+  "region": "mohawk-valley",
+  "seat": "Schoharie",
+  "towns": [
+   "Schoharie",
+   "Cobleskill",
+   "Middleburgh",
+   "Richmondville",
+   "Sharon Springs",
+   "Esperance",
+   "Gilboa"
+  ],
+  "intro": "Schoharie County is a rural valley county southwest of Albany, with Cobleskill and the village of Schoharie at its center. The Schoharie County Office for the Aging on Park Place in Schoharie offers caregiver support, health insurance counseling through HIICAP and NY Connects. For getting around, the county's RideSCPT public transit runs demand response trips by appointment, with discounted senior fares and wheelchair accessible service.",
+  "agingOffice": {
+   "name": "Schoharie County Office for the Aging",
+   "phone": "518-295-2001",
+   "url": "https://www.schohariecounty-ny.gov/departments/aging/index.php"
+  },
+  "transport": {
+   "name": "RideSCPT (Schoharie County Public Transportation)",
+   "phone": "518-234-0952",
+   "url": "https://ridescpt.com/"
+  },
+  "dss": {
+   "name": "Schoharie County Department of Social Services",
+   "phone": "518-295-8334",
+   "url": "https://www.schohariecounty-ny.gov/departments/social_services/index.php"
+  },
+  "places": [
+   {
+    "name": "Mine Kill State Park, North Blenheim",
+    "note": "There is no vehicle fee, a separate parking area a quarter mile south of the main entrance leads to the Mine Kill Falls overlook platforms, and the pool and pavilions are listed as accessible."
+   },
+   {
+    "name": "Old Stone Fort, Schoharie",
+    "note": "The first floor of the Fort is wheelchair accessible, and visitors with mobility limits plus one helper get in free."
+   },
+   {
+    "name": "Iroquois Museum, Howes Cave",
+    "note": "Visitors 62 and older get a senior admission rate, and guided tours can be adjusted to a visitor's mobility."
+   },
+   {
+    "name": "Landis Arboretum, Esperance",
+    "note": "Admission and parking are free, with a suggested donation, and the gardens are open every day from dawn to dusk."
+   }
+  ],
+  "sources": [
+   [
+    "Schoharie County Office for the Aging (NYSOFA listing)",
+    "https://aging.ny.gov/location/schoharie-county-office-aging"
+   ],
+   [
+    "Schoharie County Office for the Aging",
+    "https://www.schohariecounty-ny.gov/departments/aging/index.php"
+   ],
+   [
+    "RideSCPT Public Transportation",
+    "https://ridescpt.com/"
+   ],
+   [
+    "Schoharie County Department of Social Services",
+    "https://www.schohariecounty-ny.gov/departments/social_services/index.php"
+   ],
+   [
+    "Mine Kill State Park",
+    "https://parks.ny.gov/parks/minekill/details.aspx"
+   ],
+   [
+    "Old Stone Fort accessibility",
+    "https://www.theoldstonefort.org/accessibility/"
+   ],
+   [
+    "Iroquois Museum visit",
+    "https://www.iroquoismuseum.org/visit"
+   ],
+   [
+    "Landis Arboretum visit",
+    "https://www.landisarboretum.org/visit"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "staten-island",
+  "name": "Staten Island (Richmond County)",
+  "region": "nyc",
+  "seat": "Staten Island",
+  "towns": [
+   "St. George",
+   "Tottenville",
+   "Great Kills",
+   "New Dorp",
+   "Port Richmond",
+   "Stapleton",
+   "Annadale",
+   "Westerleigh"
+  ],
+  "intro": "Staten Island is linked to Manhattan by the free Staten Island Ferry, which runs 24 hours a day. NYC Aging serves older adults here with older adult centers that serve daily meals, caregiver help and support for older adults facing elder abuse or crime. Call Aging Connect at 212-AGING-NYC (212-244-6469) or 311, and reach Access-A-Ride, the MTA's paratransit service, at 877-337-2017.",
+  "agingOffice": {
+   "name": "NYC Aging (New York City Department for the Aging)",
+   "phone": "212-244-6469",
+   "url": "https://www.nyc.gov/site/dfta/index.page"
+  },
+  "transport": {
+   "name": "Access-A-Ride Paratransit (MTA)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride/contact"
+  },
+  "dss": {
+   "name": "NYC Human Resources Administration (HRA), DSS OneNumber",
+   "phone": "718-557-1399",
+   "url": "https://www.nyc.gov/site/hra/about/contact.page"
+  },
+  "places": [
+   {
+    "name": "Staten Island Ferry",
+    "note": "The ride is free, it runs 24 hours a day, and both terminals have escalators and elevators."
+   },
+   {
+    "name": "Snug Harbor Cultural Center and Botanical Garden",
+    "note": "The outdoor grounds and gardens are free from dawn to dusk, and the East or West Gate is best with a wheelchair, since the North Gate has no accessible ramp."
+   },
+   {
+    "name": "Historic Richmond Town",
+    "note": "Admission is free on Thursdays from 2 to 4 pm, May through December, though tickets are still required."
+   },
+   {
+    "name": "Staten Island Museum",
+    "note": "Students and seniors pay a suggested $5, and the museum is wheelchair accessible and fully ADA compliant."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office: New York City Department for the Aging",
+    "https://aging.ny.gov/location/new-york-city-department-aging"
+   ],
+   [
+    "NYC Aging",
+    "https://www.nyc.gov/site/dfta/index.page"
+   ],
+   [
+    "MTA: Contact Access-A-Ride",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "NYC HRA: Contact",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ],
+   [
+    "Staten Island Ferry",
+    "https://www.siferry.com/"
+   ],
+   [
+    "Snug Harbor: Visit",
+    "https://snug-harbor.org/visit/"
+   ],
+   [
+    "Snug Harbor: Accessibility",
+    "https://snug-harbor.org/accessibility/"
+   ],
+   [
+    "Historic Richmond Town: Visit",
+    "https://www.historicrichmondtown.org/visit/"
+   ],
+   [
+    "Staten Island Museum: Visit",
+    "https://www.statenislandmuseum.org/visit/"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "suffolk",
+  "name": "Suffolk County",
+  "region": "long-island",
+  "seat": "Riverhead",
+  "towns": [
+   "Huntington",
+   "Babylon",
+   "Smithtown",
+   "Patchogue",
+   "Port Jefferson",
+   "Riverhead",
+   "Southampton"
+  ],
+  "intro": "Suffolk County covers the eastern two-thirds of Long Island, from Huntington and Babylon out to the North and South Forks. The Office for the Aging in Hauppauge counts over 30 senior nutrition programs in the county, including home delivered meals and group meal sites, and runs NY Connects. People 60 and older, or living with a disability, can call 631-853-8326 for help applying for HEAP.",
+  "agingOffice": {
+   "name": "Suffolk County Office for the Aging",
+   "phone": "631-853-8200",
+   "url": "https://www.suffolkcountyny.gov/aging"
+  },
+  "transport": {
+   "name": "Suffolk County Accessible Transportation (SCAT) reservations",
+   "phone": "631-738-1150",
+   "url": "https://suffolkcountyny.gov/Departments/Public-Works/Transportation/Transit"
+  },
+  "dss": {
+   "name": "Suffolk County Department of Social Services",
+   "phone": "631-854-9930",
+   "url": "https://www.suffolkcountyny.gov/Departments/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Sunken Meadow State Park",
+    "note": "The park has a three-quarter mile boardwalk, free beach wheelchairs (ask at the Field 1 park office) and mobility mats at Fields 1 and 3."
+   },
+   {
+    "name": "Robert Moses State Park",
+    "note": "A boardwalk runs the length of the Field 5 parking area, free beach wheelchairs are lent at the First Aid Offices, and a three-quarter mile nature walk leads to the Fire Island Lighthouse."
+   },
+   {
+    "name": "Montauk Point State Park",
+    "note": "The park sits by the Montauk Lighthouse, the oldest lighthouse in New York State (commissioned in 1792), and lists accessible fishing and food."
+   },
+   {
+    "name": "Caumsett State Historic Park Preserve",
+    "note": "Miles of walking and nature trails are open sunrise to sunset, seven days a week, all year."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/suffolk-county-office-aging"
+   ],
+   [
+    "Suffolk County Office for the Aging",
+    "https://www.suffolkcountyny.gov/aging"
+   ],
+   [
+    "Suffolk County Transit",
+    "https://suffolkcountyny.gov/Departments/Public-Works/Transportation/Transit"
+   ],
+   [
+    "SCAT brochure (Suffolk County Transit)",
+    "https://sctbus.org/portals/32/forms/scatbrochure_english.pdf"
+   ],
+   [
+    "Suffolk County DSS",
+    "https://www.suffolkcountyny.gov/Departments/Social-Services"
+   ],
+   [
+    "NYS Parks: Sunken Meadow",
+    "https://parks.ny.gov/parks/sunkenmeadow/details.aspx"
+   ],
+   [
+    "NYS Parks: Robert Moses",
+    "https://parks.ny.gov/parks/robertmoses/details.aspx"
+   ],
+   [
+    "NYS Parks: Montauk Point",
+    "https://parks.ny.gov/parks/montaukpoint/details.aspx"
+   ],
+   [
+    "NYS Parks: Caumsett",
+    "https://parks.ny.gov/parks/caumsett/details.aspx"
+   ],
+   [
+    "NY.gov: Suffolk County",
+    "https://www.ny.gov/counties/suffolk"
+   ],
+   [
+    "NICE: Able-Ride (lists SCAT 631-738-1150)",
+    "https://www.nicebus.com/able-ride"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "bronx",
+  "name": "The Bronx (Bronx County)",
+  "region": "nyc",
+  "seat": "The Bronx",
+  "towns": [
+   "Riverdale",
+   "Pelham Bay",
+   "Co-op City",
+   "Fordham",
+   "Mott Haven",
+   "Throgs Neck",
+   "Parkchester",
+   "Kingsbridge"
+  ],
+  "intro": "The Bronx sits just north of Manhattan, and older adults here get help through NYC Aging. The agency's older adult centers serve daily meals, and it also offers caregiver help, job help and support for older adults facing elder abuse or crime. Call Aging Connect at 212-AGING-NYC (212-244-6469) or dial 311 to find a center or a service near you.",
+  "agingOffice": {
+   "name": "NYC Aging (New York City Department for the Aging)",
+   "phone": "212-244-6469",
+   "url": "https://www.nyc.gov/site/dfta/index.page"
+  },
+  "transport": {
+   "name": "Access-A-Ride Paratransit (MTA)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride/contact"
+  },
+  "dss": {
+   "name": "NYC Human Resources Administration (HRA), DSS OneNumber",
+   "phone": "718-557-1399",
+   "url": "https://www.nyc.gov/site/hra/about/contact.page"
+  },
+  "places": [
+   {
+    "name": "New York Botanical Garden",
+    "note": "All restrooms are accessible, and Accessibility Guides with wheelchair routes are available on request."
+   },
+   {
+    "name": "Wave Hill",
+    "note": "Admission is free all day on Thursdays, seniors 65 and older pay $6 on other days, and manual wheelchairs are lent free, first come, first served."
+   },
+   {
+    "name": "Bronx Zoo",
+    "note": "The Southern Boulevard entrance has fewer incline changes, all buildings are wheelchair accessible, and the seasonal Zoo Shuttle (April to October) is free for seniors."
+   },
+   {
+    "name": "The Bronx Museum of the Arts",
+    "note": "Admission is always free, the galleries and restrooms are wheelchair accessible, and free wheelchairs are available in the lobby."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office: New York City Department for the Aging",
+    "https://aging.ny.gov/location/new-york-city-department-aging"
+   ],
+   [
+    "NYC Aging",
+    "https://www.nyc.gov/site/dfta/index.page"
+   ],
+   [
+    "MTA: Contact Access-A-Ride",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "NYC HRA: Contact",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ],
+   [
+    "New York Botanical Garden: Visit",
+    "https://www.nybg.org/visit/"
+   ],
+   [
+    "Wave Hill: Visit",
+    "https://www.wavehill.org/visit"
+   ],
+   [
+    "Wave Hill: Accessibility",
+    "https://www.wavehill.org/visit/accessibility"
+   ],
+   [
+    "Bronx Zoo: Accessibility",
+    "https://www.bronxzoo.com/accessibility"
+   ],
+   [
+    "Bronx Museum: Visit",
+    "https://www.bronxmuseum.org/visit"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "westchester",
+  "name": "Westchester County",
+  "region": "hudson-valley",
+  "seat": "White Plains",
+  "towns": [
+   "Yonkers",
+   "New Rochelle",
+   "Mount Vernon",
+   "White Plains",
+   "Peekskill",
+   "Rye",
+   "Tarrytown",
+   "Ossining"
+  ],
+  "intro": "Westchester County sits just north of the Bronx, between the Hudson River and Long Island Sound. Its Department of Senior Programs and Services, based in Mount Vernon, runs the Livable Communities Initiative to help people stay in their homes, plus caregiver coaching and in-home services. For people who cannot ride regular buses, Bee-Line ParaTransit offers shared curb to curb rides for a $5 fare.",
+  "agingOffice": {
+   "name": "Westchester County Department of Senior Programs and Services",
+   "phone": "914-813-6400",
+   "url": "https://seniorcitizens.westchestercountyny.gov/"
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+  },
+  "dss": {
+   "name": "Westchester County Department of Social Services",
+   "phone": "914-995-3333",
+   "url": "https://socialservices.westchestercountyny.gov/contact-us"
+  },
+  "places": [
+   {
+    "name": "Rockefeller State Park Preserve",
+    "note": "Wide crushed stone carriage roads are easy to walk, the visitor center is accessible, and New York seniors 62 and older can use the Golden Park Pass."
+   },
+   {
+    "name": "Hudson River Museum",
+    "note": "Seniors 65 and older pay $9, wheelchairs are available at the front desk, and the first Friday evening of each month is free."
+   },
+   {
+    "name": "Lyndhurst Mansion",
+    "note": "The ground floor of the mansion is fully accessible, and an accessible path through the lower landscape has Hudson River views."
+   },
+   {
+    "name": "Untermyer Gardens",
+    "note": "Admission is free every day, and the paths to and within the Walled Garden are flat stone dust."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/westchester-county-dept-senior-programs-services"
+   ],
+   [
+    "Westchester County Senior Programs and Services",
+    "https://seniorcitizens.westchestercountyny.gov/"
+   ],
+   [
+    "Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Bee-Line ParaTransit quick reference card",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratransit-quick-reference-palm-card.pdf"
+   ],
+   [
+    "Westchester County DSS: Contact",
+    "https://socialservices.westchestercountyny.gov/contact-us"
+   ],
+   [
+    "NYS Parks: Rockefeller State Park Preserve",
+    "https://parks.ny.gov/parks/rockefeller/details.aspx"
+   ],
+   [
+    "Hudson River Museum: Visit",
+    "https://www.hrm.org/visit/"
+   ],
+   [
+    "Lyndhurst: Visit",
+    "https://lyndhurst.org/visit/"
+   ],
+   [
+    "Untermyer Gardens: Visit",
+    "https://www.untermyergardens.org/visit"
+   ],
+   [
+    "NY.gov: Westchester County",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ }
+]
