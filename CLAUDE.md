@@ -7,7 +7,7 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 ## How to make a change
 1. Edit the source in `src/`: `index.html` holds all design, page templates, the benefits checker and calculators; `content/*.json` holds guides (benefits, health, caregiving, living, home, todo, local), `counties.json` (all 62 counties; NYC boroughs use slugs bronx, brooklyn, manhattan, queens, staten-island), `extras.json` (key dates, steps, checklists, glossary, season, phone directory, spotlight) and `nymap.json` (county map); `img/` holds photos (`img/sm/` are 640px copies).
 2. Writing and checking: `src/content/STYLE.md` is the writer brief, `src/content/FACTCHECK.md` the fact-checker brief. Every page goes through a writer, then a separate independent fact-checker who re-opens the sources. Nothing ships on the writer's word.
-3. Merge with the gate script (keep a copy in the repo at `scripts/merge.py`): it blocks em/en dashes, banned words, duplicate slugs, links to missing pages, missing fields and guides not marked `checked` by a fact-checker.
+3. Merge with the gate script `scripts/merge.py` (`--counties` and `--extras` modes; county data still awaiting fact-check lives in `data/pending/`, brief in `src/content/COUNTY_BRIEF.md`): it blocks em/en dashes, banned words, duplicate slugs, links to missing pages, missing fields and guides not marked `checked` by a fact-checker.
 4. Run `scripts/build.sh` to regenerate `site/` (pre-renders every page with Playwright, writes sitemap.xml, robots.txt, llms.txt, 404.html, favicons and a 1200x630 share card per page). Set `GA_ID=G-...` to include Google Analytics.
 5. Crawl for broken internal links and check every sitemap page at 360px and 390px for sideways scroll (`scripts/check.js`). Then commit `src/` and `site/` and push to `main`, one push per batch.
 
@@ -29,6 +29,7 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 - Seniors of NJ and Seniors of NY may link to each other only where it truly helps a reader (a family split across both states). The footer has one line pointing to Seniors of NJ.
 
 ## Page plan (mirror NJ, adapted to New York)
+Region pages (/region/<id>/) group counties: nyc, long-island, hudson-valley, capital, north-country, mohawk-valley, central, southern-tier, finger-lakes, western. County pages also render optional services, howto and faq fields.
 Hubs: Benefits, Health, Caregiving, Housing & Legal, Living Well, Things to Do; plus Find care help, Tools, Key dates, Glossary, Directory, Spanish (Chinese and Russian pending owner's answer).
 Build in waves, biggest search demand first. Local pages: county pages for all 62 counties, then per-county senior centers, nursing homes (CMS stars), hospice, home care, adult day, assisted living and memory care, funeral homes and caring-for-an-aging-parent guides where enough verified listings exist. Start with the five boroughs, Nassau, Suffolk, Westchester, Rockland, Erie, Monroe, Onondaga, Albany. Town and neighborhood pages after. County guide slugs end in `-<county-slug>-county-ny` (boroughs: `-<borough>-ny`) so county pages pick them up.
 
@@ -39,3 +40,8 @@ Give the owner up to 10 URLs a day to index by hand in Search Console, most impo
 - Spotlight on the home page comes from `spotlight` in `extras.json`; the first item whose `until` hasn't passed is shown. Keep at least two future items.
 - Watch: EPIC income limits and rules, STAR and Enhanced STAR income limits and deadlines, SCHE/DHE and SCRIE/DRIE limits and the March 15 NYC deadline, HEAP season open and close dates and benefit amounts, Medicare Part B/D figures (CMS mid November), Social Security and SSI/SSP figures (October), NY estate tax exclusion (January), NY Paid Family Leave rates (January), CDPAP fiscal intermediary news, county Office for the Aging program changes.
 - Update every page that uses a changed figure and its `updated` date; cite the official source. Validate, rebuild, check, push.
+
+## Scheduled tasks (approved by the owner Nov 25 2026)
+- Seniors of NY weekly upkeep: Mondays, refreshes figures and dates, publishes.
+- Seniors of NY new pages: Tue/Thu/Sat, one batch of 6 to 10 fact-checked pages, priority on places near Essex and Bergen County NJ (Rockland, Westchester, Orange, Bronx, Manhattan, Staten Island), then everything else. Publishes and sends the owner up to 10 URLs to index.
+- Google Search Console: domain property seniorsofny.com verified by DNS TXT in Squarespace; the meta tag is also in scripts/build.sh. Submit https://seniorsofny.com/sitemap.xml once the domain is attached in Netlify (project seniorsofny).
