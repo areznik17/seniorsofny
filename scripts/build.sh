@@ -35,7 +35,12 @@ open(D+'/index.html','w').write(head+s[:i]+'\n</head>\n<body>\n'+s[i:]+'\n</body
 PY
 node -e "
 const {chromium}=require('/opt/npm-tools/node_modules/playwright');(async()=>{const b=await chromium.launch();for(const [f,o] of [['favicon.svg','icon-512.png'],['icon-full.svg','icon-maskable-512.png']]){const p=await b.newPage({viewport:{width:512,height:512}});await p.goto('file://$D/'+f);await p.screenshot({path:'$D/'+o,omitBackground:true});await p.close()}await b.close()})()"
-curl -s -o /dev/null localhost:8801/ || (cd $D && nohup python3 -m http.server 8801 >/dev/null 2>&1 &) ; sleep 1
+python3 -m http.server 8801 --directory "$D" >/dev/null 2>&1 </dev/null &
+SRV=$!
+python3 -c "import time,urllib.request
+for i in range(100):
+  try: urllib.request.urlopen('http://localhost:8801/'); break
+  except Exception: time.sleep(0.2)"
 timeout 1500 node $(dirname $0)/build_static.js $D ${DOMAIN:-https://seniorsofny.com}
 python3 -c "
 from PIL import Image
@@ -44,4 +49,4 @@ for n in (32,48,192): im.resize((n,n),Image.LANCZOS).save('$D/'+('favicon-%d.png
 bg=Image.new('RGB',(512,512),'#1C3D72');bg.paste(full,(0,0),full);bg.resize((180,180),Image.LANCZOS).save('$D/apple-touch-icon.png')
 im.save('$D/favicon.ico',sizes=[(16,16),(32,32),(48,48)])
 "
-pkill -f "^python3 -m http.server 8801" 2>/dev/null; exit 0
+kill $SRV 2>/dev/null; exit 0
