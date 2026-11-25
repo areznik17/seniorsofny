@@ -36,6 +36,22 @@ if mode=='counties':
             if not c.get(k): errs.append(f"{c['slug']}: missing {k}")
     if errs: print('\n'.join(errs)); sys.exit(1)
     json.dump(sorted(allc,key=lambda c:c['name']),open(C+'/counties.json','w'),ensure_ascii=False,indent=1); print('\n'.join(warn)) if warn else None; print(len(newc),'updated,',len(allc),'counties total'); sys.exit(0)
+if mode=='towns':
+    cur={t['slug']:t for t in load(C+'/towns.json')}
+    cs={c['slug'] for c in load(C+'/counties.json')}
+    newt=[t for f in args for t in json.load(open(f)) if t.get('checked')]
+    for t in newt:
+        j=json.dumps(t,ensure_ascii=False)
+        if DASH.search(j): errs.append(f"{t['slug']}: dash")
+        tt=re.sub(r'https?://\S+','',j.lower())
+        for b in BANNED:
+            if re.search(b,tt): errs.append(f"{t['slug']}: banned {b}")
+        for k in ('slug','name','county','countyName','intro'):
+            if not t.get(k): errs.append(f"{t['slug']}: missing {k}")
+        if t.get('county') not in cs: errs.append(f"{t['slug']}: unknown county {t.get('county')}")
+        cur[t['slug']]=t
+    if errs: print('\n'.join(errs)); sys.exit(1)
+    json.dump(sorted(cur.values(),key=lambda t:t['name']),open(C+'/towns.json','w'),ensure_ascii=False,indent=1); print(len(newt),'updated,',len(cur),'towns total'); sys.exit(0)
 if mode=='extras':
     x=json.load(open(args[0]))
     if DASH.search(json.dumps(x,ensure_ascii=False)): print('dash in extras'); sys.exit(1)
