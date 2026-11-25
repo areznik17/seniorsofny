@@ -515,6 +515,79 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "fulton",
+  "name": "Fulton County",
+  "region": "mohawk-valley",
+  "seat": "Johnstown",
+  "towns": [
+   "Johnstown",
+   "Gloversville",
+   "Broadalbin",
+   "Mayfield",
+   "Northville",
+   "Caroga",
+   "Ephratah"
+  ],
+  "intro": "Fulton County sits in the southern foothills of the Adirondacks, home to Gloversville, Johnstown and the Great Sacandaga Lake. The Fulton County Office for the Aging in Johnstown helps residents 60 and over with meals, home care through EISEP, health insurance counseling, HEAP and NY Connects. Its own wheelchair accessible bus gives door to door rides across the county on weekdays to medical visits, senior centers, meal sites, banks and stores.",
+  "agingOffice": {
+   "name": "Fulton County Office for the Aging",
+   "phone": "518-736-5650",
+   "url": "https://www.fcofa.org/"
+  },
+  "transport": {
+   "name": "Fulton County Office for Aging transportation (door to door bus, age 60+, reserve 24 hours ahead)",
+   "phone": "518-736-5650",
+   "url": "https://www.fcofa.org/services.html#transportation"
+  },
+  "dss": {
+   "name": "Fulton County Department of Social Services",
+   "phone": "518-736-5600",
+   "url": "https://www.fultoncountyny.gov/fulton-county-department-social-services"
+  },
+  "places": [
+   {
+    "name": "Johnson Hall State Historic Site, Johnstown",
+    "note": "The grounds are open sunrise to sunset, the visitor center and picnic area are accessible, and seniors pay a reduced tour price."
+   }
+  ],
+  "sources": [
+   [
+    "Fulton County Office for Aging and Youth (NYSOFA listing)",
+    "https://aging.ny.gov/location/fulton-county-office-aging-and-youth"
+   ],
+   [
+    "Fulton County Office for the Aging",
+    "https://www.fcofa.org/"
+   ],
+   [
+    "Fulton County OFA services: transportation",
+    "https://www.fcofa.org/services.html"
+   ],
+   [
+    "Fulton County Department of Social Services",
+    "https://www.fultoncountyny.gov/fulton-county-department-social-services"
+   ],
+   [
+    "Johnson Hall State Historic Site",
+    "https://parks.ny.gov/historic-sites/johnsonhall/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "greene",
   "name": "Greene County",
   "region": "capital",
@@ -848,6 +921,79 @@
    [
     "NYPL: Stephen A. Schwarzman Building",
     "https://www.nypl.org/locations/schwarzman"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "montgomery",
+  "name": "Montgomery County",
+  "region": "mohawk-valley",
+  "seat": "Fonda",
+  "towns": [
+   "Amsterdam",
+   "Fonda",
+   "Canajoharie",
+   "St. Johnsville",
+   "Fort Plain",
+   "Palatine Bridge",
+   "Fultonville"
+  ],
+  "intro": "Montgomery County follows the Mohawk River and the Erie Canal between Amsterdam and St. Johnsville. The Montgomery County Office for Aging, with offices in Amsterdam and Canajoharie, runs meals, in-home help, NY Connects, health insurance counseling and legal services for older adults. Its OFA Senior Transport program uses volunteer drivers for medical rides for residents 60 and over, with a suggested $5 contribution per one way trip and at least seven days' notice.",
+  "agingOffice": {
+   "name": "Montgomery County Office for the Aging, Inc.",
+   "phone": "518-843-2300",
+   "url": "https://officeforaging.com/"
+  },
+  "transport": {
+   "name": "OFA Senior Transport and Taxi Tickets (medical rides, age 60+)",
+   "phone": "518-843-2300",
+   "url": "https://officeforaging.com/services"
+  },
+  "dss": {
+   "name": "Montgomery County Department of Social Services",
+   "phone": "518-212-5778",
+   "url": "https://www.montgomerycountyny.gov/web/sites/departments/socialservices/contact.asp"
+  },
+  "places": [
+   {
+    "name": "Schoharie Crossing State Historic Site, Fort Hunter",
+    "note": "The visitor center, picnic area and hiking trails are listed as accessible, there is no vehicle fee, and the visitor center museum is free."
+   }
+  ],
+  "sources": [
+   [
+    "Montgomery County Office for the Aging, Inc. (NYSOFA listing)",
+    "https://aging.ny.gov/location/montgomery-county-office-aging-inc"
+   ],
+   [
+    "Montgomery County Office for Aging",
+    "https://officeforaging.com/"
+   ],
+   [
+    "Montgomery County Office for Aging services",
+    "https://officeforaging.com/services"
+   ],
+   [
+    "Montgomery County Social Services contact",
+    "https://www.montgomerycountyny.gov/web/sites/departments/socialservices/contact.asp"
+   ],
+   [
+    "Schoharie Crossing State Historic Site",
+    "https://parks.ny.gov/historic-sites/schohariecrossing/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
    ]
   ],
   "verified": true,
@@ -1480,6 +1626,103 @@
    [
     "New York State Library: Outline Map of NYS Counties (county seats)",
     "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "schoharie",
+  "name": "Schoharie County",
+  "region": "mohawk-valley",
+  "seat": "Schoharie",
+  "towns": [
+   "Schoharie",
+   "Cobleskill",
+   "Middleburgh",
+   "Richmondville",
+   "Sharon Springs",
+   "Esperance",
+   "Gilboa"
+  ],
+  "intro": "Schoharie County is a rural valley county southwest of Albany, with Cobleskill and the village of Schoharie at its center. The Schoharie County Office for the Aging on Park Place in Schoharie offers caregiver support, health insurance counseling through HIICAP and NY Connects. For getting around, the county's RideSCPT public transit runs demand response trips by appointment, with discounted senior fares and wheelchair accessible service.",
+  "agingOffice": {
+   "name": "Schoharie County Office for the Aging",
+   "phone": "518-295-2001",
+   "url": "https://www.schohariecounty-ny.gov/departments/aging/index.php"
+  },
+  "transport": {
+   "name": "RideSCPT (Schoharie County Public Transportation)",
+   "phone": "518-234-0952",
+   "url": "https://ridescpt.com/"
+  },
+  "dss": {
+   "name": "Schoharie County Department of Social Services",
+   "phone": "518-295-8334",
+   "url": "https://www.schohariecounty-ny.gov/departments/social_services/index.php"
+  },
+  "places": [
+   {
+    "name": "Mine Kill State Park, North Blenheim",
+    "note": "There is no vehicle fee, a separate parking area a quarter mile south of the main entrance leads to the Mine Kill Falls overlook platforms, and the pool and pavilions are listed as accessible."
+   },
+   {
+    "name": "Old Stone Fort, Schoharie",
+    "note": "The first floor of the Fort is wheelchair accessible, and visitors with mobility limits plus one helper get in free."
+   },
+   {
+    "name": "Iroquois Museum, Howes Cave",
+    "note": "Visitors 62 and older get a senior admission rate, and guided tours can be adjusted to a visitor's mobility."
+   },
+   {
+    "name": "Landis Arboretum, Esperance",
+    "note": "Admission and parking are free, with a suggested donation, and the gardens are open every day from dawn to dusk."
+   }
+  ],
+  "sources": [
+   [
+    "Schoharie County Office for the Aging (NYSOFA listing)",
+    "https://aging.ny.gov/location/schoharie-county-office-aging"
+   ],
+   [
+    "Schoharie County Office for the Aging",
+    "https://www.schohariecounty-ny.gov/departments/aging/index.php"
+   ],
+   [
+    "RideSCPT Public Transportation",
+    "https://ridescpt.com/"
+   ],
+   [
+    "Schoharie County Department of Social Services",
+    "https://www.schohariecounty-ny.gov/departments/social_services/index.php"
+   ],
+   [
+    "Mine Kill State Park",
+    "https://parks.ny.gov/parks/minekill/details.aspx"
+   ],
+   [
+    "Old Stone Fort accessibility",
+    "https://www.theoldstonefort.org/accessibility/"
+   ],
+   [
+    "Iroquois Museum visit",
+    "https://www.iroquoismuseum.org/visit"
+   ],
+   [
+    "Landis Arboretum visit",
+    "https://www.landisarboretum.org/visit"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
    ]
   ],
   "verified": true,
