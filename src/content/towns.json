@@ -57,6 +57,48 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "blooming-grove-ny",
+  "name": "Blooming Grove",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Blooming Grove is a town in Orange County that includes the villages of Washingtonville and South Blooming Grove. The town's Senior and Nutrition Center serves a county lunch three days a week, and a town senior bus takes residents over 60 shopping in Monroe and Vails Gate.",
+  "seniorCenter": {
+   "name": "Blooming Grove Senior and Nutrition Center",
+   "phone": "845-496-4411",
+   "url": "https://bloominggrove-ny.gov/Departments/Senior-Nutrition-Center",
+   "notes": "Lunch is served at noon three days a week for people 60 and older, including Tuesdays and Fridays. Call ahead to reserve and to confirm the days. There is no fee, and a $3.50 contribution per meal is suggested. The weekly schedule includes a painting club, movie afternoons, mahjong, card games and bingo. Home delivered meals need a prescreening and an in-home assessment; call the county Office for the Aging at 845-615-3700."
+  },
+  "transport": {
+   "name": "Blooming Grove Senior Bus",
+   "phone": "845-496-4411",
+   "url": "https://bloominggrove-ny.gov/Departments/Senior-Nutrition-Center",
+   "notes": "For town residents over 60, including Washingtonville and South Blooming Grove. The bus picks you up at home and goes to Monroe area stores and Woodbury Commons on Wednesdays and Fridays, and to Vails Gate and Newburgh shopping on Thursdays. A $1 donation is requested each way. Call Monday to Friday at least 24 hours ahead. Trips may be canceled if few people sign up."
+  },
+  "library": {
+   "name": "Moffat Library of Washingtonville",
+   "address": "6 West Main Street, Washingtonville, NY 10992",
+   "phone": "845-496-5483",
+   "url": "https://moffatlibrary.org/",
+   "notes": "The library and its drive-thru window are open Monday to Thursday 10 am to 8 pm, Friday 10 am to 6 pm, Saturday 10 am to 5 pm and Sunday noon to 5 pm. The library has a home delivery service."
+  },
+  "sources": [
+   [
+    "Town of Blooming Grove: Senior / Nutrition Center",
+    "https://bloominggrove-ny.gov/Departments/Senior-Nutrition-Center"
+   ],
+   [
+    "Orange County Office for the Aging: Senior Dining Program",
+    "https://www.orangecountyny.gov/165/Senior-Dining-Program"
+   ],
+   [
+    "Moffat Library: Hours and Location",
+    "https://moffatlibrary.org/about-us/library-hours/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "briarcliff-manor-ny",
   "name": "Briarcliff Manor",
   "intro": "Briarcliff Manor is a village in Westchester County. The Town of Ossining's senior center extends home-delivered lunches and discount taxi coupons to Briarcliff seniors, and the public library sits in Law Park on Library Road.",
@@ -192,6 +234,67 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "chester-ny",
+  "name": "Chester",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Chester is a town in Orange County that includes the Village of Chester and the hamlet of Sugar Loaf, with Town Hall at 1786 Kings Highway. The Town of Chester Senior Center is the hub for residents 60 and older, with exercise classes, games and a county senior lunch twice a week, and a Dial-A-Ride bus serves Chester and Goshen.",
+  "seniorCenter": {
+   "name": "Town of Chester Senior Center",
+   "phone": "845-469-7000 option 3",
+   "url": "https://chesterny.myrec.com/info",
+   "notes": "For residents 60 and older. Weekly programs include gentle stretch and exercise, chair yoga, mat yoga, tai chi, quilting, mahjong and open cards and games. Fitness classes cost $10 a month for residents 60 and older, and tai chi is $20 a month. The Orange County Office for the Aging serves a Senior Dining lunch here on Tuesdays and Thursdays around 11:30 am for people 60 and older. There is no fee, a $3.50 contribution is suggested, and you must reserve 24 hours ahead at 845-469-7000 option 3 or by text at 845-325-7227."
+  },
+  "transport": {
+   "name": "Goshen and Chester Dial-A-Ride",
+   "phone": "845-294-8920",
+   "url": "https://www.ridetransitorange.com/dial-a-ride",
+   "notes": "Curb-to-curb rides that must start in the Town of Goshen or the Town of Chester, to anywhere in those two towns. The bus runs Monday to Friday 8 am to 5 pm. The senior fare is $2. Call 8 am to noon on weekdays, at least 24 hours and up to a week ahead."
+  },
+  "more": [
+   {
+    "name": "Town of Chester",
+    "phone": "845-469-7000",
+    "url": "https://chester-ny.gov/",
+    "note": "Town Hall at 1786 Kings Highway is open Monday to Friday 8 am to 5 pm."
+   },
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Chester Recreation: Senior Center (MyRec)",
+    "https://chesterny.myrec.com/info"
+   ],
+   [
+    "Town of Chester Recreation: Senior Center facility calendar",
+    "https://chesterny.myrec.com/info/facilities/details.aspx?FacilityID=14709"
+   ],
+   [
+    "Town of Chester: Home",
+    "https://chester-ny.gov/"
+   ],
+   [
+    "Orange County Office for the Aging: Senior Dining Program",
+    "https://www.orangecountyny.gov/165/Senior-Dining-Program"
+   ],
+   [
+    "Transit Orange: Dial-A-Ride",
+    "https://www.ridetransitorange.com/dial-a-ride"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "clarkstown-ny",
   "name": "Clarkstown",
   "county": "rockland",
@@ -295,6 +398,69 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "cornwall-ny",
+  "name": "Cornwall",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Cornwall is a town in Orange County, with Town Hall at 183 Main Street. Munger Cottage on Munger Drive is the town's senior center, and the county Office for the Aging serves a senior lunch there three days a week. The Cornwall Public Library on Hudson Street is an accessible building.",
+  "seniorCenter": {
+   "name": "Munger Cottage Senior Center",
+   "address": "40 Munger Drive, Cornwall, NY 12518",
+   "phone": "845-534-4500",
+   "url": "https://www.orangecountyny.gov/165/Senior-Dining-Program",
+   "notes": "The Orange County Office for the Aging Senior Dining Program serves a noon lunch here on Monday, Thursday and Friday for people 60 and older. There is no fee, a $3.50 contribution is suggested, and you must reserve 24 hours ahead at the number listed. The town also uses Munger Cottage as a backup warming center, opened only when the Cornwall Office of Emergency Management activates it (845-534-8100)."
+  },
+  "library": {
+   "name": "Cornwall Public Library",
+   "address": "395 Hudson Street, Cornwall, NY 12518",
+   "phone": "845-534-8282",
+   "url": "https://www.cornwallpubliclibrary.org/",
+   "notes": "Open Monday to Thursday 9 am to 8 pm, Friday 9 am to 6 pm, Saturday 9 am to 4 pm and Sunday 1 to 4 pm. The library offers a homebound delivery service and is the town primary warming center during open hours."
+  },
+  "more": [
+   {
+    "name": "Town of Cornwall",
+    "phone": "845-534-9100",
+    "url": "https://www.cornwallny.gov/How-Do-I/Contact/Contact-The-Town",
+    "note": "Town Hall at 183 Main Street is open 8:30 am to 4:30 pm, except holidays."
+   },
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Orange County Office for the Aging: Senior Dining Program",
+    "https://www.orangecountyny.gov/165/Senior-Dining-Program"
+   ],
+   [
+    "Ready Cornwall: Warming Center",
+    "https://ready.cornwallny.gov/alternate-content/Winter+2026/Warming+Center"
+   ],
+   [
+    "Town of Cornwall: Munger Cottage notice (address)",
+    "https://cornwallny.com/Town-Hall/Town-News/munger-cottage-partial-closure"
+   ],
+   [
+    "Town of Cornwall: Contact the Town",
+    "https://www.cornwallny.gov/How-Do-I/Contact/Contact-The-Town"
+   ],
+   [
+    "Cornwall Public Library: About Us",
+    "https://www.cornwallpubliclibrary.org/about-us/"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "cortlandt-ny",
   "name": "Cortlandt",
   "intro": "Cortlandt is a town in northwestern Westchester County, on the Hudson River, that includes the villages of Buchanan and Croton-on-Hudson. The town's senior services, called The Cortlandt Golden Connection, run from the Muriel H. Morabito Community Center in Cortlandt Manor for town residents 60 and older, with lunch, a weekday bus and senior clubs.",
@@ -351,6 +517,41 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "crawford-ny",
+  "name": "Crawford (Pine Bush)",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Crawford is a town in Orange County that includes the hamlet of Pine Bush. The Pine Bush Seniors club for people 55 and older meets every Tuesday at the Town of Crawford Community Center on Route 302, and the Town of Montgomery's Senior Bus and Dial-A-Bus also serve Crawford.",
+  "seniorCenter": {
+   "name": "Town of Crawford Community Center (Pine Bush Seniors)",
+   "address": "Route 302, Pine Bush, NY 12566",
+   "url": "https://townofcrawford.org/Community-Services/Pine-Bush-Seniors-Club",
+   "notes": "The Pine Bush Seniors welcome everyone 55 and older. Meetings are on Tuesdays. Doors open at 11 am for social time, with a short business meeting at 12:15 pm. Your first three meetings are free, then dues are $2 a meeting, and members 90 and older pay nothing. Meetings include bingo, speakers and holiday luncheons, and the club runs bus trips. No meeting when Pine Bush schools are closed or have a two-hour weather delay."
+  },
+  "transport": {
+   "name": "Town of Montgomery Senior Bus and Dial-A-Bus",
+   "phone": "845-457-2622",
+   "url": "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services",
+   "notes": "Both buses run in the towns of Montgomery and Crawford, including Pine Bush, Thompson Ridge, Bullville and Searsville. The Senior Bus is free for people 60 and older (donations encouraged) and makes two medical runs a month to Middletown. Seniors can also ride the Dial-A-Bus for $0.50. Call 9 am to noon on weekdays, at least a day ahead."
+  },
+  "sources": [
+   [
+    "Town of Crawford: Pine Bush Seniors Club",
+    "https://townofcrawford.org/Community-Services/Pine-Bush-Seniors-Club"
+   ],
+   [
+    "Village of Montgomery: Senior Information",
+    "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services"
+   ],
+   [
+    "Transit Orange: Dial-A-Ride",
+    "https://www.ridetransitorange.com/dial-a-ride"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -559,6 +760,118 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "florida-ny",
+  "name": "Florida",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Florida is a village in Orange County that lies in the Town of Warwick, with a small part in the Town of Goshen. Three senior clubs for people 55 and older meet at the Seward Senior Center on Cohen Circle, the Florida Public Library is also on Cohen Circle, and the Town of Warwick Dial-A-Ride serves the village at a half fare for seniors.",
+  "seniorCenter": {
+   "name": "Seward Senior Center",
+   "address": "1 Cohen Circle, Florida, NY",
+   "url": "https://townofwarwickny.gov/seniors",
+   "notes": "Three Town of Warwick senior clubs for people 55 and older meet here at 12:30 pm. Florida Seward Senior Citizens meets every other Tuesday, Golden Floridians every other Wednesday, and Flor-Wick Friends on the first and third Thursday. New members can attend a meeting to join."
+  },
+  "transport": {
+   "name": "Town of Warwick Dial-A-Ride",
+   "phone": "845-986-2877",
+   "url": "https://townofwarwick.org/municipal-transit",
+   "notes": "Curb-to-curb rides Monday to Friday 8 am to 4:30 pm across the Town of Warwick, including the Village of Florida. Call 8 am to 2 pm on weekdays, at least 24 hours and up to a week ahead. The fare is $1 for riders 60 and older, disabled riders and Medicare card holders, exact change."
+  },
+  "library": {
+   "name": "Florida Public Library",
+   "address": "4 Cohen Circle, Florida, NY 10921",
+   "phone": "845-651-7659",
+   "url": "https://www.floridapubliclibrary.org/",
+   "notes": "Open Monday to Thursday 10 am to 8 pm, Friday and Saturday 10 am to 5 pm and Sunday noon to 5 pm (closed Sundays in July and August). The library is all on one floor, with an electric door on the south side and handicapped parking nearby."
+  },
+  "sources": [
+   [
+    "Town of Warwick: Senior Clubs",
+    "https://townofwarwickny.gov/seniors"
+   ],
+   [
+    "Town of Warwick: Dial-A-Ride / Local Transportation",
+    "https://townofwarwick.org/municipal-transit"
+   ],
+   [
+    "Florida Public Library: Hours and Directions",
+    "https://www.floridapubliclibrary.org/directions/"
+   ],
+   [
+    "Florida Public Library: Contact Us",
+    "https://www.floridapubliclibrary.org/contact-us/"
+   ],
+   [
+    "NY.gov: Orange County municipalities",
+    "https://www.ny.gov/counties/orange"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "goshen-ny",
+  "name": "Goshen",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Goshen is a town in Orange County, with Town Hall at 41 Webster Avenue. The Goshen Senior Center on Trotter Circle is open on weekdays for anyone 55 and older, and a Dial-A-Ride bus serves the towns of Goshen and Chester with a senior fare.",
+  "seniorCenter": {
+   "name": "Goshen Senior Center",
+   "address": "100 Trotter Circle, Goshen, NY 10924",
+   "url": "https://townofgoshenny.gov/senior-commission",
+   "notes": "Open Monday to Friday for senior programs, with planned activities at no or minimal cost for Goshen seniors 55 and older. A Senior Commission advises the town and village on the center and meets the third Wednesday of each month at 10:30 am at the center."
+  },
+  "transport": {
+   "name": "Goshen and Chester Dial-A-Ride",
+   "phone": "845-294-8920",
+   "url": "https://www.ridetransitorange.com/dial-a-ride",
+   "notes": "Curb-to-curb rides that must start in the Town of Goshen or the Town of Chester, to anywhere in those two towns. The bus runs Monday to Friday 8 am to 5 pm. The senior fare is $2. Call 8 am to noon on weekdays, at least 24 hours and up to a week ahead. There are no standing appointments."
+  },
+  "library": {
+   "name": "Goshen Public Library and Historical Society",
+   "address": "366 Main St, Goshen, NY 10924",
+   "phone": "845-294-6606",
+   "url": "https://goshenpubliclibrary.org/",
+   "notes": "Open Monday to Thursday 9 am to 8 pm, Friday 10 am to 6 pm, Saturday 9 am to 5 pm and Sunday 1 to 5 pm. A local history room on the second floor helps with Goshen history and family research."
+  },
+  "more": [
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Goshen: Senior Commission",
+    "https://townofgoshenny.gov/senior-commission"
+   ],
+   [
+    "Town of Goshen: Home",
+    "https://townofgoshenny.gov/"
+   ],
+   [
+    "Transit Orange: Dial-A-Ride",
+    "https://www.ridetransitorange.com/dial-a-ride"
+   ],
+   [
+    "Goshen Public Library and Historical Society",
+    "https://goshenpubliclibrary.org/"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ],
+   [
+    "Goshen Public Library: Local History Room",
+    "https://goshenpubliclibrary.org/local-history-room/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "greenburgh-ny",
   "name": "Greenburgh",
   "intro": "Greenburgh is a town in Westchester County that includes the villages of Ardsley, Dobbs Ferry, Elmsford, Hastings-on-Hudson, Irvington and Tarrytown. Its Parks and Recreation Department runs the Gerard J. Byrne Center for seniors at Anthony F. Veteran Park, a weekday lunch program at three sites, home-delivered meals and senior transportation.",
@@ -636,6 +949,57 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "greenwood-lake-ny",
+  "name": "Greenwood Lake",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Greenwood Lake is a village in the Town of Warwick. The Greenwood Lake Senior Citizens group meets four days a week at the Greenwood Lake Community Center on Windermere Avenue, where the county also serves a Wednesday senior lunch, and the Town of Warwick Dial-A-Ride serves the village at a half fare for seniors.",
+  "seniorCenter": {
+   "name": "Greenwood Lake Senior Center (Greenwood Lake Community Center)",
+   "address": "132 Windermere Ave., Greenwood Lake, NY 10925",
+   "phone": "845-477-8482",
+   "url": "https://townofwarwickny.gov/seniors",
+   "notes": "The Greenwood Lake Senior Citizens club for people 55 and older meets here Tuesday to Friday, 10:30 am to 2:30 pm. The Orange County Office for the Aging serves a Senior Dining lunch here on Wednesdays for people 60 and older; there is no fee, $3.50 is the suggested contribution, and you must reserve 24 hours ahead at this number."
+  },
+  "transport": {
+   "name": "Town of Warwick Dial-A-Ride",
+   "phone": "845-986-2877",
+   "url": "https://townofwarwick.org/municipal-transit",
+   "notes": "Curb-to-curb rides Monday to Friday 8 am to 4:30 pm across the Town of Warwick, including Greenwood Lake. Call 8 am to 2 pm on weekdays, at least 24 hours and up to a week ahead. The fare is $1 for riders 60 and older, disabled riders and Medicare card holders, exact change. NJ Transit buses 196 and 197 also stop in the village on the way to New York City."
+  },
+  "library": {
+   "name": "Greenwood Lake Public Library",
+   "address": "79 Waterstone Rd, Greenwood Lake, NY 10925",
+   "phone": "845-477-8377",
+   "url": "https://gwllibrary.org/",
+   "notes": "Open Monday and Friday 9 am to 5 pm, Tuesday to Thursday 9 am to 9 pm, Saturday 10 am to 4 pm and Sunday 11 am to 3 pm."
+  },
+  "sources": [
+   [
+    "Town of Warwick: Senior Clubs",
+    "https://townofwarwickny.gov/seniors"
+   ],
+   [
+    "Orange County Office for the Aging: Senior Dining Program",
+    "https://www.orangecountyny.gov/165/Senior-Dining-Program"
+   ],
+   [
+    "Town of Warwick: Dial-A-Ride / Local Transportation",
+    "https://townofwarwick.org/municipal-transit"
+   ],
+   [
+    "Greenwood Lake Public Library: About the Library",
+    "https://gwllibrary.org/about/"
+   ],
+   [
+    "NY.gov: Orange County municipalities",
+    "https://www.ny.gov/counties/orange"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -915,6 +1279,125 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "highlands-ny",
+  "name": "Highlands (Highland Falls and West Point area)",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "The Town of Highlands has its Town Hall at 254 Main Street in Highland Falls. The town Dial-A-Bus serves Highland Falls, Fort Montgomery, Bear Mountain and West Point on weekdays, with a half fare for seniors, and the Recreation Department runs programs for town seniors.",
+  "transport": {
+   "name": "Town of Highlands Dial-A-Bus",
+   "phone": "845-446-7433",
+   "url": "https://highlands-ny.gov/Departments-Officials/Dial-a-Bus",
+   "notes": "Open to all Town of Highlands residents. Weekday service runs 8 am to 4 pm (last pickup 3:45 pm) around Highland Falls, Fort Montgomery, Bear Mountain and West Point. On Saturdays the bus goes to Vails Gate stores and the Newburgh Mall if at least five riders sign up; no Sunday service. The fare is $1, and half fare for seniors 60 and older, disabled riders and Medicare card holders. Reserve 24 hours ahead."
+  },
+  "library": {
+   "name": "Highland Falls Library",
+   "address": "298 Main Street, Highland Falls, NY 10928",
+   "phone": "845-446-3113",
+   "url": "https://highlandfallslibrary.org/",
+   "notes": "Open Monday 10 am to 5 pm, Tuesday 10 am to 7 pm, Wednesday to Friday 10 am to 5 pm and Saturday 10 am to 2 pm; closed Sunday. Call ahead in bad weather."
+  },
+  "more": [
+   {
+    "name": "Town of Highlands Recreation Department",
+    "phone": "845-446-4280 ext. 318",
+    "url": "https://highlands-ny.gov/Departments-Officials/Recreation",
+    "note": "Runs daily, weekly and monthly programs with town seniors in and out of the senior center. Open Monday to Friday 8 am to 4:30 pm."
+   },
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "The county lists its Highland Falls Senior Dining site as closed for now. Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Highlands: Dial-a-Bus",
+    "https://highlands-ny.gov/Departments-Officials/Dial-a-Bus"
+   ],
+   [
+    "Town of Highlands: Recreation",
+    "https://highlands-ny.gov/Departments-Officials/Recreation"
+   ],
+   [
+    "Town of Highlands: Home (Town Hall)",
+    "https://highlands-ny.gov"
+   ],
+   [
+    "Highland Falls Library: Community (address and hours)",
+    "https://highlandfallslibrary.org/community/"
+   ],
+   [
+    "Orange County Office for the Aging: Senior Dining Program",
+    "https://www.orangecountyny.gov/165/Senior-Dining-Program"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "kiryas-joel-ny",
+  "name": "Kiryas Joel",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Kiryas Joel is a village in the Town of Palm Tree in Orange County. The village runs its own seven-bus local transit system, with routes to Monroe and Woodbury and a half fare for riders 60 and older, and a Dial-A-Ride service with reduced fares for seniors 65 and older.",
+  "transport": {
+   "name": "Kiryas Joel local bus (Transit Orange)",
+   "phone": "845-783-8300",
+   "url": "https://www.ridetransitorange.com/kiryasjoel",
+   "notes": "Wheelchair accessible routes in the village and to Woodbury Commons, Walmart and Home Depot. The senior fare for riders 60 and older is $0.75 inside the village and $1.50 to places outside it. An aide helping a rider with a disability rides free."
+  },
+  "more": [
+   {
+    "name": "Village of Kiryas Joel Dial-A-Ride",
+    "phone": "845-492-3287",
+    "url": "https://www.ridetransitorange.com/dial-a-ride",
+    "note": "Rides in the village and the Town of Palm Tree, Monday to Thursday 9:20 am to 5 pm, with limited space. Seniors 65 and older pay $1.50 inside the village and $3 outside it. Book at least 24 hours and up to 14 days ahead."
+   },
+   {
+    "name": "Transit Orange ADA Paratransit (Monroe area)",
+    "phone": "845-395-3083",
+    "url": "https://www.ridetransitorange.com/paratransit",
+    "note": "For approved riders whose disability keeps them from using the bus, for trips within three quarters of a mile of a bus route. Call 845-615-3850 for an application. The one-way fare is $0.75."
+   },
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Transit Orange: Kiryas Joel",
+    "https://www.ridetransitorange.com/kiryasjoel"
+   ],
+   [
+    "Transit Orange: Dial-A-Ride",
+    "https://www.ridetransitorange.com/dial-a-ride"
+   ],
+   [
+    "Transit Orange: ADA Paratransit",
+    "https://www.ridetransitorange.com/paratransit"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ],
+   [
+    "NY.gov: Orange County municipalities",
+    "https://www.ny.gov/counties/orange"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "larchmont-ny",
   "name": "Larchmont",
   "intro": "The Village of Larchmont is in Westchester County. Village residents count as residents at the Town of Mamaroneck Senior Center on Boston Post Road, which serves adults 55 and older with classes, a weekday lunch and rides.",
@@ -1140,6 +1623,130 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "middletown-ny",
+  "name": "Middletown",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Middletown is a city in Orange County. The city runs its own senior programs out of the Mulberry House Senior Center on West Main Street, plus a door-to-door Senior Shuttle Bus for city residents 60 and older. Middletown Area Transit buses give a reduced fare to seniors and Medicare card holders.",
+  "seniorCenter": {
+   "name": "Mulberry House Senior Center (City of Middletown)",
+   "address": "62-70 W Main Street, Middletown, NY 10940",
+   "phone": "845-346-4073",
+   "url": "https://middletownny.gov/298/Senior-Services",
+   "notes": "Run by the City of Middletown. Offerings include exercise, yoga, art, theater, crafts and music, an AARP Smart Driving course, tax-aide and e-filing, a computer lab with classes, and help with health insurance problems and Food Stamps (SNAP) applications. The senior activities line is 845-346-4071."
+  },
+  "transport": {
+   "name": "City of Middletown Senior Shuttle Bus",
+   "phone": "845-346-4070",
+   "url": "https://middletownny.gov/298/Senior-Services",
+   "notes": "Door-to-door rides for people 60 and older who live in the City of Middletown. It runs Monday to Friday 8:30 am to 4:30 pm and Sunday 8 am to 12:30 pm, for a suggested donation of $1 per ride."
+  },
+  "library": {
+   "name": "Middletown Thrall Library",
+   "address": "11 Depot Street, Middletown, NY 10940",
+   "phone": "845-341-5454",
+   "url": "https://www.thrall.org/",
+   "notes": "Part of the Ramapo Catskill Library System. Adult Reference is 845-341-5461."
+  },
+  "more": [
+   {
+    "name": "Middletown Area Transit (Transit Orange)",
+    "phone": "1-800-631-8405",
+    "url": "https://www.ridetransitorange.com/middletown",
+    "note": "Four wheelchair accessible local bus routes meet downtown and reach Garnet Health Medical Center, Crystal Run Healthcare, SUNY Orange, the Galleria and Route 211 shopping in the Town of Wallkill. The senior and Medicare fare is $0.75. Buses run Monday to Saturday 7 am to 5:30 pm, except major holidays."
+   },
+   {
+    "name": "Transit Orange ADA Paratransit",
+    "phone": "845-467-6641",
+    "url": "https://www.ridetransitorange.com/paratransit",
+    "note": "Shared rides for people whose disability keeps them from using the local bus, for trips within three quarters of a mile of a bus route. You must apply and be found eligible first; call the Orange County Department of Planning at 845-615-3850 for an application. The one-way fare is $0.75."
+   }
+  ],
+  "sources": [
+   [
+    "City of Middletown: Senior Services",
+    "https://middletownny.gov/298/Senior-Services"
+   ],
+   [
+    "Middletown Thrall Library: Contact Information",
+    "https://www.thrall.org/contacts.html"
+   ],
+   [
+    "Transit Orange: Middletown Area Transit",
+    "https://www.ridetransitorange.com/middletown"
+   ],
+   [
+    "Transit Orange: ADA Paratransit",
+    "https://www.ridetransitorange.com/paratransit"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "monroe-ny",
+  "name": "Monroe",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Monroe is a town in Orange County that includes the Village of Monroe and the Village of Harriman, which it shares with the Town of Woodbury. The town runs a senior center on Mine Road for residents 60 and older, and the town Dial-A-Bus gives older riders a half fare to stops around Monroe.",
+  "seniorCenter": {
+   "name": "Town of Monroe Senior Center",
+   "address": "101 Mine Road, Monroe, NY 10950",
+   "phone": "845-783-9486",
+   "url": "https://townofmonroeny.gov/Community/Senior-Center",
+   "notes": "Open to Town of Monroe residents 60 and older; bring proof of residency such as a tax bill or a current utility bill. Classes include yoga, stretch, chair aerobics and balance work, and there is Thursday bingo, a computer lab, card games and a free blood pressure screening on the second Thursday of the month. Two senior clubs meet here twice a month (yearly dues are $15 and $12) and plan trips. An AARP defensive driving class runs in spring and late fall."
+  },
+  "transport": {
+   "name": "Town of Monroe Dial-A-Bus",
+   "phone": "845-783-6222",
+   "url": "https://townofmonroeny.gov/Community/Dial-A-Ride",
+   "notes": "Rides in the Town of Monroe and the villages of Monroe and Harriman, with limited trips to parts of Kiryas Joel and Woodbury. Listed stops include Town Hall, Woodbury Commons, Crystal Run Health Care on Route 17M and the Monroe business district. The bus runs Monday to Friday 6 am to 6 pm, and Saturday by reservation only. Seniors 55 and older pay $1 with proof of age, exact change only. Phones are answered Monday to Friday 8 am to 3:30 pm. Book at least three days ahead if you can, and no more than one week ahead. Give 24 hours notice to cancel."
+  },
+  "library": {
+   "name": "Monroe Free Library",
+   "address": "44 Millpond Parkway, Monroe, NY 10950",
+   "phone": "845-783-4411",
+   "url": "https://www.monroefreelibrary.org/",
+   "notes": "Open Monday, Tuesday and Thursday 9:30 am to 8 pm, Wednesday noon to 8 pm, Friday 9:30 am to 5 pm, Saturday 9:30 am to 4 pm and Sunday 10 am to 3 pm."
+  },
+  "more": [
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Monroe: Senior Center",
+    "https://townofmonroeny.gov/Community/Senior-Center"
+   ],
+   [
+    "Town of Monroe: Dial-A-Ride",
+    "https://townofmonroeny.gov/Community/Dial-A-Ride"
+   ],
+   [
+    "Transit Orange: Dial-A-Ride",
+    "https://www.ridetransitorange.com/dial-a-ride"
+   ],
+   [
+    "Monroe Free Library",
+    "https://www.monroefreelibrary.org/"
+   ],
+   [
+    "NY.gov: Orange County municipalities",
+    "https://www.ny.gov/counties/orange"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "montebello-ny",
   "name": "Montebello",
   "county": "rockland",
@@ -1200,6 +1807,60 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "montgomery-ny",
+  "name": "Montgomery",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Montgomery is a town in Orange County that includes the villages of Walden and Montgomery and most of Maybrook, which it shares with the Town of Hamptonburgh. The county Office for the Aging serves a senior lunch at the Montgomery Senior Center on Bridge Street, and the town runs a free Senior Bus for people 60 and older along with a public Dial-A-Bus.",
+  "seniorCenter": {
+   "name": "Montgomery Senior Center (county Senior Dining site)",
+   "address": "36 Bridge Street, Montgomery, NY",
+   "phone": "845-457-9367",
+   "url": "https://www.orangecountyny.gov/165/Senior-Dining-Program",
+   "notes": "The Orange County Office for the Aging serves a noon lunch here for people 60 and older on Monday, Wednesday and Friday, per the county list; call the site to confirm the days. There is no fee, a $3.50 contribution per meal is suggested, and you must reserve 24 hours ahead at the site number. The New Horizons Senior Citizen Club meets at the center on the second and fourth Tuesday of the month. Home delivered meals also go out to homebound seniors in Walden, Montgomery and Maybrook."
+  },
+  "transport": {
+   "name": "Town of Montgomery Senior Bus and Dial-A-Bus",
+   "phone": "845-457-2622",
+   "url": "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services",
+   "notes": "Both buses run in the towns of Montgomery and Crawford, including Walden, Maybrook, Montgomery village and Pine Bush. The Senior Bus is for people 60 and older and is free, with a donation encouraged; it makes monthly trips out of town and two medical runs a month to Crystal Run Road, Middletown Medical, Orange Radiology and Horton Hospital in Middletown. Seniors can also ride the public Dial-A-Bus for $0.50. Call 9 am to noon on weekdays, at least one day ahead."
+  },
+  "more": [
+   {
+    "name": "Town of Montgomery Town Clerk",
+    "phone": "845-457-2660",
+    "url": "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services",
+    "note": "With the county Office for the Aging, helps seniors with simple federal and state tax returns; call in January for an appointment. Also has dates for AARP driving classes at the town Government Center."
+   },
+   {
+    "name": "Town of Montgomery Assessor",
+    "phone": "845-457-2650",
+    "url": "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services",
+    "note": "Call to see if you qualify for the senior (aged) and Enhanced STAR property tax exemptions."
+   }
+  ],
+  "sources": [
+   [
+    "Village of Montgomery: Senior Information",
+    "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services"
+   ],
+   [
+    "Orange County Office for the Aging: Senior Dining Program",
+    "https://www.orangecountyny.gov/165/Senior-Dining-Program"
+   ],
+   [
+    "Transit Orange: Dial-A-Ride",
+    "https://www.ridetransitorange.com/dial-a-ride"
+   ],
+   [
+    "NY.gov: Orange County municipalities",
+    "https://www.ny.gov/counties/orange"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "mount-kisco-ny",
@@ -1674,6 +2335,94 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "new-windsor-ny",
+  "name": "New Windsor",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "New Windsor is a town in Orange County. The town Recreation Department runs the Marasco Senior Center at the Town Hall complex on Union Avenue for New Windsor residents 55 and older.",
+  "seniorCenter": {
+   "name": "Marasco Senior Center (Town of New Windsor)",
+   "address": "555 Union Ave, New Windsor, NY 12553",
+   "phone": "845-563-4635",
+   "url": "https://newwindsorny.myrec.com/info/activities/program_details.aspx?ProgramID=29849",
+   "notes": "Open to New Windsor seniors 55 and older during programmed hours shown on the monthly calendar. Weekly offerings include fitness and movement, arts and crafts, games, cards, movies and guest speakers, plus town luncheons and day trips you register for ahead. Sign up online through the town MyRec site or in person to complete the waivers. Parking is in the Town Hall complex. The center policy sheet also lists 845-565-7750."
+  },
+  "sources": [
+   [
+    "Town of New Windsor Recreation: Marasco Senior Center policies (2025)",
+    "https://newwindsorny.myrec.com/documents/2025_marasco_senior_center_policies__updated_as_of_aug_28.pdf"
+   ],
+   [
+    "Town of New Windsor Recreation: Marasco Senior Center Calendar and Information",
+    "https://newwindsorny.myrec.com/info/activities/program_details.aspx?ProgramID=29849"
+   ],
+   [
+    "Town of New Windsor: Contact Us",
+    "https://www.newwindsor-ny.gov/Contact"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "newburgh-ny",
+  "name": "Newburgh (City)",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Newburgh is a city in Orange County, separate from the Town of Newburgh. Newburgh Area Transit buses run every 30 minutes on Broadway and reach St. Luke's and Cornwall hospitals and Vails Gate shopping for a $0.75 senior fare, and the Newburgh Free Library on Grand Street offers home delivery.",
+  "transport": {
+   "name": "Newburgh Area Transit (Transit Orange)",
+   "phone": "845-565-7900",
+   "url": "https://www.ridetransitorange.com/newburgh",
+   "notes": "Wheelchair accessible local routes in the city that extend into the towns of Newburgh and New Windsor, with stops at St. Luke's Hospital, Cornwall Hospital, Mount Saint Mary College, the Newburgh Mall and Vails Gate stores. The senior fare is $0.75. No service on major federal holidays."
+  },
+  "library": {
+   "name": "Newburgh Free Library",
+   "address": "124 Grand Street, Newburgh, NY 12550",
+   "phone": "845-563-3600",
+   "url": "https://newburghlibrary.org/",
+   "notes": "Open September to June Monday to Thursday 9 am to 8 pm, Friday and Saturday 9 am to 5 pm and Sunday 1 to 5 pm, with shorter summer hours. The library offers homebound delivery for those who qualify, curbside pickup, and free computer classes and one-on-one tech help."
+  },
+  "more": [
+   {
+    "name": "Transit Orange ADA Paratransit (Newburgh area)",
+    "phone": "845-567-0013",
+    "url": "https://www.ridetransitorange.com/paratransit",
+    "note": "Shared, wheelchair lift-equipped rides for people whose disability keeps them from using the bus, for trips within three quarters of a mile of a bus route. You must apply and be approved first; call 845-615-3850 for an application. The one-way fare is $0.75."
+   },
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Transit Orange: Newburgh",
+    "https://www.ridetransitorange.com/newburgh"
+   ],
+   [
+    "Transit Orange: ADA Paratransit",
+    "https://www.ridetransitorange.com/paratransit"
+   ],
+   [
+    "Newburgh Free Library: Hours and Location",
+    "https://newburghlibrary.org/about-us/hours-location/"
+   ],
+   [
+    "Newburgh Free Library: Library Services",
+    "https://newburghlibrary.org/services/library-services/"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -2345,6 +3094,54 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "port-jervis-ny",
+  "name": "Port Jervis",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Port Jervis is a city in Orange County. The city runs a Dial-A-Ride bus with a 50 cent senior fare that also reaches a few miles into the Town of Deerpark, and the Port Jervis Free Library is on Pike Street.",
+  "transport": {
+   "name": "City of Port Jervis Dial-A-Ride",
+   "phone": "845-856-7999",
+   "url": "https://www.ridetransitorange.com/dial-a-ride",
+   "notes": "Rides within the city limits and up to 3 miles into the Town of Deerpark. The bus runs Monday to Friday 6 am to 3:30 pm. The senior fare is $0.50. Call 8 am to 1 pm on weekdays, by noon the business day before your ride (by Friday noon for a Monday ride)."
+  },
+  "library": {
+   "name": "Port Jervis Free Library",
+   "address": "138 Pike Street, Port Jervis, NY 12771",
+   "phone": "845-856-7313",
+   "url": "https://www.portjervislibrary.org/",
+   "notes": "Open Monday, Tuesday and Thursday 10 am to 9 pm, Wednesday and Friday 10 am to 6 pm and Saturday 10 am to 5 pm. Closed Sunday."
+  },
+  "more": [
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Transit Orange: Dial-A-Ride",
+    "https://www.ridetransitorange.com/dial-a-ride"
+   ],
+   [
+    "Port Jervis Free Library: Hours and Directions",
+    "https://www.portjervislibrary.org/pages/index/151870/hours-directions"
+   ],
+   [
+    "Port Jervis Free Library: Board of Trustees (address)",
+    "https://www.portjervislibrary.org/pages/index/151871/staff-and-trustees"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -3175,6 +3972,57 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "newburgh-town-ny",
+  "name": "Town of Newburgh",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "The Town of Newburgh is a separate municipality from the City of Newburgh. Its Recreation Department on Route 32 runs senior programs and a Senior Van, in partnership with the Orange County Office for the Aging, that takes town seniors to recreation programs and shopping.",
+  "seniorCenter": {
+   "name": "Town of Newburgh Recreation Center (senior programs)",
+   "address": "311 Route 32, Newburgh, NY 12550",
+   "phone": "845-564-7815",
+   "url": "https://www.townofnewburghny.gov/cn/webpage.cfm?tpid=4744",
+   "notes": "The Recreation Department, open Monday to Friday 8:30 am to 4:30 pm, runs senior programs here. You can register online or in person at the office. The town also runs the Alice Desmond Center at 6 Albany Post Road (845-565-1326)."
+  },
+  "transport": {
+   "name": "Town of Newburgh Senior Van",
+   "phone": "845-564-7815",
+   "url": "https://townofnewburgh.recdesk.com/RecDeskPortal/Portals/799/Senior%20Van%20Rider%20Policy.pdf",
+   "notes": "Curb-to-curb shared rides for Town of Newburgh seniors to recreation programs and shopping, run with the Orange County Office for the Aging. It runs on weekdays, with the last trips by 3 pm. Book at least 24 hours and up to 14 days ahead; no same-day rides. There is no service when the Newburgh Enlarged City School District closes or delays for weather. Drivers help with boarding but cannot carry packages. Call the Recreation Department for current hours and the suggested donation."
+  },
+  "library": {
+   "name": "Newburgh Free Library",
+   "address": "124 Grand Street, Newburgh, NY 12550",
+   "phone": "845-563-3600",
+   "url": "https://newburghlibrary.org/",
+   "notes": "The main library is in the City of Newburgh, open September to June Monday to Thursday 9 am to 8 pm, Friday and Saturday 9 am to 5 pm and Sunday 1 to 5 pm. The South Plank Road Branch (845-245-4750) is open Monday, Tuesday, Thursday and Friday 9 am to 5 pm, Wednesday noon to 8 pm and Saturday 10 am to 2 pm. Homebound delivery is available to those who qualify."
+  },
+  "sources": [
+   [
+    "Town of Newburgh: Recreation Department",
+    "https://www.townofnewburghny.gov/cn/webpage.cfm?tpid=4744"
+   ],
+   [
+    "Town of Newburgh: Senior Van Rider Policy",
+    "https://townofnewburgh.recdesk.com/RecDeskPortal/Portals/799/Senior%20Van%20Rider%20Policy.pdf"
+   ],
+   [
+    "Transit Orange: Dial-A-Ride",
+    "https://www.ridetransitorange.com/dial-a-ride"
+   ],
+   [
+    "Newburgh Free Library: Hours and Location",
+    "https://newburghlibrary.org/about-us/hours-location/"
+   ],
+   [
+    "Newburgh Free Library: Library Services",
+    "https://newburghlibrary.org/services/library-services/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "tuckahoe-ny",
   "name": "Tuckahoe",
   "intro": "Tuckahoe is a village in the Town of Eastchester. Older residents can use Eastchester Senior Programs and Services, including medical rides and the senior center at Lake Isle, and the Tuckahoe Senior Citizens club meets twice a week at Fr. Fata Hall on Wallace Street.",
@@ -3243,6 +4091,256 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "tuxedo-ny",
+  "name": "Tuxedo",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Tuxedo is a town in Orange County. The town points older residents to the Tuxedo Silver Dollars, a social group for people 55 and over, and to the county Office for the Aging for home delivered meals, in-home care and benefits help. The Tuxedo Park Library is on Route 17.",
+  "library": {
+   "name": "Tuxedo Park Library",
+   "address": "227 Route 17, Tuxedo Park, NY 10987",
+   "phone": "845-351-2207",
+   "url": "https://www.tuxedoparklibrary.org/",
+   "notes": "Open Monday, Tuesday and Friday 9 am to 5:30 pm, Wednesday and Thursday 9 am to 9 pm and Saturday 10 am to 4 pm. Sunday hours, 11 am to 3 pm, run from Labor Day to June."
+  },
+  "more": [
+   {
+    "name": "Tuxedo Silver Dollars",
+    "url": "https://www.tuxedogov.org/1224/Seniors",
+    "note": "A social group for Tuxedo residents 55 and over, listed on the town's Seniors page."
+   },
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "The town lists the county office for help getting home delivered meals, in-home personal care, Medicaid and Medicare, plus legal services and tax preparation."
+   },
+   {
+    "name": "NYSOFA Senior Citizens' Hotline",
+    "phone": "1-800-342-9871",
+    "url": "https://www.tuxedogov.org/1224/Seniors",
+    "note": "State hotline listed by the town."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Tuxedo: Seniors",
+    "https://www.tuxedogov.org/1224/Seniors"
+   ],
+   [
+    "Tuxedo Park Library",
+    "https://www.tuxedoparklibrary.org/"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "walden-ny",
+  "name": "Walden",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Walden is a village in the Town of Montgomery, with Village Hall at 1 Municipal Square. Older residents can ride the Town of Montgomery's free Senior Bus, get county home delivered meals, and use the Josephine-Louise Public Library.",
+  "transport": {
+   "name": "Town of Montgomery Senior Bus and Dial-A-Bus",
+   "phone": "845-457-2622",
+   "url": "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services",
+   "notes": "Serves Walden along with the rest of the towns of Montgomery and Crawford. The Senior Bus is free for people 60 and older (donations encouraged), with monthly out-of-town trips and two medical runs a month to Middletown. Seniors can also ride the public Dial-A-Bus for $0.50. Call 9 am to noon on weekdays, at least a day ahead."
+  },
+  "library": {
+   "name": "Josephine-Louise Public Library",
+   "address": "5 Scofield St., Walden, NY 12586",
+   "phone": "845-778-7621",
+   "url": "https://waldenpubliclibrary.org/",
+   "notes": "Open Monday to Thursday 10 am to 8 pm, Friday 10 am to 6 pm and Saturday 10 am to 2 pm; closed Sunday. Cards go to Village of Walden residents and Town of Montgomery residents with a Walden mailing address."
+  },
+  "more": [
+   {
+    "name": "Montgomery Senior Center (county Senior Dining site)",
+    "phone": "845-457-9367",
+    "url": "https://www.orangecountyny.gov/165/Senior-Dining-Program",
+    "note": "The county senior lunch site at 36 Bridge Street in the Village of Montgomery, for people 60 and older. Reserve 24 hours ahead."
+   },
+   {
+    "name": "Village of Walden",
+    "phone": "845-778-2177",
+    "url": "https://villageofwaldenny.gov/customer-service/contact-us",
+    "note": "Village Hall is open Monday to Thursday 7:30 am to 4:30 pm and Friday 8 am to noon. Parks and Recreation is ext. 1524."
+   },
+   {
+    "name": "Town of Montgomery Assessor",
+    "phone": "845-457-2650",
+    "url": "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services",
+    "note": "Call to see if you qualify for the senior (aged) and Enhanced STAR property tax exemptions."
+   }
+  ],
+  "sources": [
+   [
+    "Village of Walden: Contact Us",
+    "https://villageofwaldenny.gov/customer-service/contact-us"
+   ],
+   [
+    "Josephine-Louise Public Library: In-Library Services",
+    "https://waldenpubliclibrary.org/jlplresources/in-library-services/"
+   ],
+   [
+    "Village of Montgomery: Senior Information",
+    "https://villageofmontgomeryny.gov/our-community/senior-information/senior-services"
+   ],
+   [
+    "Orange County Office for the Aging: Senior Dining Program",
+    "https://www.orangecountyny.gov/165/Senior-Dining-Program"
+   ],
+   [
+    "NY.gov: Orange County municipalities",
+    "https://www.ny.gov/counties/orange"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "wallkill-ny",
+  "name": "Wallkill",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Wallkill is a town in Orange County next to the City of Middletown, with town offices at 99 Tower Drive. Local senior groups meet at the town Community Center on Wes Warren Drive, and the town Dial-A-Bus gives riders 60 and older a $1 fare anywhere in the town outside the city.",
+  "seniorCenter": {
+   "name": "Town of Wallkill Community Center (senior groups)",
+   "address": "8 Wes Warren Dr., Middletown, NY",
+   "phone": "845-692-7850",
+   "url": "https://townofwallkill.gov/community/comcenter.html",
+   "notes": "Local senior groups meet here regularly, along with a quilting club. The center is just off Route 211. Call the center Mondays, Tuesdays or Thursdays for details."
+  },
+  "transport": {
+   "name": "Town of Wallkill Dial-A-Bus",
+   "phone": "845-692-7852",
+   "url": "https://townofwallkill.gov/community/transportation/79-dab.html",
+   "notes": "Shared rides to and from places in the Town of Wallkill outside the City of Middletown. Buses run Monday to Friday 7:30 am to 5 pm and Saturday 8 am to 3:15 pm. The fare is $1 for riders 60 and older, disabled riders and Medicare card holders. Book by phone 8 am to 2 pm on weekdays, or online; booking several days ahead is advised, and Monday rides must be booked by 1 pm Friday. Tell the dispatcher if you need the wheelchair lift. No service on major holidays."
+  },
+  "library": {
+   "name": "Middletown Thrall Library",
+   "address": "11 Depot Street, Middletown, NY 10940",
+   "phone": "845-341-5454",
+   "url": "https://www.thrall.org/",
+   "notes": "The public library in neighboring Middletown."
+  },
+  "sources": [
+   [
+    "Town of Wallkill: Community Center",
+    "https://townofwallkill.gov/community/comcenter.html"
+   ],
+   [
+    "Town of Wallkill: Dial-A-Bus",
+    "https://townofwallkill.gov/community/transportation/79-dab.html"
+   ],
+   [
+    "Middletown Thrall Library: Contact Information",
+    "https://www.thrall.org/contacts.html"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "warwick-ny",
+  "name": "Warwick",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Warwick is a town in Orange County that takes in the villages of Warwick, Greenwood Lake and most of Florida, plus the hamlet of Pine Island. Senior clubs for people 55 and older meet across the town, two of them at the Warwick Senior Center behind Town Hall. The town Dial-A-Ride and village shuttle bus give a half fare to riders 60 and older.",
+  "seniorCenter": {
+   "name": "Warwick Senior Center (Town Hall complex)",
+   "url": "https://townofwarwickny.gov/seniors",
+   "notes": "The center sits behind Town Hall. Two town senior clubs for people 55 and older meet here. Warwick Valley Seniors meets every Wednesday at noon and Warwick Golden Senior Citizens meets every Thursday at 11:30 am. Other town clubs meet in Florida, Greenwood Lake and Pine Island. New members are welcome; attend a meeting to join."
+  },
+  "transport": {
+   "name": "Town of Warwick Dial-A-Ride",
+   "phone": "845-986-2877",
+   "url": "https://townofwarwick.org/municipal-transit",
+   "notes": "Curb-to-curb rides Monday to Friday 8 am to 4:30 pm across the town, the villages of Florida and Greenwood Lake and the hamlet of Pine Island. Call 8 am to 2 pm on weekdays, at least 24 hours and up to one week ahead. The fare is $1 for riders 60 and older, disabled riders and Medicare card holders (proof needed), exact change. A village shuttle runs on a set route seven days a week with no reservation, and the bus also makes trips to Goshen, Monroe and Harriman, and Middletown shopping and medical centers on set days. The bus cannot use driveways or private roads, and drivers cannot help riders once they are off the bus."
+  },
+  "library": {
+   "name": "Albert Wisner Public Library",
+   "address": "One McFarland Drive, Warwick, NY 10990",
+   "phone": "845-986-1047",
+   "url": "https://albertwisnerlibrary.org/",
+   "notes": "Open Monday to Thursday 9 am to 8 pm, Friday 9 am to 5 pm, Saturday 10 am to 5 pm and Sunday noon to 4 pm. For curbside pickup or homebound delivery, call and choose option 3. Homebound service, by mail or delivery, is open to cardholders who cannot get to the library."
+  },
+  "more": [
+   {
+    "name": "NJ Transit buses 196 and 197",
+    "url": "https://townofwarwick.org/municipal-transit",
+    "note": "The town notes these buses run from Warwick to New York City, with stops in the town and the villages of Warwick and Greenwood Lake and a free Park and Ride lot on Route 17A."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Warwick: Senior Clubs",
+    "https://townofwarwickny.gov/seniors"
+   ],
+   [
+    "Town of Warwick: Dial-A-Ride / Local Transportation",
+    "https://townofwarwick.org/municipal-transit"
+   ],
+   [
+    "Albert Wisner Public Library: Hours and Directions",
+    "https://albertwisnerlibrary.org/hours-and-directions/"
+   ],
+   [
+    "Albert Wisner Public Library: Homebound Library Services",
+    "https://albertwisnerlibrary.org/homebound-library-services/"
+   ],
+   [
+    "NY.gov: Orange County municipalities",
+    "https://www.ny.gov/counties/orange"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "washingtonville-ny",
+  "name": "Washingtonville",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Washingtonville is a village in the Town of Blooming Grove. Older residents use the town's Senior and Nutrition Center and its senior bus, which serves residents over 60 in the village, and the Moffat Library is on West Main Street with a drive-thru window and home delivery.",
+  "seniorCenter": {
+   "name": "Blooming Grove Senior and Nutrition Center",
+   "phone": "845-496-4411",
+   "url": "https://bloominggrove-ny.gov/Departments/Senior-Nutrition-Center",
+   "notes": "Lunch is served at noon three days a week for people 60 and older, including Tuesdays and Fridays. Call ahead to reserve and to confirm the days. There is no fee, and a $3.50 contribution per meal is suggested. Activities include a painting club, movies, mahjong, cards and bingo."
+  },
+  "transport": {
+   "name": "Blooming Grove Senior Bus",
+   "phone": "845-496-4411",
+   "url": "https://bloominggrove-ny.gov/Departments/Senior-Nutrition-Center",
+   "notes": "Home pickup for town residents over 60, including Washingtonville. Wednesdays and Fridays go to Monroe area stores and Woodbury Commons, and Thursdays to Vails Gate and Newburgh shopping. A $1 donation is requested each way. Call at least 24 hours ahead, Monday to Friday."
+  },
+  "library": {
+   "name": "Moffat Library of Washingtonville",
+   "address": "6 West Main Street, Washingtonville, NY 10992",
+   "phone": "845-496-5483",
+   "url": "https://moffatlibrary.org/",
+   "notes": "The library and its drive-thru window are open Monday to Thursday 10 am to 8 pm, Friday 10 am to 6 pm, Saturday 10 am to 5 pm and Sunday noon to 5 pm. The library has a home delivery service."
+  },
+  "sources": [
+   [
+    "Town of Blooming Grove: Senior / Nutrition Center",
+    "https://bloominggrove-ny.gov/Departments/Senior-Nutrition-Center"
+   ],
+   [
+    "Moffat Library: Hours and Location",
+    "https://moffatlibrary.org/about-us/library-hours/"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -3458,6 +4556,44 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "woodbury-ny",
+  "name": "Woodbury",
+  "county": "orange",
+  "countyName": "Orange County",
+  "intro": "Woodbury is a town in Orange County. The Woodbury Senior Center in Highland Mills serves older residents of Central Valley, Highland Mills and parts of Harriman, with walk-in hours most afternoons.",
+  "seniorCenter": {
+   "name": "Woodbury Senior Center",
+   "address": "16 County Route 105, Highland Mills, NY 10930",
+   "phone": "845-928-7578 (press 9)",
+   "url": "https://townofwoodburyny.gov/community/senior-center.html",
+   "notes": "Walk-in hours are Monday to Thursday noon to 4 pm and Friday 10 am to 4 pm. Activities include movie matinees, weekly exercise classes, art socials, day trips, potlucks, concerts and a vegetable garden, plus guest speakers. A second center line is 845-928-5466. Stop in or call for the monthly calendar."
+  },
+  "more": [
+   {
+    "name": "Orange County Office for the Aging",
+    "phone": "845-615-3700",
+    "url": "https://www.orangecountyny.gov/151/Aging",
+    "note": "The senior center resource list points to the county aging office. Aging Services Specialists answer questions about county services for older adults and can arrange home visits for homebound seniors. Bilingual help is available."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Woodbury: Senior Center",
+    "https://townofwoodburyny.gov/community/senior-center.html"
+   ],
+   [
+    "Town of Woodbury: Senior Center Resources",
+    "https://townofwoodburyny.gov/community/senior-center/resources.html"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountyny.gov/151/Aging"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
