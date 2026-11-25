@@ -17,18 +17,25 @@ args=sys.argv[1:]; mode='guides'
 if args and args[0].startswith('--'): mode=args.pop(0)[2:]
 errs=[];warn=[]
 if mode=='counties':
-    allc=[]
-    for f in args: allc+=[c for c in json.load(open(f)) if c.get('checked')]
-    slugs=[c['slug'] for c in allc]
+    # Updates the existing counties.json by slug (later files win); never drops a county.
+    cur={c['slug']:c for c in load(C+'/counties.json')}
+    newc=[]
+    for f in args: newc+=[c for c in json.load(open(f)) if c.get('checked')]
+    slugs=[c['slug'] for c in newc]
     dup={s for s in slugs if slugs.count(s)>1}
-    if dup: errs.append(f'duplicate county slugs {dup}')
-    for c in allc:
+    if dup: warn.append(f'later file wins for {dup}')
+    for c in newc: cur[c['slug']]=c
+    allc=list(cur.values())
+    for c in newc:
         t=json.dumps(c,ensure_ascii=False)
         if DASH.search(t): errs.append(f"{c['slug']}: dash")
+        tt=re.sub(r'https?://\S+','',t.lower()).replace('in-home services for the elderly','')
+        for b in BANNED[:3]:
+            if re.search(b,tt): errs.append(f"{c['slug']}: banned {b}")
         for k in ('slug','name','region','intro','agingOffice'):
             if not c.get(k): errs.append(f"{c['slug']}: missing {k}")
     if errs: print('\n'.join(errs)); sys.exit(1)
-    json.dump(sorted(allc,key=lambda c:c['name']),open(C+'/counties.json','w'),ensure_ascii=False,indent=1); print(len(allc),'counties merged'); sys.exit(0)
+    json.dump(sorted(allc,key=lambda c:c['name']),open(C+'/counties.json','w'),ensure_ascii=False,indent=1); print('\n'.join(warn)) if warn else None; print(len(newc),'updated,',len(allc),'counties total'); sys.exit(0)
 if mode=='extras':
     x=json.load(open(args[0]))
     if DASH.search(json.dumps(x,ensure_ascii=False)): print('dash in extras'); sys.exit(1)
