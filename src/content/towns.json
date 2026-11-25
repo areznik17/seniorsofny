@@ -1,5 +1,118 @@
 [
  {
+  "slug": "arrochar-staten-island-ny",
+  "name": "Arrochar",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Arrochar is a Staten Island neighborhood. The Arrochar Older Adult Center on Bionia Avenue is run by Staten Island Friendship Clubs under contract with NYC Aging. The South Beach Library serves the South Beach and Arrochar communities.",
+  "seniorCenter": {
+   "name": "Arrochar Older Adult Center (Staten Island Friendship Clubs)",
+   "address": "44 Bionia Avenue, Staten Island, NY 10305",
+   "phone": "718-720-6110",
+   "url": "https://www.statenislandfriendshipclubs.com/arrochar-center.html",
+   "notes": "Run by Staten Island Friendship Clubs under contract with NYC Aging. Open Monday to Friday, 8 am to 4 pm. Breakfast is served at 8:30 am and lunch at noon, cooked fresh on site, with grab-and-go meals for pickup. The clubs offer door-to-door transportation, blood pressure screenings, falls prevention and tai chi for arthritis classes, and chair exercise. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "South Beach Library",
+   "address": "41 Father Capodanno Boulevard, Staten Island, NY 10305",
+   "phone": "718-816-5834",
+   "url": "https://www.nypl.org/locations/south-beach",
+   "notes": "Fully accessible, with books and films in Russian, Chinese and Spanish. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Staten Island Friendship Clubs",
+    "https://www.statenislandfriendshipclubs.com/"
+   ],
+   [
+    "Staten Island Friendship Clubs: Services",
+    "https://www.statenislandfriendshipclubs.com/services.html"
+   ],
+   [
+    "Staten Island Friendship Clubs: Arrochar Center",
+    "https://www.statenislandfriendshipclubs.com/arrochar-center.html"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "NYPL: South Beach Library",
+    "https://www.nypl.org/locations/south-beach"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "bedford-ny",
   "name": "Bedford",
   "intro": "Bedford is a town in Westchester County. Its Recreation and Parks Department runs senior adult meetings and programs with free local rides for shopping and meetings, a senior advocate for residents and their families, and lunch and Meals on Wheels through an agreement with the Village of Mount Kisco.",
@@ -93,6 +206,74 @@
    [
     "Moffat Library: Hours and Location",
     "https://moffatlibrary.org/about-us/library-hours/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "brewster-ny",
+  "name": "Brewster",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Brewster is a village in Putnam County with a Metro-North Harlem Line station. The Brewster Public Library is on Main Street, a five-minute walk from the train station. PART Route 1 runs from Brewster to Putnam Lake and meets Metro-North at the Brewster station.",
+  "transport": {
+   "name": "PART Route 1 (Brewster and Putnam Lake)",
+   "phone": "845-878-7433",
+   "url": "https://www.putnamcountyny.gov/transportation",
+   "notes": "PART Route 1 runs from Brewster to Putnam Lake by way of Brewster Village, Brewster Hill, Lakeview Plaza and Doansburg Road, with stops at downtown Brewster and the Brewster Metro-North station. Buses stop anywhere along the route when you flag them. The regular fare is $2.50. Riders 65 and older and disabled riders pay $1.25 by showing an Office for Senior Resources ID, a Medicare card, an MTA disability card or a county Half-Fare card. Exact change is needed. Buses run Monday to Friday 4:50 am to 8 pm and Saturday 8 am to 6 pm, with no Sunday service."
+  },
+  "library": {
+   "name": "Brewster Public Library",
+   "address": "Main Street (Route 6), Brewster, NY",
+   "phone": "845-279-6421",
+   "url": "https://brewsterlibrary.org/",
+   "notes": "Open Monday to Thursday 9 am to 7 pm, Friday 9 am to 4 pm and Saturday 10 am to 3 pm. A five-minute walk from the Brewster Metro-North station, with metered parking on Main Street."
+  },
+  "more": [
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   },
+   {
+    "name": "Office for Senior Resources medical transportation",
+    "phone": "845-808-1700, ext. 47104",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it."
+   },
+   {
+    "name": "PART Paratransit",
+    "phone": "845-878-7433",
+    "url": "https://www.putnamcountyny.gov/transportation",
+    "note": "Origin-to-destination vans for residents whose disability keeps them off the regular PART bus, within 3/4 mile of a PART route. Age alone does not qualify. A one-way trip is $3.25 and an attendant rides free. Call 845-878-3480 for an application, which takes up to 21 days to process."
+   }
+  ],
+  "sources": [
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County: Public Transportation",
+    "https://www.putnamcountyny.gov/transportation"
+   ],
+   [
+    "Putnam County: 2026 PART Bus Schedules and Information (fares)",
+    "https://putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20General%20Information%20with%20fares%20and%20passes.pdf"
+   ],
+   [
+    "Brewster Public Library: Getting Here",
+    "https://brewsterlibrary.org/about-us/getting-here/"
+   ],
+   [
+    "PART Route 1 schedule (Putnam County)",
+    "https://www.putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20schedules/PART%201%20Brewster%20OCTOBER%202025.pdf"
+   ],
+   [
+    "Village of Brewster",
+    "https://brewstervillage-ny.gov/"
    ]
   ],
   "updated": "2026-11-25",
@@ -230,6 +411,175 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "carmel-ny",
+  "name": "Carmel",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Carmel is home to the Putnam County Office for Senior Resources on the Donald B. Smith Campus, where the Carmel Friendship Center serves a hot lunch on weekdays. PART Route 5 runs from Carmel to Lake Carmel, and Putnam On-Demand shared rides reach parts of the Town of Carmel.",
+  "seniorCenter": {
+   "name": "Carmel Friendship Center",
+   "address": "110 Old Route 6, Carmel, NY 10512",
+   "phone": "845-808-1700",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Run by the Putnam County Office for Senior Resources. Hot noontime lunch is served Monday to Friday, except holidays and days the center closes for training or weather. Programs include exercise, fall prevention classes such as A Matter of Balance and Tai Chi for Arthritis, blood pressure readings, arts and crafts, games and talks by local doctors and pharmacists. Transportation and shopping help are offered to people with no other way to get there. Call the Office for Senior Resources to take part."
+  },
+  "transport": {
+   "name": "PART Route 5 (Carmel and Lake Carmel)",
+   "phone": "845-878-7433",
+   "url": "https://www.putnamcountyny.gov/transportation",
+   "notes": "PART Route 5 runs from Carmel to Lake Carmel by way of Carmel Plaza and Kent, with stops at Reed Memorial Library and the Putnam County offices. Buses stop anywhere along the route when you flag them. The regular fare is $2.50. Riders 65 and older and disabled riders pay $1.25 by showing an Office for Senior Resources ID, a Medicare card, an MTA disability card or a county Half-Fare card. Exact change is needed. Buses run Monday to Friday 4:50 am to 8 pm and Saturday 8 am to 6 pm, with no Sunday service. PART Route 2 serves Mahopac. Putnam On-Demand shared rides cover the Town of Patterson and parts of the Towns of Carmel and Southeast, Monday to Friday 8 am to 6 pm and Saturday 9 am to 3 pm, for $1.25 a ride for seniors. Book in the app or at 845-475-0557. Drivers do not take cash."
+  },
+  "library": {
+   "name": "Reed Memorial Library",
+   "address": "1733 Route 6, Carmel, NY 10512",
+   "phone": "845-225-2439",
+   "url": "https://carmellibrary.org/",
+   "notes": "Open Monday, Wednesday and Friday 10 am to 5 pm, Tuesday and Thursday 10 am to 7 pm, and Saturday 10 am to 1 pm. Closed Sundays. Some programs and hold pickups happen at the RML Community Hub, 9 Church Street, with free on-street parking on Seminary Hill Road."
+  },
+  "more": [
+   {
+    "name": "Carmel and Mahopac outreach (Office for Senior Resources)",
+    "phone": "845-808-1738, ext. 47915",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "William Koehler Memorial Senior Center",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "180 Route 6, Mahopac. A county senior center with a weekday lunch and the SOAP shower and laundry program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   },
+   {
+    "name": "Office for Senior Resources medical transportation",
+    "phone": "845-808-1700, ext. 47104",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it."
+   },
+   {
+    "name": "PART Paratransit",
+    "phone": "845-878-7433",
+    "url": "https://www.putnamcountyny.gov/transportation",
+    "note": "Origin-to-destination vans for residents whose disability keeps them off the regular PART bus, within 3/4 mile of a PART route. Age alone does not qualify. A one-way trip is $3.25 and an attendant rides free. Call 845-878-3480 for an application, which takes up to 21 days to process."
+   }
+  ],
+  "sources": [
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County: Public Transportation",
+    "https://www.putnamcountyny.gov/transportation"
+   ],
+   [
+    "Putnam County: 2026 PART Bus Schedules and Information (fares)",
+    "https://putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20General%20Information%20with%20fares%20and%20passes.pdf"
+   ],
+   [
+    "Reed Memorial Library",
+    "https://carmellibrary.org/"
+   ],
+   [
+    "PART Route 5 schedule (Putnam County)",
+    "https://www.putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20schedules/PART%205%20Carmel%20OCTOBER%202025.pdf"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "charleston-staten-island-ny",
+  "name": "Charleston",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Charleston is on Staten Island's South Shore. The Charleston Library on Bricktown Way opened in March 2022 as the first net-zero energy library in New York City. It has two community spaces and offers classes and workshops for all ages.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Charleston Library",
+   "address": "225 Bricktown Way, Staten Island, NY 10309",
+   "phone": "929-284-3660",
+   "url": "https://www.nypl.org/locations/charleston",
+   "notes": "Fully accessible, in a 10,000-square-foot building. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Charleston Library",
+    "https://www.nypl.org/locations/charleston"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -396,6 +746,71 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "cold-spring-ny",
+  "name": "Cold Spring",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Cold Spring is a village in Putnam County. The county's Friendship Center in Philipstown is at 6 Butterfield Road in Cold Spring, and the Julia L. Butterfield Memorial Library is on Morris Avenue. A seasonal county trolley runs in Cold Spring.",
+  "seniorCenter": {
+   "name": "Friendship Center in Philipstown",
+   "address": "6 Butterfield Road, Cold Spring, NY 10516",
+   "phone": "845-808-1705",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Run by the Putnam County Office for Senior Resources. Hot noontime lunch is served Monday to Friday, except holidays and days the center closes for training or weather. Programs include exercise, fall prevention classes such as A Matter of Balance and Tai Chi for Arthritis, blood pressure readings, arts and crafts, games and talks by local doctors and pharmacists. Transportation and shopping help are offered to people with no other way to get there. Call the center or the main office at 845-808-1700 to take part."
+  },
+  "transport": {
+   "name": "Office for Senior Resources medical transportation",
+   "phone": "845-808-1700, ext. 47104",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it. The seasonal Cold Spring Trolley, run by PART, resumed May 23, 2026. Call 845-878-7433 for its schedule."
+  },
+  "library": {
+   "name": "Julia L. Butterfield Memorial Library",
+   "address": "10 Morris Avenue, Cold Spring, NY 10516",
+   "phone": "845-265-3040",
+   "url": "https://butterfieldlibrary.org/",
+   "notes": "Open Sunday noon to 3 pm, Monday and Wednesday 10 am to 8 pm, and Tuesday, Thursday, Friday and Saturday 10 am to 5 pm. Parking is on Morris Avenue or in the library lot off Fishkill Avenue. Free notary service by appointment."
+  },
+  "more": [
+   {
+    "name": "Philipstown outreach (Office for Senior Resources)",
+    "phone": "845-808-1705, ext. 41986",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   }
+  ],
+  "sources": [
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County: Public Transportation",
+    "https://www.putnamcountyny.gov/transportation"
+   ],
+   [
+    "Butterfield Library",
+    "https://butterfieldlibrary.org/"
+   ],
+   [
+    "Butterfield Library: Hours and Parking",
+    "https://butterfieldlibrary.org/hours-parking"
+   ],
+   [
+    "Village of Cold Spring",
+    "https://www.coldspringny.gov/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "cornwall-ny",
@@ -686,6 +1101,92 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "dongan-hills-staten-island-ny",
+  "name": "Dongan Hills",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "The Dongan Hills Library sits where Richmond Road meets Four Corners, a short walk from the Dongan Hills train station and on the S74, S76 and S86 bus lines. It hosts regular art programs for adults.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Dongan Hills Library",
+   "address": "1617 Richmond Road, Staten Island, NY 10304",
+   "phone": "718-351-1444",
+   "url": "https://www.nypl.org/locations/dongan-hills",
+   "notes": "Fully accessible, in a one-story open building with computers throughout. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Dongan Hills Library",
+    "https://www.nypl.org/locations/dongan-hills"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "eastchester-ny",
   "name": "Eastchester",
   "intro": "Eastchester is a town in Westchester County that includes the villages of Bronxville and Tuckahoe. Eastchester Senior Programs and Services serves adults 60 and older with medical and shopping rides, case management, long term care planning, home-delivered meals, small home repairs, Medicare counseling, and senior centers at Lake Isle and Garth Road.",
@@ -810,6 +1311,62 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "garrison-ny",
+  "name": "Garrison",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "The Desmond-Fish Public Library at 472 Route 403 in Garrison serves Philipstown residents and is open seven days a week. Putnam County's Friendship Center in Philipstown, with a hot weekday lunch, is at 6 Butterfield Road in Cold Spring.",
+  "transport": {
+   "name": "Office for Senior Resources medical transportation",
+   "phone": "845-808-1700, ext. 47104",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it."
+  },
+  "library": {
+   "name": "Desmond-Fish Public Library",
+   "address": "472 Route 403, Garrison, NY 10524",
+   "phone": "845-424-3020",
+   "url": "https://desmondfishlibrary.org/",
+   "notes": "Open Monday, Wednesday, Friday and Saturday 10 am to 5 pm, Tuesday and Thursday 10 am to 8 pm, and Sunday 1 to 5 pm."
+  },
+  "more": [
+   {
+    "name": "Friendship Center in Philipstown",
+    "phone": "845-808-1705",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "6 Butterfield Road, Cold Spring. A county senior center with a hot weekday lunch, exercise and fall prevention classes."
+   },
+   {
+    "name": "Philipstown outreach (Office for Senior Resources)",
+    "phone": "845-808-1705, ext. 41986",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   }
+  ],
+  "sources": [
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Desmond-Fish Public Library",
+    "https://desmondfishlibrary.org/"
+   ],
+   [
+    "Desmond-Fish Public Library: About",
+    "https://desmondfishlibrary.org/about/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "goshen-ny",
   "name": "Goshen",
   "county": "orange",
@@ -866,6 +1423,119 @@
    [
     "Goshen Public Library: Local History Room",
     "https://goshenpubliclibrary.org/local-history-room/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "great-kills-staten-island-ny",
+  "name": "Great Kills",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Staten Island Friendship Clubs runs the Great Kills Older Adult Center. The Great Kills Friendship Club first opened in 1974. The Great Kills Library on Giffords Lane is two short blocks from the Staten Island Railway station.",
+  "seniorCenter": {
+   "name": "Great Kills Older Adult Center (Staten Island Friendship Clubs)",
+   "address": "11 Sampson Avenue, Staten Island, NY 10308",
+   "phone": "718-356-5050",
+   "url": "https://www.statenislandfriendshipclubs.com/great-kills-center.html",
+   "notes": "Run by Staten Island Friendship Clubs under contract with NYC Aging. Open Monday to Friday, 8 am to 4 pm. Breakfast is served at 8:30 am and lunch at noon, cooked fresh on site, with grab-and-go meals for pickup. The clubs offer door-to-door transportation, blood pressure screenings, falls prevention and tai chi for arthritis classes, and chair exercise. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Great Kills Library",
+   "address": "56 Giffords Lane, Staten Island, NY 10308",
+   "phone": "718-984-6670",
+   "url": "https://www.nypl.org/locations/great-kills",
+   "notes": "Fully accessible. At the corner of Margaret Street, with computers and online databases for all ages. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Staten Island Friendship Clubs",
+    "https://www.statenislandfriendshipclubs.com/"
+   ],
+   [
+    "Staten Island Friendship Clubs: Services",
+    "https://www.statenislandfriendshipclubs.com/services.html"
+   ],
+   [
+    "Staten Island Friendship Clubs: Great Kills Center",
+    "https://www.statenislandfriendshipclubs.com/great-kills-center.html"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "NYPL: Great Kills Library",
+    "https://www.nypl.org/locations/great-kills"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
    ]
   ],
   "updated": "2026-11-25",
@@ -1341,6 +2011,175 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "huguenot-staten-island-ny",
+  "name": "Huguenot",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Huguenot is on Staten Island's South Shore. The Huguenot Park Library reopened in a new building at 1231 Woodrow Road with twice as many computers, dedicated parking and reading areas for adults. It serves Huguenot, Arden Heights, Annadale, Eltingville, Prince's Bay and Woodrow.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Huguenot Park Library",
+   "address": "1231 Woodrow Road, Staten Island, NY 10309",
+   "phone": "718-984-4636",
+   "url": "https://www.nypl.org/locations/huguenot-park",
+   "notes": "Fully accessible. The branch first opened in January 1985 and its new building has a new book collection and dedicated parking. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Huguenot Park Library",
+    "https://www.nypl.org/locations/huguenot-park"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "kent-ny",
+  "name": "Kent",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Kent is a town in Putnam County, with its town center at Sybil's Crossing. The Kent Senior Citizens club is open to town residents 60 and older, and the Kent Public Library at the town center is an on-call stop on PART Route 5. The county Office for Senior Resources has an outreach line for Kent.",
+  "transport": {
+   "name": "PART Route 5 (Carmel and Lake Carmel)",
+   "phone": "845-878-7433",
+   "url": "https://www.putnamcountyny.gov/transportation",
+   "notes": "Sybil's Crossing (Kent Library and Town Hall) is an on-call stop on PART Route 5, which runs from Carmel to Lake Carmel by way of Kent. Call 30 minutes ahead or ask the driver for the stop. Buses stop anywhere along the route when you flag them. The regular fare is $2.50. Riders 65 and older and disabled riders pay $1.25 by showing an Office for Senior Resources ID, a Medicare card, an MTA disability card or a county Half-Fare card. Exact change is needed. Buses run Monday to Friday 4:50 am to 8 pm and Saturday 8 am to 6 pm, with no Sunday service."
+  },
+  "library": {
+   "name": "Kent Public Library",
+   "address": "17 Sybil's Crossing, Kent Lakes, NY 10512",
+   "phone": "845-225-8585",
+   "url": "https://kentlibrary.org/",
+   "notes": "Open Monday to Wednesday 10 am to 7 pm, Thursday and Friday 10 am to 5 pm, and Saturday 10 am to 3 pm. Closed Sundays. Designated parking is behind the building, with a ramp to the back door and a buzzer."
+  },
+  "more": [
+   {
+    "name": "Kent Senior Citizens",
+    "url": "https://www.townofkentny.gov/231/Senior-Citizens",
+    "note": "Open to Town of Kent residents 60 and older, with annual dues of $15 due by March 31. Members meet on the third Sunday of each month at 1 pm (doors open 12:30 pm) in Doherty Hall, behind the St. James School complex in Carmel, for luncheons, holiday celebrations, guest speakers and day trips. Contact details are on the town page."
+   },
+   {
+    "name": "Kent, Patterson and Southeast outreach (Office for Senior Resources)",
+    "phone": "845-808-1700, ext. 47103",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   },
+   {
+    "name": "Office for Senior Resources medical transportation",
+    "phone": "845-808-1700, ext. 47104",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it."
+   },
+   {
+    "name": "PART Paratransit",
+    "phone": "845-878-7433",
+    "url": "https://www.putnamcountyny.gov/transportation",
+    "note": "Origin-to-destination vans for residents whose disability keeps them off the regular PART bus, within 3/4 mile of a PART route. Age alone does not qualify. A one-way trip is $3.25 and an attendant rides free. Call 845-878-3480 for an application, which takes up to 21 days to process."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Kent: Senior Citizens",
+    "https://www.townofkentny.gov/231/Senior-Citizens"
+   ],
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County: Public Transportation",
+    "https://www.putnamcountyny.gov/transportation"
+   ],
+   [
+    "Putnam County: 2026 PART Bus Schedules and Information (fares)",
+    "https://putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20General%20Information%20with%20fares%20and%20passes.pdf"
+   ],
+   [
+    "Kent Public Library",
+    "https://kentlibrary.org/"
+   ],
+   [
+    "Kent Public Library: Directions",
+    "https://kentlibrary.org/about-us/directions/"
+   ],
+   [
+    "PART Route 5 schedule (Putnam County)",
+    "https://www.putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20schedules/PART%205%20Carmel%20OCTOBER%202025.pdf"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "kiryas-joel-ny",
   "name": "Kiryas Joel",
   "county": "orange",
@@ -1501,6 +2340,83 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "mahopac-ny",
+  "name": "Mahopac",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Mahopac is home to Putnam County's William Koehler Memorial Senior Center on Route 6, which serves a hot weekday lunch and offers walk-in shower and laundry help. PART Route 2 links Mahopac with the Jefferson Valley Mall and stops at the Koehler Center.",
+  "seniorCenter": {
+   "name": "William Koehler Memorial Senior Center",
+   "address": "180 Route 6, Mahopac, NY 10541",
+   "phone": "845-808-1700",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Run by the Putnam County Office for Senior Resources. Hot noontime lunch is served Monday to Friday, except holidays and days the center closes for training or weather. Programs include exercise, fall prevention classes such as A Matter of Balance and Tai Chi for Arthritis, blood pressure readings, arts and crafts, games and talks by local doctors and pharmacists. Transportation and shopping help are offered to people with no other way to get there. Call the Office for Senior Resources to take part. This center also has walk-in shower and laundry help with a certified aide (the SOAP program), after a case manager's assessment."
+  },
+  "transport": {
+   "name": "PART Route 2 (Mahopac and Jefferson Valley)",
+   "phone": "845-878-7433",
+   "url": "https://www.putnamcountyny.gov/transportation",
+   "notes": "PART Route 2 runs between Mahopac and the Jefferson Valley Mall by way of Lake Plaza, downtown Mahopac, Somers Commons, Baldwin Place and Mahopac Falls, with a stop at the Koehler Center (not on snow routes). Buses stop anywhere along the route when you flag them. The regular fare is $2.50. Riders 65 and older and disabled riders pay $1.25 by showing an Office for Senior Resources ID, a Medicare card, an MTA disability card or a county Half-Fare card. Exact change is needed. Buses run Monday to Friday 4:50 am to 8 pm and Saturday 8 am to 6 pm, with no Sunday service. A weekday shuttle from Mahopac, with a stop at Mahopac Library, meets Metro-North trains at Croton Falls for $1 a trip."
+  },
+  "library": {
+   "name": "Mahopac Public Library",
+   "address": "668 Route Six, Mahopac, NY 10541",
+   "phone": "845-628-2009",
+   "url": "https://mahopaclibrary.org/",
+   "notes": "Open Monday to Thursday 9:30 am to 8 pm, Friday 9:30 am to 7 pm, Saturday 9:30 am to 3 pm and Sunday 1 to 5 pm. Mahopac residents 14 and older can apply for a card online."
+  },
+  "more": [
+   {
+    "name": "Carmel and Mahopac outreach (Office for Senior Resources)",
+    "phone": "845-808-1738, ext. 47915",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   },
+   {
+    "name": "Office for Senior Resources medical transportation",
+    "phone": "845-808-1700, ext. 47104",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it."
+   },
+   {
+    "name": "PART Paratransit",
+    "phone": "845-878-7433",
+    "url": "https://www.putnamcountyny.gov/transportation",
+    "note": "Origin-to-destination vans for residents whose disability keeps them off the regular PART bus, within 3/4 mile of a PART route. Age alone does not qualify. A one-way trip is $3.25 and an attendant rides free. Call 845-878-3480 for an application, which takes up to 21 days to process."
+   }
+  ],
+  "sources": [
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County: Public Transportation",
+    "https://www.putnamcountyny.gov/transportation"
+   ],
+   [
+    "Putnam County: 2026 PART Bus Schedules and Information (fares)",
+    "https://putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20General%20Information%20with%20fares%20and%20passes.pdf"
+   ],
+   [
+    "Mahopac Public Library",
+    "https://mahopaclibrary.org/"
+   ],
+   [
+    "PART Route 2 schedule (Putnam County)",
+    "https://www.putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20schedules/PART%202%20Mahopac%20OCTOBER%202025.pdf"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "mamaroneck-ny",
   "name": "Mamaroneck (Town)",
   "intro": "The Town of Mamaroneck is a town in Westchester County. Its senior center on Boston Post Road in Larchmont serves adults 55 and older with classes, events, a weekday lunch and rides, and people who live in the town, the Village of Larchmont or the Village of Mamaroneck pay the resident rate.",
@@ -1619,6 +2535,92 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "mariners-harbor-staten-island-ny",
+  "name": "Mariners Harbor",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "The Mariners Harbor Library on South Avenue is a single-story branch, the thirteenth New York Public Library branch on the island, and serves roughly 30,000 people. Help for older residents comes through NYC Aging, NY Connects Staten Island and Access-A-Ride.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Mariners Harbor Library",
+   "address": "206 South Ave, Staten Island, NY 10303",
+   "phone": "212-621-0690",
+   "url": "https://www.nypl.org/locations/mariners-harbor",
+   "notes": "Fully accessible and all on one level. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Mariners Harbor Library",
+    "https://www.nypl.org/locations/mariners-harbor"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -2260,6 +3262,194 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "new-dorp-staten-island-ny",
+  "name": "New Dorp",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "The New Dorp Library on New Dorp Lane is one of the busiest on the island, opened by local residents in 1907 and renovated in 2000. Help for older residents comes through NYC Aging, NY Connects Staten Island and Access-A-Ride.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "New Dorp Library",
+   "address": "309 New Dorp Lane, Staten Island, NY 10306",
+   "phone": "718-351-2977",
+   "url": "https://www.nypl.org/locations/new-dorp",
+   "notes": "Fully accessible. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: New Dorp Library",
+    "https://www.nypl.org/locations/new-dorp"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "new-dorp-beach-staten-island-ny",
+  "name": "New Dorp Beach",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "New Dorp Beach is a Staten Island neighborhood. The New Dorp Beach Older Adult Center on Cedar Grove Avenue is one of five centers run by Staten Island Friendship Clubs under contract with NYC Aging. Membership is free for New Yorkers 60 and older.",
+  "seniorCenter": {
+   "name": "New Dorp Beach Older Adult Center (Staten Island Friendship Clubs)",
+   "address": "128 Cedar Grove Avenue, Staten Island, NY 10306",
+   "phone": "718-814-3457",
+   "url": "https://www.statenislandfriendshipclubs.com/new-dorp-beach-center.html",
+   "notes": "Run by Staten Island Friendship Clubs under contract with NYC Aging. Open Monday to Friday, 8 am to 4 pm. Breakfast is served at 8:30 am and lunch at noon, cooked fresh on site, with grab-and-go meals for pickup. The clubs offer door-to-door transportation, blood pressure screenings, falls prevention and tai chi for arthritis classes, and chair exercise. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Staten Island Friendship Clubs",
+    "https://www.statenislandfriendshipclubs.com/"
+   ],
+   [
+    "Staten Island Friendship Clubs: Services",
+    "https://www.statenislandfriendshipclubs.com/services.html"
+   ],
+   [
+    "Staten Island Friendship Clubs: New Dorp Beach Center",
+    "https://www.statenislandfriendshipclubs.com/new-dorp-beach-center.html"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "new-rochelle-ny",
   "name": "New Rochelle",
   "intro": "New Rochelle is a city in Westchester County. The city's Office for the Aging, at the Hugh A. Doyle Senior Center on Davis Avenue, gives free help with health, housing, income, local transportation and nutrition questions, and the center serves a weekday lunch.",
@@ -2778,6 +3968,85 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "patterson-ny",
+  "name": "Patterson",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Patterson is a town in Putnam County. The town's Recreation Center hosts a senior luncheon each month and the weekly Putnam Lake Seniors club. Putnam On-Demand shared rides cover the whole Town of Patterson.",
+  "transport": {
+   "name": "Putnam On-Demand",
+   "phone": "845-475-0557",
+   "url": "https://www.putnamcountyny.gov/transportation",
+   "notes": "Shared, wheelchair accessible rides anywhere in the Town of Patterson and parts of Carmel and Southeast, Monday to Friday 8 am to 6 pm and Saturday 9 am to 3 pm. Seniors pay $1.25 a ride. Book in the app or by phone. Drivers do not take cash, so pay in the app or buy vouchers at 841 Fair Street in Carmel. Transfers to PART buses are made at Putnam Plaza."
+  },
+  "library": {
+   "name": "Patterson Library",
+   "address": "1167 Route 311, Patterson, NY 12563",
+   "phone": "845-878-6121",
+   "url": "https://pattersonlibrary.org/",
+   "notes": "Open Monday to Thursday 10 am to 8 pm, Friday 10 am to 5 pm and Saturday 10 am to 2 pm. Closed Sundays."
+  },
+  "more": [
+   {
+    "name": "Patterson Recreation Senior Luncheon",
+    "phone": "845-878-7200",
+    "url": "https://pattersonny.myrec.com/info/activities/program_details.aspx?ProgramID=30036",
+    "note": "Lunch and dessert for $8 on the second Tuesday of each month at noon, at the Patterson Rec Center. Open to all seniors. Call the Rec Center to sign up."
+   },
+   {
+    "name": "Putnam Lake Seniors",
+    "url": "https://pattersonny.myrec.com/info/activities/program_details.aspx?ProgramID=30037",
+    "note": "A seniors club that meets at the Patterson Recreation Center on Wednesdays, noon to 3 pm, for games and to plan trips. Come to a meeting to join."
+   },
+   {
+    "name": "Kent, Patterson and Southeast outreach (Office for Senior Resources)",
+    "phone": "845-808-1700, ext. 47103",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   },
+   {
+    "name": "Office for Senior Resources medical transportation",
+    "phone": "845-808-1700, ext. 47104",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Patterson Recreation: Senior Luncheon",
+    "https://pattersonny.myrec.com/info/activities/program_details.aspx?ProgramID=30036"
+   ],
+   [
+    "Town of Patterson Recreation: Putnam Lake Seniors",
+    "https://pattersonny.myrec.com/info/activities/program_details.aspx?ProgramID=30037"
+   ],
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County: Public Transportation",
+    "https://www.putnamcountyny.gov/transportation"
+   ],
+   [
+    "Putnam County: 2026 PART Bus Schedules and Information (fares)",
+    "https://putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20General%20Information%20with%20fares%20and%20passes.pdf"
+   ],
+   [
+    "Patterson Library",
+    "https://pattersonlibrary.org/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "pearl-river-ny",
   "name": "Pearl River",
   "county": "rockland",
@@ -2948,6 +4217,67 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "philipstown-ny",
+  "name": "Philipstown",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Philipstown is a town in Putnam County. The county's Friendship Center in Philipstown, at 6 Butterfield Road in Cold Spring, serves a hot weekday lunch. The Desmond-Fish Public Library in Garrison serves Philipstown residents and is open seven days a week.",
+  "seniorCenter": {
+   "name": "Friendship Center in Philipstown",
+   "address": "6 Butterfield Road, Cold Spring, NY 10516",
+   "phone": "845-808-1705",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Run by the Putnam County Office for Senior Resources. Hot noontime lunch is served Monday to Friday, except holidays and days the center closes for training or weather. Programs include exercise, fall prevention classes such as A Matter of Balance and Tai Chi for Arthritis, blood pressure readings, arts and crafts, games and talks by local doctors and pharmacists. Transportation and shopping help are offered to people with no other way to get there. Call the center or the main office at 845-808-1700 to take part."
+  },
+  "transport": {
+   "name": "Office for Senior Resources medical transportation",
+   "phone": "845-808-1700, ext. 47104",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it."
+  },
+  "library": {
+   "name": "Desmond-Fish Public Library",
+   "address": "472 Route 403, Garrison, NY 10524",
+   "phone": "845-424-3020",
+   "url": "https://desmondfishlibrary.org/",
+   "notes": "Open Monday, Wednesday, Friday and Saturday 10 am to 5 pm, Tuesday and Thursday 10 am to 8 pm, and Sunday 1 to 5 pm."
+  },
+  "more": [
+   {
+    "name": "Philipstown outreach (Office for Senior Resources)",
+    "phone": "845-808-1705, ext. 41986",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   }
+  ],
+  "sources": [
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Desmond-Fish Public Library",
+    "https://desmondfishlibrary.org/"
+   ],
+   [
+    "Desmond-Fish Public Library: About",
+    "https://desmondfishlibrary.org/about/"
+   ],
+   [
+    "Town of Philipstown: A Brief History",
+    "https://www.philipstown.gov/town_clerks_office/a_brief_history_of_philipstown.php"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -3146,6 +4476,111 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "port-richmond-staten-island-ny",
+  "name": "Port Richmond",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Port Richmond is a Staten Island neighborhood. Catholic Charities of Staten Island runs the Anderson Older Adult Center here under contract with NYC Aging. The Port Richmond Library, a Carnegie branch from 1905, faces Veterans Park on Bennett Street.",
+  "seniorCenter": {
+   "name": "Anderson Older Adult Center (Catholic Charities of Staten Island)",
+   "address": "120 Anderson Avenue, Port Richmond, Staten Island, NY 10302",
+   "phone": "718-448-5757",
+   "url": "https://cc-si.org/older-adult-centers/",
+   "notes": "Open Monday to Friday, 7 am to 3 pm. Membership is free for adults 60 and older, and members may come as often as they like. The center serves fresh meals and offers exercise and wellness programs, trips and social service support. Transportation is available to members based on eligibility and availability. Funded under contract with NYC Aging."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Port Richmond Library",
+   "address": "75 Bennett Street, Staten Island, NY 10302",
+   "phone": "718-442-0158",
+   "url": "https://www.nypl.org/locations/port-richmond",
+   "notes": "Fully accessible. The branch keeps its fireplaces, oak shelving and original furniture and offers free programs. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Catholic Charities of Staten Island: Older Adult Centers",
+    "https://cc-si.org/older-adult-centers/"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "NYPL: Port Richmond Library",
+    "https://www.nypl.org/locations/port-richmond"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "pound-ridge-ny",
   "name": "Pound Ridge",
   "intro": "Pound Ridge is a town in Westchester County. Its Neighbor to Neighbor program, run by volunteers with the town Recreation and Police departments, helps older and disabled residents with rides to doctors and food shopping, hot meals when someone cannot cook, a reassurance call program and a medical equipment loan closet.",
@@ -3200,6 +4635,63 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "putnam-valley-ny",
+  "name": "Putnam Valley",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Putnam Valley is home to Putnam County's Putnam Valley Friendship Center on Town Park Lane, which serves a hot weekday lunch and offers walk-in shower and laundry help. The county also arranges limited volunteer rides to medical appointments.",
+  "seniorCenter": {
+   "name": "Putnam Valley Friendship Center",
+   "address": "117 Town Park Lane, Putnam Valley, NY 10579",
+   "phone": "845-808-1730",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Run by the Putnam County Office for Senior Resources. Hot noontime lunch is served Monday to Friday, except holidays and days the center closes for training or weather. Programs include exercise, fall prevention classes such as A Matter of Balance and Tai Chi for Arthritis, blood pressure readings, arts and crafts, games and talks by local doctors and pharmacists. Transportation and shopping help are offered to people with no other way to get there. Call the center or the main office at 845-808-1700 to take part. This center also has walk-in shower and laundry help with a certified aide (the SOAP program), after a case manager's assessment."
+  },
+  "transport": {
+   "name": "Office for Senior Resources medical transportation",
+   "phone": "845-808-1700, ext. 47104",
+   "url": "https://www.putnamcountyny.gov/osr",
+   "notes": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it. The Friendship Center also offers rides and shopping help to members with no other transportation."
+  },
+  "library": {
+   "name": "Putnam Valley Library",
+   "address": "30 Oscawana Lake Rd, Putnam Valley, NY 10579",
+   "phone": "845-528-3242",
+   "url": "https://putnamvalleylibrary.org/",
+   "notes": "Open Monday 10 am to 5 pm, Tuesday and Wednesday 10 am to 8 pm, Thursday and Friday 10 am to 5 pm, and Saturday 10 am to 4 pm. Closed Sundays."
+  },
+  "more": [
+   {
+    "name": "Putnam Valley outreach (Office for Senior Resources)",
+    "phone": "845-808-1730, ext. 47923",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   }
+  ],
+  "sources": [
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County: Public Transportation",
+    "https://www.putnamcountyny.gov/transportation"
+   ],
+   [
+    "Putnam Valley Library",
+    "https://putnamvalleylibrary.org/"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -3279,6 +4771,92 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "richmondtown-staten-island-ny",
+  "name": "Richmondtown",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "The Richmondtown Library on Clarke Avenue in Staten Island opened in 1996, with adult books on the first floor, a TechConnect computer lab and a community room for classes. Help for older residents comes through NYC Aging, NY Connects Staten Island and Access-A-Ride.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Richmondtown Library",
+   "address": "200 Clarke Avenue, Staten Island, NY 10306",
+   "phone": "718-668-0413",
+   "url": "https://www.nypl.org/locations/richmondtown",
+   "notes": "Fully accessible. Adult and young adult books are on the first floor and the children's area is on the second floor. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Richmondtown Library",
+    "https://www.nypl.org/locations/richmondtown"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "rye-ny",
@@ -3604,6 +5182,151 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "south-beach-staten-island-ny",
+  "name": "South Beach",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "South Beach is a Staten Island neighborhood. The South Beach Library on Father Capodanno Boulevard has served South Beach and Arrochar for over 50 years. Its collection has an emphasis on Russian, Chinese and Spanish language books and films.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "South Beach Library",
+   "address": "41 Father Capodanno Boulevard, Staten Island, NY 10305",
+   "phone": "718-816-5834",
+   "url": "https://www.nypl.org/locations/south-beach",
+   "notes": "Fully accessible. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: South Beach Library",
+    "https://www.nypl.org/locations/south-beach"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "southeast-ny",
+  "name": "Southeast",
+  "county": "putnam",
+  "countyName": "Putnam County",
+  "intro": "Southeast is a town in Putnam County. Putnam On-Demand shared rides reach parts of the town and connect with the Southeast Metro-North station. The county Office for Senior Resources serves Southeast through its Kent, Patterson and Southeast outreach line.",
+  "transport": {
+   "name": "Putnam On-Demand",
+   "phone": "845-475-0557",
+   "url": "https://www.putnamcountyny.gov/transportation",
+   "notes": "Shared, wheelchair accessible rides in the Putnam On-Demand zone, which covers the Town of Patterson and parts of the Towns of Carmel and Southeast, with a connection at the Southeast Metro-North station. Service runs Monday to Friday 8 am to 6 pm and Saturday 9 am to 3 pm. Seniors pay $1.25 a ride. Book in the app or by phone. Drivers do not take cash, so pay in the app or buy vouchers at 841 Fair Street in Carmel. Transfers to PART buses are made at Putnam Plaza."
+  },
+  "more": [
+   {
+    "name": "Kent, Patterson and Southeast outreach (Office for Senior Resources)",
+    "phone": "845-808-1700, ext. 47103",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Outreach staff help isolated older residents get services and apply or recertify for Medicaid, SNAP and the Medicare Savings Program."
+   },
+   {
+    "name": "Putnam County Office for Senior Resources",
+    "phone": "845-808-1700",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Main line for NY Connects, HIICAP Medicare counseling, EPIC help, home care, home delivered meals, caregiver support and a legal consultation with an attorney by appointment. The office also certifies HEAP heating aid applications for residents 60 and older. Donald B. Smith Campus, 110 Old Route 6, Building 3, Carmel."
+   },
+   {
+    "name": "Office for Senior Resources medical transportation",
+    "phone": "845-808-1700, ext. 47104",
+    "url": "https://www.putnamcountyny.gov/osr",
+    "note": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by Putnam SeniorCorps volunteers. Rides go within Putnam County and to certain places outside it."
+   },
+   {
+    "name": "PART Paratransit",
+    "phone": "845-878-7433",
+    "url": "https://www.putnamcountyny.gov/transportation",
+    "note": "Origin-to-destination vans for residents whose disability keeps them off the regular PART bus, within 3/4 mile of a PART route. Age alone does not qualify. A one-way trip is $3.25 and an attendant rides free. Call 845-878-3480 for an application, which takes up to 21 days to process."
+   }
+  ],
+  "sources": [
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County: Public Transportation",
+    "https://www.putnamcountyny.gov/transportation"
+   ],
+   [
+    "Putnam County: 2026 PART Bus Schedules and Information (fares)",
+    "https://putnamcountyny.gov/images/Departments/Planning_Dev_Transport/PDF_Documents/2026%20General%20Information%20with%20fares%20and%20passes.pdf"
+   ],
+   [
+    "Town of Southeast",
+    "https://www.southeast-ny.gov/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "spring-valley-ny",
   "name": "Spring Valley",
   "county": "rockland",
@@ -3679,6 +5402,197 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "st-george-staten-island-ny",
+  "name": "St. George",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "St. George is a Staten Island neighborhood. The St. George Library Center sits a short walk from the Staten Island Ferry and Borough Hall, with more than 60 public computers and an Adult Learning Center with English classes. Help for older residents comes through NYC Aging, NY Connects Staten Island and Access-A-Ride.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "St. George Library Center",
+   "address": "5 Central Avenue, Staten Island, NY 10301",
+   "phone": "718-442-8560",
+   "url": "https://www.nypl.org/locations/st-george-library-center",
+   "notes": "Fully accessible. Black and white printing from your own device costs $0.20 a page. For free English classes, call 718-876-3557 or email esol@nypl.org. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: St. George Library Center",
+    "https://www.nypl.org/locations/st-george-library-center"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "stapleton-staten-island-ny",
+  "name": "Stapleton",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Stapleton is a Staten Island neighborhood. The Stapleton Older Adult Center on Gordon Street is one of three NYC Aging funded centers run by the JCC of Staten Island. The Stapleton Library on Canal Street stands near Tappen Park and the Old Village Hall.",
+  "seniorCenter": {
+   "name": "Stapleton Older Adult Center (JCC of Staten Island)",
+   "address": "189 Gordon Street, Staten Island, NY 10304",
+   "phone": "718-981-8828",
+   "url": "https://www.sijcc.org/older-adult-centers",
+   "notes": "Part of the JCC's Older Adult Center Network, funded by NYC Aging, with sister centers at 1466 Manor Road and 1297 Arthur Kill Road and transportation between the three. Programs include meals, exercise and fitness, health management, technology classes, and health insurance guidance and care coordination. Free case assistance by appointment covers food pantry help, legal and medical referrals, health insurance, benefits enrollment and English classes. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Stapleton Library",
+   "address": "132 Canal St., Staten Island, NY 10304",
+   "phone": "718-727-0427",
+   "url": "https://www.nypl.org/locations/stapleton",
+   "notes": "Fully accessible, with a ramp at the main entrance on Wright Street. The branch first opened in 1907 and offers programs for all ages, computers, and books, magazines and other media. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "JCC of Staten Island: Older Adult Centers",
+    "https://www.sijcc.org/older-adult-centers"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "NYPL: Stapleton Library",
+    "https://www.nypl.org/locations/stapleton"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "stony-point-ny",
@@ -3968,6 +5882,205 @@
   ],
   "county": "westchester",
   "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "todt-hill-staten-island-ny",
+  "name": "Todt Hill",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Todt Hill is a Staten Island neighborhood. The Todt Hill Older Adult Center on Schmidts Lane is run by Staten Island Friendship Clubs under contract with NYC Aging. The Todt Hill-Westerleigh Library on Victory Boulevard is open seven days a week and has free parking.",
+  "seniorCenter": {
+   "name": "Todt Hill Older Adult Center (Staten Island Friendship Clubs)",
+   "address": "184 Schmidts Lane, Staten Island, NY 10314",
+   "phone": "718-698-7979",
+   "url": "https://www.statenislandfriendshipclubs.com/todt-hill-center.html",
+   "notes": "Run by Staten Island Friendship Clubs under contract with NYC Aging. Open Monday to Friday, 8 am to 4 pm. Breakfast is served at 8:30 am and lunch at noon, cooked fresh on site, with grab-and-go meals for pickup. The clubs offer door-to-door transportation, blood pressure screenings, falls prevention and tai chi for arthritis classes, and chair exercise. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Todt Hill-Westerleigh Library",
+   "address": "2550 Victory Boulevard, Staten Island, NY 10314",
+   "phone": "718-494-1642",
+   "url": "https://www.nypl.org/locations/todt-hill-westerleigh",
+   "notes": "Fully accessible, with free parking. Right off the Staten Island Expressway and within walking distance of the College of Staten Island. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Staten Island Friendship Clubs",
+    "https://www.statenislandfriendshipclubs.com/"
+   ],
+   [
+    "Staten Island Friendship Clubs: Services",
+    "https://www.statenislandfriendshipclubs.com/services.html"
+   ],
+   [
+    "Staten Island Friendship Clubs: Todt Hill Center",
+    "https://www.statenislandfriendshipclubs.com/todt-hill-center.html"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "NYPL: Todt Hill-Westerleigh Library",
+    "https://www.nypl.org/locations/todt-hill-westerleigh"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "tottenville-staten-island-ny",
+  "name": "Tottenville",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Tottenville is a Staten Island neighborhood. Its library branch dates to 1904 and is the oldest and southernmost New York Public Library location on the island. Help for older residents comes through NYC Aging, NY Connects Staten Island and Access-A-Ride.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "Tottenville Library",
+   "address": "7430 Amboy Road, Staten Island, NY 10307",
+   "phone": "718-984-0945",
+   "url": "https://www.nypl.org/locations/tottenville",
+   "notes": "Fully accessible. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Tottenville Library",
+    "https://www.nypl.org/locations/tottenville"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
  },
@@ -4339,6 +6452,111 @@
    [
     "Moffat Library: Hours and Location",
     "https://moffatlibrary.org/about-us/library-hours/"
+   ]
+  ],
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "west-brighton-staten-island-ny",
+  "name": "West Brighton",
+  "county": "staten-island",
+  "countyName": "Staten Island (Richmond County)",
+  "intro": "Catholic Charities of Staten Island runs the West Brighton Older Adult Center at 230 Broadway under contract with NYC Aging. The New York Public Library's West New Brighton branch is at 976 Castleton Avenue.",
+  "seniorCenter": {
+   "name": "West Brighton Older Adult Center (Catholic Charities of Staten Island)",
+   "address": "230 Broadway, Staten Island, NY 10310",
+   "phone": "718-727-9793",
+   "url": "https://cc-si.org/older-adult-centers/",
+   "notes": "Open Monday to Friday, 8 am to 4 pm. Membership is free for adults 60 and older, and members may come as often as they like. The center serves fresh meals and offers exercise and wellness programs, trips and social service support. Transportation is available to members based on eligibility and availability."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Shared-ride service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway, local buses and the Staten Island Railway."
+  },
+  "library": {
+   "name": "West New Brighton Library",
+   "address": "976 Castleton Avenue, Staten Island, NY 10310",
+   "phone": "718-442-1416",
+   "url": "https://www.nypl.org/locations/west-new-brighton",
+   "notes": "Fully accessible. The present building opened on April 1, 1933. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Staten Island (Community Agency for Senior Citizens)",
+    "phone": "718-489-3954",
+    "url": "https://cascsiny.org/ny-connects-staten-island/",
+    "note": "Free help finding home care, caregiver support, home delivered meals, transportation, health insurance and help applying for benefits. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Tuesdays. Walk-ins are welcome weekdays, 9 am to 5 pm, at 120 Stuyvesant Place, Suite 409, Staten Island, NY 10301."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Listen to the main menu and choose the program you need."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Catholic Charities of Staten Island: Older Adult Centers",
+    "https://cc-si.org/older-adult-centers/"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "NYPL: West New Brighton Library",
+    "https://www.nypl.org/locations/west-new-brighton"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "CASC: NY Connects Staten Island",
+    "https://cascsiny.org/ny-connects-staten-island/"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
    ]
   ],
   "updated": "2026-11-25",
