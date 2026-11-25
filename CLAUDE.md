@@ -40,6 +40,12 @@ Build in waves, biggest search demand first. Local pages: county pages for all 6
 - County x category pages (/county/<slug>/home-care/, nursing-homes, hospice, assisted-living, adult-day, care-managers) and town/neighborhood pages (towns.json) for NJ-near counties, built from the same data plus checked town senior programs.
 - Care managers: no NY license exists, so list practices confirmed on their own site that show a credential (LCSW, RN, NPWA, Aging Life Care member). Practice names only, never individuals.
 
+## Care data download (run in a session whose network allows health.data.ny.gov, profiles.health.ny.gov, data.cms.gov)
+1. `python3 scripts/fetch_facilities.py` downloads the official lists into data/raw/ (refused host: stop and report it, never route around).
+2. `python3 scripts/make_facilities.py` builds src/content/facilities.json (care pages: /care/<slug>/, /county/<slug>/<category>/, /care/).
+3. Build, check (check.js), commit data/raw/*.json, src/content/facilities.json and site/, push. Send the owner the top 10 care URLs near NJ to index.
+Refresh monthly in the weekly upkeep task (first Monday): re-run both scripts so closures and new licenses show.
+
 ## After each wave
 Give the owner up to 10 URLs a day to index by hand in Search Console, most important first. IndexNow (`.github/workflows/indexnow.yml`, key file `src/<key>.txt`) pings Bing on every push.
 
