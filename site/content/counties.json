@@ -82,6 +82,70 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "allegany",
+  "name": "Allegany County",
+  "region": "western",
+  "seat": "Belmont",
+  "towns": [
+   "Wellsville",
+   "Alfred",
+   "Cuba",
+   "Belmont",
+   "Andover",
+   "Bolivar",
+   "Friendship"
+  ],
+  "intro": "Allegany County is a rural county in the Southern Tier hills on the Pennsylvania border, with Wellsville as its largest village. The Allegany County Office for the Aging in Belmont offers HIICAP health insurance counseling, meals, in-home services, caregiver support and legal help. Volunteer drivers give rides to residents 60 and older, with at least two days' notice.",
+  "agingOffice": {
+   "name": "Allegany County Office for the Aging",
+   "phone": "585-268-9390",
+   "url": "https://www.alleganyco.gov/departments/office-for-the-aging/"
+  },
+  "transport": {
+   "name": "Office for the Aging volunteer driver program",
+   "phone": "585-268-9390",
+   "url": "https://www.alleganyco.gov/departments/office-for-the-aging/"
+  },
+  "dss": {
+   "name": "Allegany County Department of Social Services",
+   "phone": "585-268-9622",
+   "url": "https://www.alleganyco.gov/departments/social-services/"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Allegany County Office for the Aging",
+    "https://aging.ny.gov/location/allegany-county-office-aging"
+   ],
+   [
+    "Allegany County Office for the Aging",
+    "https://www.alleganyco.gov/departments/office-for-the-aging/"
+   ],
+   [
+    "Allegany County Department of Social Services",
+    "https://www.alleganyco.gov/departments/social-services/"
+   ],
+   [
+    "OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "brooklyn",
   "name": "Brooklyn (Kings County)",
   "region": "nyc",
@@ -162,6 +226,522 @@
    [
     "Green-Wood: Visit",
     "https://www.green-wood.com/visit/"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "broome",
+  "name": "Broome County",
+  "region": "southern-tier",
+  "seat": "Binghamton",
+  "towns": [
+   "Binghamton",
+   "Johnson City",
+   "Endicott",
+   "Vestal",
+   "Kirkwood",
+   "Whitney Point",
+   "Deposit"
+  ],
+  "intro": "Broome County sits where the Susquehanna and Chenango rivers meet, with Binghamton at its center. The Broome County Office for Aging offers Meals on Wheels, in-home services, caregiver support, NY Connects and free legal help for eligible residents 60 and older. Its Office for Aging Mini-bus takes riders 60 and up around the urban parts of the county on weekdays for a $2.00 contribution with an Office for Aging ID card.",
+  "agingOffice": {
+   "name": "Broome County Office for Aging",
+   "phone": "607-778-2411",
+   "url": "https://www.gobroomecounty.com/senior/"
+  },
+  "transport": {
+   "name": "Office for Aging Mini-bus (BC Transit)",
+   "phone": "607-275-5164",
+   "url": "https://www.gobroomecounty.com/senior/transportation"
+  },
+  "dss": {
+   "name": "Broome County Department of Social Services",
+   "phone": "607-778-1100",
+   "url": "https://broomecountyny.gov/dss/contact"
+  },
+  "places": [
+   {
+    "name": "Otsiningo Park, Binghamton",
+    "note": "The county describes its paved trails as easy to walk, and the park has restrooms, tables and grills, and a free bocce court."
+   },
+   {
+    "name": "Broome County carousels",
+    "note": "Greater Binghamton has six antique wood carved carousels that spin from Memorial Day to Labor Day, and the City of Binghamton says rides are free or cost one piece of litter."
+   },
+   {
+    "name": "Roberson Museum and Science Center, Binghamton",
+    "note": "The museum and mansion are wheelchair accessible, two wheelchairs wait at the front entrance, and visitors 62 and up pay a reduced $6 admission."
+   },
+   {
+    "name": "Chenango Valley State Park, Chenango Forks",
+    "note": "Two glacial lakes, woodland trails and a golf course make for an easy day out, and the park lists accessible pavilions and showers (call 607-648-5251 about other access questions)."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Broome County Office for the Aging",
+    "https://aging.ny.gov/location/broome-county-office-aging"
+   ],
+   [
+    "Broome County Office for Aging",
+    "https://www.gobroomecounty.com/senior/"
+   ],
+   [
+    "Broome County Office for Aging: Programs and Services",
+    "https://www.gobroomecounty.com/senior/programs"
+   ],
+   [
+    "Broome County Office for Aging: Transportation",
+    "https://www.gobroomecounty.com/senior/transportation"
+   ],
+   [
+    "Broome County DSS: Contact",
+    "https://broomecountyny.gov/dss/contact"
+   ],
+   [
+    "Broome County Parks: Otsiningo Park",
+    "https://broomecountyny.gov/parks/otsiningo"
+   ],
+   [
+    "City of Binghamton: City Carousels",
+    "https://binghamton-ny.gov/government/departments/parks-recreation/city-carousels"
+   ],
+   [
+    "Roberson Museum: Visit",
+    "https://www.roberson.org/visit"
+   ],
+   [
+    "NY State Parks: Chenango Valley State Park",
+    "https://parks.ny.gov/parks/chenangovalley/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "cattaraugus",
+  "name": "Cattaraugus County",
+  "region": "western",
+  "seat": "Little Valley",
+  "towns": [
+   "Olean",
+   "Salamanca",
+   "Ellicottville",
+   "Gowanda",
+   "Allegany",
+   "Franklinville",
+   "Portville",
+   "Little Valley"
+  ],
+  "intro": "Cattaraugus County sits along the Pennsylvania line in the hills of Western New York, with Olean and Salamanca as its cities. The Cattaraugus County Department of Aging in Olean runs NY Connects, Meals on Wheels, case management and a free online caregiver education portal. Some rides are available countywide for medical visits, shopping and adult day care, so call the department to set one up.",
+  "agingOffice": {
+   "name": "Cattaraugus County Department of Aging",
+   "phone": "716-373-8032",
+   "url": "https://www.cattco.gov/aging"
+  },
+  "transport": {
+   "name": "Cattaraugus County Department of Aging transportation",
+   "phone": "716-373-8032",
+   "url": "https://cattco.gov/aging/services/transportation"
+  },
+  "dss": {
+   "name": "Cattaraugus County Department of Social Services",
+   "phone": "716-373-8065",
+   "url": "https://www.cattco.gov/social-services/social-services"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Cattaraugus County Department of Aging",
+    "https://aging.ny.gov/location/cattaraugus-county-department-aging"
+   ],
+   [
+    "Cattaraugus County Department of the Aging",
+    "https://www.cattco.gov/aging"
+   ],
+   [
+    "Cattaraugus County Aging: Transportation",
+    "https://cattco.gov/aging/services/transportation"
+   ],
+   [
+    "Cattaraugus County Social Services",
+    "https://www.cattco.gov/social-services/social-services"
+   ],
+   [
+    "OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "cayuga",
+  "name": "Cayuga County",
+  "region": "central",
+  "seat": "Auburn",
+  "towns": [
+   "Auburn",
+   "Moravia",
+   "Weedsport",
+   "Port Byron",
+   "Union Springs",
+   "Cato",
+   "Aurora"
+  ],
+  "intro": "Cayuga County stretches from Lake Ontario south along Owasco and Cayuga lakes, with the city of Auburn as its hub. The Cayuga County Office for the Aging at 160 Genesee Street in Auburn runs Meals on Wheels, aide services and case management for people 60 and over, and NY Connects counseling. Call 315-253-1226 for general questions and NY Connects, or 315-253-1550 for the Senior Nutrition Program.",
+  "agingOffice": {
+   "name": "Cayuga County Office for the Aging",
+   "phone": "315-253-1226",
+   "url": "https://www.cayugacounty.us/507/Office-for-the-Aging"
+  },
+  "transport": {
+   "name": "Centro Call-A-Bus paratransit (serves Auburn, for riders with disabilities)",
+   "phone": "315-442-3420",
+   "url": "https://www.centro.org/specialized-transit/call-a-bus"
+  },
+  "dss": {
+   "name": "Cayuga County Department of Social Services",
+   "phone": "315-253-1011",
+   "url": "https://otda.ny.gov/workingfamilies/dss.asp"
+  },
+  "places": [
+   {
+    "name": "Harriet Tubman National Historical Park, Auburn",
+    "note": "The Tubman Home visitor center has accessible parking, a level sidewalk about 125 feet long, ground floor exhibits and accessible restrooms."
+   },
+   {
+    "name": "Seward House Museum, Auburn",
+    "note": "A wheelchair ramp inside the entrance reaches the reception area, the first floor and visitor bathroom are wheelchair accessible, and audio and visual content about the upper floors is available on request."
+   },
+   {
+    "name": "Fillmore Glen State Park, Moravia",
+    "note": "The park is open year round from dawn to dusk and lists accessible showers, pavilions and shelters."
+   }
+  ],
+  "sources": [
+   [
+    "Cayuga County Office for the Aging (NYSOFA listing)",
+    "https://aging.ny.gov/location/cayuga-county-office-aging"
+   ],
+   [
+    "Cayuga County Office for the Aging",
+    "https://www.cayugacounty.us/507/Office-for-the-Aging"
+   ],
+   [
+    "Centro Call-A-Bus",
+    "https://www.centro.org/specialized-transit/call-a-bus"
+   ],
+   [
+    "Harriet Tubman NHP accessibility (NPS)",
+    "https://www.nps.gov/hart/planyourvisit/accessibility.htm"
+   ],
+   [
+    "Seward House Museum visit",
+    "https://sewardhouse.org/visit/"
+   ],
+   [
+    "Fillmore Glen State Park",
+    "https://parks.ny.gov/parks/fillmoreglen/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Local Departments of Social Services (NYS OTDA)",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "Seward House Museum accessibility",
+    "https://sewardhouse.org/visit/accessibility"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "chautauqua",
+  "name": "Chautauqua County",
+  "region": "western",
+  "seat": "Mayville",
+  "towns": [
+   "Jamestown",
+   "Dunkirk",
+   "Fredonia",
+   "Lakewood",
+   "Westfield",
+   "Mayville",
+   "Silver Creek",
+   "Falconer"
+  ],
+  "intro": "Chautauqua County is the far southwest corner of New York, between Lake Erie and Chautauqua Lake, with Jamestown and Dunkirk as its cities. The Chautauqua County Office for Aging Services in Mayville runs NY Connects, adult day and respite, home repair help, elder abuse prevention and a Santa for Seniors program. Public transit across the county is CHQ Transit, the system formerly known as CARTS.",
+  "agingOffice": {
+   "name": "Chautauqua County Office for Aging Services",
+   "phone": "716-753-4471",
+   "url": "https://chautauquacountyny.gov/office-aging"
+  },
+  "transport": {
+   "name": "CHQ Transit (formerly CARTS)",
+   "phone": "800-388-6534",
+   "url": "https://chautauquacountyny.gov/799/CARTS"
+  },
+  "dss": {
+   "name": "Chautauqua County Department of Social Services",
+   "phone": "716-661-8200",
+   "url": "https://chautauquacountyny.gov/humansocial-services/humansocial-services"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Chautauqua County Office for the Aging",
+    "https://aging.ny.gov/location/chautauqua-county-office-aging"
+   ],
+   [
+    "Chautauqua County Office for Aging Services",
+    "https://chautauquacountyny.gov/office-aging"
+   ],
+   [
+    "CHQ Transit",
+    "https://chautauquacountyny.gov/799/CARTS"
+   ],
+   [
+    "Chautauqua County Department of Social Services",
+    "https://chautauquacountyny.gov/humansocial-services/humansocial-services"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "chemung",
+  "name": "Chemung County",
+  "region": "southern-tier",
+  "seat": "Elmira",
+  "towns": [
+   "Elmira",
+   "Horseheads",
+   "Elmira Heights",
+   "Big Flats",
+   "Southport",
+   "Van Etten"
+  ],
+  "intro": "Chemung County follows the Chemung River through Elmira and Horseheads, just north of the Pennsylvania line. The Chemung County Department of Aging and Long Term Care handles NY Connects, Medicare and health insurance counseling, caregiver and dementia support, legal help and the Eat Well Live Well meal program. Approved riders 60 and older can book Access Chemung, a private pay, curb-to-curb, wheelchair-accessible bus run by C TRAN on weekdays.",
+  "agingOffice": {
+   "name": "Chemung County Department of Aging and Long Term Care",
+   "phone": "607-737-5520",
+   "url": "https://www.chemungcountyny.gov/160/Aging-Long-Term-Care"
+  },
+  "transport": {
+   "name": "Access Chemung (C TRAN)",
+   "phone": "607-734-5211",
+   "url": "https://ridectran.com/index.php/en/services"
+  },
+  "dss": {
+   "name": "Chemung County Department of Social Services",
+   "phone": "607-737-5302",
+   "url": "https://www.chemungcountyny.gov/260/Social-Service"
+  },
+  "places": [
+   {
+    "name": "Eldridge Park, Elmira",
+    "note": "A 1.4-mile paved walking loop rated easy circles the 11-acre lake, and the park has picnic areas and an antique carousel."
+   },
+   {
+    "name": "Arnot Art Museum, Elmira",
+    "note": "The museum says it is fully handicap accessible, and seniors 55 and older pay $5."
+   },
+   {
+    "name": "Chemung Valley History Museum, Elmira",
+    "note": "Galleries are open Monday through Saturday, and seniors over 55 pay $3."
+   },
+   {
+    "name": "National Soaring Museum, Harris Hill",
+    "note": "It is open year round (Wednesday through Sunday in winter), and visitors 60 and older pay $9."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Chemung County Department of Aging & Long Term Care",
+    "https://aging.ny.gov/location/chemung-county-department-aging-long-term-care"
+   ],
+   [
+    "Chemung County: Aging and Long Term Care",
+    "https://www.chemungcountyny.gov/160/Aging-Long-Term-Care"
+   ],
+   [
+    "Chemung County: Transportation",
+    "https://www.chemungcountyny.gov/485/Transportation"
+   ],
+   [
+    "C TRAN: Services",
+    "https://ridectran.com/index.php/en/services"
+   ],
+   [
+    "C TRAN: Contact Us",
+    "https://ridectran.com/en/contact-us"
+   ],
+   [
+    "Chemung County: Social Services",
+    "https://www.chemungcountyny.gov/260/Social-Service"
+   ],
+   [
+    "Chemung County: HEAP",
+    "https://www.chemungcountyny.gov/357/Home-Energy-Assistance-Program"
+   ],
+   [
+    "Chemung County: Eldridge Park",
+    "https://chemungcountyny.gov/1450/Eldridge-Park"
+   ],
+   [
+    "Arnot Art Museum: Visit",
+    "https://www.arnotartmuseum.org/visit"
+   ],
+   [
+    "Chemung Valley History Museum: Visit",
+    "https://chemungvalleymuseum.org/visit"
+   ],
+   [
+    "National Soaring Museum",
+    "https://www.soaringmuseum.org/"
+   ],
+   [
+    "National Soaring Museum: Visit",
+    "https://www.soaringmuseum.org/visit-the-museum.php"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "chenango",
+  "name": "Chenango County",
+  "region": "southern-tier",
+  "seat": "Norwich",
+  "towns": [
+   "Norwich",
+   "Sherburne",
+   "Greene",
+   "Oxford",
+   "Bainbridge",
+   "Afton",
+   "New Berlin"
+  ],
+  "intro": "Chenango County sits in the rolling hills between Binghamton and Utica, with the city of Norwich as its county seat. The Chenango County Area Agency on Aging works out of the County Office Building at 5 Court Street in Norwich, and it is the county office NYSOFA lists for older adults and caregivers. For Medicaid, SNAP and HEAP, the Chenango County Department of Social Services is also at 5 Court Street in Norwich.",
+  "agingOffice": {
+   "name": "Chenango County Area Agency on Aging",
+   "phone": "607-337-1770",
+   "url": "https://aging.ny.gov/location/chenango-county-area-agency-aging"
+  },
+  "dss": {
+   "name": "Chenango County Department of Social Services",
+   "phone": "607-337-1500",
+   "url": "https://otda.ny.gov/workingfamilies/dss.asp"
+  },
+  "places": [
+   {
+    "name": "Northeast Classic Car Museum, Norwich",
+    "note": "The museum says it is totally wheelchair accessible and lends five motorized scooters and a wheelchair free, first come, first served."
+   },
+   {
+    "name": "Rogers Environmental Education Center, Sherburne",
+    "note": "Entry is free, trails are open daily from sunrise to sunset, and the visitor center exhibits, restrooms and picnic pavilion are wheelchair accessible."
+   },
+   {
+    "name": "Chenango County Historical Society Museum, Norwich",
+    "note": "A small museum on Rexford Street open Wednesday through Friday, 10 a.m. to 4 p.m."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Chenango County Area Agency on Aging",
+    "https://aging.ny.gov/location/chenango-county-area-agency-aging"
+   ],
+   [
+    "Northeast Classic Car Museum: FAQs",
+    "https://classiccarmuseum.org/faqs/"
+   ],
+   [
+    "NYS DEC: Rogers Environmental Education Center",
+    "https://dec.ny.gov/places/rogers-environmental-education-center"
+   ],
+   [
+    "Chenango County Historical Society",
+    "https://www.chenangohistorical.org/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Local Departments of Social Services (NYS OTDA)",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
    ]
   ],
   "verified": true,
@@ -311,6 +891,177 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "cortland",
+  "name": "Cortland County",
+  "region": "central",
+  "seat": "Cortland",
+  "towns": [
+   "Cortland",
+   "Homer",
+   "McGraw",
+   "Marathon",
+   "Cincinnatus",
+   "Truxton",
+   "Preble"
+  ],
+  "intro": "Cortland County lies between Syracuse and Ithaca, with the city of Cortland and the village of Homer at its center. The Cortland County Office for Aging on Central Avenue runs the Age Well Center, home delivered meals, HEAP and SNAP help, health insurance counseling and NY Connects. Its 14 passenger bus, which fits wheelchairs, walkers and scooters, brings older residents to the Age Well Center on weekday mornings and home again in the afternoon.",
+  "agingOffice": {
+   "name": "Cortland County Office for Aging",
+   "phone": "607-753-5060",
+   "url": "https://www.cortlandcountyny.gov/434/Office-for-Aging"
+  },
+  "transport": {
+   "name": "Cortland County Office for Aging bus to the Age Well Center",
+   "phone": "607-753-5084",
+   "url": "https://www.cortlandcountyny.gov/1135/Transportation"
+  },
+  "dss": {
+   "name": "Cortland County Department of Social Services",
+   "phone": "607-753-5320",
+   "url": "https://www.cortlandcountyny.gov/149/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Lime Hollow Nature Center, Cortland",
+    "note": "Its handicap accessible Trail for All sits near the visitor center."
+   }
+  ],
+  "sources": [
+   [
+    "Cortland County Area Agency on Aging (NYSOFA listing)",
+    "https://aging.ny.gov/location/cortland-county-area-agency-aging"
+   ],
+   [
+    "Cortland County Office for Aging",
+    "https://www.cortlandcountyny.gov/434/Office-for-Aging"
+   ],
+   [
+    "Cortland County OFA Transportation",
+    "https://www.cortlandcountyny.gov/1135/Transportation"
+   ],
+   [
+    "Cortland County Social Services",
+    "https://www.cortlandcountyny.gov/149/Social-Services"
+   ],
+   [
+    "Lime Hollow Nature Center visit",
+    "https://www.limehollow.org/visit"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "delaware",
+  "name": "Delaware County",
+  "region": "southern-tier",
+  "seat": "Delhi",
+  "towns": [
+   "Delhi",
+   "Walton",
+   "Sidney",
+   "Margaretville",
+   "Stamford",
+   "Hancock",
+   "Deposit",
+   "Andes"
+  ],
+  "intro": "Delaware County covers a wide stretch of the western Catskills, with the village of Delhi as its county seat. The Delaware County Office for the Aging offers caregiver help, EISEP in-home services, nutrition, legal aid, insurance counseling and NY Connects. Its senior bus, a coach-type bus with wheelchair access, runs fixed routes across most of the county three days a week.",
+  "agingOffice": {
+   "name": "Delaware County Office for the Aging",
+   "phone": "607-832-5750",
+   "url": "https://delcony.gov/departments/ofa/ofa.htm"
+  },
+  "transport": {
+   "name": "Office for the Aging Senior Transportation",
+   "phone": "607-832-5750",
+   "url": "https://delcony.gov/departments/ofa/Transportation.htm"
+  },
+  "dss": {
+   "name": "Delaware County Department of Social Services",
+   "phone": "607-832-5300",
+   "url": "https://delcony.gov/departments/dss/contact.html"
+  },
+  "places": [
+   {
+    "name": "Hanford Mills Museum, East Meredith",
+    "note": "Guided tours of the working mill run Wednesday through Sunday from mid May to mid October (reopening May 15, 2027), and seniors 65 and older pay $7."
+   },
+   {
+    "name": "Delaware County Historical Association, Delhi",
+    "note": "Its galleries are open weekdays in winter, and from mid May to early October adults pay $5 to see the historic buildings on the old Frisbee farm."
+   },
+   {
+    "name": "Catskill Scenic Trail",
+    "note": "A 26-mile trail on a former railroad through small towns in Delaware and Schoharie counties, with no trail fee listed."
+   },
+   {
+    "name": "Delaware and Ulster Railroad, Arkville",
+    "note": "Scenic train rides leave from the Arkville station on State Highway 28."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Delaware County Office for the Aging",
+    "https://aging.ny.gov/location/delaware-county-office-aging"
+   ],
+   [
+    "Delaware County Office for the Aging",
+    "https://delcony.gov/departments/ofa/ofa.htm"
+   ],
+   [
+    "Delaware County OFA: Transportation",
+    "https://delcony.gov/departments/ofa/Transportation.htm"
+   ],
+   [
+    "Delaware County DSS: Contact",
+    "https://delcony.gov/departments/dss/contact.html"
+   ],
+   [
+    "Hanford Mills Museum: Hours and Admissions",
+    "https://www.hanfordmills.org/visit-a-historic-workingmill/hours-admissions/"
+   ],
+   [
+    "Delaware County Historical Association",
+    "https://www.dcha-ny.org/"
+   ],
+   [
+    "Catskill Scenic Trail",
+    "https://www.catskillscenictrail.org/"
+   ],
+   [
+    "Delaware and Ulster Railroad",
+    "https://www.durr.org/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "dutchess",
   "name": "Dutchess County",
   "region": "hudson-valley",
@@ -391,6 +1142,84 @@
    [
     "New York State Library: Outline Map of NYS Counties (county seats)",
     "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "erie",
+  "name": "Erie County",
+  "region": "western",
+  "seat": "Buffalo",
+  "towns": [
+   "Buffalo",
+   "Amherst",
+   "Cheektowaga",
+   "Tonawanda",
+   "Hamburg",
+   "West Seneca",
+   "Lancaster",
+   "Orchard Park"
+  ],
+  "intro": "Erie County is home to Buffalo and its suburbs at the eastern end of Lake Erie. The Erie County Department for the Aging runs NY Connects, Stay Fit congregate dining, HIICAP insurance counseling and the Telephone Assurance Program. Its Going Places van gives curb-to-curb rides to people 60 and older who cannot use regular transportation, with a voluntary suggested contribution.",
+  "agingOffice": {
+   "name": "Erie County Department for the Aging",
+   "phone": "716-858-8526",
+   "url": "https://www3.erie.gov/aging/"
+  },
+  "transport": {
+   "name": "Going Places Van Service (Erie County Department for the Aging)",
+   "phone": "716-858-7433",
+   "url": "https://www3.erie.gov/aging/transportation"
+  },
+  "dss": {
+   "name": "Erie County Department of Social Services",
+   "phone": "716-858-8000",
+   "url": "https://www3.erie.gov/socialservices/"
+  },
+  "places": [
+   {
+    "name": "Evangola State Park",
+    "note": "The park lists an accessible nature center, playground, pavilions and cabins on the Lake Erie shore."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Erie County Dept. of Senior Services",
+    "https://aging.ny.gov/location/erie-county-dept-senior-services"
+   ],
+   [
+    "Erie County Department for the Aging",
+    "https://www3.erie.gov/aging/"
+   ],
+   [
+    "Erie County Going Places Van Service",
+    "https://www3.erie.gov/aging/transportation"
+   ],
+   [
+    "OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NYS Parks: Evangola",
+    "https://parks.ny.gov/parks/evangola/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Erie County Department of Social Services",
+    "https://www3.erie.gov/socialservices/"
    ]
   ],
   "verified": true,
@@ -528,7 +1357,7 @@
    "Caroga",
    "Ephratah"
   ],
-  "intro": "Fulton County sits in the southern foothills of the Adirondacks, home to Gloversville, Johnstown and the Great Sacandaga Lake. The Fulton County Office for the Aging in Johnstown helps residents 60 and over with meals, home care through EISEP, health insurance counseling, HEAP and NY Connects. Its own wheelchair accessible bus gives door to door rides across the county on weekdays to medical visits, senior centers, meal sites, banks and stores.",
+  "intro": "Fulton County sits in the southern foothills of the Adirondacks, home to Gloversville, Johnstown and the Great Sacandaga Lake. The Fulton County Office for the Aging in Johnstown helps residents 60 and over with meals, home care through EISEP, health insurance counseling, HEAP and NY Connects. Its own wheelchair accessible bus gives door to door rides across the county on weekdays.",
   "agingOffice": {
    "name": "Fulton County Office for the Aging",
    "phone": "518-736-5650",
@@ -582,6 +1411,100 @@
    [
     "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
     "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "genesee",
+  "name": "Genesee County",
+  "region": "finger-lakes",
+  "seat": "Batavia",
+  "towns": [
+   "Batavia",
+   "Le Roy",
+   "Oakfield",
+   "Corfu",
+   "Bergen",
+   "Alexander",
+   "Elba",
+   "Pavilion"
+  ],
+  "intro": "Genesee County lies between Buffalo and Rochester, with the city of Batavia at its center. The Genesee County Office for the Aging at 2 Bank Street in Batavia, also home to a senior center and meal site, offers Meals on Wheels, Medicare insurance help, caregiver support and the AmeriCorps Seniors RSVP volunteer program. RTS Genesee runs the county's public transit.",
+  "agingOffice": {
+   "name": "Genesee County Office for the Aging",
+   "phone": "585-343-1611",
+   "url": "https://www.geneseeny.gov/Department-Content/Office-For-The-Aging"
+  },
+  "transport": {
+   "name": "RTS Genesee (Regional Transit Service)",
+   "phone": "585-343-3079",
+   "url": "https://www.myrts.com/Genesee"
+  },
+  "dss": {
+   "name": "Genesee County Department of Social Services",
+   "phone": "585-344-2580",
+   "url": "https://www.geneseeny.gov/Department-Content/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Iroquois National Wildlife Refuge",
+    "note": "The 1.1-mile HQ Nature Trail is a gravel loop the refuge calls ADA accessible, and several marsh overlooks sit just off the road."
+   },
+   {
+    "name": "Genesee County Park and Forest",
+    "note": "The Interpretive Nature Center is open year-round, and the park runs programs that include groups of seniors."
+   },
+   {
+    "name": "Darien Lakes State Park",
+    "note": "The park lists accessible pavilions, shelters and showers."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Genesee County Office for the Aging",
+    "https://aging.ny.gov/location/genesee-county-office-aging"
+   ],
+   [
+    "Genesee County Office for the Aging",
+    "https://www.geneseeny.gov/Department-Content/Office-For-The-Aging"
+   ],
+   [
+    "RTS Genesee",
+    "https://www.myrts.com/Genesee"
+   ],
+   [
+    "Genesee County Social Services",
+    "https://www.geneseeny.gov/Department-Content/Social-Services"
+   ],
+   [
+    "USFWS: Iroquois NWR",
+    "https://www.fws.gov/refuge/iroquois/visit-us"
+   ],
+   [
+    "Genesee County Parks",
+    "https://www.geneseeny.gov/Department-Content/Parks-Recreation-and-Forestry"
+   ],
+   [
+    "NYS Parks: Darien Lakes",
+    "https://parks.ny.gov/parks/darienlakes/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "RTS contact numbers by county",
+    "https://www.myrts.com/Contact-Us"
    ]
   ],
   "verified": true,
@@ -719,6 +1642,86 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "herkimer",
+  "name": "Herkimer County",
+  "region": "mohawk-valley",
+  "seat": "Herkimer",
+  "towns": [
+   "Herkimer",
+   "Little Falls",
+   "Ilion",
+   "Mohawk",
+   "Frankfort",
+   "Dolgeville"
+  ],
+  "intro": "Herkimer County runs from the Mohawk Valley villages of Herkimer, Ilion and Little Falls north into the Adirondacks around Old Forge. The Herkimer County Office for the Aging in Herkimer handles caregiver support, HIICAP health insurance counseling, HEAP, nutrition services and NY Connects. It also gives rides within the county to residents 60 and over, with small suggested contributions by distance and a special Thursday and Friday run to Little Falls and Dolgeville.",
+  "agingOffice": {
+   "name": "Herkimer County Office for the Aging",
+   "phone": "315-867-1121",
+   "url": "https://www.herkimercountyny.gov/departments/office-for-the-aging"
+  },
+  "transport": {
+   "name": "Herkimer County Office for the Aging Transportation (age 60+, within the county)",
+   "phone": "315-867-1121",
+   "url": "https://www.herkimercountyny.gov/programs/transportation/"
+  },
+  "dss": {
+   "name": "Herkimer County Department of Social Services",
+   "phone": "315-867-1291",
+   "url": "https://www.herkimercountyny.gov/departments/social-services/"
+  },
+  "places": [
+   {
+    "name": "Herkimer Home State Historic Site, Little Falls",
+    "note": "The grounds are open year round from dawn to dusk with no vehicle entrance fee, the visitor center is accessible, and seniors pay $3 for a house tour."
+   },
+   {
+    "name": "Adirondack Railroad, Thendara Station (Old Forge)",
+    "note": "The railroad says its trips let people of all ages and physical capacities see remote parts of the Adirondacks; call 1-800-819-2291 to ask about access."
+   }
+  ],
+  "sources": [
+   [
+    "Herkimer County Office for the Aging (NYSOFA listing)",
+    "https://aging.ny.gov/location/herkimer-county-office-aging"
+   ],
+   [
+    "Herkimer County Office for the Aging",
+    "https://www.herkimercountyny.gov/departments/office-for-the-aging"
+   ],
+   [
+    "Herkimer County OFA Transportation",
+    "https://www.herkimercountyny.gov/programs/transportation/"
+   ],
+   [
+    "Herkimer County Department of Social Services",
+    "https://www.herkimercountyny.gov/departments/social-services/"
+   ],
+   [
+    "Herkimer Home State Historic Site",
+    "https://parks.ny.gov/historic-sites/herkimerhome/details.aspx"
+   ],
+   [
+    "Adirondack Railroad",
+    "https://www.adirondackrr.com/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "jefferson",
   "name": "Jefferson County",
   "region": "north-country",
@@ -841,6 +1844,165 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "livingston",
+  "name": "Livingston County",
+  "region": "finger-lakes",
+  "seat": "Geneseo",
+  "towns": [
+   "Geneseo",
+   "Dansville",
+   "Avon",
+   "Mount Morris",
+   "Caledonia",
+   "Lima",
+   "Livonia",
+   "Nunda"
+  ],
+  "intro": "Livingston County sits in the Genesee River valley south of Rochester, from Avon and Geneseo down to Dansville. The Livingston County Office for the Aging in Mount Morris offers home delivered meals, senior sites, dementia care help, legal services and HEAP for people 60 and older. It also puts on Seniorama, and RTS Livingston runs public bus and on demand rides.",
+  "agingOffice": {
+   "name": "Livingston County Office for the Aging",
+   "phone": "585-243-7520",
+   "url": "https://www.livingstoncountyny.gov/133/Aging-Office-for-the"
+  },
+  "transport": {
+   "name": "RTS Livingston (Regional Transit Service)",
+   "phone": "585-658-4690",
+   "url": "https://www.myrts.com/Livingston"
+  },
+  "dss": {
+   "name": "Livingston County Department of Social Services",
+   "phone": "585-243-7300",
+   "url": "https://www.livingstoncountyny.gov/274/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Letchworth State Park",
+    "note": "The park lists accessible cabins, campsites, food service and showers, plus the Humphrey Nature Center and a museum."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Livingston County Office for the Aging",
+    "https://aging.ny.gov/location/livingston-county-office-aging"
+   ],
+   [
+    "Livingston County Office for the Aging",
+    "https://www.livingstoncountyny.gov/133/Aging-Office-for-the"
+   ],
+   [
+    "RTS Livingston",
+    "https://www.myrts.com/Livingston"
+   ],
+   [
+    "NYS Parks: Letchworth",
+    "https://parks.ny.gov/parks/letchworth/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Livingston County Department of Social Services",
+    "https://www.livingstoncountyny.gov/274/Social-Services"
+   ],
+   [
+    "RTS contact numbers by county",
+    "https://www.myrts.com/Contact-Us"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "madison",
+  "name": "Madison County",
+  "region": "central",
+  "seat": "Wampsville",
+  "towns": [
+   "Wampsville",
+   "Oneida",
+   "Canastota",
+   "Cazenovia",
+   "Hamilton",
+   "Chittenango",
+   "Morrisville"
+  ],
+  "intro": "Madison County sits east of Syracuse, from the city of Oneida and Canastota on the old Erie Canal south to Cazenovia and Hamilton. The Madison County Office for the Aging in Canastota offers caregiver and in-home services, meals five or more days a week, NY Connects and a volunteer in-home help program for managing bills. It also runs Santa for Seniors for residents 60 and older and the Retired and Senior Volunteer Program.",
+  "agingOffice": {
+   "name": "Madison County Office for the Aging",
+   "phone": "315-697-5700",
+   "url": "https://www.ofamadco.org/"
+  },
+  "transport": {
+   "name": "Madison Transit System (run by Birnie Bus, wheelchair accessible buses, half fare for seniors)",
+   "phone": "315-335-5527",
+   "url": "https://www.madisoncounty.ny.gov/370/Transportation"
+  },
+  "dss": {
+   "name": "Madison County Department of Social Services",
+   "phone": "315-366-2211",
+   "url": "https://www.madisoncounty.ny.gov/233/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Chittenango Falls State Park, Cazenovia",
+    "note": "You can view the 167 foot falls from the top and from a footbridge, and the pavilions and shelters are accessible."
+   },
+   {
+    "name": "Lorenzo State Historic Site, Cazenovia",
+    "note": "The grounds and formal garden are open year round from dawn to dusk, the visitor center is accessible, and seniors pay a reduced tour price."
+   }
+  ],
+  "sources": [
+   [
+    "Madison County Office for the Aging (NYSOFA listing)",
+    "https://aging.ny.gov/location/madison-county-office-aging"
+   ],
+   [
+    "Madison County Office for the Aging",
+    "https://www.ofamadco.org/"
+   ],
+   [
+    "Madison County Social Services",
+    "https://www.madisoncounty.ny.gov/233/Social-Services"
+   ],
+   [
+    "Chittenango Falls State Park",
+    "https://parks.ny.gov/parks/chittenangofalls/details.aspx"
+   ],
+   [
+    "Lorenzo State Historic Site",
+    "https://parks.ny.gov/historic-sites/lorenzo/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Madison County Transportation (Madison Transit)",
+    "https://www.madisoncounty.ny.gov/370/Transportation"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "manhattan",
   "name": "Manhattan (New York County)",
   "region": "nyc",
@@ -927,6 +2089,100 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "monroe",
+  "name": "Monroe County",
+  "region": "finger-lakes",
+  "seat": "Rochester",
+  "towns": [
+   "Rochester",
+   "Greece",
+   "Irondequoit",
+   "Henrietta",
+   "Webster",
+   "Penfield",
+   "Brighton",
+   "Pittsford"
+  ],
+  "intro": "Monroe County sits on the Lake Ontario shore and is home to the city of Rochester. The Monroe County Office for the Aging helps residents 60 and older find meals, caregiver help, health insurance counseling and in-home services, with satellite offices in Greece and Webster. For rides, Lifespan of Greater Rochester offers free advice on transportation options, and RTS Access runs paratransit for people who cannot use the regular bus.",
+  "agingOffice": {
+   "name": "Monroe County Office for the Aging",
+   "phone": "585-753-6280",
+   "url": "https://www.monroecounty.gov/aging"
+  },
+  "transport": {
+   "name": "RTS Access (paratransit)",
+   "phone": "585-224-8330",
+   "url": "https://www.myrts.com/RTS-Access"
+  },
+  "dss": {
+   "name": "Monroe County Department of Human Services",
+   "phone": "585-753-6960",
+   "url": "https://monroecounty.gov/hs-assistance"
+  },
+  "places": [
+   {
+    "name": "The Strong National Museum of Play",
+    "note": "Free loaner wheelchairs, three elevators and plenty of benches on both floors make it easy to take a break."
+   },
+   {
+    "name": "Highland Park and Lamberton Conservatory",
+    "note": "The Lilac Arches have a brick patio with benches, and the conservatory is open year-round with $2 admission for seniors 62 and older."
+   },
+   {
+    "name": "George Eastman Museum",
+    "note": "Visitors 65 and older get a reduced admission price."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Monroe County Office for the Aging",
+    "https://aging.ny.gov/location/monroe-county-office-aging"
+   ],
+   [
+    "Monroe County Office for the Aging",
+    "https://www.monroecounty.gov/aging"
+   ],
+   [
+    "Monroe County Office for the Aging: Programs and Services",
+    "https://www.monroecounty.gov/aging-programs"
+   ],
+   [
+    "RTS: Contacting RTS Access",
+    "https://www.myrts.com/RTS-Access/Contacting-RTS-Access"
+   ],
+   [
+    "Monroe County DHS: Financial Assistance",
+    "https://monroecounty.gov/hs-assistance"
+   ],
+   [
+    "Monroe County Parks: Highland Park",
+    "https://www.monroecounty.gov/parks-highland"
+   ],
+   [
+    "The Strong: Accessibility",
+    "https://www.museumofplay.org/visit/accessibility/"
+   ],
+   [
+    "George Eastman Museum: Visit",
+    "https://www.eastman.org/visit"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "montgomery",
   "name": "Montgomery County",
   "region": "mohawk-valley",
@@ -940,7 +2196,7 @@
    "Palatine Bridge",
    "Fultonville"
   ],
-  "intro": "Montgomery County follows the Mohawk River and the Erie Canal between Amsterdam and St. Johnsville. The Montgomery County Office for Aging, with offices in Amsterdam and Canajoharie, runs meals, in-home help, NY Connects, health insurance counseling and legal services for older adults. Its OFA Senior Transport program uses volunteer drivers for medical rides for residents 60 and over, with a suggested $5 contribution per one way trip and at least seven days' notice.",
+  "intro": "Montgomery County follows the Mohawk River and the Erie Canal between Amsterdam and St. Johnsville. The Montgomery County Office for Aging, with offices in Amsterdam and Canajoharie, runs meals, in-home help, NY Connects, health insurance counseling and legal services for older adults. Its OFA Senior Transport program uses volunteer drivers for medical rides for residents 60 and over.",
   "agingOffice": {
    "name": "Montgomery County Office for the Aging, Inc.",
    "phone": "518-843-2300",
@@ -1101,6 +2357,370 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "niagara",
+  "name": "Niagara County",
+  "region": "western",
+  "seat": "Lockport",
+  "towns": [
+   "Niagara Falls",
+   "Lockport",
+   "North Tonawanda",
+   "Lewiston",
+   "Youngstown",
+   "Wheatfield",
+   "Newfane",
+   "Middleport"
+  ],
+  "intro": "Niagara County sits between Lake Ontario and the Niagara River, from the city of Niagara Falls east to Lockport on the Erie Canal. The Niagara County Office for the Aging in Lockport offers EISEP in-home help, HEAP, HIICAP insurance counseling, legal help and caregiver programs. Its Senior Medical Van gives curb-to-curb rides to medical appointments in Niagara, Erie and Orleans counties for residents 60 and older.",
+  "agingOffice": {
+   "name": "Niagara County Office for the Aging",
+   "phone": "716-438-4020",
+   "url": "https://www.niagaracounty.gov/departments/a-f/aging/about.php"
+  },
+  "transport": {
+   "name": "Senior Medical Van Transportation Service",
+   "phone": "716-438-3030",
+   "url": "https://www.niagaracounty.gov/departments/a-f/aging/services/medical_transportation.php"
+  },
+  "dss": {
+   "name": "Niagara County Department of Social Services",
+   "phone": "716-439-7600",
+   "url": "https://otda.ny.gov/workingfamilies/dss.asp"
+  },
+  "places": [
+   {
+    "name": "Fort Niagara State Park",
+    "note": "The park lists accessible pavilions and shelters, and its nature center by the pool opens Thursday to Sunday from July to mid September."
+   },
+   {
+    "name": "Aquarium of Niagara",
+    "note": "An indoor stop open daily from 9 a.m. to 5 p.m., so it works in any weather."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Niagara County Office for the Aging",
+    "https://aging.ny.gov/location/niagara-county-office-aging"
+   ],
+   [
+    "Niagara County Office for the Aging: About",
+    "https://www.niagaracounty.gov/departments/a-f/aging/about.php"
+   ],
+   [
+    "Niagara County Senior Medical Van",
+    "https://www.niagaracounty.gov/departments/a-f/aging/services/medical_transportation.php"
+   ],
+   [
+    "OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NYS Parks: Fort Niagara",
+    "https://parks.ny.gov/parks/fortniagara/details.aspx"
+   ],
+   [
+    "Aquarium of Niagara",
+    "https://www.aquariumofniagara.org/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "oneida",
+  "name": "Oneida County",
+  "region": "mohawk-valley",
+  "seat": "Utica",
+  "towns": [
+   "Utica",
+   "Rome",
+   "New Hartford",
+   "Whitesboro",
+   "Clinton",
+   "Boonville",
+   "Camden",
+   "Sherrill"
+  ],
+  "intro": "Oneida County is centered on Utica and Rome, from the Mohawk Valley up to Boonville and the Tug Hill edge. The Oneida County Office for Aging and Continuing Care offers in-home personal care, consumer directed EISEP, a volunteer bill payer program, help with adult day care costs, legal services and HIICAP counseling. Its Volunteer Transportation program serves office clients over 60 who are not on Medicaid, and the county asks riders to give plenty of notice because demand is high.",
+  "agingOffice": {
+   "name": "Oneida County Office for Aging and Continuing Care",
+   "phone": "315-798-5456",
+   "url": "https://oneidacountyny.gov/departments/office-for-aging-and-continuing-care/"
+  },
+  "transport": {
+   "name": "Office for Aging Volunteer Transportation (clients over 60, not on Medicaid)",
+   "phone": "315-798-5456",
+   "url": "https://oneidacountyny.gov/departments/office-for-aging-and-continuing-care/programs/transportation/"
+  },
+  "dss": {
+   "name": "Oneida County Department of Social Services",
+   "phone": "315-798-5700",
+   "url": "https://oneidacountyny.gov/departments/department-of-family-and-community-services/department-of-social-services/"
+  },
+  "places": [
+   {
+    "name": "Munson Museum of Art, Utica",
+    "note": "Admission is free year round, parking behind the museum is free, and the accessible entrance is at the rear with accessible parking along the drive."
+   },
+   {
+    "name": "Fort Stanwix National Monument, Rome",
+    "note": "Accessible parking sits by the fort and the Willett Center, ramps reach most buildings, and a half mile trail is partly paved."
+   },
+   {
+    "name": "Utica Zoo, Utica",
+    "note": "Manual wheelchairs are free to borrow (reserve at 315-738-0427), parking in its two lots is free, and seniors 62 and older pay a reduced price."
+   },
+   {
+    "name": "Oriskany Battlefield State Historic Site, Oriskany",
+    "note": "The grounds, visitor center and guided tours are free, with signs along the trails explaining the battle."
+   }
+  ],
+  "sources": [
+   [
+    "Oneida County Office for the Aging/Continuing Care (NYSOFA listing)",
+    "https://aging.ny.gov/location/oneida-county-office-agingcontinuing-care"
+   ],
+   [
+    "Oneida County Office for Aging and Continuing Care",
+    "https://oneidacountyny.gov/departments/office-for-aging-and-continuing-care/"
+   ],
+   [
+    "Oneida County OFA Volunteer Transportation",
+    "https://oneidacountyny.gov/departments/office-for-aging-and-continuing-care/programs/transportation/"
+   ],
+   [
+    "Munson visit",
+    "https://www.munson.art/visit"
+   ],
+   [
+    "Fort Stanwix accessibility (NPS)",
+    "https://www.nps.gov/fost/planyourvisit/accessibility.htm"
+   ],
+   [
+    "Utica Zoo visit",
+    "https://www.uticazoo.org/visit"
+   ],
+   [
+    "Oriskany Battlefield State Historic Site",
+    "https://parks.ny.gov/historic-sites/oriskanybattlefield/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Oneida County Department of Social Services",
+    "https://oneidacountyny.gov/departments/department-of-family-and-community-services/department-of-social-services/"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "onondaga",
+  "name": "Onondaga County",
+  "region": "central",
+  "seat": "Syracuse",
+  "towns": [
+   "Syracuse",
+   "Liverpool",
+   "Baldwinsville",
+   "Fayetteville",
+   "Manlius",
+   "Camillus",
+   "Cicero",
+   "Skaneateles"
+  ],
+  "intro": "Onondaga County surrounds the city of Syracuse, from the suburbs around Onondaga Lake out to Skaneateles and the hills south of the city. The county Office for Aging, part of the Department of Adult and Long Term Care Services in the Civic Center, offers caregiver services, EISEP home care, HEAP heating help, health insurance help and home delivered meals. Residents 60 and over can also register for OSCAR, Centro's Onondaga Senior Call-A-Ride, which runs weekdays with a suggested $2 contribution per trip.",
+  "agingOffice": {
+   "name": "Onondaga County Department of Adult and Long Term Care Services (Office for Aging)",
+   "phone": "315-435-2362",
+   "url": "https://onondaga.gov/aging/"
+  },
+  "transport": {
+   "name": "OSCAR, Onondaga Senior Call-A-Ride (Centro, age 60+, pre-register at 315-442-3434)",
+   "phone": "315-442-3420",
+   "url": "https://www.centro.org/specialized-transit/oscar"
+  },
+  "dss": {
+   "name": "Onondaga County Department of Social Services, Economic Security",
+   "phone": "315-435-2700",
+   "url": "https://onondaga.gov/dss/"
+  },
+  "places": [
+   {
+    "name": "Everson Museum of Art, Syracuse",
+    "note": "An elevator serves all three floors, there is accessible parking out front, and seniors 65 and older get in free on Sundays through December 27, 2026."
+   },
+   {
+    "name": "Rosamond Gifford Zoo, Syracuse",
+    "note": "Push wheelchairs are free to borrow at the Membership Desk, and a few motorized wheelchairs are free for adults except in bad weather."
+   },
+   {
+    "name": "Green Lakes State Park, Fayetteville",
+    "note": "Entry is free, and an all terrain wheelchair for the beach and trails is lent at no charge when available."
+   },
+   {
+    "name": "Erie Canal Museum, Syracuse",
+    "note": "The museum is open daily and offers a senior rate for visitors 65 and older."
+   }
+  ],
+  "sources": [
+   [
+    "Onondaga Department of Adult and Long Term Care Services (NYSOFA listing)",
+    "https://aging.ny.gov/location/onondaga-department-adult-long-term-care-services"
+   ],
+   [
+    "Onondaga County Office for Aging",
+    "https://onondaga.gov/aging/"
+   ],
+   [
+    "Centro OSCAR",
+    "https://www.centro.org/specialized-transit/oscar"
+   ],
+   [
+    "Onondaga County DSS Economic Security",
+    "https://onondaga.gov/dss/"
+   ],
+   [
+    "Everson Museum visit",
+    "https://everson.org/visit/"
+   ],
+   [
+    "Rosamond Gifford Zoo visit",
+    "https://www.rosamondgiffordzoo.org/visit/"
+   ],
+   [
+    "Green Lakes State Park",
+    "https://parks.ny.gov/parks/greenlakes/details.aspx"
+   ],
+   [
+    "Erie Canal Museum visit",
+    "https://www.eriecanalmuseum.org/visit"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "ontario",
+  "name": "Ontario County",
+  "region": "finger-lakes",
+  "seat": "Canandaigua",
+  "towns": [
+   "Canandaigua",
+   "Geneva",
+   "Victor",
+   "Farmington",
+   "Phelps",
+   "Clifton Springs",
+   "Naples",
+   "Bloomfield"
+  ],
+  "intro": "Ontario County stretches from the Rochester suburbs south to Canandaigua Lake and the city of Geneva on Seneca Lake. The Ontario County Office for the Aging in Canandaigua runs NY Connects, home delivered meals and a Fraud Corner with scam alerts for older residents. Public buses and on-request rides in the county are run by RTS Ontario.",
+  "agingOffice": {
+   "name": "Ontario County Office for the Aging",
+   "phone": "585-396-4040",
+   "url": "https://www.co.ontario.ny.us/index.aspx?nid=100"
+  },
+  "transport": {
+   "name": "RTS Ontario (Regional Transit Service)",
+   "phone": "585-394-2250",
+   "url": "https://www.myrts.com/Ontario"
+  },
+  "dss": {
+   "name": "Ontario County Department of Social Services",
+   "phone": "585-396-4060",
+   "url": "https://otda.ny.gov/workingfamilies/dss.asp"
+  },
+  "places": [
+   {
+    "name": "Sonnenberg Gardens and Mansion State Historic Park",
+    "note": "A 50-acre estate of flower gardens and a mansion in Canandaigua, open Thursday to Monday from May 1 to October 31."
+   },
+   {
+    "name": "Ganondagan State Historic Site",
+    "note": "The visitor center is accessible and the grounds have a picnic area."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Ontario County Office for the Aging",
+    "https://aging.ny.gov/location/ontario-county-office-aging"
+   ],
+   [
+    "Ontario County Office for the Aging",
+    "https://www.co.ontario.ny.us/index.aspx?nid=100"
+   ],
+   [
+    "RTS Ontario",
+    "https://www.myrts.com/Ontario"
+   ],
+   [
+    "OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "Sonnenberg Gardens and Mansion",
+    "https://sonnenberg.org/"
+   ],
+   [
+    "NYS Parks: Ganondagan",
+    "https://parks.ny.gov/historic-sites/ganondagan/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "RTS contact numbers by county",
+    "https://www.myrts.com/Contact-Us"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "orange",
   "name": "Orange County",
   "region": "hudson-valley",
@@ -1176,6 +2796,261 @@
    "phone": "845-291-4000",
    "url": "https://otda.ny.gov/workingfamilies/dss.asp"
   },
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "orleans",
+  "name": "Orleans County",
+  "region": "finger-lakes",
+  "seat": "Albion",
+  "towns": [
+   "Albion",
+   "Medina",
+   "Holley",
+   "Lyndonville",
+   "Kendall",
+   "Carlton",
+   "Gaines",
+   "Ridgeway"
+  ],
+  "intro": "Orleans County is a farming county on the Lake Ontario shore between Rochester and Niagara Falls, crossed by the Erie Canal. The Orleans County Office for the Aging in Albion runs Meals on Wheels, the NUTRIFAIR meal sites, Medicare Part D and EPIC help, and a volunteer driver program for residents 60 and older who book at least a week ahead. RTS Orleans runs the county's public transit.",
+  "agingOffice": {
+   "name": "Orleans County Office for the Aging",
+   "phone": "585-589-3191",
+   "url": "https://www.orleanscountyny.gov/departments/office_for_the_aging/index.php"
+  },
+  "transport": {
+   "name": "RTS Orleans (Regional Transit Service)",
+   "phone": "585-589-0707",
+   "url": "https://www.myrts.com/Orleans"
+  },
+  "dss": {
+   "name": "Orleans County Department of Social Services",
+   "phone": "585-589-7000",
+   "url": "https://otda.ny.gov/workingfamilies/dss.asp"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Orleans County Office for the Aging",
+    "https://aging.ny.gov/location/orleans-county-office-aging"
+   ],
+   [
+    "Orleans County Office for the Aging",
+    "https://www.orleanscountyny.gov/departments/office_for_the_aging/index.php"
+   ],
+   [
+    "RTS Orleans",
+    "https://www.myrts.com/Orleans"
+   ],
+   [
+    "OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "RTS contact numbers by county",
+    "https://www.myrts.com/Contact-Us"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "oswego",
+  "name": "Oswego County",
+  "region": "central",
+  "seat": "Oswego",
+  "towns": [
+   "Oswego",
+   "Fulton",
+   "Pulaski",
+   "Mexico",
+   "Phoenix",
+   "Central Square",
+   "Parish"
+  ],
+  "intro": "Oswego County sits on the southeast shore of Lake Ontario, with the city of Oswego on the lake and Fulton on the Oswego River. The Oswego County Office for the Aging offers caregiver services, HIICAP, legal and nutrition services, home care help, a Friendly Call program and NY Connects. For rides, ACCESS Oswego, run by Oswego County Opportunities, gives free curb to curb trips to doctors, pharmacies and grocery stores for people off a bus route.",
+  "agingOffice": {
+   "name": "Oswego County Office for the Aging",
+   "phone": "315-349-3484",
+   "url": "https://www.oswegocountyny.gov/departments/human_services/office_for_the_aging/index.php"
+  },
+  "transport": {
+   "name": "ACCESS Oswego (Oswego County Opportunities, book two days ahead)",
+   "phone": "315-598-1514",
+   "url": "https://www.oswegocountyny.gov/departments/human_services/office_for_the_aging/transportation.php"
+  },
+  "dss": {
+   "name": "Oswego County Department of Social Services",
+   "phone": "315-963-5000",
+   "url": "https://www.oswegocountyny.gov/departments/human_services/social_services/information.php"
+  },
+  "places": [
+   {
+    "name": "Fort Ontario State Historic Site, Oswego",
+    "note": "The visitor center is accessible, picnicking is free, and seniors pay a reduced admission price."
+   },
+   {
+    "name": "Selkirk Shores State Park, Pulaski",
+    "note": "This Lake Ontario park is open year round from sunrise to sunset and lists accessible showers."
+   },
+   {
+    "name": "H. Lee White Maritime Museum, Oswego",
+    "note": "The museum sits at the end of the West First Street Pier in Oswego Harbor and is open afternoons most of the year."
+   }
+  ],
+  "sources": [
+   [
+    "Oswego County Office for the Aging (NYSOFA listing)",
+    "https://aging.ny.gov/location/oswego-county-office-aging"
+   ],
+   [
+    "Oswego County Office for the Aging",
+    "https://www.oswegocountyny.gov/departments/human_services/office_for_the_aging/index.php"
+   ],
+   [
+    "Oswego County OFA transportation",
+    "https://www.oswegocountyny.gov/departments/human_services/office_for_the_aging/transportation.php"
+   ],
+   [
+    "Oswego County DSS contact",
+    "https://www.oswegocountyny.gov/departments/human_services/social_services/information.php"
+   ],
+   [
+    "Fort Ontario State Historic Site",
+    "https://parks.ny.gov/historic-sites/fortontario/details.aspx"
+   ],
+   [
+    "Selkirk Shores State Park",
+    "https://parks.ny.gov/parks/selkirkshores/details.aspx"
+   ],
+   [
+    "H. Lee White Maritime Museum",
+    "https://hlwmm.org/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "otsego",
+  "name": "Otsego County",
+  "region": "mohawk-valley",
+  "seat": "Cooperstown",
+  "towns": [
+   "Cooperstown",
+   "Oneonta",
+   "Richfield Springs",
+   "Cherry Valley",
+   "Unadilla",
+   "Otego",
+   "Laurens"
+  ],
+  "intro": "Otsego County is a rural county of lakes and hills, with Cooperstown at the south end of Otsego Lake and the city of Oneonta to the southwest. The Otsego County Office for the Aging and NY Connects in Cooperstown offers caregiver services, dining and nutrition, health insurance counseling, HEAP and in-home services. It also gives non-emergency rides to scheduled medical visits and prescription pickups, with a suggested $5 per trip contribution and no one turned away for being unable to pay.",
+  "agingOffice": {
+   "name": "Otsego County Office for the Aging",
+   "phone": "607-547-4232",
+   "url": "https://www.otsegocountyny.gov/departments/office_for_the_aging/index.php"
+  },
+  "transport": {
+   "name": "Otsego County Office for the Aging Transportation (medical rides)",
+   "phone": "607-547-4232",
+   "url": "https://www.otsegocountyny.gov/departments/n-r/office_for_the_aging/transportation.php"
+  },
+  "dss": {
+   "name": "Otsego County Department of Social Services",
+   "phone": "607-547-1700",
+   "url": "https://www.otsegocountyny.gov/departments/social_services/index.php"
+  },
+  "places": [
+   {
+    "name": "National Baseball Hall of Fame and Museum, Cooperstown",
+    "note": "An elevator reaches all floors, wheelchairs are free to borrow, and visitors 65 and older pay a senior rate."
+   },
+   {
+    "name": "Fenimore Art Museum, Cooperstown",
+    "note": "All public galleries are wheelchair accessible, an elevator serves every level, and seniors 65 and older pay a reduced price."
+   },
+   {
+    "name": "Glimmerglass State Park, Cooperstown",
+    "note": "The park has an accessible swimming beach and kayak launch, and it is open every day of the year from dawn to dusk."
+   },
+   {
+    "name": "Gilbert Lake State Park, Laurens",
+    "note": "The park lists an accessible visitor center, nature center, swimming beach, and campsites, cabins and lodging."
+   }
+  ],
+  "sources": [
+   [
+    "Otsego County Office for the Aging (NYSOFA listing)",
+    "https://aging.ny.gov/location/otsego-county-office-aging"
+   ],
+   [
+    "Otsego County Office for the Aging",
+    "https://www.otsegocountyny.gov/departments/office_for_the_aging/index.php"
+   ],
+   [
+    "Otsego County OFA Transportation",
+    "https://www.otsegocountyny.gov/departments/n-r/office_for_the_aging/transportation.php"
+   ],
+   [
+    "Otsego County Department of Social Services",
+    "https://www.otsegocountyny.gov/departments/social_services/index.php"
+   ],
+   [
+    "National Baseball Hall of Fame visit",
+    "https://baseballhall.org/visit"
+   ],
+   [
+    "Fenimore Art Museum visit",
+    "https://www.fenimoreartmuseum.org/visit"
+   ],
+   [
+    "Glimmerglass State Park",
+    "https://parks.ny.gov/parks/glimmerglass/details.aspx"
+   ],
+   [
+    "Gilbert Lake State Park",
+    "https://parks.ny.gov/parks/gilbertlake/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
   "checked": "2026-11-25"
  },
  {
@@ -1729,6 +3604,185 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "schuyler",
+  "name": "Schuyler County",
+  "region": "southern-tier",
+  "seat": "Watkins Glen",
+  "towns": [
+   "Watkins Glen",
+   "Montour Falls",
+   "Odessa",
+   "Burdett",
+   "Hector",
+   "Dix",
+   "Tyrone"
+  ],
+  "intro": "Schuyler County wraps around the southern tip of Seneca Lake, with Watkins Glen as its county seat. The Schuyler County Office for the Aging in Montour Falls offers health insurance counseling (HIICAP), home delivered and congregate meals, caregiver help, legal services, shopping assistance and a safe driving course. Every ride service for county residents, from Dial-a-Ride to Office for the Aging volunteer drivers, is coordinated through one number, the Transportation Link-Line.",
+  "agingOffice": {
+   "name": "Schuyler County Office for the Aging",
+   "phone": "607-535-7108",
+   "url": "https://www.schuylercountyny.gov/157/Office-for-the-Aging"
+  },
+  "transport": {
+   "name": "Transportation Link-Line (public transportation, Dial-a-Ride, OFA volunteer drivers)",
+   "phone": "607-535-3555",
+   "url": "https://www.schuylercountyny.gov/342/Transportation-Services"
+  },
+  "dss": {
+   "name": "Schuyler County Department of Social Services",
+   "phone": "607-535-8303",
+   "url": "https://www.schuylercountyny.gov/189"
+  },
+  "places": [
+   {
+    "name": "Watkins Glen State Park",
+    "note": "The Gorge Trail has many stone steps and is closed until mid to late May 2027, but the north and south rim trails stay open all year from sunrise to sunset, and the park lists an accessible swimming pool."
+   },
+   {
+    "name": "Brick Tavern Museum, Montour Falls",
+    "note": "The Schuyler County Historical Society's 1828 headquarters is open Tuesday through Friday, and renovation work is under way, so call 607-535-9741 before you go."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Schuyler County Office for the Aging",
+    "https://aging.ny.gov/location/schuyler-county-office-aging"
+   ],
+   [
+    "Schuyler County: Office for the Aging",
+    "https://www.schuylercountyny.gov/157/Office-for-the-Aging"
+   ],
+   [
+    "Schuyler County: Transportation Services",
+    "https://www.schuylercountyny.gov/342/Transportation-Services"
+   ],
+   [
+    "Schuyler County: Social Services",
+    "https://www.schuylercountyny.gov/189"
+   ],
+   [
+    "NY State Parks: Watkins Glen State Park",
+    "https://parks.ny.gov/parks/watkinsglen/details.aspx"
+   ],
+   [
+    "Schuyler County Historical Society",
+    "https://www.schuylerhistory.org/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "seneca",
+  "name": "Seneca County",
+  "region": "finger-lakes",
+  "seat": "Waterloo",
+  "towns": [
+   "Seneca Falls",
+   "Waterloo",
+   "Ovid",
+   "Interlaken",
+   "Romulus",
+   "Lodi",
+   "Fayette",
+   "Tyre"
+  ],
+  "intro": "Seneca County lies between Seneca Lake and Cayuga Lake in the heart of the Finger Lakes. The Seneca County Office for the Aging in Waterloo offers home delivered and grab and go meals, a loan closet, home repair help, health insurance counseling and transportation. RTS Seneca runs public bus service in the county.",
+  "agingOffice": {
+   "name": "Seneca County Office for the Aging",
+   "phone": "315-539-1765",
+   "url": "https://www.senecacountyny.gov/248/Office-for-the-Aging"
+  },
+  "transport": {
+   "name": "RTS Seneca (Regional Transit Service)",
+   "phone": "315-539-1844",
+   "url": "https://www.myrts.com/Seneca"
+  },
+  "dss": {
+   "name": "Seneca County Human Services (Temporary Assistance)",
+   "phone": "315-539-1800",
+   "url": "https://www.senecacountyny.gov/263/Temporary-Assistance"
+  },
+  "places": [
+   {
+    "name": "Montezuma National Wildlife Refuge",
+    "note": "The 3-mile Wildlife Drive lets you watch birds from your car from April 1 to November 30, and the trails have very little elevation gain."
+   },
+   {
+    "name": "Sampson State Park",
+    "note": "The park lists accessible fishing, food service, pavilions and showers on Seneca Lake."
+   },
+   {
+    "name": "Cayuga Lake State Park",
+    "note": "Accessible fishing, pavilions, boat launches, cabins and a swimming beach are listed for this lakeside park."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Seneca County Office for the Aging",
+    "https://aging.ny.gov/location/seneca-county-office-aging"
+   ],
+   [
+    "Seneca County Office for the Aging",
+    "https://www.senecacountyny.gov/248/Office-for-the-Aging"
+   ],
+   [
+    "RTS Seneca",
+    "https://www.myrts.com/Seneca"
+   ],
+   [
+    "Seneca County Temporary Assistance",
+    "https://www.senecacountyny.gov/263/Temporary-Assistance"
+   ],
+   [
+    "USFWS: Montezuma NWR",
+    "https://www.fws.gov/refuge/montezuma/visit-us"
+   ],
+   [
+    "NYS Parks: Sampson",
+    "https://parks.ny.gov/parks/sampson/details.aspx"
+   ],
+   [
+    "NYS Parks: Cayuga Lake",
+    "https://parks.ny.gov/parks/cayugalake/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Local Departments of Social Services (NYS OTDA)",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "RTS contact numbers by county",
+    "https://www.myrts.com/Contact-Us"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "st-lawrence",
   "name": "St. Lawrence County",
   "region": "north-country",
@@ -1870,6 +3924,80 @@
    [
     "Staten Island Museum: Visit",
     "https://www.statenislandmuseum.org/visit/"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "steuben",
+  "name": "Steuben County",
+  "region": "southern-tier",
+  "seat": "Bath",
+  "towns": [
+   "Corning",
+   "Hornell",
+   "Bath",
+   "Painted Post",
+   "Hammondsport",
+   "Addison",
+   "Canisteo",
+   "Wayland"
+  ],
+  "intro": "Steuben County stretches from Corning and Hornell north to Keuka Lake, with Bath as its county seat. The Steuben County Office for the Aging has offices in Bath and at the senior citizens centers in Corning and Hornell, and it offers in-home care, home delivered meals, home repairs, respite and caregiver help. For non-emergency medical rides, the office works with Steuben Coordinated Transportation, Faith in Action and Project CARE through one number.",
+  "agingOffice": {
+   "name": "Steuben County Office for the Aging",
+   "phone": "607-664-2298",
+   "url": "https://www.steubencountyny.gov/235/Office-for-the-Aging"
+  },
+  "transport": {
+   "name": "Office for the Aging medical rides (Steuben Coordinated Transportation, Faith in Action, Project CARE)",
+   "phone": "800-346-2211",
+   "url": "https://www.steubencountyny.gov/251/Help-at-Home"
+  },
+  "dss": {
+   "name": "Steuben County Department of Social Services",
+   "phone": "607-664-2000",
+   "url": "https://www.steubencountyny.gov/m/directory/department?did=58"
+  },
+  "places": [
+   {
+    "name": "Glenn H. Curtiss Museum, Hammondsport",
+    "note": "The aviation museum half a mile south of Hammondsport is open daily, 10 a.m. to 4 p.m."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Steuben County Office for the Aging",
+    "https://aging.ny.gov/location/steuben-county-office-aging"
+   ],
+   [
+    "Steuben County: Office for the Aging",
+    "https://www.steubencountyny.gov/235/Office-for-the-Aging"
+   ],
+   [
+    "Steuben County OFA: Help at Home",
+    "https://www.steubencountyny.gov/251/Help-at-Home"
+   ],
+   [
+    "Glenn H. Curtiss Museum",
+    "https://www.glennhcurtissmuseum.org/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Steuben County Department of Social Services directory",
+    "https://www.steubencountyny.gov/m/directory/department?did=58"
    ]
   ],
   "verified": true,
@@ -2137,6 +4265,172 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "tioga",
+  "name": "Tioga County",
+  "region": "southern-tier",
+  "seat": "Owego",
+  "towns": [
+   "Owego",
+   "Waverly",
+   "Candor",
+   "Newark Valley",
+   "Spencer",
+   "Nichols"
+  ],
+  "intro": "Tioga County lies along the Susquehanna River on the Pennsylvania line, with the village of Owego as its county seat. Aging services here run through Tioga Opportunities, Inc., which offers home delivered meals, congregate dining, in-home care, respite for caregivers and Medicare counseling. For rides, the county lists Getthere, a mobility management service focused on older adults in rural areas that helps people find and plan trips.",
+  "agingOffice": {
+   "name": "Tioga Opportunities, Inc. (Tioga County aging services)",
+   "phone": "607-687-4120",
+   "url": "https://tiogaopp.org/our-services/"
+  },
+  "transport": {
+   "name": "Getthere Mobility Management of South Central New York",
+   "phone": "607-296-2509",
+   "url": "https://gettherescny.org/"
+  },
+  "dss": {
+   "name": "Tioga County Department of Social Services",
+   "phone": "607-687-8300",
+   "url": "https://www.tiogacountyny.gov/departments/social-services/"
+  },
+  "places": [
+   {
+    "name": "Tioga County Historical Society Museum, Owego",
+    "note": "The museum says it is fully wheelchair accessible through a side elevator (ring the bell for help), and its lot has spaces for visitors with disabilities."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Tioga Opportunities, Inc.",
+    "https://aging.ny.gov/location/tioga-opportunities-inc"
+   ],
+   [
+    "Tioga Opportunities: Our Services",
+    "https://tiogaopp.org/our-services/"
+   ],
+   [
+    "Tioga County: Social Services",
+    "https://www.tiogacountyny.gov/departments/social-services/"
+   ],
+   [
+    "Broome County Office for Aging: Transportation (Getthere phone)",
+    "https://www.gobroomecounty.com/senior/transportation"
+   ],
+   [
+    "Tioga County Historical Society: Accessibility",
+    "https://tiogahistory.org/visit/accessibility/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "tompkins",
+  "name": "Tompkins County",
+  "region": "southern-tier",
+  "seat": "Ithaca",
+  "towns": [
+   "Ithaca",
+   "Lansing",
+   "Dryden",
+   "Groton",
+   "Trumansburg",
+   "Newfield",
+   "Ulysses",
+   "Caroline"
+  ],
+  "intro": "Tompkins County sits at the southern end of Cayuga Lake, with the city of Ithaca as its county seat. The Tompkins County Office for the Aging offers NY Connects, HIICAP Medicare counseling, EISEP in-home services, HEAP help, yard work and snow shoveling help, and minor home safety repairs. For rides, Gadabout is a volunteer transportation service for older and disabled Tompkins County residents.",
+  "agingOffice": {
+   "name": "Tompkins County Office for the Aging",
+   "phone": "607-274-5482",
+   "url": "https://www.tompkinscountyny.gov/All-Departments/Aging"
+  },
+  "transport": {
+   "name": "Gadabout Transportation Services",
+   "phone": "607-273-1878",
+   "url": "https://gadaboutbus.org/"
+  },
+  "dss": {
+   "name": "Tompkins County Department of Social Services",
+   "phone": "607-274-5680",
+   "url": "https://www.tompkinscountyny.gov/All-Departments/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Herbert F. Johnson Museum of Art, Ithaca",
+    "note": "Admission is always free, and a wheelchair is available in the lobby."
+   },
+   {
+    "name": "Cornell Lab of Ornithology at Sapsucker Woods, Ithaca",
+    "note": "Admission is free, more than 5 miles of trails are open dawn to dusk, and accessible parking is available."
+   },
+   {
+    "name": "Cornell Botanic Gardens, Ithaca",
+    "note": "The gardens are free and open year round from dawn to dusk, and the Nevin Welcome Center has fully accessible restrooms."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Tompkins County Office for the Aging",
+    "https://aging.ny.gov/location/tompkins-county-office-aging"
+   ],
+   [
+    "Tompkins County Office for the Aging",
+    "https://www.tompkinscountyny.gov/All-Departments/Aging"
+   ],
+   [
+    "Tompkins County OFA: Local Resources for Older Adults",
+    "https://www.tompkinscountyny.gov/All-Departments/Aging/Local-Resources-for-Older-Adults"
+   ],
+   [
+    "Gadabout",
+    "https://gadaboutbus.org/"
+   ],
+   [
+    "Tompkins County Department of Social Services",
+    "https://www.tompkinscountyny.gov/All-Departments/Social-Services"
+   ],
+   [
+    "Johnson Museum of Art: Visit",
+    "https://museum.cornell.edu/visit/"
+   ],
+   [
+    "Cornell Lab of Ornithology: Visit",
+    "https://www.birds.cornell.edu/home/visit/"
+   ],
+   [
+    "Cornell Botanic Gardens: Visit",
+    "https://cornellbotanicgardens.org/visit/"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "ulster",
   "name": "Ulster County",
   "region": "hudson-valley",
@@ -2332,6 +4626,104 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "wayne",
+  "name": "Wayne County",
+  "region": "finger-lakes",
+  "seat": "Lyons",
+  "towns": [
+   "Newark",
+   "Palmyra",
+   "Lyons",
+   "Sodus",
+   "Clyde",
+   "Macedon",
+   "Ontario",
+   "Wolcott"
+  ],
+  "intro": "Wayne County runs along the Lake Ontario shore between Rochester and Syracuse, with the Erie Canal passing through Palmyra, Newark and Lyons. Services for older adults come from the Wayne County Department of Aging and Youth in Lyons, which offers Medicare insurance help, NY Connects, caregiver services and Lunch Club 60 meal sites. RTS Wayne runs the public bus in the county.",
+  "agingOffice": {
+   "name": "Wayne County Department of Aging and Youth",
+   "phone": "315-946-5624",
+   "url": "https://www.waynecountyny.gov/157/Aging-Youth"
+  },
+  "transport": {
+   "name": "RTS Wayne (Regional Transit Service)",
+   "phone": "315-946-5617",
+   "url": "https://www.myrts.com/Wayne"
+  },
+  "dss": {
+   "name": "Wayne County Department of Social Services",
+   "phone": "315-946-4881",
+   "url": "https://www.waynecountyny.gov/250/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Trail of Hope, Lyons",
+    "note": "A half-mile nature trail behind the Lyons Community Center that the village lists as handicapped accessible."
+   },
+   {
+    "name": "Central Park Area, Lyons",
+    "note": "The village green has benches, a bandstand and fountains."
+   },
+   {
+    "name": "Empire State Trail, Palmyra to Newark",
+    "note": "A flat, stable stonedust trail along the canal, with parking and trail access at local parks and road crossings."
+   },
+   {
+    "name": "Chimney Bluffs State Park",
+    "note": "Day-use services include picnic areas, nature trails and restrooms."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Wayne County Department of Aging and Youth",
+    "https://aging.ny.gov/location/wayne-county-department-aging-youth"
+   ],
+   [
+    "RTS Wayne",
+    "https://www.myrts.com/Wayne"
+   ],
+   [
+    "Wayne County Social Services",
+    "https://www.waynecountyny.gov/250/Social-Services"
+   ],
+   [
+    "Village of Lyons: Attractions",
+    "https://www.lyonsny.gov/attractions"
+   ],
+   [
+    "Empire State Trail: Palmyra to Newark",
+    "https://empiretrail.ny.gov/rochester-syracuse/palmyra-newark"
+   ],
+   [
+    "NYS Parks: Chimney Bluffs",
+    "https://parks.ny.gov/parks/chimneybluffs/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "Wayne County Aging and Youth",
+    "https://www.waynecountyny.gov/157/Aging-Youth"
+   ],
+   [
+    "RTS contact numbers by county",
+    "https://www.myrts.com/Contact-Us"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "westchester",
   "name": "Westchester County",
   "region": "hudson-valley",
@@ -2424,6 +4816,155 @@
    [
     "New York State Library: Outline Map of NYS Counties (county seats)",
     "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "wyoming",
+  "name": "Wyoming County",
+  "region": "finger-lakes",
+  "seat": "Warsaw",
+  "towns": [
+   "Warsaw",
+   "Perry",
+   "Arcade",
+   "Attica",
+   "Castile",
+   "Silver Springs",
+   "Pike",
+   "Wyoming"
+  ],
+  "intro": "Wyoming County is a rural county of farms and small villages south of Batavia, sharing Letchworth State Park with Livingston County. The Wyoming County Office for the Aging in Warsaw helps with caregiver support, home delivered meals, respite, housing and benefit programs such as EPIC, Medicare and HEAP. RTS Wyoming runs the county's public transit.",
+  "agingOffice": {
+   "name": "Wyoming County Office for Aging",
+   "phone": "585-786-8833",
+   "url": "https://www.wyomingcountyny.gov/328/Office-for-the-Aging"
+  },
+  "transport": {
+   "name": "RTS Wyoming (Regional Transit Service)",
+   "phone": "585-786-6050",
+   "url": "https://www.myrts.com/Wyoming"
+  },
+  "dss": {
+   "name": "Wyoming County Department of Social Services",
+   "phone": "585-786-8900",
+   "url": "https://www.wyomingcountyny.gov/205/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Letchworth State Park",
+    "note": "The park lists accessible cabins, campsites, food service and showers, plus the Humphrey Nature Center and a museum."
+   },
+   {
+    "name": "Silver Lake State Park",
+    "note": "There are picnic facilities, an accessible pavilion and a public restroom open year round."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Wyoming County Office for Aging",
+    "https://aging.ny.gov/location/wyoming-county-office-aging"
+   ],
+   [
+    "Wyoming County Office for the Aging",
+    "https://www.wyomingcountyny.gov/328/Office-for-the-Aging"
+   ],
+   [
+    "RTS Wyoming",
+    "https://www.myrts.com/Wyoming"
+   ],
+   [
+    "Wyoming County Social Services",
+    "https://www.wyomingcountyny.gov/205/Social-Services"
+   ],
+   [
+    "NYS Parks: Letchworth",
+    "https://parks.ny.gov/parks/letchworth/details.aspx"
+   ],
+   [
+    "NYS Parks: Silver Lake",
+    "https://parks.ny.gov/parks/silverlake/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+   ],
+   [
+    "RTS contact numbers by county",
+    "https://www.myrts.com/Contact-Us"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "yates",
+  "name": "Yates County",
+  "region": "finger-lakes",
+  "seat": "Penn Yan",
+  "towns": [
+   "Penn Yan",
+   "Dundee",
+   "Dresden",
+   "Rushville",
+   "Middlesex",
+   "Benton"
+  ],
+  "intro": "Yates County is a small rural county wrapped around Keuka Lake, with Seneca Lake on its eastern edge. The Yates County Area Agency on Aging works out of the County Office Building on Liberty Street in Penn Yan, and it is the county office NYSOFA lists for older adults and caregivers. Public transit in the county has been changing, so call the agency to ask what rides are available now.",
+  "agingOffice": {
+   "name": "Yates County Area Agency on Aging",
+   "phone": "315-279-4321",
+   "url": "https://aging.ny.gov/location/yates-county-area-agency-aging"
+  },
+  "dss": {
+   "name": "Yates County Department of Social Services",
+   "phone": "315-536-5183",
+   "url": "https://www.yatescounty.org/317/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Keuka Lake State Park",
+    "note": "The park lists accessible pavilions, shelters and showers on the lake."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Yates County Area Agency on Aging",
+    "https://aging.ny.gov/location/yates-county-area-agency-aging"
+   ],
+   [
+    "Yates County Social Services",
+    "https://www.yatescounty.org/317/Social-Services"
+   ],
+   [
+    "OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NYS Parks: Keuka Lake",
+    "https://parks.ny.gov/parks/keukalake/details.aspx"
+   ],
+   [
+    "NYS County Seats (data.ny.gov)",
+    "https://data.ny.gov/d/4xc7-bukh"
+   ],
+   [
+    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
+    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+   ],
+   [
+    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
+    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
    ]
   ],
   "verified": true,
