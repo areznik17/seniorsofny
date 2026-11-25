@@ -11,7 +11,7 @@ module.exports=async(browser,DIST,list)=>{
  const manPath=path.join(SRC,'manifest.json');let man={};try{man=JSON.parse(fs.readFileSync(manPath,'utf8'))}catch(e){}
  const p=await browser.newPage({viewport:{width:1200,height:630}});let made=0;const keep=new Set(['manifest.json']);
  for(const o of list){
-  const pk=o.pk||FALLBACK[o.r]||(o.r.startsWith('/county/')?'main-street':'couple-walking');const photo=FALLBACK[o.r]&&o.r==='/'?FALLBACK['/']:pk;
+  const pk=o.pk||FALLBACK[o.r]||(o.r.startsWith('/county/')||o.r.startsWith('/region/')?'main-street':'couple-walking');const photo=FALLBACK[o.r]&&o.r==='/'?FALLBACK['/']:pk;
   const h=(HEAD[o.r]||o.h||'Seniors of NY').replace(/\s+/g,' ').trim();
   const key=crypto.createHash('sha1').update(VER+photo+h).digest('hex').slice(0,12);const file=o.name+'.jpg';keep.add(file);
   const out=path.join(SRC,file);

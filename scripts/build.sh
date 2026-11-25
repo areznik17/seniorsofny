@@ -20,6 +20,7 @@ head='''<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#FAF7F2">
+<meta name="google-site-verification" content="NM9g4CuRjcI5NF0ubcVZHQpbk9waP81VaInOIVvYzHw">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon-48.png" sizes="48x48" type="image/png">
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
