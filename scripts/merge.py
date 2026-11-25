@@ -4,7 +4,8 @@ Usage: merge.py <batch.json>... (guides) ; counties merge with --counties; extra
 Blocks: invalid JSON, em/en dashes, banned words, duplicate slugs, internal links to missing slugs,
 missing fields, seo lengths, Home Happenings / Connections mentions, guides not marked checked."""
 import json,re,sys,glob,os
-C='/home/claude/seniorsofny/src/content'
+import os
+C=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','src','content')
 HUBFILE={'benefits':'benefits','health':'health','caregiving':'caregiving','living':'living','home':'home','things-to-do':'todo'}
 BANNED=[r'\belderly\b',r"\bwhether you're\b",r'\bnavigat',r"\bit's worth noting\b",r'home happenings',r'homehappenings',r'connections care management',r'caremanagementconnect']
 DASH=re.compile('[—–]')

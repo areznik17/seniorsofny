@@ -1,0 +1,1 @@
+County data still being fact-checked. Counties with "checked" set have passed and are merged into src/content/counties.json; the rest must be re-verified (see src/content/COUNTY_BRIEF.md and FACTCHECK.md) before merging with: python3 scripts/merge.py --counties data/pending/counties-1.json data/pending/counties-2.json (it only merges counties that have "checked").
