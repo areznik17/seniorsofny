@@ -139,20 +139,28 @@
 
 ## Town guides
 
+- [Seniors in Arrochar, NY](https://seniorsofny.com/town/arrochar-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Bedford, NY](https://seniorsofny.com/town/bedford-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Blooming Grove, NY](https://seniorsofny.com/town/blooming-grove-ny/): senior center, rides, library and outings in Orange County
+- [Seniors in Brewster, NY](https://seniorsofny.com/town/brewster-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Briarcliff Manor, NY](https://seniorsofny.com/town/briarcliff-manor-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Bronxville, NY](https://seniorsofny.com/town/bronxville-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in Carmel, NY](https://seniorsofny.com/town/carmel-ny/): senior center, rides, library and outings in Putnam County
+- [Seniors in Charleston, NY](https://seniorsofny.com/town/charleston-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Chester, NY](https://seniorsofny.com/town/chester-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Clarkstown, NY](https://seniorsofny.com/town/clarkstown-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Cold Spring, NY](https://seniorsofny.com/town/cold-spring-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Cornwall, NY](https://seniorsofny.com/town/cornwall-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Cortlandt, NY](https://seniorsofny.com/town/cortlandt-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Crawford (Pine Bush), NY](https://seniorsofny.com/town/crawford-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Croton-on-Hudson, NY](https://seniorsofny.com/town/croton-on-hudson-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Dobbs Ferry, NY](https://seniorsofny.com/town/dobbs-ferry-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in Dongan Hills, NY](https://seniorsofny.com/town/dongan-hills-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Eastchester, NY](https://seniorsofny.com/town/eastchester-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Florida, NY](https://seniorsofny.com/town/florida-ny/): senior center, rides, library and outings in Orange County
+- [Seniors in Garrison, NY](https://seniorsofny.com/town/garrison-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Goshen, NY](https://seniorsofny.com/town/goshen-ny/): senior center, rides, library and outings in Orange County
+- [Seniors in Great Kills, NY](https://seniorsofny.com/town/great-kills-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Greenburgh, NY](https://seniorsofny.com/town/greenburgh-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Greenwood Lake, NY](https://seniorsofny.com/town/greenwood-lake-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Harrison, NY](https://seniorsofny.com/town/harrison-ny/): senior center, rides, library and outings in Westchester County
@@ -160,11 +168,15 @@
 - [Seniors in Haverstraw, NY](https://seniorsofny.com/town/haverstraw-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Haverstraw (village), NY](https://seniorsofny.com/town/haverstraw-village-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Highlands (Highland Falls and West Point area), NY](https://seniorsofny.com/town/highlands-ny/): senior center, rides, library and outings in Orange County
+- [Seniors in Huguenot, NY](https://seniorsofny.com/town/huguenot-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
+- [Seniors in Kent, NY](https://seniorsofny.com/town/kent-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Kiryas Joel, NY](https://seniorsofny.com/town/kiryas-joel-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Larchmont, NY](https://seniorsofny.com/town/larchmont-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Lewisboro, NY](https://seniorsofny.com/town/lewisboro-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in Mahopac, NY](https://seniorsofny.com/town/mahopac-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Mamaroneck (Town), NY](https://seniorsofny.com/town/mamaroneck-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Mamaroneck (Village), NY](https://seniorsofny.com/town/mamaroneck-village-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in Mariners Harbor, NY](https://seniorsofny.com/town/mariners-harbor-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Middletown, NY](https://seniorsofny.com/town/middletown-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Monroe, NY](https://seniorsofny.com/town/monroe-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Montebello, NY](https://seniorsofny.com/town/montebello-ny/): senior center, rides, library and outings in Rockland County
@@ -175,6 +187,8 @@
 - [Seniors in Nanuet, NY](https://seniorsofny.com/town/nanuet-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in New Castle (Chappaqua), NY](https://seniorsofny.com/town/new-castle-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in New City, NY](https://seniorsofny.com/town/new-city-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in New Dorp, NY](https://seniorsofny.com/town/new-dorp-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
+- [Seniors in New Dorp Beach, NY](https://seniorsofny.com/town/new-dorp-beach-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in New Rochelle, NY](https://seniorsofny.com/town/new-rochelle-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in New Windsor, NY](https://seniorsofny.com/town/new-windsor-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Newburgh (City), NY](https://seniorsofny.com/town/newburgh-ny/): senior center, rides, library and outings in Orange County
@@ -183,24 +197,35 @@
 - [Seniors in Nyack, NY](https://seniorsofny.com/town/nyack-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Orangetown, NY](https://seniorsofny.com/town/orangetown-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Ossining, NY](https://seniorsofny.com/town/ossining-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in Patterson, NY](https://seniorsofny.com/town/patterson-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Pearl River, NY](https://seniorsofny.com/town/pearl-river-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Peekskill, NY](https://seniorsofny.com/town/peekskill-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Pelham, NY](https://seniorsofny.com/town/pelham-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in Philipstown, NY](https://seniorsofny.com/town/philipstown-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Piermont, NY](https://seniorsofny.com/town/piermont-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Port Chester, NY](https://seniorsofny.com/town/port-chester-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Port Jervis, NY](https://seniorsofny.com/town/port-jervis-ny/): senior center, rides, library and outings in Orange County
+- [Seniors in Port Richmond, NY](https://seniorsofny.com/town/port-richmond-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Pound Ridge, NY](https://seniorsofny.com/town/pound-ridge-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in Putnam Valley, NY](https://seniorsofny.com/town/putnam-valley-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Ramapo, NY](https://seniorsofny.com/town/ramapo-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Richmondtown, NY](https://seniorsofny.com/town/richmondtown-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Rye, NY](https://seniorsofny.com/town/rye-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Scarsdale, NY](https://seniorsofny.com/town/scarsdale-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Sleepy Hollow, NY](https://seniorsofny.com/town/sleepy-hollow-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Sloatsburg, NY](https://seniorsofny.com/town/sloatsburg-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Somers, NY](https://seniorsofny.com/town/somers-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in South Beach, NY](https://seniorsofny.com/town/south-beach-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
+- [Seniors in Southeast, NY](https://seniorsofny.com/town/southeast-ny/): senior center, rides, library and outings in Putnam County
 - [Seniors in Spring Valley, NY](https://seniorsofny.com/town/spring-valley-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in St. George, NY](https://seniorsofny.com/town/st-george-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
+- [Seniors in Stapleton, NY](https://seniorsofny.com/town/stapleton-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Stony Point, NY](https://seniorsofny.com/town/stony-point-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Suffern, NY](https://seniorsofny.com/town/suffern-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Tappan, NY](https://seniorsofny.com/town/tappan-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in Tarrytown, NY](https://seniorsofny.com/town/tarrytown-ny/): senior center, rides, library and outings in Westchester County
+- [Seniors in Todt Hill, NY](https://seniorsofny.com/town/todt-hill-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
+- [Seniors in Tottenville, NY](https://seniorsofny.com/town/tottenville-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in Town of Newburgh, NY](https://seniorsofny.com/town/newburgh-town-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Tuckahoe, NY](https://seniorsofny.com/town/tuckahoe-ny/): senior center, rides, library and outings in Westchester County
 - [Seniors in Tuxedo, NY](https://seniorsofny.com/town/tuxedo-ny/): senior center, rides, library and outings in Orange County
@@ -208,6 +233,7 @@
 - [Seniors in Wallkill, NY](https://seniorsofny.com/town/wallkill-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Warwick, NY](https://seniorsofny.com/town/warwick-ny/): senior center, rides, library and outings in Orange County
 - [Seniors in Washingtonville, NY](https://seniorsofny.com/town/washingtonville-ny/): senior center, rides, library and outings in Orange County
+- [Seniors in West Brighton, NY](https://seniorsofny.com/town/west-brighton-staten-island-ny/): senior center, rides, library and outings in Staten Island (Richmond County)
 - [Seniors in West Haverstraw, NY](https://seniorsofny.com/town/west-haverstraw-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in West Nyack, NY](https://seniorsofny.com/town/west-nyack-ny/): senior center, rides, library and outings in Rockland County
 - [Seniors in White Plains, NY](https://seniorsofny.com/town/white-plains-ny/): senior center, rides, library and outings in Westchester County
