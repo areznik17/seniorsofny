@@ -1,5 +1,197 @@
 [
  {
+  "slug": "bedford-ny",
+  "name": "Bedford",
+  "intro": "Bedford is a town in Westchester County. Its Recreation and Parks Department runs senior adult meetings and programs with free local rides for shopping and meetings, a senior advocate for residents and their families, and lunch and Meals on Wheels through an agreement with the Village of Mount Kisco.",
+  "seniorCenter": {
+   "name": "Town of Bedford Senior Adults (Recreation and Parks)",
+   "phone": "914-666-7203",
+   "url": "https://bedfordny.gov/261/Senior-Programs-and-Services",
+   "notes": "Senior adults meet regularly for talks, crafts, exercise, movies, parties and special programs. Call the Seniors Line to join the mailing list for the bimonthly calendar. The town's senior advocate helps all Bedford residents, including family members who live outside the town, with aging-related resources, caregiver support groups and help for people with movement or vision difficulties. A senior nutrition program and home-delivered Meals on Wheels are offered through an agreement with the Village of Mount Kisco."
+  },
+  "transport": {
+   "name": "Town of Bedford senior bus",
+   "phone": "914-666-7203",
+   "url": "https://bedfordny.gov/261/Senior-Programs-and-Services",
+   "notes": "Free rides from Recreation and Parks for local shopping and senior meetings. Call the Seniors Line for the schedule. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "more": [
+   {
+    "name": "Town of Bedford Senior Advocate",
+    "phone": "914-882-5886",
+    "url": "https://bedfordny.gov/261/Senior-Programs-and-Services",
+    "note": "Free help for Bedford residents and their immediate family members, including those who live outside the town, with aging-related resources, caregiver support groups and grant information."
+   },
+   {
+    "name": "Town of Bedford Recreation and Parks office",
+    "phone": "914-666-7004",
+    "url": "https://bedfordny.gov/261/Senior-Programs-and-Services",
+    "note": "425 Cherry Street, Bedford Hills. Open Monday to Friday, 8:30 am to 4:30 pm."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Bedford: Senior Programs and Services",
+    "https://bedfordny.gov/261/Senior-Programs-and-Services"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "briarcliff-manor-ny",
+  "name": "Briarcliff Manor",
+  "intro": "Briarcliff Manor is a village in Westchester County. The Town of Ossining's senior center extends home-delivered lunches and discount taxi coupons to Briarcliff seniors, and the public library sits in Law Park on Library Road.",
+  "transport": {
+   "name": "Ossining Senior Center taxi coupons",
+   "phone": "914-762-1350",
+   "url": "https://townofossiningny.gov/cms/departments/senior-services",
+   "notes": "Discount taxi coupons for Ossining and Briarcliff seniors 60 and older cost $3 each, up to 15 a month, with proof of age and residency. They can be used in and around Ossining, Briarcliff, the Croton ShopRite and Phelps Hospital only. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "library": {
+   "name": "Briarcliff Manor Public Library",
+   "address": "1 Library Road, Briarcliff Manor, NY 10510",
+   "phone": "914-941-7072",
+   "url": "https://briarcliffmanorlibrary.org/",
+   "notes": "Housed in a 2008 addition to a historic train station in Law Park. Open Monday to Wednesday, Friday and Saturday 10 am to 5 pm, Thursday 10 am to 7 pm, and closed Sunday."
+  },
+  "sources": [
+   [
+    "Town of Ossining: Senior Services",
+    "https://townofossiningny.gov/cms/departments/senior-services"
+   ],
+   [
+    "Briarcliff Manor Public Library",
+    "https://briarcliffmanorlibrary.org/"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "more": [
+   {
+    "name": "Ossining Senior Center home-delivered meals",
+    "phone": "914-762-1350",
+    "url": "https://townofossiningny.gov/cms/departments/senior-services",
+    "note": "The center at 95 Broadway, Ossining, delivers a hot lunch Monday to Friday to qualifying homebound seniors in Ossining and Briarcliff, for a $3.50 suggested contribution. Call for program guidelines."
+   }
+  ],
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "bronxville-ny",
+  "name": "Bronxville",
+  "intro": "Bronxville is a village in the Town of Eastchester. Older residents can use Eastchester Senior Programs and Services, including medical rides and the senior center at Lake Isle, and the Bronxville Senior Citizens club meets twice a week at the Reformed Church on Pondfield Road.",
+  "seniorCenter": {
+   "name": "Bronxville Senior Citizens",
+   "address": "The Reformed Church of Bronxville, 180 Pondfield Road, Bronxville, NY 10708",
+   "phone": "914-844-5120",
+   "url": "https://www.scc70.org/bronxvilleseniors",
+   "notes": "A club for people 55 and older, run by the nonprofit Senior Citizens Council with support from the Town of Eastchester. It meets Tuesdays and Thursdays, September through July, and is closed in August. Membership is open to all who consider Bronxville their community; dues are $175 a year ($87.50 for members 90 and older). Programs include exercise, chair yoga, tai chi, line dancing, bridge, mah-jongg, canasta and talks; luncheons and day trips cost extra. Bronxville residents 60 and older can also use the Town of Eastchester's Center at Lake Isle (660 White Plains Road, 914-337-0390), which serves lunch daily and offers rides to residents of Eastchester, Tuckahoe and Bronxville. The county lists the lunch site as temporarily at the Tuckahoe Community Center, 71 Columbus Avenue, so call to confirm where lunch is served."
+  },
+  "transport": {
+   "name": "Eastchester Senior Programs medical rides",
+   "phone": "914-771-3340",
+   "url": "https://cms5.revize.com/revize/eastchester/1%20MEDICAL%20FLYER.-updated%20Oct%2026.pdf",
+   "notes": "Rides to medical appointments for residents 60 and older of Eastchester, Tuckahoe and Bronxville, Monday to Friday, 9 am to 2 pm, by reservation. A free escort gives light help when needed. Suggested round trip contributions are voluntary, at $5 within Eastchester, Tuckahoe, Bronxville and Scarsdale Village, $8 to Scarsdale, Mount Vernon, New Rochelle and Yonkers, and $10 to White Plains, Hartsdale and Harrison. The town also offers shopping and errand rides. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "library": {
+   "name": "Bronxville Public Library",
+   "address": "201 Pondfield Road, Bronxville, NY 10708",
+   "phone": "914-337-7680",
+   "url": "https://bronxvillelibrary.org/",
+   "notes": "The library lists resources for people with low vision."
+  },
+  "sources": [
+   [
+    "Bronxville Senior Citizens (Senior Citizens Council)",
+    "https://www.scc70.org/bronxvilleseniors"
+   ],
+   [
+    "Senior Citizens Council",
+    "https://www.scc70.org/"
+   ],
+   [
+    "Town of Eastchester: Local Snapshot",
+    "https://www.eastchester.gov/general_information/local_snapshot.php"
+   ],
+   [
+    "Town of Eastchester: Senior Programs and Services",
+    "https://www.eastchester.gov/departments/senior_programs_and_services.php"
+   ],
+   [
+    "Town of Eastchester: Senior Centers",
+    "https://www.eastchester.gov/departments/senior_centers.php"
+   ],
+   [
+    "Town of Eastchester: Medical transportation flyer (Oct 2026)",
+    "https://cms5.revize.com/revize/eastchester/1%20MEDICAL%20FLYER.-updated%20Oct%2026.pdf"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (D-H)",
+    "https://seniorcitizens.westchestercountyny.gov/d-h"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Bronxville Public Library",
+    "https://bronxvillelibrary.org/"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "clarkstown-ny",
   "name": "Clarkstown",
   "county": "rockland",
@@ -101,6 +293,472 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "cortlandt-ny",
+  "name": "Cortlandt",
+  "intro": "Cortlandt is a town in northwestern Westchester County, on the Hudson River, that includes the villages of Buchanan and Croton-on-Hudson. The town's senior services, called The Cortlandt Golden Connection, run from the Muriel H. Morabito Community Center in Cortlandt Manor for town residents 60 and older, with lunch, a weekday bus and senior clubs.",
+  "seniorCenter": {
+   "name": "Muriel H. Morabito Community Center (The Cortlandt Golden Connection)",
+   "address": "29 Westbrook Drive, Cortlandt Manor, NY 10567",
+   "phone": "914-528-1572",
+   "url": "https://www.townofcortlandtny.gov/cn/webpage.cfm?tpid=3248",
+   "notes": "Programs and services are for Town of Cortlandt residents 60 and older. The county lists the center for congregate lunch and home-delivered meals. The Cortlandt, Nor-Cort and Crompond senior clubs meet here. To reserve lunch, call 914-528-5164 the day before by 11 am."
+  },
+  "transport": {
+   "name": "Cortlandt senior bus to the Community Center",
+   "phone": "914-528-5164",
+   "url": "https://townofcortlandtny.gov/cn/webpage.cfm?TID=20&TPID=17716",
+   "notes": "Runs Monday to Friday to the Morabito Community Center for lunch and senior programs, with morning pickup and afternoon return. The contribution is $3 round trip, and the bus needs at least 6 riders to run. Call the day before by 11 am; some restrictions apply. For other trips, Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "sources": [
+   [
+    "Town of Cortlandt: Town Profile",
+    "https://www.townofcortlandtny.gov/cn/webpage.cfm?tpid=2564"
+   ],
+   [
+    "Town of Cortlandt: Senior Services",
+    "https://www.townofcortlandtny.gov/cn/webpage.cfm?tpid=3248"
+   ],
+   [
+    "Town of Cortlandt: Bus Transportation to the Community Center",
+    "https://townofcortlandtny.gov/cn/webpage.cfm?TID=20&TPID=17716"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (A-C)",
+    "https://seniorcitizens.westchestercountyny.gov/a-c"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "croton-on-hudson-ny",
+  "name": "Croton-on-Hudson",
+  "intro": "Croton-on-Hudson is a village in the Town of Cortlandt. The village keeps a seniors contact at the Stanley H. Kellerhouse Municipal Building, and because most Croton residents also live in the Town of Cortlandt, they can use Cortlandt's senior lunch, home-delivered meals, rides and social worker at the Morabito Community Center.",
+  "seniorCenter": {
+   "name": "Village of Croton-on-Hudson Seniors (Stanley H. Kellerhouse Municipal Building)",
+   "address": "1 Van Wyck Street, Croton-on-Hudson, NY 10520",
+   "phone": "914-271-5804",
+   "url": "https://crotononhudson-ny.gov/513/Resources-For-Older-Adults-Their-Caregiv",
+   "notes": "The village's Seniors contact is at this building. Its resource page for adults 60 and older points to the Town of Cortlandt (classes, trips, meals at the Muriel H. Morabito Community Center and home-delivered, transportation and social worker consultations, 914-528-8377), Croton Caring (914-271-4979) for social programs, and the United Way 2-1-1 helpline."
+  },
+  "transport": {
+   "name": "Cortlandt senior bus to the Community Center",
+   "phone": "914-528-5164",
+   "url": "https://townofcortlandtny.gov/cn/webpage.cfm?TID=20&TPID=17716",
+   "notes": "For Town of Cortlandt residents 60 and older, which includes most Croton residents. Runs Monday to Friday to the Morabito Community Center for lunch and programs, $3 round trip, with at least 6 riders needed. Call the day before by 11 am. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "library": {
+   "name": "Croton Free Library",
+   "address": "171 Cleveland Drive, Croton-on-Hudson, NY 10520",
+   "phone": "914-271-6612",
+   "url": "https://www.crotonfreelibrary.org/",
+   "notes": "Open Monday 1 to 9 pm, Tuesday and Thursday 10 am to 9 pm, Wednesday and Friday 10 am to 5:30 pm, Saturday 10 am to 5 pm and Sunday 1 to 5 pm."
+  },
+  "sources": [
+   [
+    "Village of Croton-on-Hudson: Resources for Older Adults and Their Caregivers",
+    "https://crotononhudson-ny.gov/513/Resources-For-Older-Adults-Their-Caregiv"
+   ],
+   [
+    "Town of Cortlandt: Bus Transportation to the Community Center",
+    "https://townofcortlandtny.gov/cn/webpage.cfm?TID=20&TPID=17716"
+   ],
+   [
+    "Town of Cortlandt: Town Profile",
+    "https://www.townofcortlandtny.gov/cn/webpage.cfm?tpid=2564"
+   ],
+   [
+    "Croton Free Library",
+    "https://www.crotonfreelibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "dobbs-ferry-ny",
+  "name": "Dobbs Ferry",
+  "intro": "Dobbs Ferry is a village in the Town of Greenburgh. Its Senior Citizen Program serves residents 60 and older at the Embassy Center on Palisade Street, with classes, a weekday lunch, a village senior bus and referral help.",
+  "seniorCenter": {
+   "name": "Embassy Community Center (Dobbs Ferry Senior Citizen Program)",
+   "address": "60 Palisade Street, Dobbs Ferry, NY 10522",
+   "phone": "914-231-8565",
+   "url": "https://dobbsferry.gov/recreation-department/senior-citizen-program",
+   "notes": "Activities include tai chi, yoga, exercise, arts and crafts, bingo, bridge, mah-jongg, movies, computer lessons, drama readings, trips and monthly holiday luncheons. Lunch is served weekdays starting at 11 am, for a $3 suggested contribution. Call before 11 am at least one day ahead; there are no walk-ins for lunch. Homebound seniors can have lunch delivered by calling the same number. The village also lists 914-231-8566 for the nutrition program."
+  },
+  "transport": {
+   "name": "Dobbs Ferry senior citizen bus",
+   "phone": "914-231-8565",
+   "url": "https://dobbsferry.gov/recreation-department/senior-citizen-program",
+   "notes": "The village senior bus runs every weekday. Call before 9:30 am on the day you need a ride. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "library": {
+   "name": "Dobbs Ferry Public Library",
+   "address": "55 Main Street, Dobbs Ferry, NY 10522",
+   "phone": "914-693-6614",
+   "url": "https://dobbsferrylibrary.org/",
+   "notes": "Open Sunday 1 to 5 pm, Monday and Wednesday 10 am to 8 pm, Tuesday and Thursday 10 am to 6 pm, and Friday and Saturday 10 am to 5 pm."
+  },
+  "sources": [
+   [
+    "Village of Dobbs Ferry: Senior Citizen Program",
+    "https://dobbsferry.gov/recreation-department/senior-citizen-program"
+   ],
+   [
+    "Village of Dobbs Ferry: Senior Citizen Nutrition Program",
+    "https://www.dobbsferry.gov/recreation-department/senior-citizen-program/pages/senior-citizen-nutrition-program"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Town of Greenburgh: Senior Activities",
+    "https://www.greenburghny.com/287/Senior-Activities"
+   ],
+   [
+    "Dobbs Ferry Public Library",
+    "https://dobbsferrylibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "eastchester-ny",
+  "name": "Eastchester",
+  "intro": "Eastchester is a town in Westchester County that includes the villages of Bronxville and Tuckahoe. Eastchester Senior Programs and Services serves adults 60 and older with medical and shopping rides, case management, long term care planning, home-delivered meals, small home repairs, Medicare counseling, and senior centers at Lake Isle and Garth Road.",
+  "seniorCenter": {
+   "name": "The Center at Lake Isle (Eastchester Senior Programs and Services)",
+   "address": "660 White Plains Road, Eastchester, NY 10709",
+   "phone": "914-337-0390",
+   "url": "https://www.eastchester.gov/departments/senior_centers.php",
+   "notes": "The town's main senior center, at Lake Isle Country Club, offers wellness and exercise programs, trips and live performances, and lunch is served daily. Rides are available to residents of Eastchester, Tuckahoe and Bronxville; call for reservations. The county's club listing says the lunch site is temporarily at the Tuckahoe Community Center, 71 Columbus Avenue, so call to confirm where lunch is served. A neighborhood center at 235 Garth Road, Scarsdale, is open Wednesday and Friday afternoons (914-771-3340). For senior programs or the town social worker, call 914-771-3340."
+  },
+  "transport": {
+   "name": "Eastchester Senior Programs medical rides",
+   "phone": "914-771-3340",
+   "url": "https://cms5.revize.com/revize/eastchester/1%20MEDICAL%20FLYER.-updated%20Oct%2026.pdf",
+   "notes": "Rides to medical appointments for residents 60 and older of Eastchester, Tuckahoe and Bronxville, Monday to Friday, 9 am to 2 pm, by reservation. A free escort gives light help when needed. Suggested round trip contributions are voluntary, at $5 within Eastchester, Tuckahoe, Bronxville and Scarsdale Village, $8 to Scarsdale, Mount Vernon, New Rochelle and Yonkers, and $10 to White Plains, Hartsdale and Harrison. The town also offers shopping and errand rides. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "library": {
+   "name": "Eastchester Public Library",
+   "address": "11 Oakridge Place, Eastchester, NY 10709",
+   "phone": "914-793-5055",
+   "url": "https://eastchesterlibrary.org/home"
+  },
+  "sources": [
+   [
+    "Town of Eastchester: Local Snapshot",
+    "https://www.eastchester.gov/general_information/local_snapshot.php"
+   ],
+   [
+    "Town of Eastchester: Senior Programs and Services",
+    "https://www.eastchester.gov/departments/senior_programs_and_services.php"
+   ],
+   [
+    "Town of Eastchester: Senior Centers",
+    "https://www.eastchester.gov/departments/senior_centers.php"
+   ],
+   [
+    "Town of Eastchester: Medical transportation flyer (Oct 2026)",
+    "https://cms5.revize.com/revize/eastchester/1%20MEDICAL%20FLYER.-updated%20Oct%2026.pdf"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (D-H)",
+    "https://seniorcitizens.westchestercountyny.gov/d-h"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Eastchester Public Library",
+    "https://eastchesterlibrary.org/home"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "greenburgh-ny",
+  "name": "Greenburgh",
+  "intro": "Greenburgh is a town in Westchester County that includes the villages of Ardsley, Dobbs Ferry, Elmsford, Hastings-on-Hudson, Irvington and Tarrytown. Its Parks and Recreation Department runs the Gerard J. Byrne Center for seniors at Anthony F. Veteran Park, a weekday lunch program at three sites, home-delivered meals and senior transportation.",
+  "seniorCenter": {
+   "name": "Gerard J. Byrne Center at Anthony F. Veteran Park",
+   "address": "11 Olympic Lane, Ardsley, NY 10502",
+   "phone": "914-989-1800",
+   "url": "https://www.greenburghny.com/287/Senior-Activities",
+   "notes": "An 8,000 square foot, fully accessible center with an exercise and dance room, resource center, lounge and activity rooms, open Monday to Friday, 9:30 am to 5 pm. Most classes cost $35, and day trips are offered. The town's lunch program for residents 60 and older runs Monday to Friday at the Embassy Community Center (60 Palisade Street, Dobbs Ferry), The Neighborhood House (43 Wildey Street, Tarrytown) and the Theodore D. Young Community Center (32 Manhattan Avenue, White Plains). The suggested contribution is $4, and no one is turned away. Call 914-989-1807 one business day ahead to reserve a meal."
+  },
+  "transport": {
+   "name": "Greenburgh senior transportation",
+   "phone": "914-989-1807",
+   "url": "https://www.greenburghny.com/287/Senior-Activities",
+   "notes": "The town provides rides to its lunch sites when needed; call the nutrition program to arrange one. For other trips, Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "library": {
+   "name": "Greenburgh Public Library",
+   "address": "300 Tarrytown Road, Elmsford, NY 10523",
+   "phone": "914-721-8200",
+   "url": "https://www.greenburghlibrary.org/",
+   "notes": "Open Monday to Wednesday 9:30 am to 8:30 pm, Thursday to Saturday 9:30 am to 5 pm and Sunday 1 to 5 pm. Several villages in the town have their own libraries."
+  },
+  "more": [
+   {
+    "name": "Greenburgh Home Delivered Meals",
+    "phone": "914-989-1807",
+    "url": "https://www.greenburghny.com/287/Senior-Activities",
+    "note": "A hot lunch delivered each weekday to residents 60 and older who are homebound by illness or disability or otherwise isolated. The suggested contribution is $4 a day."
+   },
+   {
+    "name": "Greenburgh Parks and Recreation registration office",
+    "phone": "914-989-1811",
+    "url": "https://www.greenburghny.com/287/Senior-Activities",
+    "note": "Open Monday to Friday, 10 am to 4 pm, for program sign-ups."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Greenburgh: Senior Activities",
+    "https://www.greenburghny.com/287/Senior-Activities"
+   ],
+   [
+    "Town of Greenburgh: Assessor's Office (six incorporated villages)",
+    "https://www.greenburghny.com/168/Assessors-Office"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Greenburgh Public Library",
+    "https://www.greenburghlibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ],
+   [
+    "Village of Dobbs Ferry: Senior Citizen Nutrition Program",
+    "https://www.dobbsferry.gov/recreation-department/senior-citizen-program/pages/senior-citizen-nutrition-program"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "harrison-ny",
+  "name": "Harrison",
+  "intro": "Harrison is both a town and a village in Westchester County. Harrison Recreation sponsors two senior clubs, one downtown on Halstead Avenue and one in West Harrison on Underhill Avenue, plus a weekday drop-in center and monthly free blood pressure checks.",
+  "seniorCenter": {
+   "name": "Harrison Community Center (senior drop-in center)",
+   "address": "216 Halstead Avenue, Harrison, NY 10528",
+   "phone": "914-670-3000 ext. 3172",
+   "url": "https://www.harrison-ny.gov/recreation/pages/senior-programs",
+   "notes": "The drop-in center is open Monday to Friday, 10 am to 4 pm, for TV, cards and socializing, with an exercise class Tuesdays from 10 to 11:30 am. The Downtown Group meets Fridays, noon to 3 pm, at the Veterans Memorial Building, 210 Halstead Avenue. The West Harrison Group meets Thursdays, noon to 3 pm, at the Leo Mintzer Community Center, 251 Underhill Avenue. Both clubs charge yearly dues and offer luncheons, day trips, movies and exercise and line dancing classes. A visiting nurse gives free blood pressure checks at both centers once a month, and county public health nurses give flu shots each October. Call for lunch, trip and ride details."
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "library": {
+   "name": "Harrison Public Library (Richard E. Halperin Memorial Library Building)",
+   "address": "2 Bruce Avenue, Harrison, NY 10528",
+   "phone": "914-835-0324",
+   "url": "https://www.harrisonpl.org/",
+   "notes": "The West Harrison Branch is at 2 Madison Street (914-948-2092)."
+  },
+  "sources": [
+   [
+    "Town/Village of Harrison: Senior Programs",
+    "https://www.harrison-ny.gov/recreation/pages/senior-programs"
+   ],
+   [
+    "Harrison Public Library",
+    "https://www.harrisonpl.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "hastings-on-hudson-ny",
+  "name": "Hastings-on-Hudson",
+  "intro": "Hastings-on-Hudson is a village in the Town of Greenburgh. Its Senior Outreach program at the James Harmon Community Center on Main Street gives free, private help to village residents 62 and older, from Medicare choices to housing and caregiver referrals, and posts monthly senior lunches and trips.",
+  "seniorCenter": {
+   "name": "Hastings-on-Hudson Senior Outreach (James Harmon Community Center)",
+   "address": "44 Main Street, Hastings-on-Hudson, NY 10706",
+   "phone": "914-231-8283",
+   "url": "https://www.hastingsgov.org/200/Senior-Outreach",
+   "notes": "Open Monday and Thursday 9 am to 3 pm and Tuesday 10 am to 3 pm, inside the Recreation Department office. Drop in or call for an appointment. Help includes telephone reassurance and home visits by appointment, Medicare plan selection, billing disputes, STAR and rent exemption questions, shopping and transportation referrals, home care referrals and caregiver support referrals."
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "library": {
+   "name": "Hastings-on-Hudson Public Library",
+   "address": "7 Maple Avenue, Hastings-on-Hudson, NY 10706",
+   "phone": "914-478-3307",
+   "url": "https://hastingslibrary.org/"
+  },
+  "more": [
+   {
+    "name": "Village of Hastings-on-Hudson (Village Hall)",
+    "phone": "914-478-3400",
+    "url": "https://www.hastingsgov.org/200/Senior-Outreach",
+    "note": "The Senior Outreach worker can also be reached through the Village Hall line at ext. 644."
+   }
+  ],
+  "sources": [
+   [
+    "Village of Hastings-on-Hudson: Senior Outreach",
+    "https://www.hastingsgov.org/200/Senior-Outreach"
+   ],
+   [
+    "Village of Hastings-on-Hudson: Senior Outreach FAQ",
+    "https://www.hohny.gov/m/faq?cat=16#question-69"
+   ],
+   [
+    "Hastings-on-Hudson Public Library",
+    "https://hastingslibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "haverstraw-ny",
@@ -257,6 +915,231 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "larchmont-ny",
+  "name": "Larchmont",
+  "intro": "The Village of Larchmont is in Westchester County. Village residents count as residents at the Town of Mamaroneck Senior Center on Boston Post Road, which serves adults 55 and older with classes, a weekday lunch and rides.",
+  "seniorCenter": {
+   "name": "Town of Mamaroneck Senior Center",
+   "address": "1288 Boston Post Road, Larchmont, NY 10538",
+   "phone": "914-834-8840",
+   "url": "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services",
+   "notes": "Run by the Town of Mamaroneck Recreation Department at VFW David Potts Jr. Post #1156, for adults 55 and older. Open year round, Monday to Friday. Annual membership (January to December) is $40 for residents of the Town of Mamaroneck, the Village of Larchmont and the Village of Mamaroneck, and $55 for nonresidents. Services include exercise classes, games, lectures, art classes, monthly events, rides to medical appointments and to the center, grocery shopping and Meals on Wheels. A hot lunch is served weekdays at noon; reserve at least two days ahead by calling between 9 am and 2 pm. The suggested contribution is $4, and people under 60 pay the full $9 cost."
+  },
+  "transport": {
+   "name": "Town of Mamaroneck Senior Center transportation",
+   "phone": "914-834-8840",
+   "url": "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services",
+   "notes": "The senior center lists rides to medical appointments, rides to and from the center, and grocery shopping among its services for members. Call the center for details. For other trips, Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "library": {
+   "name": "Larchmont Public Library",
+   "address": "121 Larchmont Avenue, Larchmont, NY 10538",
+   "phone": "914-834-2281",
+   "url": "https://larchmontlibrary.org/"
+  },
+  "sources": [
+   [
+    "Town of Mamaroneck: Senior Programs and Services",
+    "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Larchmont Public Library",
+    "https://larchmontlibrary.org/"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "lewisboro-ny",
+  "name": "Lewisboro",
+  "intro": "Lewisboro is a town in Westchester County. Residents 60 and older who need help for health reasons can get a hot lunch delivered each weekday through the Somers-North Salem-Lewisboro Nutrition Program, run from the Town of Somers.",
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "more": [
+   {
+    "name": "Somers-North Salem-Lewisboro Nutrition Program (home-delivered meals)",
+    "phone": "914-232-0807",
+    "url": "https://northsalemny.gov/1265/Senior-Nutrition-Programs",
+    "note": "A hot weekday lunch delivered to residents 60 and older who need help for health reasons. Suggested donation $3 per meal."
+   }
+  ],
+  "sources": [
+   [
+    "Town of North Salem: Senior Nutrition Programs",
+    "https://northsalemny.gov/1265/Senior-Nutrition-Programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "mamaroneck-ny",
+  "name": "Mamaroneck (Town)",
+  "intro": "The Town of Mamaroneck is a town in Westchester County. Its senior center on Boston Post Road in Larchmont serves adults 55 and older with classes, events, a weekday lunch and rides, and people who live in the town, the Village of Larchmont or the Village of Mamaroneck pay the resident rate.",
+  "seniorCenter": {
+   "name": "Town of Mamaroneck Senior Center",
+   "address": "1288 Boston Post Road, Larchmont, NY 10538",
+   "phone": "914-834-8840",
+   "url": "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services",
+   "notes": "Run by the Town of Mamaroneck Recreation Department at VFW David Potts Jr. Post #1156, for adults 55 and older. Open year round, Monday to Friday. Annual membership (January to December) is $40 for residents of the Town of Mamaroneck, the Village of Larchmont and the Village of Mamaroneck, and $55 for nonresidents. Services include exercise classes, games, lectures, art classes, monthly events, rides to medical appointments and to the center, grocery shopping and Meals on Wheels. A hot lunch is served weekdays at noon; reserve at least two days ahead by calling between 9 am and 2 pm. The suggested contribution is $4, and people under 60 pay the full $9 cost."
+  },
+  "transport": {
+   "name": "Town of Mamaroneck Senior Center transportation",
+   "phone": "914-834-8840",
+   "url": "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services",
+   "notes": "The senior center lists rides to medical appointments, rides to and from the center, and grocery shopping among its services for members. Call the center for details. For other trips, Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "library": {
+   "name": "Larchmont Public Library",
+   "address": "121 Larchmont Avenue, Larchmont, NY 10538",
+   "phone": "914-834-2281",
+   "url": "https://larchmontlibrary.org/",
+   "notes": "Mamaroneck Public Library is at 136 Prospect Avenue in the Village of Mamaroneck (914-698-1250)."
+  },
+  "sources": [
+   [
+    "Town of Mamaroneck: Senior Programs and Services",
+    "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Larchmont Public Library",
+    "https://larchmontlibrary.org/"
+   ],
+   [
+    "Mamaroneck Public Library",
+    "https://www.mamaronecklibrary.org/"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "mamaroneck-village-ny",
+  "name": "Mamaroneck (Village)",
+  "intro": "The Village of Mamaroneck is in Westchester County. Village residents count as residents at the Town of Mamaroneck Senior Center in Larchmont, which serves adults 55 and older with classes, a weekday lunch and rides. Mamaroneck Public Library is on Prospect Avenue.",
+  "seniorCenter": {
+   "name": "Town of Mamaroneck Senior Center",
+   "address": "1288 Boston Post Road, Larchmont, NY 10538",
+   "phone": "914-834-8840",
+   "url": "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services",
+   "notes": "Run by the Town of Mamaroneck Recreation Department at VFW David Potts Jr. Post #1156, for adults 55 and older. Open year round, Monday to Friday. Annual membership (January to December) is $40 for residents of the Town of Mamaroneck, the Village of Larchmont and the Village of Mamaroneck, and $55 for nonresidents. Services include exercise classes, games, lectures, art classes, monthly events, rides to medical appointments and to the center, grocery shopping and Meals on Wheels. A hot lunch is served weekdays at noon; reserve at least two days ahead by calling between 9 am and 2 pm. The suggested contribution is $4, and people under 60 pay the full $9 cost."
+  },
+  "transport": {
+   "name": "Town of Mamaroneck Senior Center transportation",
+   "phone": "914-834-8840",
+   "url": "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services",
+   "notes": "The senior center lists rides to medical appointments, rides to and from the center, and grocery shopping among its services for members. Call the center for details. For other trips, Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "library": {
+   "name": "Mamaroneck Public Library",
+   "address": "136 Prospect Avenue, Mamaroneck, NY 10543",
+   "phone": "914-698-1250",
+   "url": "https://www.mamaronecklibrary.org/",
+   "notes": "Open Monday and Wednesday 10 am to 8 pm, Tuesday and Thursday 10 am to 6 pm, Friday and Saturday 10 am to 5 pm, and closed Sunday."
+  },
+  "sources": [
+   [
+    "Town of Mamaroneck: Senior Programs and Services",
+    "https://www.townofmamaroneckny.gov/408/Senior-Programs-Services"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Mamaroneck Public Library",
+    "https://www.mamaronecklibrary.org/"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "montebello-ny",
   "name": "Montebello",
   "county": "rockland",
@@ -317,6 +1200,201 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "mount-kisco-ny",
+  "name": "Mount Kisco",
+  "intro": "Mount Kisco is both a town and a village in Westchester County. The Fox Senior Center on Carpenter Avenue is home to the Mount Kisco Senior Recreation Group and the Senior Nutrition Program, with a weekday lunch, curb to curb rides and wellness classes for seniors of Mount Kisco and nearby towns.",
+  "seniorCenter": {
+   "name": "Fox Senior Center",
+   "address": "198 Carpenter Avenue, Mount Kisco, NY 10549",
+   "phone": "914-666-8931",
+   "url": "https://www.mountkiscony.gov/departments/senior_citizen_programs/index.php",
+   "notes": "Open Monday to Friday, 9 am to 3 pm. Hot or cold lunch is served at noon; you must register and call at least 24 hours ahead. Programs include wellness and exercise classes, workshops, health screenings, a computer class and cultural events, and there is parking for those who drive. The county also lists home-delivered meals from the center. For senior recreation, call 914-666-8766."
+  },
+  "transport": {
+   "name": "Fox Senior Center transportation",
+   "phone": "914-666-8931",
+   "url": "https://www.mountkiscony.gov/departments/senior_citizen_programs/index.php",
+   "notes": "The center offers curb to curb rides; call the nutrition and transportation line for details. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "more": [
+   {
+    "name": "Social Security",
+    "phone": "1-800-772-1213",
+    "url": "https://www.mountkiscony.gov/departments/senior_citizen_programs/index.php",
+    "note": "Listed on the village's senior page."
+   }
+  ],
+  "sources": [
+   [
+    "Village of Mount Kisco: Senior Citizen Programs",
+    "https://www.mountkiscony.gov/departments/senior_citizen_programs/index.php"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (I-M)",
+    "https://seniorcitizens.westchestercountyny.gov/i-m"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "mount-pleasant-ny",
+  "name": "Mount Pleasant",
+  "intro": "Mount Pleasant is a town in Westchester County. Its Office of Elder Americans serves residents 60 and older with lunch, home-delivered meals, case management, transportation and shopping help. Residents of the unincorporated town who are 55 and older can join senior programs.",
+  "seniorCenter": {
+   "name": "Office of Elder Americans and Bradhurst Senior Center",
+   "address": "63 Bradhurst Avenue, Hawthorne, NY 10532",
+   "phone": "914-592-6441",
+   "url": "https://www.mtpleasantny.gov/241/Seniors-Office-of-Elder-Americans",
+   "notes": "The office serves seniors 60 and older living in the town with a congregate lunch, home-delivered meals, nutrition counseling, case management, transportation, shopping, weekly activities, and information and assistance. The county also lists social adult day care here, and a second lunch site at the Mount Pleasant Community Center, 1 Lozza Drive, Valhalla (914-769-0155). Senior programs such as trips, crafts, cards, bingo and exercise and art classes are open to unincorporated town residents 55 and older."
+  },
+  "transport": {
+   "name": "Office of Elder Americans transportation",
+   "phone": "914-592-6441",
+   "url": "https://www.mtpleasantny.gov/241/Seniors-Office-of-Elder-Americans",
+   "notes": "Transportation and shopping help are among the office's services for residents 60 and older. Call for details. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "more": [
+   {
+    "name": "Seniors / Office of Elder Americans at Town Hall",
+    "phone": "914-742-2310",
+    "url": "https://www.mtpleasantny.gov/241/Seniors-Office-of-Elder-Americans",
+    "note": "One Town Hall Plaza, Valhalla."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Mount Pleasant: Seniors / Office of Elder Americans",
+    "https://www.mtpleasantny.gov/241/Seniors-Office-of-Elder-Americans"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (I-M)",
+    "https://seniorcitizens.westchestercountyny.gov/i-m"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "mount-vernon-ny",
+  "name": "Mount Vernon",
+  "intro": "Mount Vernon is a city in Westchester County. The city's Office for the Aging, set up in December 1976, runs programs and services for residents 60 and older from the Rev. Shelton E. Doles Community Center on South 6th Avenue, where the county lists a weekday lunch.",
+  "seniorCenter": {
+   "name": "Mount Vernon Office for the Aging (Rev. Shelton E. Doles Community Center)",
+   "address": "250 South 6th Avenue, Mount Vernon, NY 10550",
+   "phone": "914-665-2315",
+   "url": "https://mountvernonny.gov/m/directory/department?did=31",
+   "notes": "The Office for the Aging is part of the city's Recreation Department and serves Mount Vernon residents 60 and older. The county lists congregate lunch at the Doles Center (914-665-2447); register before your first meal, and the suggested contribution is voluntary."
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "library": {
+   "name": "Mount Vernon Public Library",
+   "address": "28 South First Avenue, Mount Vernon, NY 10550",
+   "phone": "914-668-1840",
+   "url": "https://mountvernonpubliclibrary.org/",
+   "notes": "Runs regular Smartphones for Seniors and Keyboarding and Mouse Practice for Seniors classes in its computer lab."
+  },
+  "more": [
+   {
+    "name": "Mount Vernon Recreation Department",
+    "phone": "914-665-2420",
+    "url": "https://www.mountvernonny.gov/227/Seniors-Program",
+    "note": "1 Roosevelt Square. Oversees the city's senior programs."
+   }
+  ],
+  "sources": [
+   [
+    "City of Mount Vernon: Aging (directory)",
+    "https://mountvernonny.gov/m/directory/department?did=31"
+   ],
+   [
+    "City of Mount Vernon: Office for the Aging",
+    "https://mountvernonny.gov/176/Office-for-the-Aging"
+   ],
+   [
+    "City of Mount Vernon: Seniors Program",
+    "https://www.mountvernonny.gov/227/Seniors-Program"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Mount Vernon Public Library",
+    "https://mountvernonpubliclibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "nanuet-ny",
@@ -380,6 +1458,77 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "new-castle-ny",
+  "name": "New Castle (Chappaqua)",
+  "intro": "New Castle is a town in Westchester County. Its senior program at the New Castle Community Center on Senter Street in Chappaqua offers recreation and supportive services for adults 60 and older, and a senior social worker handles home-delivered meals.",
+  "seniorCenter": {
+   "name": "New Castle Community Center (Senior Programs)",
+   "address": "10 Senter Street, Chappaqua, NY 10514",
+   "phone": "914-238-8888",
+   "url": "https://www.mynewcastleny.gov/170/Senior-Programs",
+   "notes": "Run by New Castle Recreation and Parks for adults 60 and older living in the community, with recreation programs and supportive services such as exercise, classes, talks, trips and luncheons. Register ahead for activities by calling the center, Monday to Friday, 9 am to 4 pm. For home-delivered meals and other social services, call the senior social worker at 914-238-2093. The town's Senior Transportation page says Recreation and Parks gives residents rides to doctor's appointments, the community center, Town Hall and grocery shopping on a first come, first served basis when drivers are available."
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "library": {
+   "name": "Chappaqua Library",
+   "address": "195 South Greeley Avenue, Chappaqua, NY 10514",
+   "phone": "914-238-4779",
+   "url": "https://www.chappaqualibrary.org/",
+   "notes": "The library lists curbside pickup."
+  },
+  "more": [
+   {
+    "name": "New Castle Town Office",
+    "phone": "914-238-4771",
+    "url": "https://www.mynewcastleny.gov/170/Senior-Programs",
+    "note": "200 South Greeley Avenue, Chappaqua. Open Monday to Friday, 8:45 am to 4:30 pm."
+   }
+  ],
+  "sources": [
+   [
+    "Town of New Castle: Senior Programs",
+    "https://www.mynewcastleny.gov/170/Senior-Programs"
+   ],
+   [
+    "Town of New Castle: Senior Transportation",
+    "https://www.mynewcastleny.gov/523/Senior-Transportation"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Chappaqua Library",
+    "https://www.chappaqualibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "new-city-ny",
@@ -448,6 +1597,193 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "new-rochelle-ny",
+  "name": "New Rochelle",
+  "intro": "New Rochelle is a city in Westchester County. The city's Office for the Aging, at the Hugh A. Doyle Senior Center on Davis Avenue, gives free help with health, housing, income, local transportation and nutrition questions, and the center serves a weekday lunch.",
+  "seniorCenter": {
+   "name": "Hugh A. Doyle Senior Center (New Rochelle Office for the Aging)",
+   "address": "94 Davis Avenue, New Rochelle, NY 10801",
+   "phone": "914-235-2363",
+   "url": "https://www.newrochelleny.gov/257/Senior-Center",
+   "notes": "Open Monday to Friday, 8:30 am to 4:30 pm. Staff see people by appointment, and walk-ins are welcome. The center offers classes such as exercise, seated yoga, tai chi, dance, painting, clay and choral singing, plus cards, mah-jong, bingo and health talks. A Senior Park Pass is required for most programs; call to register for classes. The county lists the center as a congregate lunch site for people 60 and older."
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "library": {
+   "name": "New Rochelle Public Library",
+   "address": "1 Library Plaza, New Rochelle, NY 10801",
+   "phone": "914-632-7878",
+   "url": "https://www.newrochellelibrary.org/",
+   "notes": "The Huguenot Children's Library is at 794 North Avenue (914-632-8954)."
+  },
+  "more": [
+   {
+    "name": "Martin Luther King, Jr. Center",
+    "phone": "914-636-3050",
+    "url": "https://seniorcitizens.westchestercountyny.gov/n-p",
+    "note": "Listed by the county as a senior club or center at 95 Lincoln Avenue."
+   }
+  ],
+  "sources": [
+   [
+    "City of New Rochelle: Senior Center (Office for the Aging)",
+    "https://www.newrochelleny.gov/257/Senior-Center"
+   ],
+   [
+    "City of New Rochelle: Hugh A. Doyle Senior Center services",
+    "https://www.newrochelleny.gov/453/Hugh-A-Doyle-Senior-Center"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (N-P)",
+    "https://seniorcitizens.westchestercountyny.gov/n-p"
+   ],
+   [
+    "New Rochelle Public Library: Contact Us",
+    "https://www.newrochellelibrary.org/about-us/contact-us"
+   ],
+   [
+    "New Rochelle Public Library",
+    "https://www.newrochellelibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "north-castle-ny",
+  "name": "North Castle (Armonk)",
+  "intro": "North Castle is a town in Westchester County made up of the hamlets of Armonk, Banksville and North White Plains. Its Parks and Recreation Department runs a senior drop-in center at the Hergenhan Recreation Center in Armonk four days a week, with door to door rides, weekly grocery trips and home-delivered meals.",
+  "seniorCenter": {
+   "name": "North Castle Senior Recreation (Hergenhan Recreation Center)",
+   "phone": "914-273-3000 ext. 305",
+   "url": "https://www.northcastleny.gov/faq.aspx?TID=18",
+   "notes": "Seniors meet Mondays, Wednesdays, Thursdays and Fridays at the Hergenhan center in Armonk. Home-delivered meals are available to senior residents Monday to Friday, except holidays, for a per-meal fee billed monthly (914-273-3000 ext. 49)."
+  },
+  "transport": {
+   "name": "North Castle senior transportation",
+   "phone": "914-273-3000 ext. 305",
+   "url": "https://www.northcastleny.gov/faq.aspx?TID=18",
+   "notes": "Door to door rides to the senior drop-in center four days a week, plus a weekly grocery trip to ShopRite or Stop and Shop. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "library": {
+   "name": "North Castle Public Library (Armonk Branch)",
+   "address": "19 Whippoorwill Road East, Armonk, NY 10504",
+   "phone": "914-273-3887",
+   "url": "https://www.northcastlelibrary.org/",
+   "notes": "The North White Plains Branch is at 10 Clove Road (914-948-6359)."
+  },
+  "sources": [
+   [
+    "Town of North Castle: Parks and Recreation FAQ",
+    "https://www.northcastleny.gov/m/faq?cat=18"
+   ],
+   [
+    "North Castle Public Library",
+    "https://www.northcastlelibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "north-salem-ny",
+  "name": "North Salem",
+  "intro": "North Salem is a town in Westchester County. The North Salem Community Center in Croton Falls doubles as the senior center, the town runs a door to door senior van for residents 60 and older, and home-delivered meals come through a partnership with the Town of Somers.",
+  "seniorCenter": {
+   "name": "North Salem Community Center and Senior Center",
+   "address": "3 Owens Road, Croton Falls, NY",
+   "url": "https://northsalemny.gov/1255/Senior-Services",
+   "notes": "Open to residents weekdays, 9 am to 4:30 pm, with a lounge, Wi-Fi, TV, games, puzzles, books, coffee and snacks, plus free fitness, craft and educational programs. The North Salem Senior Citizens Club, which is not run by the town, meets the second Tuesday of each month at the firehouse at 301 Titicus Road; members must be over 50 and pay $15 dues."
+  },
+  "transport": {
+   "name": "North Salem Senior Van",
+   "url": "https://northsalemny.gov/1255/Senior-Services",
+   "notes": "A new town van gives door to door rides to residents 60 and older for local shopping and programs. Contact the Recreation Department to book. F.I.S.H. (Friends In Service Here), a volunteer group not run by the town, offers free non-emergency rides, mostly to medical visits, at 914-733-6188. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "more": [
+   {
+    "name": "Somers-North Salem-Lewisboro Nutrition Program (home-delivered meals)",
+    "phone": "914-232-0807",
+    "url": "https://northsalemny.gov/1265/Senior-Nutrition-Programs",
+    "note": "A hot weekday lunch delivered to residents 60 and older who need help for health reasons. Suggested donation $3 per meal."
+   }
+  ],
+  "sources": [
+   [
+    "Town of North Salem: Senior Services",
+    "https://northsalemny.gov/1255/Senior-Services"
+   ],
+   [
+    "Town of North Salem: Senior Nutrition Programs",
+    "https://northsalemny.gov/1265/Senior-Nutrition-Programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "nyack-ny",
@@ -622,6 +1958,77 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "ossining-ny",
+  "name": "Ossining",
+  "intro": "Ossining is a town in Westchester County. The town's Senior Services department, at the Joseph G. Caputo Community Center on Broadway, is open to all Town of Ossining residents 60 and older, with a weekday lunch, home-delivered meals, a daily check-in call, a grocery bus and discount taxi coupons.",
+  "seniorCenter": {
+   "name": "Ossining Senior Center (Joseph G. Caputo Community Center)",
+   "address": "95 Broadway, Ossining, NY 10562",
+   "phone": "914-762-1350",
+   "url": "https://townofossiningny.gov/cms/departments/senior-services",
+   "notes": "Office hours are Monday to Friday, 8 am to 3 pm, and the center is handicapped accessible. Hot or cold lunch is served weekdays at noon for a $3 suggested contribution; call a day ahead. Hot lunches are delivered weekdays to qualifying homebound seniors in Ossining and Briarcliff ($3.50 suggested). The RUOK (Are You Okay?) program makes a check-in call every morning, 7 days a week. A social worker is at the center 8:30 am to 1:30 pm for information and referrals (914-762-7655). Weekly classes include Stay Strong and Fit, chair yoga and line dancing. The center closes when Ossining Public Schools close for weather."
+  },
+  "transport": {
+   "name": "Ossining Senior Center grocery bus and taxi coupons",
+   "phone": "914-762-1350",
+   "url": "https://townofossiningny.gov/cms/departments/senior-services",
+   "notes": "A bus goes to the Croton ShopRite every Wednesday at 12:30 pm for seniors who eat lunch at the center first, then drives them home; the fee is $2 and you must reserve. Discount taxi coupons for Ossining and Briarcliff residents 60 and older cost $3 each, up to 15 a month, with proof of age and residency. They can be used in and around the Town and Village of Ossining, Briarcliff, the Croton ShopRite and Phelps Hospital only. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "library": {
+   "name": "Ossining Public Library",
+   "address": "53 Croton Avenue, Ossining, NY 10562",
+   "phone": "914-941-2416",
+   "url": "https://ossininglibrary.org/",
+   "notes": "Open Monday and Thursday 9 am to 9 pm, Tuesday and Friday 10 am to 6 pm, Wednesday 1 to 9 pm, Saturday 9 am to 5 pm and Sunday 1 to 5 pm."
+  },
+  "more": [
+   {
+    "name": "Senior Citizen Exemption (RP-467) information",
+    "phone": "914-762-1350",
+    "url": "https://townofossiningny.gov/cms/departments/senior-services",
+    "note": "The Senior Services page links the Senior Citizen Exemption (RP-467) application and the town's sliding scale letter for homeowners 65 and older. Call the senior center with questions."
+   }
+  ],
+  "sources": [
+   [
+    "Town of Ossining: Senior Services",
+    "https://townofossiningny.gov/cms/departments/senior-services"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (N-P)",
+    "https://seniorcitizens.westchestercountyny.gov/n-p"
+   ],
+   [
+    "Ossining Public Library",
+    "https://ossininglibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "pearl-river-ny",
   "name": "Pearl River",
   "county": "rockland",
@@ -686,6 +2093,114 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "peekskill-ny",
+  "name": "Peekskill",
+  "intro": "Peekskill is a city in Westchester County. Its Senior Club and nutrition center at the Neighborhood Center on Nelson Avenue serve residents 60 and older with weekday lunch, activities and a city bus to the center and to scheduled shopping trips.",
+  "seniorCenter": {
+   "name": "Peekskill Senior Club and Nutrition Center (Neighborhood Center)",
+   "address": "4 Nelson Avenue, lower level, Peekskill, NY 10566",
+   "phone": "914-734-4251",
+   "url": "https://www.cityofpeekskillny.gov/496/Congregate-Program",
+   "notes": "The club is open Monday to Friday, 9 am to 3 pm, for Peekskill residents 60 and older, with social, recreational, instructional and civic programs plus information and referral. Hot lunch is made on site Monday to Friday. The dining room opens at 11 am and lunch is served at noon, and Grab and Go meals are offered too. The suggested contribution is $3 at the center and $3.50 for homebound seniors. Reserve at least one day ahead."
+  },
+  "transport": {
+   "name": "Peekskill senior center bus",
+   "phone": "914-734-4251",
+   "url": "https://www.cityofpeekskillny.gov/496/Congregate-Program",
+   "notes": "The city gives rides to and from the Senior Center for senior activities and lunch, plus scheduled shopping trips two days a week. Call one day ahead (meal reservations by 12 pm the day before). The suggested donation is $1 round trip, and riders must sign a transportation waiver before the first pickup. For trips elsewhere, Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "more": [],
+  "sources": [
+   [
+    "City of Peekskill: Congregate Program",
+    "https://www.cityofpeekskillny.gov/496/Congregate-Program"
+   ],
+   [
+    "City of Peekskill: Senior Shopping Calendar",
+    "https://cityofpeekskillny.gov/523/Senior-Shopping-Calendar"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "pelham-ny",
+  "name": "Pelham",
+  "intro": "Pelham is a town in Westchester County. Town programs are open to residents 55 and older at the Daronco Town House on Fifth Avenue, including a weekly senior club, exercise and yoga classes, card games and a medical van.",
+  "seniorCenter": {
+   "name": "Daronco Town House (Town of Pelham senior programs)",
+   "address": "20 Fifth Avenue, Pelham, NY 10803",
+   "phone": "914-738-5004",
+   "url": "https://townofpelhamny.gov/pelham-recreation-senior-citizens/",
+   "notes": "For Town of Pelham residents 55 and older. The Senior Citizen Club meets Mondays, 1 to 4 pm, with bingo, meetings and special events, and collects small monthly dues. Senior exercise runs Tuesday and Thursday at 10 am, yoga for seniors Friday at 10 am, and cards (bridge, mah-jongg and more) Wednesday and Friday afternoons. The Resident Emergency Assistance List (R.E.A.L.), run with the Pelham and Pelham Manor police, lets older residents sign up for check-ins during storms and power outages."
+  },
+  "transport": {
+   "name": "Town of Pelham medical van",
+   "phone": "914-864-1155",
+   "url": "https://townofpelhamny.gov/pelham-recreation-senior-citizens/",
+   "notes": "Medical trips only, Monday to Thursday, with the first pickup at 9:15 am and the last at 3 pm. Book 24 hours ahead. Riders sit in the back and must get in and out without help. Service covers Pelham, New Rochelle, Larchmont, Eastchester, Bronxville, Mount Vernon, part of Scarsdale and the Ridge Hill area of Yonkers. Bee-Line ParaTransit (914-995-7272) serves people who need more help."
+  },
+  "library": {
+   "name": "Town of Pelham Public Library",
+   "url": "https://www.pelhamlibrary.org/",
+   "notes": "Open Monday and Thursday 10 am to 8 pm, Tuesday, Wednesday and Friday 10 am to 5 pm, and Saturday 10 am to 4 pm.",
+   "address": "530 Colonial Avenue, Pelham, NY 10803",
+   "phone": "914-738-1234"
+  },
+  "sources": [
+   [
+    "Town of Pelham: Pelham Recreation, Senior Citizens",
+    "https://townofpelhamny.gov/pelham-recreation-senior-citizens/"
+   ],
+   [
+    "Town of Pelham Public Library",
+    "https://www.pelhamlibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "piermont-ny",
@@ -774,6 +2289,124 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "port-chester-ny",
+  "name": "Port Chester",
+  "intro": "Port Chester is a village in Westchester County. Its Senior Community Center on Grace Church Street is open to all Port Chester residents 60 and older, with no income rule or membership fee, and serves lunch at noon plus home-delivered meals.",
+  "seniorCenter": {
+   "name": "Port Chester Senior Community Center",
+   "address": "222 Grace Church Street, Port Chester, NY 10573",
+   "phone": "914-939-4975",
+   "url": "https://www.portchesterny.gov/250/Senior-Community-Center",
+   "notes": "Open Monday to Friday, 9 am to 4 pm; Saturday hours (normally 9 am to 3 pm) are temporarily suspended through December 2026, and Saturday meals are handed out as take-home meals on Fridays. Lunch is served at noon, with a suggested contribution of $2 for residents and $4 for nonresidents; no one is turned away. The center has a library, computer room and pool table, with Zumba, tai chi, bridge, mah-jongg, bingo, art classes, day trips and movies. Medically homebound village seniors may get home-delivered meals on weekdays ($2 suggested)."
+  },
+  "transport": {
+   "name": "Port Chester Senior Community Center transportation",
+   "phone": "914-939-4975",
+   "url": "https://www.portchesterny.gov/250/Senior-Community-Center",
+   "notes": "The center provides rides for village residents. Call for details. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "more": [
+   {
+    "name": "Village of Port Chester (Village Hall)",
+    "phone": "914-939-5200",
+    "url": "https://www.portchesterny.gov/m/newsflash/Home/Detail/256",
+    "note": "222 Grace Church Street."
+   }
+  ],
+  "sources": [
+   [
+    "Village of Port Chester: Senior Community Center",
+    "https://www.portchesterny.gov/250/Senior-Community-Center"
+   ],
+   [
+    "Village of Port Chester: Operational Adjustment, Senior Community Center (Nov 2, 2026)",
+    "https://www.portchesterny.gov/m/newsflash/Home/Detail/256"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "pound-ridge-ny",
+  "name": "Pound Ridge",
+  "intro": "Pound Ridge is a town in Westchester County. Its Neighbor to Neighbor program, run by volunteers with the town Recreation and Police departments, helps older and disabled residents with rides to doctors and food shopping, hot meals when someone cannot cook, a reassurance call program and a medical equipment loan closet.",
+  "seniorCenter": {
+   "name": "Neighbor to Neighbor (N2N), Town of Pound Ridge",
+   "address": "179 Westchester Avenue, Pound Ridge, NY 10576",
+   "phone": "914-764-8201",
+   "url": "https://townofpoundridge.gov/recreation/neighbor-neighbor-n2n",
+   "notes": "A community volunteer program working with the Town Recreation Department and Police Department. Services include rides to doctors and to food shopping at The Market at Pound Ridge Square, volunteers who shop for you if you cannot get out, hot meals delivered when you are temporarily unable to cook, senior social events, the Call Reassurance program, File of Life and a medical equipment loan program. The program is reached through the town's Adults 62+ coordinator at the Town House."
+  },
+  "transport": {
+   "name": "Neighbor to Neighbor rides",
+   "phone": "914-764-8201",
+   "url": "https://townofpoundridge.gov/recreation/neighbor-neighbor-n2n",
+   "notes": "Volunteer rides to doctors and to food shopping. Call to arrange. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "library": {
+   "name": "Pound Ridge Library",
+   "address": "271 Westchester Avenue, Pound Ridge, NY 10576",
+   "phone": "914-764-5085",
+   "url": "https://www.poundridgelibrary.org/"
+  },
+  "sources": [
+   [
+    "Town of Pound Ridge: Neighbor to Neighbor (N2N)",
+    "https://townofpoundridge.gov/recreation/neighbor-neighbor-n2n"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (N-P)",
+    "https://seniorcitizens.westchestercountyny.gov/n-p"
+   ],
+   [
+    "Pound Ridge Library",
+    "https://www.poundridgelibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "ramapo-ny",
   "name": "Ramapo",
   "county": "rockland",
@@ -851,6 +2484,215 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "rye-ny",
+  "name": "Rye",
+  "intro": "Rye is a city in Westchester County. Rye Recreation runs a Senior Adult Program for City of Rye residents 60 and older at the Damiano Recreation Center, with exercise classes, luncheons, speakers and trips.",
+  "seniorCenter": {
+   "name": "Rye Seniors (Rye Recreation Senior Adult Program)",
+   "address": "Damiano Recreation Center, 281 Midland Avenue, Rye, NY 10580",
+   "phone": "914-505-9910",
+   "url": "https://www.ryeny.gov/government/recreation-department/seniors",
+   "notes": "Open to all City of Rye residents 60 and older. Members gather for exercise, strength and balance classes, Zumba Gold, Pilates, painting, crafts, games, luncheons and movies, with monthly speakers and shopping, theater and lunch trips. Advance registration is required for all programs and events. Email ryeseniors@ryeny.gov."
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "library": {
+   "name": "Rye Free Reading Room",
+   "address": "1061 Boston Post Road, Rye, NY 10580",
+   "phone": "914-967-0480",
+   "url": "https://www.ryelibrary.org/",
+   "notes": "Open Monday to Thursday 9:30 am to 8 pm, Friday 9:30 am to 5:30 pm, Saturday 10 am to 5 pm and Sunday noon to 5 pm."
+  },
+  "more": [
+   {
+    "name": "Rye Recreation Department",
+    "phone": "914-967-2535",
+    "url": "https://www.ryeny.gov/government/recreation-department",
+    "note": "Main office at 281 Midland Avenue."
+   }
+  ],
+  "sources": [
+   [
+    "City of Rye: Senior Adults",
+    "https://www.ryeny.gov/government/recreation-department/seniors"
+   ],
+   [
+    "City of Rye: Recreation Department",
+    "https://www.ryeny.gov/government/recreation-department"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (Q-S)",
+    "https://seniorcitizens.westchestercountyny.gov/q-s"
+   ],
+   [
+    "Rye Free Reading Room",
+    "https://www.ryelibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "scarsdale-ny",
+  "name": "Scarsdale",
+  "intro": "Scarsdale is both a town and a village in Westchester County. Residents 60 and older can join the Scarsdale Seniors Club for exercise classes, summer aqua aerobics and reduced rates on trips and programs, and village members can get taxi vouchers for nearby medical visits. A free daily check-in call runs with the Scarsdale Police Department.",
+  "seniorCenter": {
+   "name": "Scarsdale Seniors Club (Village of Scarsdale)",
+   "phone": "914-722-1160",
+   "url": "https://scarsdale.gov/870/Scarsdale-Seniors",
+   "notes": "Open to Scarsdale residents 60 and older. The club offers exercise classes, aqua aerobics in summer, and special rates for tennis permits, trips and programs. Call the senior citizen coordinator or register online through the village. The village also runs a free daily phone check-in with the Scarsdale Police Department, called Are You OK (RUOK). If no one answers after three calls, police go to the home. Call the police non-emergency line to sign up."
+  },
+  "transport": {
+   "name": "Scarsdale Seniors medical taxi vouchers",
+   "phone": "914-722-1160",
+   "url": "https://scarsdale.gov/870/Scarsdale-Seniors",
+   "notes": "Scarsdale Seniors Club members who live in the village can get a taxi voucher for local medical and dental appointments, preferably between 10 am and 2 pm. Call at least one week ahead; the voucher covers one way of the trip. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "library": {
+   "name": "Scarsdale Public Library",
+   "address": "54 Olmsted Road, Scarsdale, NY 10583",
+   "phone": "914-722-1300",
+   "url": "https://www.scarsdalelibrary.org/"
+  },
+  "more": [
+   {
+    "name": "Scarsdale Edgemont Family Counseling Service, Aging in Place program",
+    "phone": "914-723-3281",
+    "url": "https://www.sfcsinc.org/aging-in-place",
+    "note": "A joint effort of the Village of Scarsdale and this nonprofit at 14 Harwood Court, Suite 409. It offers in-home counseling and assessment for homebound residents, home safety checks, information and referral to vetted providers, advocacy and help planning for the future."
+   },
+   {
+    "name": "Eastchester Garth Road Senior Center",
+    "phone": "914-771-3340",
+    "url": "https://www.eastchester.gov/departments/senior_centers.php",
+    "note": "A Town of Eastchester neighborhood center at 235 Garth Road with a Scarsdale address, open Wednesday and Friday afternoons for residents of that area."
+   }
+  ],
+  "sources": [
+   [
+    "Village of Scarsdale: Scarsdale Seniors",
+    "https://scarsdale.gov/870/Scarsdale-Seniors"
+   ],
+   [
+    "Village of Scarsdale: Aging in Place in Scarsdale",
+    "https://scarsdale.gov/1009/Aging-in-Place-in-Scarsdale"
+   ],
+   [
+    "Scarsdale Edgemont Family Counseling Service: Aging in Place",
+    "https://www.sfcsinc.org/aging-in-place"
+   ],
+   [
+    "Town of Eastchester: Senior Centers",
+    "https://www.eastchester.gov/departments/senior_centers.php"
+   ],
+   [
+    "Scarsdale Public Library",
+    "https://www.scarsdalelibrary.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "sleepy-hollow-ny",
+  "name": "Sleepy Hollow",
+  "intro": "Sleepy Hollow is a village in Westchester County. Its Recreation Department runs senior programs at the James F. Galgano Senior Center, a free senior van, and low-cost hot lunches delivered to homebound village residents.",
+  "seniorCenter": {
+   "name": "James F. Galgano Senior Center (Sleepy Hollow Recreation)",
+   "phone": "914-366-5109",
+   "url": "https://sleepyhollowny.gov/285/Senior-Clubs-Activities-Resources",
+   "notes": "Most senior activities take place here, including exercise classes, yoga, pickleball, ceramics and trips. Some activities need registration and a fee. A monthly calendar is posted on the village site."
+  },
+  "transport": {
+   "name": "Sleepy Hollow Senior Van",
+   "phone": "914-366-5109",
+   "url": "https://sleepyhollowny.gov/285/Senior-Clubs-Activities-Resources",
+   "notes": "Free rides for seniors to doctor's appointments and other local services, plus a grocery trip every Wednesday morning. Call the Recreation Department before 3 pm the day before you need a ride."
+  },
+  "library": {
+   "name": "Warner Library",
+   "address": "121 North Broadway, Tarrytown, NY 10591",
+   "phone": "914-631-7734",
+   "url": "https://warnerlibrary.org/contact-us/"
+  },
+  "more": [
+   {
+    "name": "Sleepy Hollow Meals on Wheels",
+    "phone": "914-366-5109",
+    "url": "https://sleepyhollowny.gov/285/Senior-Clubs-Activities-Resources",
+    "note": "Hot lunch delivered Monday to Friday, between noon and 2 pm, to homebound village residents for $3 a day, paid weekly or monthly."
+   },
+   {
+    "name": "The Neighborhood House",
+    "phone": "914-631-0205",
+    "url": "https://sleepyhollowny.gov/285/Senior-Clubs-Activities-Resources",
+    "note": "At 43 Wildey Street, Tarrytown. Offers programs for seniors from Sleepy Hollow, Tarrytown and nearby, such as chair yoga, memoir writing, art workshops, movies and a bridge and card club. The Town of Greenburgh also serves a weekday lunch here for people 60 and older (914-330-3855)."
+   }
+  ],
+  "sources": [
+   [
+    "Village of Sleepy Hollow: Senior Clubs, Activities and Resources",
+    "https://sleepyhollowny.gov/285/Senior-Clubs-Activities-Resources"
+   ],
+   [
+    "Town of Greenburgh: Senior Activities",
+    "https://www.greenburghny.com/287/Senior-Activities"
+   ],
+   [
+    "Warner Library: Contact Us",
+    "https://warnerlibrary.org/contact-us/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "sloatsburg-ny",
   "name": "Sloatsburg",
   "county": "rockland",
@@ -911,6 +2753,58 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "somers-ny",
+  "name": "Somers",
+  "intro": "Somers is a town in Westchester County. Its Senior Services department, based at the Van Tassell House, runs a weekday lunch, home-delivered meals for Somers, Lewisboro and North Salem, and senior bus rides to medical visits and shopping.",
+  "seniorCenter": {
+   "name": "Somers Senior Services (Van Tassell House)",
+   "phone": "914-232-0807",
+   "url": "https://www.somersny.gov/departments/senior-services",
+   "notes": "Office hours are Monday to Friday, 8 am to 3:30 pm. The department covers meals, social programs and rides, plus information for seniors and their families on health, housing and money. Lunch is served at Van Tassell House Monday to Friday at noon for people 60 and older, with a suggested $2 donation; call 914-232-0807 to reserve. The Somers-North Salem-Lewisboro Nutrition Program delivers a hot weekday lunch to residents 60 and older who need help for health reasons, for a suggested $3 donation; the first meal arrives the day after you sign up.",
+   "address": "Van Tassell House, 100 Primrose Street (Route 139), Katonah, NY 10536"
+  },
+  "transport": {
+   "name": "Somers senior bus",
+   "phone": "914-232-0807",
+   "url": "https://cdn.prod.website-files.com/5a3150007b7a1700017bcf4a/695407883b4c46bfedcfcce6_transportationservicesmedical.pdf",
+   "notes": "Round trip rides to medical appointments for seniors 60 and older on Tuesdays, Wednesdays and Thursdays between 10 am and 2 pm, with a $10 voluntary contribution; call to check eligibility. Wheelchair accessible buses are available. Door to door shopping trips for adult residents who do not drive run Fridays (groceries) and Mondays (other shopping), with pickup after 10 am and a $2 voluntary round trip contribution."
+  },
+  "sources": [
+   [
+    "Town of Somers: Senior Services",
+    "https://www.somersny.gov/departments/senior-services"
+   ],
+   [
+    "Town of Somers: Lunch at Van Tassell House",
+    "https://www.somersny.gov/resources/lunch-at-van-tassell-house"
+   ],
+   [
+    "Town of Somers: Transportation to Medical Appointments",
+    "https://cdn.prod.website-files.com/5a3150007b7a1700017bcf4a/695407883b4c46bfedcfcce6_transportationservicesmedical.pdf"
+   ],
+   [
+    "Town of Somers: Transportation to Area Shopping",
+    "https://cdn.prod.website-files.com/5a3150007b7a1700017bcf4a/69540a1ac88094073562880a_transportationareashopping.pdf"
+   ],
+   [
+    "Town of North Salem: Senior Nutrition Programs",
+    "https://northsalemny.gov/1265/Senior-Nutrition-Programs"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  },
  {
   "slug": "spring-valley-ny",
@@ -1215,6 +3109,144 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "tarrytown-ny",
+  "name": "Tarrytown",
+  "intro": "Tarrytown is a village in the Town of Greenburgh. Its Recreation Department runs the Tarrytown Senior Center with weekly exercise classes, bingo and computer classes, plus a free senior shuttle for village residents 60 and older. Greenburgh serves a weekday lunch at The Neighborhood House.",
+  "seniorCenter": {
+   "name": "Tarrytown Senior Center (Village Recreation Department)",
+   "phone": "914-631-8347",
+   "url": "https://tarrytownny.gov/parks-and-recreation-department/faq/does-the-village-offer-programs-for-senior-citizens",
+   "notes": "Weekly programs include senior exercise classes on Monday, Wednesday and Friday mornings, nickel bingo on Mondays, a computer class on Wednesdays, senior meetings on the first and third Tuesday, a monthly game day and a monthly movie. The club also runs trips and an annual picnic and holiday party.",
+   "address": "238 West Main Street, Tarrytown, NY 10591"
+  },
+  "transport": {
+   "name": "Tarrytown Senior Shuttle Bus",
+   "phone": "914-631-8347",
+   "url": "https://www.tarrytownny.gov/parks-and-recreation-department/pages/senior-shuttle-bus",
+   "notes": "Free for village residents 60 and older; you do not need to be a club member. Weekday rides to the Senior Center, The Neighborhood House or local stops in the village and nearby Sleepy Hollow, Irvington and Greenburgh, 9 am to noon, subject to availability. Wednesdays at noon the bus goes to the ShopRite in Elmsford. Book up to a week ahead and at least 24 hours ahead."
+  },
+  "library": {
+   "name": "Warner Library",
+   "address": "121 North Broadway, Tarrytown, NY 10591",
+   "phone": "914-631-7734",
+   "url": "https://warnerlibrary.org/contact-us/"
+  },
+  "more": [
+   {
+    "name": "The Neighborhood House",
+    "phone": "914-631-0205",
+    "url": "https://sleepyhollowny.gov/285/Senior-Clubs-Activities-Resources",
+    "note": "At 43 Wildey Street, Tarrytown. Offers programs for seniors from Sleepy Hollow, Tarrytown and nearby, such as chair yoga, memoir writing, art workshops, movies and a bridge and card club. The Town of Greenburgh also serves a weekday lunch here for people 60 and older (914-330-3855)."
+   }
+  ],
+  "sources": [
+   [
+    "Village of Tarrytown: Senior Citizen Services",
+    "https://www.tarrytownny.gov/parks-and-recreation-department/pages/tarrytown-senior-citizen-services"
+   ],
+   [
+    "Village of Tarrytown: Senior programs FAQ",
+    "https://tarrytownny.gov/parks-and-recreation-department/faq/does-the-village-offer-programs-for-senior-citizens"
+   ],
+   [
+    "Village of Tarrytown: Senior Shuttle Bus",
+    "https://www.tarrytownny.gov/parks-and-recreation-department/pages/senior-shuttle-bus"
+   ],
+   [
+    "Town of Greenburgh: Senior Activities",
+    "https://www.greenburghny.com/287/Senior-Activities"
+   ],
+   [
+    "Village of Sleepy Hollow: Senior Clubs, Activities and Resources",
+    "https://sleepyhollowny.gov/285/Senior-Clubs-Activities-Resources"
+   ],
+   [
+    "Warner Library: Contact Us",
+    "https://warnerlibrary.org/contact-us/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "tuckahoe-ny",
+  "name": "Tuckahoe",
+  "intro": "Tuckahoe is a village in the Town of Eastchester. Older residents can use Eastchester Senior Programs and Services, including medical rides and the senior center at Lake Isle, and the Tuckahoe Senior Citizens club meets twice a week at Fr. Fata Hall on Wallace Street.",
+  "seniorCenter": {
+   "name": "Tuckahoe Senior Citizens",
+   "address": "Fr. Fata Hall at Assumption Church, 125 Wallace Street, Tuckahoe, NY 10707",
+   "phone": "914-337-8487",
+   "url": "https://www.scc70.org/tuckahoeseniors",
+   "notes": "A club for people 55 and older, run by the nonprofit Senior Citizens Council; the Village of Tuckahoe's Senior Center page links to it. It meets Tuesdays and Thursdays, September through July, and is closed in August. Membership is open to residents of ZIP codes 10707, 10708 and 10709, and dues are $85 a year ($45 for members 90 and older). Programs include exercise, tai chi, line dancing, bingo, art classes and talks; luncheons and day trips cost extra. Tuckahoe residents 60 and older can also use the Town of Eastchester's Center at Lake Isle (660 White Plains Road, 914-337-0390), which serves lunch daily and offers rides to residents of Eastchester, Tuckahoe and Bronxville. The county lists the lunch site as temporarily at the Tuckahoe Community Center, 71 Columbus Avenue, so call to confirm where lunch is served."
+  },
+  "transport": {
+   "name": "Eastchester Senior Programs medical rides",
+   "phone": "914-771-3340",
+   "url": "https://cms5.revize.com/revize/eastchester/1%20MEDICAL%20FLYER.-updated%20Oct%2026.pdf",
+   "notes": "Rides to medical appointments for residents 60 and older of Eastchester, Tuckahoe and Bronxville, Monday to Friday, 9 am to 2 pm, by reservation. A free escort gives light help when needed. Suggested round trip contributions are voluntary, at $5 within Eastchester, Tuckahoe, Bronxville and Scarsdale Village, $8 to Scarsdale, Mount Vernon, New Rochelle and Yonkers, and $10 to White Plains, Hartsdale and Harrison. The town also offers shopping and errand rides. Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses."
+  },
+  "sources": [
+   [
+    "Tuckahoe Senior Citizens (Senior Citizens Council)",
+    "https://www.scc70.org/tuckahoeseniors"
+   ],
+   [
+    "Village of Tuckahoe: Senior Center",
+    "https://www.tuckahoe.com/480/Senior-Center"
+   ],
+   [
+    "Town of Eastchester: Local Snapshot",
+    "https://www.eastchester.gov/general_information/local_snapshot.php"
+   ],
+   [
+    "Town of Eastchester: Senior Programs and Services",
+    "https://www.eastchester.gov/departments/senior_programs_and_services.php"
+   ],
+   [
+    "Town of Eastchester: Senior Centers",
+    "https://www.eastchester.gov/departments/senior_centers.php"
+   ],
+   [
+    "Town of Eastchester: Medical transportation flyer (Oct 2026)",
+    "https://cms5.revize.com/revize/eastchester/1%20MEDICAL%20FLYER.-updated%20Oct%2026.pdf"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (D-H)",
+    "https://seniorcitizens.westchestercountyny.gov/d-h"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "west-haverstraw-ny",
   "name": "West Haverstraw",
   "county": "rockland",
@@ -1349,5 +3381,216 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "white-plains-ny",
+  "name": "White Plains",
+  "intro": "White Plains is a city in Westchester County and the county seat. The city's Recreation and Parks Community Center on Mitchell Place runs programs for older adults, and the county lists it as a weekday lunch site for people 60 and older. Greenburgh's Theodore D. Young Community Center, with a White Plains address, serves lunch too.",
+  "seniorCenter": {
+   "name": "White Plains Community Center (Recreation and Parks)",
+   "address": "65 Mitchell Place, White Plains, NY 10601",
+   "phone": "914-422-1423",
+   "url": "https://www.cityofwhiteplains.com/m/directory/department?did=36",
+   "notes": "The office is open Monday to Friday, 8:30 am to 4:30 pm. The county lists the center as a congregate lunch site for people 60 and older; register before your first meal, and the suggested contribution is voluntary. Call the center for the current senior program schedule."
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "library": {
+   "name": "White Plains Public Library",
+   "address": "100 Martine Avenue, White Plains, NY 10601",
+   "phone": "914-422-1400",
+   "url": "https://whiteplainslibrary.org/",
+   "notes": "The library posted that it will have new hours of operation starting December 7, 2026, so check its website before you go. You can also text WPPL to 66746."
+  },
+  "more": [
+   {
+    "name": "Westchester County Office for People with Disabilities",
+    "phone": "914-995-2960",
+    "url": "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf",
+    "note": "At 148 Martine Avenue in White Plains. Listed by the county for ParaTransit questions."
+   }
+  ],
+  "sources": [
+   [
+    "City of White Plains: Community Center (directory)",
+    "https://www.cityofwhiteplains.com/m/directory/department?did=36"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (T-W)",
+    "https://seniorcitizens.westchestercountyny.gov/t-w"
+   ],
+   [
+    "Town of Greenburgh: Senior Activities",
+    "https://www.greenburghny.com/287/Senior-Activities"
+   ],
+   [
+    "White Plains Public Library",
+    "https://whiteplainslibrary.org/"
+   ],
+   [
+    "White Plains Public Library: White Plains Senior Center listing",
+    "https://whiteplainslibrary.org/white-plains-resources/white-plains-senior-center/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "yonkers-ny",
+  "name": "Yonkers",
+  "intro": "Yonkers is a city in Westchester County. The city's Office for the Aging works out of the Peter Chema Center on Riverdale Avenue, and the county lists five places in Yonkers that serve lunch to people 60 and older. Yonkers Public Library runs three branches and a 55+ events track.",
+  "seniorCenter": {
+   "name": "Yonkers Office for the Aging (Peter Chema Center)",
+   "address": "435 Riverdale Avenue, Yonkers, NY 10705",
+   "phone": "914-377-6823",
+   "url": "https://yonkersny.gov/m/directory/department?did=38",
+   "notes": "The Peter Chema Senior Nutrition Center in the same building serves lunch and home-delivered meals for people 60 and older (nutrition line 914-963-6662). The county also lists lunch at the Scotti Center (680 Bronx River Road, 914-377-6490), Nepperhan Community Center (342 Warburton Avenue, 914-965-0203), North Yonkers Preservation and Development (219 Ridge Avenue, 914-522-0364) and the YWCA (87 South Broadway, 914-963-0640). You must register before your first meal, and the suggested contribution is voluntary."
+  },
+  "transport": {
+   "name": "Bee-Line ParaTransit (Westchester County)",
+   "phone": "914-995-7272",
+   "url": "https://transportation.westchestercountyny.gov/bee-line-paratransit",
+   "notes": "County shared-ride, curb to curb service for people who cannot ride regular Bee-Line buses. It runs within 3/4 mile of a Bee-Line bus route, during the hours that route runs. The fare is $5 a trip, paid in exact cash or with a ticket, and a personal care attendant listed on the rider's ID card rides free. Book Monday to Friday, 9 am to 5 pm, up to 7 days ahead; next-day trips must be booked by 5 pm. You must apply and be found eligible first (press 3 on the phone line for an application)."
+  },
+  "library": {
+   "name": "Yonkers Public Library",
+   "phone": "914-337-1500",
+   "url": "https://www.ypl.org/",
+   "notes": "It has three branches, the Riverfront Library, Grinton I. Will Library and Crestwood Library. Events are tagged for Adults 55+. A food pantry at the Riverfront Library is open Monday to Friday, 11 am to 3 pm, while supplies last (ext. 427 or 428)."
+  },
+  "more": [
+   {
+    "name": "Livable Community Connection (Yonkers Office for the Aging)",
+    "phone": "914-377-6806",
+    "url": "https://www.yonkersny.gov/294/Livable-Community-Connection",
+    "note": "A program of the Office for the Aging at 435 Riverdale Avenue that connects Yonkers residents with services and resources to help them age in place."
+   },
+   {
+    "name": "Coyne Park Senior Center",
+    "phone": "914-377-6472",
+    "url": "https://seniorcitizens.westchestercountyny.gov/yonkers",
+    "note": "Listed by the county at 777 McLean Avenue. The county's Yonkers list has more than 20 senior clubs and centers across the city."
+   }
+  ],
+  "sources": [
+   [
+    "City of Yonkers: Office for the Aging (directory)",
+    "https://yonkersny.gov/m/directory/department?did=38"
+   ],
+   [
+    "City of Yonkers: Livable Community Connection",
+    "https://www.yonkersny.gov/294/Livable-Community-Connection"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "Westchester County DSPS: Senior Clubs and Centers (Yonkers)",
+    "https://seniorcitizens.westchestercountyny.gov/yonkers"
+   ],
+   [
+    "Yonkers Public Library",
+    "https://www.ypl.org/"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "yorktown-ny",
+  "name": "Yorktown",
+  "intro": "Yorktown is a town in Westchester County. Its senior services work out of the Albert A. Capellini Community and Cultural Center on Commerce Street, with a weekday hot lunch, home meals, a senior bus and weekly blood pressure checks.",
+  "seniorCenter": {
+   "name": "Yorktown Senior Nutrition Center (Albert A. Capellini Community and Cultural Center)",
+   "address": "1974 Commerce Street, Yorktown Heights, NY 10598",
+   "phone": "914-962-7447",
+   "url": "https://yorktownny.gov/town-departments/senior-services",
+   "notes": "Open Monday to Friday, 9 am to 2:30 pm. Hot lunch is served weekdays at noon; reserve at least one day ahead by 1 pm. Hot meals are delivered weekdays to eligible homebound seniors. There is a suggested contribution. Blood pressure screening is weekly and sugar screening is the second Wednesday of the month, and Emergency Medical Door Bags are available at the center. Senior groups meet in the building; to join one, call Parks and Recreation at 914-245-4650."
+  },
+  "transport": {
+   "name": "Yorktown Senior Services bus",
+   "phone": "914-962-7447",
+   "url": "https://www.yorktownny.gov/town-departments/senior-services/transportation/",
+   "notes": "Weekday rides to and from the Senior Nutrition Program and to local supermarkets, plus special holiday shopping outings. There is a suggested contribution. For other trips, Bee-Line ParaTransit (914-995-7272) serves people who cannot ride regular buses, for a $5 fare."
+  },
+  "sources": [
+   [
+    "Town of Yorktown: Senior Services",
+    "https://yorktownny.gov/town-departments/senior-services"
+   ],
+   [
+    "Town of Yorktown: Transportation",
+    "https://www.yorktownny.gov/town-departments/senior-services/transportation/"
+   ],
+   [
+    "Westchester County DSPS: Nutrition Programs and Site Directory",
+    "https://seniorcitizens.westchestercountyny.gov/nutrition-health-and-wellness/nutrition-programs"
+   ],
+   [
+    "NY.gov: Westchester County municipalities",
+    "https://www.ny.gov/counties/westchester"
+   ],
+   [
+    "Westchester County DOT: Bee-Line ParaTransit",
+    "https://transportation.westchestercountyny.gov/bee-line-paratransit"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Fares",
+    "https://transportation.westchestercountyny.gov/fares"
+   ],
+   [
+    "Westchester County DOT: ParaTransit Quick Reference",
+    "https://transportation.westchestercountyny.gov/images/stories/pdfs/ParaTransit/paratquickrefguide07312025.pdf"
+   ]
+  ],
+  "county": "westchester",
+  "countyName": "Westchester County",
+  "updated": "2026-11-25",
+  "checked": "2026-11-25"
  }
 ]
