@@ -19,6 +19,7 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 - Mobile: nothing may ever scroll sideways. Tables stack into cards on phones, filter buttons wrap.
 - SEO: every page has its own share card, a title under 65 characters, a description of 130 to 160 characters, a canonical tag, and is in the sitemap and llms.txt. No broken internal links.
 - No email signup, no contact form, never ask readers for corrections.
+- AI search: robots.txt explicitly allows every AI crawler (GPTBot, ClaudeBot, PerplexityBot, Google-Extended and others). Owner allows this on all his sites. Keep llms.txt and llms-full.txt current.
 - Images: square or horizontal crops only, real photos.
 
 ## Home Happenings (owner's rule)
@@ -26,7 +27,7 @@ Live site is published by Netlify from the `site/` folder on every push to `main
 - `HH_LIVE=false` and `HH_COUNTIES=[]` in `src/index.html` stay that way. If Home Happenings ever expands to New York and the owner says so, it may show only as a clearly labeled paid ad with "Paid ad. Home Happenings and Seniors of NY have the same owner." (HH_DISC) and rel="sponsored", never in guide text.
 - Do not cover in-home lessons, hobbies, activities or companionship visits as a service category.
 - Connections Care Management (caremanagementconnect.net, serves northern NJ and Rockland County, NY) IS listed at the owner's request (Nov 25 2026): first on Find care help (featured:true is only a sort key, no Featured tag) and in the care help block on the Rockland County page and Rockland town pages. Never in guide text. Data in src/content/pros.json.
-- Footer "Our other sites": Seniors of NJ, The Sandwichers, Lawyer Kingdom, nothing else. Home Happenings is linked (as labeled ads) only once it expands to New York, which the owner says is a while off. In guide text, link Seniors of NJ only where it truly helps a family split across both states.
+- Footer "Our family of sites" (cards above the fine print): Seniors of NJ, The Sandwichers, Lawyer Kingdom, nothing else. Home Happenings is linked (as labeled ads) only once it expands to New York, which the owner says is a while off. In guide text, link Seniors of NJ only where it truly helps a family split across both states.
 
 ## Page plan (mirror NJ, adapted to New York)
 Region pages (/region/<id>/) group counties: nyc, long-island, hudson-valley, capital, north-country, mohawk-valley, central, southern-tier, finger-lakes, western. County pages also render optional services, howto and faq fields.

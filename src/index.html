@@ -441,7 +441,8 @@ footer h4{font-family:var(--body);font-weight:700;font-size:14px;letter-spacing:
 footer ul{list-style:none;padding:0;margin:0;display:grid;gap:8px}
 footer a{color:#D6DEEC;text-decoration:none}
 footer a:hover{color:#fff;text-decoration:underline}
-footer .fine{border-top:1px solid rgba(255,255,255,.18);margin-top:40px;padding-top:20px;font-size:14px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer .family{border-top:1px solid rgba(255,255,255,.18);margin-top:40px;padding-top:28px}footer .family ul{grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}footer .family a{display:block;padding:14px 16px;border:1px solid rgba(255,255,255,.18);border-radius:10px;height:100%}footer .family a:hover{border-color:#E0A526;text-decoration:none}footer .family b{display:block;color:#fff;font-size:17px}footer .family span{display:block;font-size:14px;margin-top:4px}@media (max-width:700px){footer .family ul{grid-template-columns:minmax(0,1fr)}}
+footer .fine{border-top:1px solid rgba(255,255,255,.18);margin-top:28px;padding-top:20px;font-size:14px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 @media (max-width:860px){footer .cols{grid-template-columns:1fr 1fr}}
 @media (max-width:520px){footer .cols{grid-template-columns:1fr}}
 @media (prefers-reduced-motion:no-preference){#app{animation:in .3s ease}@keyframes in{from{opacity:.5}to{opacity:1}}}
@@ -853,13 +854,14 @@ ul.ticks li:before{content:"";position:absolute;left:2px;top:10px;width:16px;hei
       <div>
         <p style="font-family:var(--display);font-weight:700;font-size:26px;color:#fff;line-height:1.1">Seniors of NY</p>
         <p style="margin-top:12px;max-width:44ch">An independent guide for New York residents over 60 and the families who help them. We are not a government agency. Program rules change every year, so confirm details with the official source linked on every guide.</p>
-        <p style="margin-top:14px">Need help now? Call NY Connects at <b>1-800-342-9871</b>. In New York City, call <b>311</b>.</p><p style="margin-top:8px"><a href="#/about">About this site</a> · <a href="#/about#privacy">Privacy</a></p><p style="margin-top:14px">Our other sites: <a href="https://seniorsofnj.com" target="_blank" rel="noopener">Seniors of NJ</a> · <a href="https://thesandwichers.com" target="_blank" rel="noopener">The Sandwichers</a> · <a href="https://lawyerkingdom.com" target="_blank" rel="noopener">Lawyer Kingdom</a></p>
+        <p style="margin-top:14px">Need help now? Call NY Connects at <b>1-800-342-9871</b>. In New York City, call <b>311</b>.</p>
       </div>
       <div><h4>Topics</h4><ul id="fhubs"></ul></div>
       <div><h4>Tools</h4><ul><li><a href="#/checker">Benefits checker</a></li><li><a href="#/tools">Calculators</a></li><li><a href="#/dates">Key dates</a></li><li><a href="#/checklist/turning-65-ny">Turning 65 checklist</a></li><li><a href="#/checklist/important-papers-ny">Important papers</a></li><li><a href="#/glossary">Glossary A to Z</a></li><li><a href="#/steps/apply-for-epic">Apply for EPIC, step by step</a></li><li><a href="#/steps/sign-up-for-medicare-ny">Sign up for Medicare, step by step</a></li></ul></div>
       <div><h4>Find</h4><ul><li><a href="#/counties">County guides</a></li><li><a href="#/find-help">Find care help</a></li><li><a href="#/directory">Phone directory</a></li><li><a href="#/for/seniors">For older adults</a></li><li><a href="#/for/families">For families</a></li><li><a href="#/for/pros">For care professionals</a></li><li><a href="#/articles">Every article</a></li><li><a href="#/about">About and standards</a></li></ul></div>
     </div>
-    <div class="fine"><span>&copy; 2026 Seniors of NY. Information only, not legal, financial or medical advice.</span></div>
+    <div class="family"><h4>Our family of sites</h4><ul><li><a href="https://seniorsofnj.com" target="_blank" rel="noopener"><b>Seniors of NJ</b><span>The same guide for New Jersey</span></a></li><li><a href="https://thesandwichers.com" target="_blank" rel="noopener"><b>The Sandwichers</b><span>For adults caring for kids and parents</span></a></li><li><a href="https://lawyerkingdom.com" target="_blank" rel="noopener"><b>Lawyer Kingdom</b><span>Find a law firm near you</span></a></li></ul></div>
+    <div class="fine"><span>&copy; 2026 Seniors of NY. Information only, not legal, financial or medical advice.</span><span><a href="#/about">About</a> · <a href="#/about#privacy">Privacy</a> · <a href="/sitemap.xml">Sitemap</a></span></div>
   </div>
 </footer>
 
@@ -1229,7 +1231,7 @@ function findHelpPage(cat){const C=cat?HCATS[cat]:null;if(cat&&!C)return notFoun
  <nav class="filters" aria-label="Type of help"><a class="fbtn" href="#/find-help"${!cat?' aria-current="page"':""}>All</a>${Object.entries(HCATS).filter(([k])=>(PROS||[]).some(x=>x.cat===k)).map(([k,v])=>`<a class="fbtn" href="#/find-help/${k}"${cat===k?' aria-current="page"':""}><span class="fl">${v.n}</span><span class="fs">${v.s}</span></a>`).join("")}</nav>
  ${counties.length>1?`<label class="cosel"><span>Show help in</span> <select id="cofilter"><option value="">All counties</option>${counties.map(c=>`<option>${esc(c)}</option>`).join("")}</select></label>`:""}
  <div class="hplist" id="pros">${list.length?list.map(card).join(""):`<p>We're putting this list together now. In the meantime, your county Office for the Aging can point you to local help: <span class="tel">1-800-342-9871</span>.</p>`}</div>${hhAd(HH_ADS.care,"hhad-wide")}
- <div class="callbox" style="margin-top:28px"><b>Before you choose</b>Call two or three, ask about credentials, fees in writing and who covers nights and weekends. ${cat?`Read <a href="#/article/${C.g}">${esc(C.gt)}</a>.`:`Read <a href="#/article/home-care-agencies-ny">how to choose a home care agency</a>.`} Free help is also available from your county Office for the Aging at <span class="tel">1-800-342-9871</span>.</div>
+ <div class="callbox" style="margin-top:28px"><b>Before you choose</b>Call two or three, ask about credentials, fees in writing and who covers nights and weekends. ${cat&&AS[C.g]?`Read <a href="#/article/${C.g}">${esc(C.gt)}</a>.`:`Read <a href="#/article/home-care-agencies-ny">how to choose a home care agency</a>.`} Free help is also available from your county Office for the Aging at <span class="tel">1-800-342-9871</span>.</div>
  <p class="disclaim">Listings are for information only. We don't take payment for listings and can't vouch for any provider, so check licenses and references yourself.</p>
  </div>`}
 function townsPage(){const by={};(TOWNS||[]).forEach(t=>{(by[t.countyName]=by[t.countyName]||[]).push(t)});

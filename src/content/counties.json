@@ -1,5 +1,87 @@
 [
  {
+  "slug": "albany",
+  "name": "Albany County",
+  "region": "capital",
+  "seat": "Albany",
+  "towns": [
+   "Albany",
+   "Colonie",
+   "Bethlehem",
+   "Guilderland",
+   "Cohoes",
+   "Watervliet",
+   "Green Island",
+   "Coeymans"
+  ],
+  "intro": "Albany County sits at the center of the Capital Region, home to the state capital and its suburbs along the Hudson. The Albany County Department for Aging helps residents 60 and older with caregiver support, legal help, NY Connects referrals, adult day programs and in-home check-ins. Its ride partner is ACCESS Transit Services, a CDTA service that books trips for older residents with no other way to reach medical visits, pharmacies, grocery stores and meal sites.",
+  "agingOffice": {
+   "name": "Albany County Department for Aging",
+   "phone": "518-447-7198",
+   "url": "https://www.albanycountyny.gov/aging"
+  },
+  "transport": {
+   "name": "ACCESS Transit Services (CDTA) rides for Albany County residents 60+",
+   "phone": "518-437-5161",
+   "url": "https://cdta.org/node/46"
+  },
+  "dss": {
+   "name": "Albany County Department of Social Services",
+   "phone": "518-447-7300",
+   "url": "https://www.albanycountyny.gov/dss"
+  },
+  "places": [
+   {
+    "name": "New York State Museum",
+    "note": "Admission is free (a donation is suggested), it is open Tuesday through Sunday from 9:30 am to 5 pm, and public restrooms are on the first floor."
+   },
+   {
+    "name": "Albany Institute of History & Art",
+    "note": "All galleries and public spaces are wheelchair accessible, with lifts in the main atrium and sculpture gallery, and visitors 62 and older pay $10."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Albany County Department for Aging",
+    "https://aging.ny.gov/location/albany-county-department-aging"
+   ],
+   [
+    "Albany County: Supportive Resources",
+    "https://www.albanycountyny.gov/aging-supportiveresources"
+   ],
+   [
+    "Albany County: Transportation",
+    "https://www.albanycountyny.gov/senior-transportation"
+   ],
+   [
+    "CDTA: ACCESS Transit Services FAQs",
+    "https://cdta.org/node/46"
+   ],
+   [
+    "NYS OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "New York State Museum: Visit",
+    "https://www.nysm.nysed.gov/visit"
+   ],
+   [
+    "Albany Institute: Visit",
+    "https://www.albanyinstitute.org/visit.html"
+   ],
+   [
+    "NY.gov: Albany County",
+    "https://www.ny.gov/counties/albany"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "brooklyn",
   "name": "Brooklyn (Kings County)",
   "region": "nyc",
@@ -86,73 +168,600 @@
   "checked": "2026-11-25"
  },
  {
-  "slug": "fulton",
-  "name": "Fulton County",
-  "region": "mohawk-valley",
-  "seat": "Johnstown",
+  "slug": "clinton",
+  "name": "Clinton County",
+  "region": "north-country",
+  "seat": "Plattsburgh",
   "towns": [
-   "Johnstown",
-   "Gloversville",
-   "Broadalbin",
-   "Mayfield",
-   "Northville",
-   "Caroga",
-   "Ephratah"
+   "Plattsburgh",
+   "Peru",
+   "Champlain",
+   "Rouses Point",
+   "Chazy",
+   "Dannemora",
+   "Mooers",
+   "Saranac"
   ],
-  "intro": "Fulton County sits in the southern foothills of the Adirondacks, home to Gloversville, Johnstown and the Great Sacandaga Lake. The Fulton County Office for the Aging in Johnstown helps residents 60 and over with meals, home care through EISEP, health insurance counseling, HEAP and NY Connects. Its own wheelchair accessible bus gives door to door rides across the county on weekdays to medical visits, senior centers, meal sites, banks and stores.",
+  "intro": "Clinton County sits in the far northeast corner of the state, between Lake Champlain and the Canadian border, with Plattsburgh as its seat. The Clinton County Office for the Aging helps residents with health and wellness, housing, nutrition, transportation, Medicare questions and NY Connects. For getting around, the office points older riders to Clinton County Public Transit, which runs bus and rural zone service.",
   "agingOffice": {
-   "name": "Fulton County Office for the Aging",
-   "phone": "518-736-5650",
-   "url": "https://www.fcofa.org/"
+   "name": "Clinton County Office for the Aging",
+   "phone": "518-565-4620",
+   "url": "https://www.clintoncountyny.gov/aging"
   },
   "transport": {
-   "name": "Fulton County Office for Aging transportation (door to door bus, age 60+, reserve 24 hours ahead)",
-   "phone": "518-736-5650",
-   "url": "https://www.fcofa.org/services.html#transportation"
+   "name": "Clinton County Public Transit (CCPT)",
+   "phone": "518-561-1452",
+   "url": "https://transit.clintoncountyny.gov"
   },
   "dss": {
-   "name": "Fulton County Department of Social Services",
-   "phone": "518-736-5600",
-   "url": "https://www.fultoncountyny.gov/fulton-county-department-social-services"
+   "name": "Clinton County Department of Social Services",
+   "phone": "518-565-3300",
+   "url": "https://www.clintoncountyny.gov/dss"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Clinton County Office for the Aging",
+    "https://aging.ny.gov/location/clinton-county-office-aging"
+   ],
+   [
+    "Clinton County: Office for the Aging",
+    "https://www.clintoncountyny.gov/aging"
+   ],
+   [
+    "Clinton County Public Transit",
+    "https://transit.clintoncountyny.gov"
+   ],
+   [
+    "Clinton County: Department of Social Services",
+    "https://www.clintoncountyny.gov/dss"
+   ],
+   [
+    "NY.gov: Clinton County",
+    "https://www.ny.gov/counties/clinton"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "columbia",
+  "name": "Columbia County",
+  "region": "capital",
+  "seat": "Hudson",
+  "towns": [
+   "Hudson",
+   "Kinderhook",
+   "Valatie",
+   "Chatham",
+   "Ghent",
+   "Philmont",
+   "Copake",
+   "Germantown"
+  ],
+  "intro": "Columbia County sits on the east bank of the Hudson south of Albany, a rural county of farms and small towns with the city of Hudson as its seat. The Columbia County Office for the Aging offers home delivered and senior center meals, NY Connects, HIICAP, legal help and a caregiver respite program. For medical visits, the free Children and Adults Rural Transportation Service (CARTS) offers door to door rides, booked through the Healthcare Consortium.",
+  "agingOffice": {
+   "name": "Columbia County Office for the Aging",
+   "phone": "518-828-4258",
+   "url": "https://www.columbiacountyny.gov/460/Office-for-the-Aging"
+  },
+  "transport": {
+   "name": "Children and Adults Rural Transportation Service (CARTS), free medical rides",
+   "phone": "518-822-8020",
+   "url": "https://www.columbiacountyny.gov/488/Transportation"
+  },
+  "dss": {
+   "name": "Columbia County Department of Social Services",
+   "phone": "518-828-9411",
+   "url": "https://www.columbiacountyny.gov/m/directory/department?did=15"
   },
   "places": [
    {
-    "name": "Johnson Hall State Historic Site, Johnstown",
-    "note": "The grounds are open sunrise to sunset, the visitor center and picnic area are accessible, and seniors pay a reduced tour price."
+    "name": "Olana State Historic Site",
+    "note": "The 250 acre landscape is free and open every day, and a lift gives wheelchair users access to the main floor tour."
+   },
+   {
+    "name": "Martin Van Buren National Historic Site",
+    "note": "The visitor center is wheelchair accessible with accessible restrooms, and the first floor of Lindenwald, Van Buren's home, is accessible too."
    }
   ],
   "sources": [
    [
-    "Fulton County Office for Aging and Youth (NYSOFA listing)",
-    "https://aging.ny.gov/location/fulton-county-office-aging-and-youth"
+    "NYSOFA: Columbia County Office for the Aging",
+    "https://aging.ny.gov/location/columbia-county-office-aging"
    ],
    [
-    "Fulton County Office for the Aging",
-    "https://www.fcofa.org/"
+    "Columbia County: Office for the Aging",
+    "https://www.columbiacountyny.gov/460/Office-for-the-Aging"
    ],
    [
-    "Fulton County OFA services: transportation",
-    "https://www.fcofa.org/services.html"
+    "Columbia County: Transportation (CARTS)",
+    "https://www.columbiacountyny.gov/488/Transportation"
    ],
    [
-    "Fulton County Department of Social Services",
-    "https://www.fultoncountyny.gov/fulton-county-department-social-services"
+    "Columbia County: Department of Social Services",
+    "https://www.columbiacountyny.gov/m/directory/department?did=15"
    ],
    [
-    "Johnson Hall State Historic Site",
-    "https://parks.ny.gov/historic-sites/johnsonhall/details.aspx"
+    "NYS OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
    ],
    [
-    "NYS County Seats (data.ny.gov)",
-    "https://data.ny.gov/d/4xc7-bukh"
+    "NYS Parks: Olana State Historic Site",
+    "https://parks.ny.gov/historic-sites/olana/details.aspx"
    ],
    [
-    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
-    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+    "NPS: Martin Van Buren NHS accessibility",
+    "https://www.nps.gov/mava/planyourvisit/accessibility.htm"
    ],
    [
-    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
-    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+    "NY.gov: Columbia County",
+    "https://www.ny.gov/counties/columbia"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "dutchess",
+  "name": "Dutchess County",
+  "region": "hudson-valley",
+  "seat": "Poughkeepsie",
+  "towns": [
+   "Poughkeepsie",
+   "Beacon",
+   "Hyde Park",
+   "Rhinebeck",
+   "Fishkill",
+   "Wappingers Falls",
+   "Millbrook",
+   "Pawling"
+  ],
+  "intro": "Dutchess County sits on the east bank of the Hudson, midway between New York City and Albany. The Office for the Aging in Poughkeepsie runs Friendship Centers, nutrition services for people 60 and older and health insurance counseling. It also has a toll free line, 866-486-2555.",
+  "agingOffice": {
+   "name": "Dutchess County Office for the Aging",
+   "phone": "845-486-2555",
+   "url": "https://www.dutchessny.gov/Departments/Aging/Office-for-the-Aging.htm"
+  },
+  "transport": {
+   "name": "Dutchess County Public Transit ADA Paratransit and Dial-A-Ride",
+   "phone": "845-473-8424",
+   "url": "https://www.dutchessny.gov/Departments/Public-Transit/Accessibility.htm"
+  },
+  "dss": {
+   "name": "Dutchess County Department of Community and Family Services",
+   "phone": "845-486-3000",
+   "url": "https://www.dutchessny.gov/Departments/Community-Family-Services/Community-and-Family-Services.htm"
+  },
+  "places": [
+   {
+    "name": "Walkway Over the Hudson State Historic Park",
+    "note": "The 1.28-mile walkway is flat, paved and free, wheelchairs can be borrowed at the pavilions by both gates, and a wheelchair accessible tram runs at select hours."
+   },
+   {
+    "name": "Staatsburgh State Historic Site",
+    "note": "The grounds are free from sunrise to sunset, seniors 62 and older pay $8 for the mansion tour, and assisted listening devices are available on request."
+   },
+   {
+    "name": "Locust Grove Estate",
+    "note": "Level gravel paths wind through the gardens, accessible parking is on level pavement near the Visitor Center, and the Visitor Center has an accessible restroom."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/dutchess-county-office-aging"
+   ],
+   [
+    "Dutchess County Office for the Aging",
+    "https://www.dutchessny.gov/Departments/Aging/Office-for-the-Aging.htm"
+   ],
+   [
+    "Dutchess County Public Transit: Accessibility",
+    "https://www.dutchessny.gov/Departments/Public-Transit/Accessibility.htm"
+   ],
+   [
+    "Dutchess County Department of Community and Family Services",
+    "https://www.dutchessny.gov/Departments/Community-Family-Services/Community-and-Family-Services.htm"
+   ],
+   [
+    "Walkway Over the Hudson: Visit",
+    "https://walkway.org/visit/"
+   ],
+   [
+    "NYS Parks: Staatsburgh",
+    "https://parks.ny.gov/historic-sites/staatsburgh/details.aspx"
+   ],
+   [
+    "Locust Grove: Visit",
+    "https://www.lgny.org/visit"
+   ],
+   [
+    "NY.gov: Dutchess County",
+    "https://www.ny.gov/counties/dutchess"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "essex",
+  "name": "Essex County",
+  "region": "north-country",
+  "seat": "Elizabethtown",
+  "towns": [
+   "Lake Placid",
+   "Ticonderoga",
+   "Elizabethtown",
+   "Keene",
+   "Westport",
+   "Willsboro",
+   "Crown Point",
+   "Port Henry"
+  ],
+  "intro": "Essex County spans the High Peaks of the Adirondacks and the western shore of Lake Champlain, with Elizabethtown as its seat. The Essex County Office for the Aging runs NY Connects and offers meals, HEAP, health insurance counseling and telephone reassurance calls. Residents 60 and older can get rides to medical appointments through the office's transportation coordinator.",
+  "agingOffice": {
+   "name": "Essex County Office for the Aging",
+   "phone": "518-873-3695",
+   "url": "https://www.co.essex.ny.us/wp/office-for-the-aging/"
+  },
+  "transport": {
+   "name": "Office for the Aging Medical Transportation (60+)",
+   "phone": "518-873-3899",
+   "url": "https://www.co.essex.ny.us/wp/office-for-the-aging/"
+  },
+  "dss": {
+   "name": "Essex County Department of Social Services",
+   "phone": "518-873-3441",
+   "url": "https://www.co.essex.ny.us/wp/department-of-social-services/"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Essex County Office for the Aging",
+    "https://aging.ny.gov/location/essex-county-office-aging"
+   ],
+   [
+    "Essex County: Office for the Aging",
+    "https://www.co.essex.ny.us/wp/office-for-the-aging/"
+   ],
+   [
+    "NYS OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NY.gov: Essex County",
+    "https://www.ny.gov/counties/essex"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "franklin",
+  "name": "Franklin County",
+  "region": "north-country",
+  "seat": "Malone",
+  "towns": [
+   "Malone",
+   "Saranac Lake",
+   "Tupper Lake",
+   "Chateaugay",
+   "Fort Covington",
+   "Brushton",
+   "Burke",
+   "Harrietstown"
+  ],
+  "intro": "Franklin County runs from the Canadian border south into the Adirondacks, taking in Malone, Saranac Lake and Tupper Lake. The Franklin County Office for the Aging runs NY Connects and offers home delivered and congregate meals, in-home services, HIICAP, energy help and Project Lifesaver. Franklin County Public Transportation offers route and curb to curb demand service, and seniors pay a reduced $2 fare on most runs.",
+  "agingOffice": {
+   "name": "Franklin County Office for the Aging",
+   "phone": "518-481-1526",
+   "url": "https://www.franklincountyny.gov/departments/human_services/office_for_the_aging/index.php"
+  },
+  "transport": {
+   "name": "Franklin County Public Transportation",
+   "phone": "518-483-9000",
+   "url": "https://www.franklincountyny.gov/departments/transportation/index.php"
+  },
+  "dss": {
+   "name": "Franklin County Department of Social Services",
+   "phone": "518-481-1888",
+   "url": "https://www.franklincountyny.gov/departments/human_services/social_services/index.php"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Franklin County Office for the Aging",
+    "https://aging.ny.gov/location/franklin-county-office-aging"
+   ],
+   [
+    "Franklin County: Office for the Aging",
+    "https://www.franklincountyny.gov/departments/human_services/office_for_the_aging/index.php"
+   ],
+   [
+    "Franklin County: Public Transportation",
+    "https://www.franklincountyny.gov/departments/transportation/index.php"
+   ],
+   [
+    "Franklin County: Department of Social Services",
+    "https://www.franklincountyny.gov/departments/human_services/social_services/index.php"
+   ],
+   [
+    "NY.gov: Franklin County",
+    "https://www.ny.gov/counties/franklin"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "greene",
+  "name": "Greene County",
+  "region": "capital",
+  "seat": "Catskill",
+  "towns": [
+   "Catskill",
+   "Coxsackie",
+   "Athens",
+   "Cairo",
+   "Hunter",
+   "Windham",
+   "Durham",
+   "New Baltimore"
+  ],
+  "intro": "Greene County runs from the west bank of the Hudson up into the northern Catskill Mountains, with Catskill as its seat. Aging services there come from the Greene County Department of Human Services, which offers meals, HIICAP, caregiver support, legal services, a Senior Call-In Program and NY Connects. Residents 60 and older can register to ride Greene County Transit fully subsidized, and homebound residents can get rides to medical visits through a Catholic Charities partnership.",
+  "agingOffice": {
+   "name": "Greene County Department of Human Services (Aging Services)",
+   "phone": "518-719-3555",
+   "url": "https://greenecountyny.gov/departments/human-services/elderly/"
+  },
+  "transport": {
+   "name": "Greene County Transit (fully subsidized for registered riders 60+)",
+   "phone": "518-943-3625",
+   "url": "https://greenecountyny.gov/departments/human-services/elderly/transportation/"
+  },
+  "dss": {
+   "name": "Greene County Department of Social Services",
+   "phone": "518-719-3700",
+   "url": "https://greenecountyny.gov/departments/social-services/"
+  },
+  "places": [
+   {
+    "name": "Thomas Cole National Historic Site",
+    "note": "The park grounds and gardens are free and open daily from dawn to dusk, and the Hudson River Skywalk can be walked from the site."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Greene County Department for the Aging",
+    "https://aging.ny.gov/location/greene-county-department-aging"
+   ],
+   [
+    "Greene County: Aging Services",
+    "https://greenecountyny.gov/departments/human-services/elderly/"
+   ],
+   [
+    "Greene County: Senior Transportation",
+    "https://greenecountyny.gov/departments/human-services/elderly/transportation/"
+   ],
+   [
+    "Greene County: Department of Social Services",
+    "https://greenecountyny.gov/departments/social-services/"
+   ],
+   [
+    "Thomas Cole National Historic Site: Visit",
+    "https://thomascole.org/visit/"
+   ],
+   [
+    "NY.gov: Greene County",
+    "https://www.ny.gov/counties/greene"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "hamilton",
+  "name": "Hamilton County",
+  "region": "north-country",
+  "seat": "Lake Pleasant",
+  "towns": [
+   "Speculator",
+   "Indian Lake",
+   "Long Lake",
+   "Lake Pleasant",
+   "Wells",
+   "Inlet",
+   "Arietta",
+   "Benson"
+  ],
+  "intro": "Hamilton County is the least populous county in New York and the most sparsely populated county in the eastern half of the United States. Older residents are served by the Warren/Hamilton Counties Office for the Aging, which has a toll free line for Hamilton County callers at 1-888-553-4994. The office offers scheduled town transportation in Long Lake, Lake Pleasant and Wells, plus volunteer rides to medical appointments.",
+  "agingOffice": {
+   "name": "Warren/Hamilton Counties Office for the Aging",
+   "phone": "518-761-6347",
+   "url": "https://www.hamiltoncountyny.gov/aging"
+  },
+  "transport": {
+   "name": "Office for the Aging town transportation and volunteer medical rides",
+   "phone": "1-888-553-4994",
+   "url": "https://www.warrencountyny.gov/ofa/"
+  },
+  "dss": {
+   "name": "Hamilton County Department of Social Services",
+   "phone": "518-648-6131",
+   "url": "https://www.hamiltoncountyny.gov/health-human-services/social-services"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Warren/Hamilton Counties Offices for the Aging",
+    "https://aging.ny.gov/location/warrenhamilton-counties-offices-aging"
+   ],
+   [
+    "Warren County: Office for the Aging (serves Hamilton County)",
+    "https://www.warrencountyny.gov/ofa/"
+   ],
+   [
+    "Hamilton County: Office for the Aging",
+    "https://www.hamiltoncountyny.gov/aging"
+   ],
+   [
+    "Hamilton County: Social Services",
+    "https://www.hamiltoncountyny.gov/health-human-services/social-services"
+   ],
+   [
+    "NY.gov: Hamilton County",
+    "https://www.ny.gov/counties/hamilton"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "jefferson",
+  "name": "Jefferson County",
+  "region": "north-country",
+  "seat": "Watertown",
+  "towns": [
+   "Watertown",
+   "Carthage",
+   "Clayton",
+   "Alexandria Bay",
+   "Sackets Harbor",
+   "Cape Vincent",
+   "Adams",
+   "Dexter"
+  ],
+  "intro": "Jefferson County sits where Lake Ontario meets the St. Lawrence River and the Thousand Islands, with Watertown as its seat. The Jefferson County Office for the Aging offers home delivered meals, health insurance counseling, in-home services, HEAP, caregiver support and NY Connects. It also runs Respite Haven, a volunteer day program with activities and lunch held in Clayton and Watertown.",
+  "agingOffice": {
+   "name": "Jefferson County Office for the Aging",
+   "phone": "315-785-3191",
+   "url": "https://www.jeffersoncountyny.gov/departments/OfficefortheAging"
+  },
+  "transport": {
+   "name": "Volunteer Transportation Center (donation based)",
+   "phone": "315-788-0422",
+   "url": "https://www.jeffersoncountyny.gov/media/Office%20for%20Aging/guide-to-services-2026.pdf"
+  },
+  "dss": {
+   "name": "Jefferson County Department of Social Services",
+   "phone": "315-785-3000",
+   "url": "https://www.jeffersoncountyny.gov/SocialServices"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Jefferson County Office for the Aging",
+    "https://aging.ny.gov/location/jefferson-county-office-aging"
+   ],
+   [
+    "Jefferson County: Office for the Aging",
+    "https://www.jeffersoncountyny.gov/departments/OfficefortheAging"
+   ],
+   [
+    "Jefferson County OFA: Guide to Services 2026",
+    "https://www.jeffersoncountyny.gov/media/Office%20for%20Aging/guide-to-services-2026.pdf"
+   ],
+   [
+    "Jefferson County: Department of Social Services",
+    "https://www.jeffersoncountyny.gov/SocialServices"
+   ],
+   [
+    "NY.gov: Jefferson County",
+    "https://www.ny.gov/counties/jefferson"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "lewis",
+  "name": "Lewis County",
+  "region": "north-country",
+  "seat": "Lowville",
+  "towns": [
+   "Lowville",
+   "Croghan",
+   "Martinsburg",
+   "Lyons Falls",
+   "Port Leyden",
+   "Copenhagen",
+   "Castorland",
+   "Turin"
+  ],
+  "intro": "Lewis County lies between the Tug Hill Plateau and the western Adirondacks, a rural dairy county with Lowville as its seat. The Lewis County Office for the Aging offers meals, in-home services, classes, NY Connects and a yearly community resource guide. Lewis County Public Transportation runs fixed routes plus Dial-A-Ride, which will pick up riders up to three quarters of a mile off route if booked by 4 pm the day before.",
+  "agingOffice": {
+   "name": "Lewis County Office for the Aging",
+   "phone": "315-376-5313",
+   "url": "https://lewiscountyny.gov/departments/office-for-the-aging/"
+  },
+  "transport": {
+   "name": "Lewis County Public Transportation (Dial-A-Ride)",
+   "phone": "315-376-6508",
+   "url": "https://lewiscountyny.gov/departments/public-transportation/"
+  },
+  "dss": {
+   "name": "Lewis County Department of Social Services",
+   "phone": "315-376-5400",
+   "url": "https://lewiscountyny.gov/departments/social-services/"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Lewis County Office for the Aging",
+    "https://aging.ny.gov/location/lewis-county-office-aging"
+   ],
+   [
+    "Lewis County: Office for the Aging",
+    "https://lewiscountyny.gov/departments/office-for-the-aging/"
+   ],
+   [
+    "Lewis County: Public Transportation",
+    "https://lewiscountyny.gov/departments/public-transportation/"
+   ],
+   [
+    "Lewis County: Social Services",
+    "https://lewiscountyny.gov/departments/social-services/"
+   ],
+   [
+    "NY.gov: Lewis County",
+    "https://www.ny.gov/counties/lewis"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
    ]
   ],
   "verified": true,
@@ -239,79 +848,6 @@
    [
     "NYPL: Stephen A. Schwarzman Building",
     "https://www.nypl.org/locations/schwarzman"
-   ]
-  ],
-  "verified": true,
-  "checked": "2026-11-25"
- },
- {
-  "slug": "montgomery",
-  "name": "Montgomery County",
-  "region": "mohawk-valley",
-  "seat": "Fonda",
-  "towns": [
-   "Amsterdam",
-   "Fonda",
-   "Canajoharie",
-   "St. Johnsville",
-   "Fort Plain",
-   "Palatine Bridge",
-   "Fultonville"
-  ],
-  "intro": "Montgomery County follows the Mohawk River and the Erie Canal between Amsterdam and St. Johnsville. The Montgomery County Office for Aging, with offices in Amsterdam and Canajoharie, runs meals, in-home help, NY Connects, health insurance counseling and legal services for older adults. Its OFA Senior Transport program uses volunteer drivers for medical rides for residents 60 and over, with a suggested $5 contribution per one way trip and at least seven days' notice.",
-  "agingOffice": {
-   "name": "Montgomery County Office for the Aging, Inc.",
-   "phone": "518-843-2300",
-   "url": "https://officeforaging.com/"
-  },
-  "transport": {
-   "name": "OFA Senior Transport and Taxi Tickets (medical rides, age 60+)",
-   "phone": "518-843-2300",
-   "url": "https://officeforaging.com/services"
-  },
-  "dss": {
-   "name": "Montgomery County Department of Social Services",
-   "phone": "518-212-5778",
-   "url": "https://www.montgomerycountyny.gov/web/sites/departments/socialservices/contact.asp"
-  },
-  "places": [
-   {
-    "name": "Schoharie Crossing State Historic Site, Fort Hunter",
-    "note": "The visitor center, picnic area and hiking trails are listed as accessible, there is no vehicle fee, and the visitor center museum is free."
-   }
-  ],
-  "sources": [
-   [
-    "Montgomery County Office for the Aging, Inc. (NYSOFA listing)",
-    "https://aging.ny.gov/location/montgomery-county-office-aging-inc"
-   ],
-   [
-    "Montgomery County Office for Aging",
-    "https://officeforaging.com/"
-   ],
-   [
-    "Montgomery County Office for Aging services",
-    "https://officeforaging.com/services"
-   ],
-   [
-    "Montgomery County Social Services contact",
-    "https://www.montgomerycountyny.gov/web/sites/departments/socialservices/contact.asp"
-   ],
-   [
-    "Schoharie Crossing State Historic Site",
-    "https://parks.ny.gov/historic-sites/schohariecrossing/details.aspx"
-   ],
-   [
-    "NYS County Seats (data.ny.gov)",
-    "https://data.ny.gov/d/4xc7-bukh"
-   ],
-   [
-    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
-    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
-   ],
-   [
-    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
-    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
    ]
   ],
   "verified": true,
@@ -419,6 +955,158 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "orange",
+  "name": "Orange County",
+  "region": "hudson-valley",
+  "seat": "Goshen",
+  "towns": [
+   "Newburgh",
+   "Middletown",
+   "Port Jervis",
+   "Monroe",
+   "Warwick",
+   "Cornwall",
+   "Goshen",
+   "Highland Falls"
+  ],
+  "intro": "Orange County stretches from the Hudson River at Newburgh west to Port Jervis, where New York meets New Jersey and Pennsylvania. The county Office for the Aging has Aging Services Specialists on its main line to help older residents and families find services, and it can set up home visits for seniors who are homebound. Its NY Connects line, 845-615-3710, also answers questions about HEAP heating help.",
+  "agingOffice": {
+   "name": "Orange County Office for the Aging",
+   "phone": "845-615-3700",
+   "url": "https://www.orangecountygov.com/151/Aging"
+  },
+  "places": [
+   {
+    "name": "Washington's Headquarters State Historic Site",
+    "note": "Seniors pay $5 for the museum, parking and the grounds are free, and accessible parking is next to the museum."
+   },
+   {
+    "name": "Storm King Art Center",
+    "note": "A free wheelchair accessible tram runs around the grounds in season, manual wheelchairs are free to borrow, and staff on carts can help visitors get between spots."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/orange-county-office-aging"
+   ],
+   [
+    "Orange County Office for the Aging",
+    "https://www.orangecountygov.com/151/Aging"
+   ],
+   [
+    "Transit Orange: ADA Paratransit",
+    "https://www.ridetransitorange.com/paratransit"
+   ],
+   [
+    "NYS OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NYS Parks: Washington's Headquarters",
+    "https://parks.ny.gov/historic-sites/washingtonsheadquarters/details.aspx"
+   ],
+   [
+    "Storm King Art Center: Accessibility",
+    "https://stormking.org/accessibility/"
+   ],
+   [
+    "NY.gov: Orange County",
+    "https://www.ny.gov/counties/orange"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "transport": {
+   "name": "Transit Orange ADA Paratransit (for riders with a disability; applications through the Orange County Department of Planning)",
+   "phone": "845-615-3850",
+   "url": "https://www.ridetransitorange.com/paratransit"
+  },
+  "dss": {
+   "name": "Orange County Department of Social Services",
+   "phone": "845-291-4000",
+   "url": "https://otda.ny.gov/workingfamilies/dss.asp"
+  },
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "putnam",
+  "name": "Putnam County",
+  "region": "hudson-valley",
+  "seat": "Carmel",
+  "towns": [
+   "Carmel",
+   "Kent",
+   "Patterson",
+   "Philipstown",
+   "Putnam Valley",
+   "Southeast",
+   "Brewster",
+   "Cold Spring"
+  ],
+  "intro": "Putnam County sits north of Westchester, running from the Hudson Highlands east to the Connecticut line. Its Office for Senior Resources in Carmel runs Friendship Centers in Carmel, Cold Spring, Mahopac and Putnam Valley, along with EISEP in-home help and HIICAP Medicare counseling. The office also arranges medical transportation for older residents, reached through extension 47104 on its main line.",
+  "agingOffice": {
+   "name": "Putnam County Office for Senior Resources",
+   "phone": "845-808-1700",
+   "url": "https://www.putnamcountyny.gov/osr"
+  },
+  "transport": {
+   "name": "Office for Senior Resources Medical Transportation",
+   "phone": "845-808-1700, ext. 47104",
+   "url": "https://www.putnamcountyny.gov/osr"
+  },
+  "places": [
+   {
+    "name": "Clarence Fahnestock Memorial State Park",
+    "note": "Boat fishing is allowed on Stillwater and Canopus Lakes, and the park lists accessible food service and accessible showers."
+   },
+   {
+    "name": "Boscobel House and Gardens",
+    "note": "Admission covers 112 acres of gardens and grounds with views of the Hudson River and Highlands, and the Cold Spring Trolley stops there on weekends in season."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/putnam-county-office-senior-resources"
+   ],
+   [
+    "Putnam County Office for Senior Resources",
+    "https://www.putnamcountyny.gov/osr"
+   ],
+   [
+    "Putnam County Department of Social Services & Mental Health",
+    "https://putnamcountyny.gov/department-of-social-services"
+   ],
+   [
+    "NYS Parks: Fahnestock",
+    "https://parks.ny.gov/parks/fahnestock/details.aspx"
+   ],
+   [
+    "Boscobel: Visit",
+    "https://boscobel.org/visit/"
+   ],
+   [
+    "NY.gov: Putnam County",
+    "https://www.ny.gov/counties/putnam"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "dss": {
+   "name": "Putnam County Department of Social Services & Mental Health",
+   "phone": "845-808-1500",
+   "url": "https://putnamcountyny.gov/department-of-social-services"
+  },
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "queens",
   "name": "Queens (Queens County)",
   "region": "nyc",
@@ -509,97 +1197,346 @@
   "checked": "2026-11-25"
  },
  {
-  "slug": "schoharie",
-  "name": "Schoharie County",
-  "region": "mohawk-valley",
-  "seat": "Schoharie",
+  "slug": "rensselaer",
+  "name": "Rensselaer County",
+  "region": "capital",
+  "seat": "Troy",
   "towns": [
-   "Schoharie",
-   "Cobleskill",
-   "Middleburgh",
-   "Richmondville",
-   "Sharon Springs",
-   "Esperance",
-   "Gilboa"
+   "Troy",
+   "Rensselaer",
+   "East Greenbush",
+   "Brunswick",
+   "North Greenbush",
+   "Schodack",
+   "Hoosick Falls",
+   "Nassau"
   ],
-  "intro": "Schoharie County is a rural valley county southwest of Albany, with Cobleskill and the village of Schoharie at its center. The Schoharie County Office for the Aging on Park Place in Schoharie offers caregiver support, health insurance counseling through HIICAP and NY Connects. For getting around, the county's RideSCPT public transit runs demand response trips by appointment, with discounted senior fares and wheelchair accessible service.",
+  "intro": "Rensselaer County runs east from the Hudson at Troy into the hills along the Massachusetts and Vermont line. Its Office for the Aging is part of Unified Family Services and offers nutrition programs, HIICAP Medicare counseling, caregiver support, HEAP and NY Connects. The county also runs a Medical Transportation Service for Seniors and senior centers in Troy, Schodack, Grafton, Hoosick Falls and East Greenbush.",
   "agingOffice": {
-   "name": "Schoharie County Office for the Aging",
-   "phone": "518-295-2001",
-   "url": "https://www.schohariecounty-ny.gov/departments/aging/index.php"
+   "name": "Rensselaer County Unified Family Services Department for the Aging",
+   "phone": "518-270-2730",
+   "url": "https://www.renscony.gov/159/Aging"
   },
   "transport": {
-   "name": "RideSCPT (Schoharie County Public Transportation)",
-   "phone": "518-234-0952",
-   "url": "https://ridescpt.com/"
+   "name": "Medical Transportation Service for Seniors (Department for the Aging)",
+   "url": "https://www.renscony.gov/631/Medical-Transportation"
   },
   "dss": {
-   "name": "Schoharie County Department of Social Services",
-   "phone": "518-295-8334",
-   "url": "https://www.schohariecounty-ny.gov/departments/social_services/index.php"
+   "name": "Rensselaer County Department of Social Services",
+   "phone": "518-833-6000",
+   "url": "https://www.renscony.gov/m/directory/department?did=48"
   },
   "places": [
    {
-    "name": "Mine Kill State Park, North Blenheim",
-    "note": "There is no vehicle fee, a separate parking area a quarter mile south of the main entrance leads to the Mine Kill Falls overlook platforms, and the pool and pavilions are listed as accessible."
-   },
-   {
-    "name": "Old Stone Fort, Schoharie",
-    "note": "The first floor of the Fort is wheelchair accessible, and visitors with mobility limits plus one helper get in free."
-   },
-   {
-    "name": "Iroquois Museum, Howes Cave",
-    "note": "Visitors 62 and older get a senior admission rate, and guided tours can be adjusted to a visitor's mobility."
-   },
-   {
-    "name": "Landis Arboretum, Esperance",
-    "note": "Admission and parking are free, with a suggested donation, and the gardens are open every day from dawn to dusk."
+    "name": "Schodack Island State Park",
+    "note": "The park lists accessible hiking trails, accessible fishing and an improved bike trail."
    }
   ],
   "sources": [
    [
-    "Schoharie County Office for the Aging (NYSOFA listing)",
-    "https://aging.ny.gov/location/schoharie-county-office-aging"
+    "NYSOFA: Rensselaer County Unified Family Services",
+    "https://aging.ny.gov/location/rensselaer-county-unified-family-services"
    ],
    [
-    "Schoharie County Office for the Aging",
-    "https://www.schohariecounty-ny.gov/departments/aging/index.php"
+    "Rensselaer County: Department for the Aging",
+    "https://www.renscony.gov/159/Aging"
    ],
    [
-    "RideSCPT Public Transportation",
-    "https://ridescpt.com/"
+    "Rensselaer County: Medical Transportation",
+    "https://www.renscony.gov/631/Medical-Transportation"
    ],
    [
-    "Schoharie County Department of Social Services",
-    "https://www.schohariecounty-ny.gov/departments/social_services/index.php"
+    "Rensselaer County: Social Services directory",
+    "https://www.renscony.gov/m/directory/department?did=48"
    ],
    [
-    "Mine Kill State Park",
-    "https://parks.ny.gov/parks/minekill/details.aspx"
+    "NYS Parks: Schodack Island State Park",
+    "https://parks.ny.gov/parks/schodackisland/details.aspx"
    ],
    [
-    "Old Stone Fort accessibility",
-    "https://www.theoldstonefort.org/accessibility/"
+    "NY.gov: Rensselaer County",
+    "https://www.ny.gov/counties/rensselaer"
    ],
    [
-    "Iroquois Museum visit",
-    "https://www.iroquoismuseum.org/visit"
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "rockland",
+  "name": "Rockland County",
+  "region": "hudson-valley",
+  "seat": "New City",
+  "towns": [
+   "Clarkstown",
+   "Ramapo",
+   "Orangetown",
+   "Nyack",
+   "Spring Valley",
+   "Suffern",
+   "Haverstraw",
+   "Stony Point"
+  ],
+  "intro": "Rockland County lies on the west bank of the Hudson, just north of the New Jersey line. The Office for the Aging in Pomona handles EISEP in-home help, HIICAP Medicare counseling, NY Connects and a free CHORE service for simple household repairs. TRIPS, the county's shared ride paratransit bus, serves residents 60 and older who find regular buses hard to use.",
+  "agingOffice": {
+   "name": "Rockland County Office for the Aging",
+   "phone": "845-364-2110",
+   "url": "https://rocklandgov.com/departments/aging/"
+  },
+  "transport": {
+   "name": "TRIPS Paratransit (Rockland County Department of Public Transportation)",
+   "phone": "845-364-8747",
+   "url": "https://www.rocklandcountyny.gov/departments/public-transportation/contact-public-transportation"
+  },
+  "dss": {
+   "name": "Rockland County Department of Social Services",
+   "phone": "845-364-3100",
+   "url": "https://www.rocklandcountyny.gov/departments/social-services/contact-dss"
+  },
+  "places": [
+   {
+    "name": "Rockland Lake State Park",
+    "note": "A 3.2-mile paved trail for walkers circles the lake, and the park has picnic areas with tables."
+   },
+   {
+    "name": "Nyack Beach State Park",
+    "note": "The park takes in 61 acres of riverfront along the Hudson."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/rockland-county-office-aging"
    ],
    [
-    "Landis Arboretum visit",
-    "https://www.landisarboretum.org/visit"
+    "Rockland County Office for the Aging",
+    "https://rocklandgov.com/departments/aging/"
    ],
    [
-    "NYS County Seats (data.ny.gov)",
-    "https://data.ny.gov/d/4xc7-bukh"
+    "Rockland County: TRIPS Paratransit",
+    "https://www.rocklandcountyny.gov/departments/public-transportation/trips-paratransit"
    ],
    [
-    "Cities and towns by county (NYS Department of Taxation and Finance, ORPTS)",
-    "https://tax.ny.gov/pdf/publications/orpts/swis_countyorder.pdf"
+    "Rockland County: Contact Public Transportation",
+    "https://www.rocklandcountyny.gov/departments/public-transportation/contact-public-transportation"
    ],
    [
-    "Villages by county, 2027 tax base growth factors (NYS Department of Taxation and Finance)",
-    "https://www.tax.ny.gov/research/property/2027-villages-tbgf.htm"
+    "Rockland County DSS: Contact",
+    "https://www.rocklandcountyny.gov/departments/social-services/contact-dss"
+   ],
+   [
+    "NYS Parks: Rockland Lake",
+    "https://parks.ny.gov/parks/rocklandlake/details.aspx"
+   ],
+   [
+    "NYS Parks: Nyack Beach",
+    "https://parks.ny.gov/parks/nyackbeach/details.aspx"
+   ],
+   [
+    "NY.gov: Rockland County",
+    "https://www.ny.gov/counties/rockland"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "saratoga",
+  "name": "Saratoga County",
+  "region": "capital",
+  "seat": "Ballston Spa",
+  "towns": [
+   "Saratoga Springs",
+   "Clifton Park",
+   "Halfmoon",
+   "Wilton",
+   "Malta",
+   "Ballston Spa",
+   "Mechanicville",
+   "Moreau"
+  ],
+  "intro": "Saratoga County stretches north of Albany from the Mohawk River to the edge of the Adirondacks and takes in the city of Saratoga Springs. The Department of Aging and Youth Services in Ballston Spa helps residents 60 and older with congregate and home delivered meals, in-home services and case management. It also offers and supports contribution based rides across the county to medical appointments, grocery shopping and other stops.",
+  "agingOffice": {
+   "name": "Saratoga County Department of Aging & Youth Services",
+   "phone": "518-884-4100",
+   "url": "https://www.saratogacountyny.gov/departments/department-of-aging-and-youth-services/"
+  },
+  "transport": {
+   "name": "Department of Aging & Youth Services transportation (contribution based, 60+)",
+   "phone": "518-884-4100",
+   "url": "https://saratogacountyny.gov/wp/wp-content/uploads/2024/08/Aging-SeniorServicesBrochure-2024Aug22.pdf"
+  },
+  "dss": {
+   "name": "Saratoga County Department of Social Services",
+   "phone": "518-884-4140",
+   "url": "https://www.saratogacountyny.gov/departments/social-services/"
+  },
+  "places": [
+   {
+    "name": "Saratoga Spa State Park",
+    "note": "Vehicle entry is free from mid October through May 1, the park lists an accessible swimming pool, and seniors pay $4 at Victoria Pool on weekdays."
+   },
+   {
+    "name": "Saratoga National Historical Park",
+    "note": "The tour road and wayside stop walkways are paved, the visitor center is accessible, and Victory Woods has a half mile boardwalk and gravel path built for accessibility."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA: Saratoga County Office for the Aging",
+    "https://aging.ny.gov/location/saratoga-county-office-aging"
+   ],
+   [
+    "Saratoga County: Department of Aging & Youth Services",
+    "https://www.saratogacountyny.gov/departments/department-of-aging-and-youth-services/"
+   ],
+   [
+    "Saratoga County: Senior Services Brochure (2024)",
+    "https://saratogacountyny.gov/wp/wp-content/uploads/2024/08/Aging-SeniorServicesBrochure-2024Aug22.pdf"
+   ],
+   [
+    "Saratoga County: Department of Social Services",
+    "https://www.saratogacountyny.gov/departments/social-services/"
+   ],
+   [
+    "NYS Parks: Saratoga Spa State Park",
+    "https://parks.ny.gov/parks/saratogaspa/details.aspx"
+   ],
+   [
+    "NPS: Saratoga NHP physical and mobility access",
+    "https://www.nps.gov/sara/planyourvisit/physical-mobility.htm"
+   ],
+   [
+    "NY.gov: Saratoga County",
+    "https://www.ny.gov/counties/saratoga"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "schenectady",
+  "name": "Schenectady County",
+  "region": "capital",
+  "seat": "Schenectady",
+  "towns": [
+   "Schenectady",
+   "Rotterdam",
+   "Niskayuna",
+   "Glenville",
+   "Scotia",
+   "Duanesburg",
+   "Princetown"
+  ],
+  "intro": "Schenectady County lies on the Mohawk River just west of Albany, with the city of Schenectady at its heart. The county's Department of Senior and Long Term Care Services runs NY Connects and offers caregiver support, in-home services, health insurance counseling and meals. Its Senior Transportation program offers ambulatory, wheelchair and stretcher rides for older adults who do not have Medicaid, with contributions welcome but never required.",
+  "agingOffice": {
+   "name": "Schenectady County Department of Senior & Long Term Care Services",
+   "phone": "518-382-8481, ext. 1",
+   "url": "https://www.schenectadycountyny.gov/sltc"
+  },
+  "transport": {
+   "name": "Senior Transportation (Senior & Long Term Care Services)",
+   "phone": "518-382-8481, ext. 1",
+   "url": "https://www.schenectadycountyny.gov/sltc/transportation"
+  },
+  "dss": {
+   "name": "Schenectady County Department of Social Services",
+   "phone": "518-388-4470",
+   "url": "https://www.schenectadycountyny.gov/dss"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Schenectady County Department of Senior & Long Term Care Services",
+    "https://aging.ny.gov/location/schenectady-county-department-senior-long-term-care-services"
+   ],
+   [
+    "Schenectady County: Senior & Long Term Care Services",
+    "https://www.schenectadycountyny.gov/sltc"
+   ],
+   [
+    "Schenectady County: Senior Transportation",
+    "https://www.schenectadycountyny.gov/sltc/transportation"
+   ],
+   [
+    "Schenectady County: Department of Social Services",
+    "https://www.schenectadycountyny.gov/dss"
+   ],
+   [
+    "NY.gov: Schenectady County",
+    "https://www.ny.gov/counties/schenectady"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "st-lawrence",
+  "name": "St. Lawrence County",
+  "region": "north-country",
+  "seat": "Canton",
+  "towns": [
+   "Potsdam",
+   "Ogdensburg",
+   "Massena",
+   "Canton",
+   "Gouverneur",
+   "Norwood",
+   "Waddington",
+   "Morristown"
+  ],
+  "intro": "St. Lawrence County is the largest county in New York State, stretching from the St. Lawrence River into the northwestern Adirondacks. The St. Lawrence County Office for the Aging offers meals at nutrition centers and home delivered meals, home care, caregiver support, legal services, health insurance counseling and NY Connects. It also offers medical transportation, and the county's public bus service is run by St. Lawrence NYSARC.",
+  "agingOffice": {
+   "name": "St. Lawrence County Office for the Aging",
+   "phone": "315-386-4730",
+   "url": "https://stlawco.gov/Departments/OfficefortheAging/"
+  },
+  "transport": {
+   "name": "Office for the Aging medical transportation",
+   "phone": "315-386-4730",
+   "url": "https://stlawco.gov/Departments/OfficefortheAging/"
+  },
+  "dss": {
+   "name": "St. Lawrence County Department of Social Services",
+   "phone": "315-379-2111",
+   "url": "https://stlawco.gov/Departments/SocialServices"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: St. Lawrence County Office for the Aging",
+    "https://aging.ny.gov/location/st-lawrence-county-office-aging"
+   ],
+   [
+    "St. Lawrence County: Office for the Aging",
+    "https://stlawco.gov/Departments/OfficefortheAging/"
+   ],
+   [
+    "St. Lawrence County: Department of Social Services",
+    "https://stlawco.gov/Departments/SocialServices"
+   ],
+   [
+    "NY.gov: St. Lawrence County",
+    "https://www.ny.gov/counties/st-lawrence"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
    ]
   ],
   "verified": true,
@@ -797,6 +1734,76 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "sullivan",
+  "name": "Sullivan County",
+  "region": "hudson-valley",
+  "seat": "Monticello",
+  "towns": [
+   "Monticello",
+   "Liberty",
+   "Bethel",
+   "Fallsburg",
+   "Thompson",
+   "Mamakating",
+   "Callicoon",
+   "Wurtsboro"
+  ],
+  "intro": "Sullivan County sits in the western Catskills, along the Delaware River and the Pennsylvania line. The Office for the Aging in Monticello runs EISEP in-home help, HIICAP Medicare counseling, the Senior Nutrition Program and Sullivan NY Connects. Its wheelchair accessible Shopping Buses run five days a week for residents 60 and older who register with the office.",
+  "agingOffice": {
+   "name": "Sullivan County Office for the Aging",
+   "phone": "845-807-0241",
+   "url": "https://www.sullivanny.gov/Departments/Aging"
+  },
+  "transport": {
+   "name": "Sullivan County Shopping Buses (register with the Office for the Aging)",
+   "phone": "845-807-0244",
+   "url": "https://www.sullivanny.gov/Departments/Transportation"
+  },
+  "dss": {
+   "name": "Sullivan County Department of Social Services",
+   "phone": "845-292-0100",
+   "url": "https://www.sullivanny.gov/Departments/familyservices"
+  },
+  "places": [
+   {
+    "name": "Bethel Woods Center for the Arts Museum",
+    "note": "Senior tickets for ages 65 and older are $18 in advance, and golf cart tours run May through October."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/sullivan-county-office-aging"
+   ],
+   [
+    "Sullivan County Office for the Aging",
+    "https://www.sullivanny.gov/Departments/Aging"
+   ],
+   [
+    "Sullivan County Transportation",
+    "https://www.sullivanny.gov/Departments/Transportation"
+   ],
+   [
+    "Sullivan County Department of Social Services",
+    "https://www.sullivanny.gov/Departments/familyservices"
+   ],
+   [
+    "Bethel Woods: Museum",
+    "https://www.bethelwoodscenter.org/museum"
+   ],
+   [
+    "NY.gov: Sullivan County",
+    "https://www.ny.gov/counties/sullivan"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
   "slug": "bronx",
   "name": "The Bronx (Bronx County)",
   "region": "nyc",
@@ -881,6 +1888,201 @@
    [
     "Bronx Museum: Visit",
     "https://www.bronxmuseum.org/visit"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "ulster",
+  "name": "Ulster County",
+  "region": "hudson-valley",
+  "seat": "Kingston",
+  "towns": [
+   "Kingston",
+   "New Paltz",
+   "Saugerties",
+   "Woodstock",
+   "Ellenville",
+   "Rosendale",
+   "Wawarsing",
+   "Esopus"
+  ],
+  "intro": "Ulster County runs from the west bank of the Hudson into the Catskill and Shawangunk mountains. The Office for the Aging in Kingston offers HIICAP Medicare counseling, NY Connects, senior meals and the Neighbor to Neighbor program, where volunteer drivers take older residents to doctor visits. Registered seniors 60 and older also get one free round trip a week for shopping and up to two medical trips a week.",
+  "agingOffice": {
+   "name": "Ulster County Office for the Aging",
+   "phone": "845-340-3456",
+   "url": "https://ulstercountyny.gov/aging/"
+  },
+  "transport": {
+   "name": "Ulster County Area Transit (UCAT)",
+   "phone": "845-334-8458",
+   "url": "https://ucat.ulstercountyny.gov/"
+  },
+  "dss": {
+   "name": "Ulster County Department of Social Services",
+   "phone": "845-334-5000",
+   "url": "https://www.ulstercountyny.gov/Departments/Social-Services"
+  },
+  "places": [
+   {
+    "name": "Senate House State Historic Site",
+    "note": "Seniors 62 and older pay $5 for the tour, the grounds are open dawn to dusk, and the picnic area is accessible."
+   },
+   {
+    "name": "Minnewaska State Park Preserve",
+    "note": "The Lake Minnewaska Visitor Center has public restrooms and a lobby with lake views, and the park has 35 miles of carriage roads."
+   }
+  ],
+  "sources": [
+   [
+    "NYSOFA local office listing",
+    "https://aging.ny.gov/location/ulster-county-office-aging"
+   ],
+   [
+    "Ulster County Office for the Aging",
+    "https://ulstercountyny.gov/aging/"
+   ],
+   [
+    "Ulster County OFA: Transportation",
+    "https://www.ulstercountyny.gov/Departments/Aging/Services/Transportation"
+   ],
+   [
+    "UCAT",
+    "https://ucat.ulstercountyny.gov/"
+   ],
+   [
+    "Ulster County Department of Social Services",
+    "https://www.ulstercountyny.gov/Departments/Social-Services"
+   ],
+   [
+    "NYS Parks: Senate House",
+    "https://parks.ny.gov/historic-sites/senatehouse/details.aspx"
+   ],
+   [
+    "NYS Parks: Minnewaska",
+    "https://parks.ny.gov/parks/minnewaska/details.aspx"
+   ],
+   [
+    "NY.gov: Ulster County",
+    "https://www.ny.gov/counties/ulster"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "warren",
+  "name": "Warren County",
+  "region": "capital",
+  "seat": "Queensbury",
+  "towns": [
+   "Glens Falls",
+   "Queensbury",
+   "Lake George",
+   "Bolton",
+   "Warrensburg",
+   "Chester",
+   "Lake Luzerne",
+   "Hague"
+  ],
+  "intro": "Warren County covers Lake George and the southeastern Adirondacks, with Glens Falls and Queensbury as its population center. One shared office, the Warren/Hamilton Counties Office for the Aging, serves both Warren and Hamilton counties from the Human Services Building in Lake George. It offers volunteer rides to medical appointments and scheduled town transportation in places like Lake George and Lake Luzerne.",
+  "agingOffice": {
+   "name": "Warren/Hamilton Counties Office for the Aging",
+   "phone": "518-761-6347",
+   "url": "https://www.warrencountyny.gov/ofa/"
+  },
+  "transport": {
+   "name": "Office for the Aging volunteer medical transportation",
+   "phone": "518-761-6347",
+   "url": "https://www.warrencountyny.gov/ofa/"
+  },
+  "dss": {
+   "name": "Warren County Department of Social Services",
+   "phone": "518-761-6310",
+   "url": "https://warrencountyny.gov/socserv"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Warren/Hamilton Counties Offices for the Aging",
+    "https://aging.ny.gov/location/warrenhamilton-counties-offices-aging"
+   ],
+   [
+    "Warren County: Office for the Aging",
+    "https://www.warrencountyny.gov/ofa/"
+   ],
+   [
+    "Warren County: Department of Social Services",
+    "https://warrencountyny.gov/socserv"
+   ],
+   [
+    "NY.gov: Warren County",
+    "https://www.ny.gov/counties/warren"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
+   ]
+  ],
+  "verified": true,
+  "checked": "2026-11-25"
+ },
+ {
+  "slug": "washington",
+  "name": "Washington County",
+  "region": "capital",
+  "seat": "Fort Edward",
+  "towns": [
+   "Hudson Falls",
+   "Fort Edward",
+   "Granville",
+   "Whitehall",
+   "Greenwich",
+   "Cambridge",
+   "Salem",
+   "Fort Ann"
+  ],
+  "intro": "Washington County is a long, rural county between the upper Hudson and the Vermont border, with its county offices in Fort Edward. The Washington County Office for Aging and Disability Resource Center works to help older residents stay as independent as possible for as long as possible, and it is home to NY Connects for free, unbiased long term care information. The office uses the Blooming Health platform to reach the people it serves by voice, text and email in 70 languages.",
+  "agingOffice": {
+   "name": "Washington County Office for the Aging & Disability Resource Center",
+   "phone": "518-746-2420",
+   "url": "https://washingtoncountyny.gov/148/Office-for-Aging"
+  },
+  "dss": {
+   "name": "Washington County Department of Social Services",
+   "phone": "518-746-2300",
+   "url": "https://www.washingtoncountyny.gov/517/Social-Services"
+  },
+  "places": [],
+  "sources": [
+   [
+    "NYSOFA: Washington County Office for the Aging & Disability Resource Center",
+    "https://aging.ny.gov/location/washington-county-office-aging-disability-resource-center"
+   ],
+   [
+    "Washington County: Office for Aging",
+    "https://washingtoncountyny.gov/148/Office-for-Aging"
+   ],
+   [
+    "Washington County: Social Services",
+    "https://www.washingtoncountyny.gov/517/Social-Services"
+   ],
+   [
+    "NYS OTDA: Local Departments of Social Services",
+    "https://otda.ny.gov/workingfamilies/dss.asp"
+   ],
+   [
+    "NY.gov: Washington County",
+    "https://www.ny.gov/counties/washington"
+   ],
+   [
+    "New York State Library: Outline Map of NYS Counties (county seats)",
+    "https://nysl.nysed.gov/node/3062"
    ]
   ],
   "verified": true,
