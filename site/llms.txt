@@ -50,20 +50,43 @@
 - [Senior services in New York City](https://seniorsofny.com/region/nyc/)
 - [Senior services in Long Island](https://seniorsofny.com/region/long-island/)
 - [Senior services in Hudson Valley](https://seniorsofny.com/region/hudson-valley/)
+- [Senior services in Capital Region](https://seniorsofny.com/region/capital/)
+- [Senior services in North Country](https://seniorsofny.com/region/north-country/)
 - [Senior services in Mohawk Valley](https://seniorsofny.com/region/mohawk-valley/)
 
 ## County guides
 
+- [Albany County](https://seniorsofny.com/county/albany/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Brooklyn (Kings County)](https://seniorsofny.com/county/brooklyn/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Clinton County](https://seniorsofny.com/county/clinton/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Columbia County](https://seniorsofny.com/county/columbia/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Dutchess County](https://seniorsofny.com/county/dutchess/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Essex County](https://seniorsofny.com/county/essex/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Franklin County](https://seniorsofny.com/county/franklin/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Fulton County](https://seniorsofny.com/county/fulton/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Greene County](https://seniorsofny.com/county/greene/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Hamilton County](https://seniorsofny.com/county/hamilton/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Jefferson County](https://seniorsofny.com/county/jefferson/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Lewis County](https://seniorsofny.com/county/lewis/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Manhattan (New York County)](https://seniorsofny.com/county/manhattan/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Montgomery County](https://seniorsofny.com/county/montgomery/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Nassau County](https://seniorsofny.com/county/nassau/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Orange County](https://seniorsofny.com/county/orange/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Putnam County](https://seniorsofny.com/county/putnam/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Queens (Queens County)](https://seniorsofny.com/county/queens/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Rensselaer County](https://seniorsofny.com/county/rensselaer/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Rockland County](https://seniorsofny.com/county/rockland/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Saratoga County](https://seniorsofny.com/county/saratoga/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Schenectady County](https://seniorsofny.com/county/schenectady/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Schoharie County](https://seniorsofny.com/county/schoharie/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [St. Lawrence County](https://seniorsofny.com/county/st-lawrence/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Staten Island (Richmond County)](https://seniorsofny.com/county/staten-island/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Suffolk County](https://seniorsofny.com/county/suffolk/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Sullivan County](https://seniorsofny.com/county/sullivan/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [The Bronx (Bronx County)](https://seniorsofny.com/county/bronx/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Ulster County](https://seniorsofny.com/county/ulster/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Warren County](https://seniorsofny.com/county/warren/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
+- [Washington County](https://seniorsofny.com/county/washington/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 - [Westchester County](https://seniorsofny.com/county/westchester/): Office for the Aging (or NYC Aging), senior transportation, social services and places to go
 
 ## Tools
@@ -75,3 +98,7 @@
 - [Key dates](https://seniorsofny.com/dates/): deadlines and enrollment windows
 - [Phone directory](https://seniorsofny.com/directory/): official offices that help older adults
 - [Glossary](https://seniorsofny.com/glossary/): plain-English definitions
+
+## Find care help
+
+- [Find care help in New York](https://seniorsofny.com/find-help/): care managers and other help for older adults, with phone numbers
