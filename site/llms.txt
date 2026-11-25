@@ -136,3 +136,24 @@
 ## Find care help
 
 - [Find care help in New York](https://seniorsofny.com/find-help/): care managers and other help for older adults, with phone numbers
+
+## Town guides
+
+- [Seniors in Clarkstown, NY](https://seniorsofny.com/town/clarkstown-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Haverstraw, NY](https://seniorsofny.com/town/haverstraw-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Haverstraw (village), NY](https://seniorsofny.com/town/haverstraw-village-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Montebello, NY](https://seniorsofny.com/town/montebello-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Nanuet, NY](https://seniorsofny.com/town/nanuet-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in New City, NY](https://seniorsofny.com/town/new-city-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Nyack, NY](https://seniorsofny.com/town/nyack-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Orangetown, NY](https://seniorsofny.com/town/orangetown-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Pearl River, NY](https://seniorsofny.com/town/pearl-river-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Piermont, NY](https://seniorsofny.com/town/piermont-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Ramapo, NY](https://seniorsofny.com/town/ramapo-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Sloatsburg, NY](https://seniorsofny.com/town/sloatsburg-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Spring Valley, NY](https://seniorsofny.com/town/spring-valley-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Stony Point, NY](https://seniorsofny.com/town/stony-point-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Suffern, NY](https://seniorsofny.com/town/suffern-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in Tappan, NY](https://seniorsofny.com/town/tappan-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in West Haverstraw, NY](https://seniorsofny.com/town/west-haverstraw-ny/): senior center, rides, library and outings in Rockland County
+- [Seniors in West Nyack, NY](https://seniorsofny.com/town/west-nyack-ny/): senior center, rides, library and outings in Rockland County
