@@ -398,6 +398,72 @@ A: The Tax Department's STAR line is 518-457-2036, Monday through Friday, 8:30 a
 
 Sources: 
 
+## Adult day care in New York: social programs vs adult day health
+
+URL: https://seniorsofny.com/article/adult-day-care-ny/
+Updated: 2026-11-26
+
+Adult day care lets your parent spend the day somewhere safe and social, then sleep at home. New York has two very different kinds. Here is how they differ, who pays and how to find one.
+
+### Key facts
+
+
+
+### Questions
+
+Q: How do I find adult day care for my mom with dementia in Staten Island?
+A: Search NYC Aging's social adult day care search tool for registered programs on Staten Island, and read NYC Aging's guide to choosing one. Ask how staff handle participants with dementia. If she has a Medicaid managed long term care plan, ask the care manager which social or adult day health programs are in the network.
+
+Q: Will Medicaid pay for adult day care for my dad in Nassau County?
+A: If he is in a Medicaid managed long term care plan, adult day health care is a covered service, and social day care can be provided as a care management service. The plan must authorize it. If he is not on Medicaid, call NY Connects at 1-800-342-9871 or the Nassau County Office for the Aging about funded programs.
+
+Q: What is the difference between social adult day care and adult day health care?
+A: Social adult day gives supervision, socialization, meals and limited personal care under NYSOFA standards. Adult day health care is regulated by the Department of Health and adds nursing, therapy, pharmacy and other health services, with sessions of at least five hours.
+
+Q: Does Medicare pay for adult day care?
+A: Medicare.gov lists adult day health care as long-term care and says Medicare doesn't pay for long-term care, so families should not count on Medicare to pay for a day program. Medicaid plans, PACE, Office for the Aging funding or private pay are the usual routes.
+
+Q: Who qualifies for a social adult day program in New York?
+A: NYSOFA says a person is eligible if they need help from another person with at least one daily activity, such as toileting, mobility, transferring or eating, or need supervision because of cognitive or psychosocial impairment.
+
+Q: How do I complain about a social adult day care in NYC?
+A: Submit a comment or complaint to NYC Aging online or call 311. Every registered program must post a sign with the contact for NYC Aging's SADC Ombuds Office and a sign listing participants' rights.
+
+Sources: 
+
+## Assisted living in New York: licenses, costs and how to check
+
+URL: https://seniorsofny.com/article/assisted-living-ny/
+Updated: 2026-11-26
+
+In New York, the license on the wall decides who a residence can admit and whether your parent can stay as needs grow. Here is what each license means, who pays and how to check a place before you sign.
+
+### Key facts
+
+
+
+### Questions
+
+Q: How do I find assisted living for my mom in Westchester that can handle dementia?
+A: Search NYS Health Profiles: Adult Care Facilities by county (Westchester) and by the service Special Needs Assisted Living Residence. A residence needs SNALR certification to serve people with dementia. Then compare rent, services and quality measures on the DOH Assisted Living Residence Quality site, and tour.
+
+Q: Will Medicaid pay for assisted living for my dad in Queens?
+A: Medicaid's main route is the Assisted Living Program (ALP). If he medically qualifies for a nursing home, an ALP in a participating adult home or enriched housing program can provide nursing, therapy, personal care and other services. Ask HRA about Medicaid in New York City. Residents on SSI also get a higher SSI amount in adult care facilities.
+
+Q: What is the difference between an ALR and an EALR in New York?
+A: A basic Assisted Living Residence gives daily food service, 24-hour on-site monitoring, case management and an individualized service plan. An Enhanced ALR can also admit or keep residents who chronically need help walking or using stairs, depend on medical equipment that needs frequent help from medical staff, or have chronic unmanaged incontinence.
+
+Q: Does Medicare pay for assisted living?
+A: No. Medicare.gov says Medicare and most health insurance, including Medigap, don't pay for long-term care, and it lists assisted living as one place where that non-medical care happens. Medicaid or private long-term care insurance may help.
+
+Q: How can I check inspections or complaints about an assisted living residence?
+A: Look up the facility on NYS Health Profiles: Adult Care Facilities, and check the DOH Assisted Living Residence Quality page for confirmed complaints, staffing, food citations and the residency agreement. To report a problem, call the DOH complaint line at 1-866-893-6772 or the Long Term Care Ombudsman Program at 1-855-582-6769.
+
+Q: Is independent senior housing the same as assisted living?
+A: No. A 2016 DOH letter says independent senior housing is not licensed by DOH. The housing provider may hand residents a list of outside agencies but cannot provide, arrange or coordinate personal care. A building that offers services like 24-hour supervision, personal care or medication management generally needs a DOH license.
+
+Sources: 
+
 ## CDPAP in New York: how family caregivers get paid in 2026
 
 URL: https://seniorsofny.com/article/cdpap-ny/
@@ -497,6 +563,39 @@ A: Call the Department of Health Home Health Hotline at 1-800-628-5972, which ta
 
 Sources: 
 
+## Managed long term care in New York: MLTC, NYIA and plan choice
+
+URL: https://seniorsofny.com/article/managed-long-term-care-ny/
+Updated: 2026-11-26
+
+If your parent has Medicare and Medicaid and needs ongoing help at home, a managed long term care plan is usually how that help arrives. Here is how the assessment, plan choice and switching rules work in New York.
+
+### Key facts
+
+
+
+### Questions
+
+Q: How do I get my mom home care through Medicaid in the Bronx?
+A: She needs Medicaid through HRA first. Then call the New York Independent Assessor at 855-222-8350 (TTY 1-888-329-1541) to schedule the nurse assessment and clinical appointment. If she qualifies and has Medicare too, she enrolls in a plan through New York Medicaid Choice at 1-888-401-6582, and the plan's care manager sets her home care plan.
+
+Q: Can my dad in Orange County switch his MLTC plan if the aide keeps missing shifts?
+A: In the first 90 days after enrolling he can switch for any reason. During the following nine-month lock-in he needs good cause, and a plan failing to provide appropriate care under the plan of care counts. Call New York Medicaid Choice at 1-888-401-6582, and ICAN at 1-844-614-8800 can help.
+
+Q: Who has to join a managed long term care plan in New York?
+A: DOH says enrollment in an MLTC partial capitation plan is mandatory for people with both Medicare and Medicaid, age 21 or older, who need community based long-term services for more than 120 days, meet the minimum needs test and live in New York State.
+
+Q: What is the difference between MLTC, MAP and PACE?
+A: An MLTC partial capitation plan covers long-term care like home care, while Medicare and regular Medicaid cover doctors, hospitals and drugs. Medicaid Advantage Plus puts all Medicare, Medicaid, long-term care and drug benefits under one organization. PACE, for people 55 and older, covers primary, acute and long-term care through one team.
+
+Q: Does an MLTC plan cover CDPAP?
+A: Yes. DOH lists Consumer Directed Personal Assistance Services among the services MLTC plans cover when medically necessary. The plan authorizes the hours.
+
+Q: What happens to the MLTC plan if my parent moves into a nursing home?
+A: DOH says MLTC partial capitation plans cover only three months of long-term nursing home care. If the stay goes past three months, New York Medicaid Choice sends a letter saying when your parent will leave the plan.
+
+Sources: 
+
 ## Medicare costs in 2027 for New Yorkers
 
 URL: https://seniorsofny.com/article/medicare-costs-2027-ny/
@@ -593,6 +692,39 @@ A: Only if you first became eligible for Medicare before January 1, 2020. Plans 
 
 Q: Does Medigap cover prescription drugs?
 A: No. Medigap policies sold after 2005 do not include drug coverage, so you need a separate Part D plan. In New York, EPIC can add help on top of Part D for people 65 and older.
+
+Sources: 
+
+## Memory care in New York: dementia housing, costs and help
+
+URL: https://seniorsofny.com/article/memory-care-ny/
+Updated: 2026-11-26
+
+New York has no license called memory care. Here is what the real options are for a parent with dementia, what they cost by region, where Medicaid helps and the free state programs that support families.
+
+### Key facts
+
+
+
+### Questions
+
+Q: How do I find memory care for my dad in Rockland County?
+A: Search NYS Health Profiles: Adult Care Facilities for Rockland County and the service Special Needs Assisted Living Residence. A residence needs SNALR certification to serve people with dementia. For nursing homes, see our nursing home ratings guide and ask each home how it cares for residents with dementia.
+
+Q: Will Medicaid pay for my mom's memory care in Brooklyn?
+A: Medicaid can pay for home care, CDPAP and adult day health care through a managed long term care plan, for services in a participating Assisted Living Program, and for long-term nursing home care if she qualifies. DOH says people who can no longer pay privately for a SNALR generally have to turn to Medicaid, which often means a move to a nursing home. The SNALR voucher program was created to prevent that. Ask HRA about Medicaid in Brooklyn.
+
+Q: What is a SNALR in New York?
+A: A Special Needs Assisted Living Residence is an assisted living residence with a DOH certificate to serve people with special needs, most commonly Alzheimer's disease or other dementia. It must have a special needs plan showing how residents' needs will be safely met.
+
+Q: How much does memory care cost in New York?
+A: DOH's SNALR voucher eligibility document, last updated June 2021, listed average monthly SNALR costs from $5,800 in Northeastern New York to $10,602 in New York City. Prices have likely changed, so get written rates from each residence.
+
+Q: Who qualifies for the SNALR voucher program?
+A: DOH lists a dementia diagnosis, at least 12 months at the current facility in a participating SNALR, income and assets under regional limits, no large transfers in the year before applying, and not being on Medicaid or SSI. Up to 200 vouchers may be issued, and a waitlist may apply.
+
+Q: Where can I get free help caring for a parent with dementia in New York?
+A: DOH funds Centers of Excellence for Alzheimer's Disease, Alzheimer's Association community programs with a 24-hour helpline at 1-800-272-3900, and regional caregiver support programs with respite. NY Connects at 1-800-342-9871 links you to local services in your county.
 
 Sources: 
 
