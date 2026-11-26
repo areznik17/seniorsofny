@@ -15,6 +15,7 @@ def load(f):
 def words(h): return len(re.sub(r'<[^>]+>',' ',h).split())
 args=sys.argv[1:]; mode='guides'
 if args and args[0].startswith('--'): mode=args.pop(0)[2:]
+if mode not in ('guides','counties','towns','extras'): print('unknown mode --'+mode+' (use --counties, --towns, --extras, or no flag for guides)'); sys.exit(2)
 errs=[];warn=[]
 if mode=='counties':
     # Updates the existing counties.json by slug (later files win); never drops a county.
