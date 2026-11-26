@@ -506,5 +506,407 @@
   "desc": "Geriatric care consultation for older adults and families in Suffolk County, with a Setauket mailing address. Services include comprehensive assessments and long-term care planning, Medicaid planning and applications, help with Medicare, Medigap and long-term care insurance, PRI and screen forms, admission arrangements for nursing homes and assisted living, and care monitoring for families who live far away. The team includes a licensed clinical social worker and Certified Care Manager (LCSW, CMC), a registered nurse (RN) and a geriatric nurse practitioner.",
   "source": "https://seniorcarecs.com/about-senior-care-cs/",
   "checked": "2026-11-26"
+ },
+ {
+  "name": "Family Service League Senior & Caregiver Services",
+  "cat": "social-services",
+  "counties": [
+   "Suffolk"
+  ],
+  "phone": "631-427-3700",
+  "url": "https://www.fsl-li.org",
+  "desc": "Caregiver Support and Education offers group and individual counseling for family caregivers, plus lunch and learn talks on topics like dementia care and elder law, in Commack, Riverhead and on Zoom. The site says caregiver services are free of charge. FSL also runs the Suffolk Long-Term Care Ombudsman Program for residents of licensed care facilities.",
+  "source": "https://www.fsl-li.org/find-help/senior-caregiver-services/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Selfhelp Community Services",
+  "cat": "social-services",
+  "counties": [
+   "Queens",
+   "Brooklyn",
+   "Manhattan"
+  ],
+  "phone": "212-971-7600",
+  "url": "https://selfhelp.net",
+  "desc": "Social workers provide case management for older adults, with help getting benefits and entitlements, money help and home-delivered meals, through NYC Aging case management for homebound seniors in Community District 7 in northern Queens, four Queens NORC programs and the Safety Net program in select zip codes of Brooklyn, Queens and Manhattan. Selfhelp also runs New York Connects in Queens, a free first stop for long-term care help, including caregiver support and care coordination. Senior Source is a fee-for-service geriatric care management program for families.",
+  "source": "https://selfhelp.net/community-based-programs/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Westchester Jewish Community Services (WJCS) Senior Services",
+  "cat": "social-services",
+  "counties": [
+   "Westchester"
+  ],
+  "phone": "914-761-0600",
+  "url": "https://www.wjcs.com",
+  "desc": "WJCS helps older adults in Westchester County age safely in their homes, with geriatric care management and guidance and referrals for seniors, family members and caregivers. Programs include Project Time-Out respite for caregivers, bereavement support for people 60 and older, Alzheimer's services and a NNORC program in Northeast Yonkers.",
+  "source": "https://www.wjcs.com/services/seniors/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Search and Care",
+  "cat": "social-services",
+  "counties": [
+   "Manhattan"
+  ],
+  "phone": "212-289-5300",
+  "url": "https://www.searchandcare.org",
+  "desc": "Social workers and care managers help older adults on the Upper East Side, East Harlem and the Upper West Side coordinate care with doctors, agencies and family. They help secure benefits such as Medicaid, SNAP and SCRIE, offer counseling, arrange home care and transportation, and advocate on housing. The site says services are fee-free.",
+  "source": "https://www.searchandcare.org/care-management",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Carter Burden Network",
+  "cat": "social-services",
+  "counties": [
+   "Manhattan"
+  ],
+  "phone": "212-203-3541",
+  "url": "https://www.carterburdennetwork.org",
+  "desc": "The Social Service Unit helps older adults 60 and up on the Upper East Side with benefits and entitlements, advocacy, supportive counseling, money management and end-of-life planning, for people who get out and about and for those who are homebound. Case assistance is also offered at its East Harlem and Roosevelt Island older adult centers.",
+  "source": "https://www.carterburdennetwork.org/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Catholic Charities Brooklyn & Queens, Case Management for Homebound Seniors",
+  "cat": "social-services",
+  "counties": [
+   "Queens"
+  ],
+  "phone": "718-722-6001",
+  "url": "https://www.ccbq.org",
+  "desc": "This program helps homebound older adults stay in their own homes, with assessments, care planning, benefits counseling, counseling, referrals and caregiver support. Staff also connect people to home-delivered meals and home care. The case management office is on Jamaica Avenue in Jamaica, Queens.",
+  "source": "https://www.ccbq.org/service/case-management-for-homebound-seniors/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Family & Children's Association, Alzheimer's Caregiver and Dementia Support Program",
+  "cat": "social-services",
+  "counties": [
+   "Nassau",
+   "Suffolk"
+  ],
+  "phone": "516-746-0350",
+  "url": "https://www.fcali.org",
+  "desc": "Staff visit the home for a confidential assessment of what a family caring for someone with Alzheimer's or another dementia needs. The program offers ongoing one-on-one counseling, support groups, education and referrals to resources for caregivers in underserved communities of Nassau and Suffolk.",
+  "source": "https://www.fcali.org/programs-and-services/senior-and-adult-services/alzheimers-caregiver-support-program/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Putnam County Office for Senior Resources",
+  "cat": "social-services",
+  "counties": [
+   "Putnam"
+  ],
+  "phone": "845-808-1700",
+  "url": "https://www.putnamcountyny.gov/osr",
+  "desc": "The county's Caregiver Program offers counseling, information and referral, support groups and educational workshops for family caregivers, and outreach workers help isolated and frail seniors apply for Medicaid, SNAP and the Medicare Savings Program. A case manager assesses need and eligibility for in-home programs such as EISEP. Putnam NY Connects serves older adults and people with disabilities of all ages.",
+  "source": "https://www.putnamcountyny.gov/osr",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Lifespan of Greater Rochester",
+  "cat": "social-services",
+  "counties": [
+   "Monroe"
+  ],
+  "phone": "585-244-8400",
+  "url": "https://www.lifespan-roch.org",
+  "desc": "Regional nonprofit offering more than 30 services for older adults and caregivers in Monroe and surrounding Finger Lakes counties. Services include care navigation and planning, caregiver support, Medicare help, and help with bills, budgeting and benefits.",
+  "source": "https://www.lifespan-roch.org/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Jewish Family Service of Rochester, Aging Services",
+  "cat": "social-services",
+  "counties": [
+   "Monroe"
+  ],
+  "phone": "585-461-0110",
+  "url": "https://www.jfsrochester.org",
+  "desc": "Care managers build personal plans covering physical, emotional and social needs so older adults can age in the place they choose. The Counseling Center offers counseling for older adults and their caregivers, and support groups help caregivers with stress. JFS also provides EISEP care management with subsidized home care, a state and county funded service.",
+  "source": "https://www.jfsrochester.org/aging-services/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Jewish Family Services of Northeastern New York, Aging Well",
+  "cat": "social-services",
+  "counties": [
+   "Albany"
+  ],
+  "phone": "518-482-8856",
+  "url": "https://www.jfsneny.org",
+  "desc": "A geriatric social work care manager helps older adults in Albany find resources that make daily life easier and builds a long-term care plan. JFS also runs the Albany NNORC, which helps people 60 and older age in place, and InPlace, a program that helps Albany residents 60 and up move around safely at home through education, resources and home changes if needed.",
+  "source": "https://www.jfsneny.org/aging-well",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Catholic Charities of Long Island, EISEP Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Nassau"
+  ],
+  "phone": "516-771-3410",
+  "url": "https://catholiccharities.cc",
+  "desc": "Through the Expanded In-home Services for the Elderly Program, a case manager works with each Nassau County senior 60 and older to assess needs and build a service plan that can include home care, transportation and entitlements. There may be a cost share, which the case manager sets at the assessment.",
+  "source": "https://catholiccharities.cc/how-we-can-help/senior-services",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "JCC of Staten Island, Older Adult Case Assistance",
+  "cat": "social-services",
+  "counties": [
+   "Staten Island"
+  ],
+  "phone": "718-517-7445",
+  "url": "https://sijcc.org",
+  "desc": "Free, by-appointment case assistance helps older adults on Staten Island with benefits enrollment, health insurance, legal and medical referrals and food pantry access. Help is offered at its older adult centers in Stapleton, on Manor Road and on the South Shore.",
+  "source": "https://sijcc.org/older-adult-centers",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "JCC of Greater Coney Island, Older Adult Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Brooklyn"
+  ],
+  "phone": "718-449-5000",
+  "url": "https://www.jccgci.org",
+  "desc": "Case managers help older adults in southern Brooklyn with short-term case assistance and referrals to benefits such as Medicaid, SNAP, EPIC and Section 8. Holocaust survivors can get more intensive case management from licensed social workers, including counseling. Staff speak English, Spanish, Russian, Hungarian, Hebrew and Yiddish.",
+  "source": "https://www.jccgci.org/programs/older-adult-services/senior-case-management/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "JASA Social Work and Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Manhattan",
+   "Brooklyn",
+   "Queens",
+   "Bronx"
+  ],
+  "phone": "212-273-5272",
+  "url": "https://jasa.org",
+  "desc": "JASA social workers help older adults through health setbacks, money changes and planning ahead, with service planning and short-term or ongoing support. Short-term case management by a team of social workers, case managers, a registered nurse and a pastoral counselor serves Manhattan, Brooklyn, Queens and the Bronx. NYC Aging long-term case management for homebound adults over 60 covers Brooklyn Community Districts 13 and 15.",
+  "source": "https://jasa.org/services/social-work",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "R.A.I.N. Total Care Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Bronx"
+  ],
+  "phone": "718-892-5520",
+  "url": "https://www.raininc.org",
+  "desc": "Case managers assess the needs of homebound adults 60 and older in Bronx Community Districts 7, 8 and 12, then arrange and track services and advocate for them. They connect clients with home care, home-delivered meals, housekeeping, transportation and benefits help so they can keep living safely at home.",
+  "source": "https://www.raininc.org/?p=2452",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Presbyterian Senior Services (PSS) Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Bronx"
+  ],
+  "phone": "917-768-4557",
+  "url": "https://pssusa.org",
+  "desc": "NYC Aging funded case management for homebound adults 60 and older in Bronx Community Districts 9, 10 and 11, with home-delivered meals, home care, benefits help, referrals and emotional support. PSS social workers help older adults with unmet needs, and a toll-free caregiver hotline takes calls or texts at 866-665-1713.",
+  "source": "https://pssusa.org/?p=8730",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Rockland County Office for the Aging, Caregiver Resource Center",
+  "cat": "social-services",
+  "counties": [
+   "Rockland"
+  ],
+  "phone": "845-364-2110",
+  "url": "https://rocklandcountyny.gov/departments/office-for-the-aging",
+  "desc": "The county's Caregiver Resource Center helps families with the physical, emotional and money demands of caregiving. It offers individual and family counseling, support groups, care planning and links to respite such as adult day care and in-home personal care. The site says services are free, and contributions are voluntary.",
+  "source": "https://rocklandcountyny.gov/departments/office-for-the-aging/caregiver-services",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Queens Community House, Older Adult Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Queens"
+  ],
+  "phone": "718-268-1412",
+  "url": "https://www.qchnyc.org",
+  "desc": "Case managers who specialize in aging offer in-home assessments, help with benefits and entitlements, and care coordination for homebound older adults in Queens. They can also arrange home-delivered meals, including kosher and Asian options, and homemaker help with personal care and housekeeping.",
+  "source": "https://www.qchnyc.org/node/67",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Sunnyside Community Services, Older Adult Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Queens"
+  ],
+  "phone": "877-577-9337",
+  "url": "https://scsny.org",
+  "desc": "For adults 60 and older whose physical limits or dementia make daily life hard, a case manager assesses needs and connects them with meal delivery, transportation, bill-paying help, home care, housing help and legal services. Case managers visit at home, check in by phone and work with doctors and family. It serves Astoria, Long Island City, Sunnyside, Woodside, Jackson Heights, East Elmhurst, Ridgewood and Middle Village, funded by NYC Aging.",
+  "source": "https://scsny.org/programs/senior-programs/case-management",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Erie County Department for the Aging, Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Erie"
+  ],
+  "phone": "716-858-8526",
+  "url": "https://www3.erie.gov/aging",
+  "desc": "County case managers help adults 60 and older with health and daily living needs. They learn what the person needs, make a care plan together, link people to services such as home care, home-delivered meals and benefits, and check in at least every two months. Call the NY Connects line to reach a case manager.",
+  "source": "https://www3.erie.gov/aging/case-management",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Ulster County Office for the Aging, Case Management and Caregiver Support",
+  "cat": "social-services",
+  "counties": [
+   "Ulster"
+  ],
+  "phone": "845-340-3456",
+  "url": "https://www.ulstercountyny.gov/Departments/Aging",
+  "desc": "Through the Expanded In-Home Services for the Elderly Program, the county offers case management with non-medical in-home help and respite for older adults who need long-term care but are not eligible for Medicaid. It is for people with physical and financial need.",
+  "source": "https://www.ulstercountyny.gov/Departments/Aging/Services/Long-term-Care/Case-Management",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Schenectady County Senior and Long Term Care Services, Caregiver Support",
+  "cat": "social-services",
+  "counties": [
+   "Schenectady"
+  ],
+  "phone": "518-382-8481",
+  "url": "https://schenectadycountyny.gov/sltc/caregiver",
+  "desc": "Family caregivers of adults 60 and older, or of someone with Alzheimer's, can get one-on-one counseling for caregiving decisions, free support groups around the county, and free workshops. Eligible caregivers may also get training and respite through the National Family Caregiver Support Program.",
+  "source": "https://schenectadycountyny.gov/sltc/caregiver",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "BronxWorks Services for Older Adults",
+  "cat": "social-services",
+  "counties": [
+   "Bronx"
+  ],
+  "phone": "646-393-4000",
+  "url": "https://bronxworks.org",
+  "desc": "Staff help older adults in the Bronx check eligibility for and apply to benefits such as SNAP, Medicaid, HEAP, SCRIE and DRIE. A housing case manager helps with housing applications and landlord issues, and the Seniors Homelessness Prevention Project helps Bronx residents 60 and older who have active Housing Court cases. Its older adult centers also offer mental health screening.",
+  "source": "https://bronxworks.org/our-services/services-for-older-adults/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Onondaga County Office for Aging, Caregiver Services Program",
+  "cat": "social-services",
+  "counties": [
+   "Onondaga"
+  ],
+  "phone": "315-435-2362",
+  "url": "https://onondaga.gov/aging/",
+  "desc": "Unpaid family caregivers can call for information and help building a care plan, join monthly discussion groups and take virtual classes through the Institute for Caregivers. The program also offers free short-term respite through social adult day, in-home aide or consumer-directed services.",
+  "source": "https://onondaga.gov/aging/caregiver",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Broome County Office for Aging, Caregiver Services",
+  "cat": "social-services",
+  "counties": [
+   "Broome"
+  ],
+  "phone": "607-778-2411",
+  "url": "https://broomecountyny.gov/senior",
+  "desc": "Family caregivers can get consultations about local services by phone, at the office or at home, and join Caregiver Chats peer support groups. The Caregiver Respite Program includes a full caregiver assessment and ongoing case management. Contributions are voluntary and no one is denied services for not giving.",
+  "source": "https://broomecountyny.gov/senior/caregiver",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Catholic Charities Family and Community Services, EISEP",
+  "cat": "social-services",
+  "counties": [
+   "Monroe"
+  ],
+  "phone": "585-262-7060",
+  "url": "https://ww2.fcscharities.org",
+  "desc": "This agency has run the Expanded In-home Services for the Elderly Program in Monroe County since 1987, helping older adults stay at home. It provides case management plus subsidized personal care and housekeeping and links to adult day care, emergency response units and home-delivered meals. The site says there is no charge for case management, and in-home help is subsidized based on monthly income. Spanish line 585-262-7059.",
+  "source": "https://ww2.fcscharities.org/services/eisep",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Dutchess County Office for the Aging, Caregiver Support",
+  "cat": "social-services",
+  "counties": [
+   "Dutchess"
+  ],
+  "phone": "845-486-2555",
+  "url": "https://www.dutchessny.gov/aging",
+  "desc": "The county runs the National Family Caregiver Support Program, which can provide caregiver counseling, information and assistance, caregiver training and respite for eligible caregivers of adults 60 and older or of someone with Alzheimer's. Toll-free 866-486-2555.",
+  "source": "https://www.dutchessny.gov/Departments/Aging/Information-for-Caregivers-Office-for-the-Aging.htm",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Nassau County Office for the Aging, EISEP Care Coordination",
+  "cat": "social-services",
+  "counties": [
+   "Nassau"
+  ],
+  "phone": "516-227-8900",
+  "url": "https://www.nassaucountyny.gov",
+  "desc": "For Nassau residents 60 and older who need help with daily tasks to stay safely at home, a qualified case manager or care coordinator does a full assessment, builds a care plan with the person and family, and keeps checking that it works. People already on Medicaid are not eligible for this program.",
+  "source": "https://www.nassaucountyny.gov/2754/In-home-Services",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Lenox Hill Neighborhood House, Geriatric Care Management",
+  "cat": "social-services",
+  "counties": [
+   "Manhattan"
+  ],
+  "phone": "212-218-0506",
+  "url": "https://www.lenoxhill.org",
+  "desc": "Care managers serve frail and homebound adults 60 and older on Manhattan's East Side from 59th to 143rd Street and on Roosevelt Island. They help with government and private benefits, medical and psychiatric referrals, money management and escorts, plus caregiver and Alzheimer's support and help with long-distance caregiving.",
+  "source": "https://www.lenoxhill.org/geriatriccare",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "New York Foundation for Senior Citizens, Case Management Program",
+  "cat": "social-services",
+  "counties": [
+   "Manhattan"
+  ],
+  "phone": "212-962-7817",
+  "url": "https://www.nyfsc.org",
+  "desc": "Case managers visit frail older adults at home, check what they qualify for, then arrange and track in-home care, meals and other help so they can stay safe at home. It covers Manhattan Community Districts 1, 2, 5 and 6, from Tribeca and the Village to Midtown and Stuyvesant Town. The site says there is no fee for case management.",
+  "source": "https://www.nyfsc.org/?p=6",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "RiseBoro Community Partnership, Case Management",
+  "cat": "social-services",
+  "counties": [
+   "Brooklyn"
+  ],
+  "phone": "929-563-5591",
+  "url": "https://riseboro.org",
+  "desc": "For homebound adults 60 and older in Brooklyn Community Districts 1, 3 and 4 (Greenpoint, Williamsburg, Bedford-Stuyvesant and Bushwick). Case managers do in-home assessments, arrange home care and home-delivered meals, help with benefits and Medicaid home care referrals, and keep up care planning. Staff speak Spanish, Polish, Russian, Yiddish and Mandarin.",
+  "source": "https://riseboro.org/program/case-management/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Westchester County NY Connects (Department of Senior Programs and Services)",
+  "cat": "social-services",
+  "counties": [
+   "Westchester"
+  ],
+  "phone": "914-813-6300",
+  "url": "https://seniorcitizens.westchestercountyny.gov",
+  "desc": "NY Connects gives free, confidential information and help with long-term services and supports in Westchester County. Older adults, people with disabilities and family caregivers can call to understand their options, such as in-home care, adult day care, transportation and Medicare and Medicaid.",
+  "source": "https://seniorcitizens.westchestercountyny.gov/caregiving/ny-connects-long-term-care",
+  "checked": "2026-11-26"
  }
 ]
