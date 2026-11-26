@@ -64,5 +64,187 @@
   "desc": "Senior care management from Westchester Jewish Community Services, a nonprofit in White Plains, to help older adults age safely at home. Services include in-home assessments, personalized care planning, case management, guidance on senior living options, and information and referrals. Senior Services is directed by a licensed clinical social worker (LCSW). Ask for extension 2340.",
   "source": "https://www.wjcs.com/aging-in-place-with-dignity/",
   "checked": "2026-11-26"
+ },
+ {
+  "name": "Urban Eldercare",
+  "cat": "care-managers",
+  "counties": [
+   "Manhattan",
+   "Brooklyn",
+   "Bronx"
+  ],
+  "phone": "917-514-8074",
+  "url": "https://urbaneldercare.nyc",
+  "desc": "Aging Life Care management for families caring for older adults in Manhattan, brownstone Brooklyn and Riverdale. Services include care management and dementia care guidance. The practice is a member of the Aging Life Care Association.",
+  "source": "https://urbaneldercare.nyc/about-us/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Peacewell Care Consulting",
+  "cat": "care-managers",
+  "counties": [
+   "Nassau",
+   "Suffolk"
+  ],
+  "phone": "516-731-0400",
+  "url": "https://peacewellcare.com",
+  "desc": "Aging Life Care management for older adults and their families on Long Island, in Nassau and Suffolk counties. The practice is led by a registered nurse and certified care manager (RN, CCM) and is a member of the Aging Life Care Association.",
+  "source": "https://peacewellcare.com/about-us/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Care Specialists",
+  "cat": "care-managers",
+  "counties": [
+   "Nassau",
+   "Suffolk"
+  ],
+  "phone": "631-427-3074",
+  "url": "https://carespecialists.net",
+  "desc": "Geriatric care management for older adults and families on Long Island and in the New York City area. Services include comprehensive assessment, consultation, counseling, care planning and advocacy for people coping with chronic illness, frailty, disability, dementia or functional decline. The care manager is a New York State licensed social worker and occupational therapist, and the practice follows the Aging Life Care Association's standards of practice.",
+  "source": "https://carespecialists.net",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Long Island Geriatric Services",
+  "cat": "care-managers",
+  "counties": [
+   "Nassau",
+   "Suffolk"
+  ],
+  "phone": "516-476-8125",
+  "url": "https://www.ligeriatric.com",
+  "desc": "Geriatric care management on Long Island, based in Syosset. Services include in-home visits and geriatric evaluations, dementia assessments, help finding assisted living and other housing, hospital and rehab discharge planning, coordination and supervision of in-home caregivers, counseling and help with Medicaid applications. Staff include a licensed geriatric social worker and a certified geriatric care manager.",
+  "source": "https://www.ligeriatric.com/caremanagement",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "HealthSense",
+  "cat": "care-managers",
+  "counties": [
+   "Bronx",
+   "Brooklyn",
+   "Manhattan",
+   "Queens",
+   "Staten Island"
+  ],
+  "phone": "646-241-3463",
+  "url": "https://health-sense.org",
+  "desc": "Nurse-led Aging Life Care management in New York City, based on Madison Avenue in Manhattan. Services include health care advocacy, memory care, end of life care, benefit navigation and help with transitions of care. Care managers are registered nurses (RN), and the practice is a member of the Aging Life Care Association.",
+  "source": "https://health-sense.org/about-us",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Directions in Aging",
+  "cat": "care-managers",
+  "counties": [
+   "Westchester"
+  ],
+  "phone": "914-636-7347",
+  "url": "https://directionsinaging.com",
+  "desc": "Geriatric care management for older adults and families in Westchester County. Services include eldercare consultations at home, at the office or by phone, geriatric assessments with care plans and referrals, home care coordination, oversight of residents in assisted living and nursing homes, end of life guidance and help with moves to a senior residence or nursing home. The founder is a licensed master social worker (LMSW, C-ASWCM) with Advanced member status in the Aging Life Care Association.",
+  "source": "https://directionsinaging.com/miriam-zucker",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Aging With Dignity NY",
+  "cat": "care-managers",
+  "counties": [
+   "Manhattan",
+   "Brooklyn",
+   "Queens",
+   "Bronx"
+  ],
+  "phone": "929-244-9710",
+  "url": "https://www.agingwithdignitynewyork.com",
+  "desc": "Care management for older adults in Manhattan, Brooklyn, Queens and the Bronx. Services include care management, memory care, home care coordination, crisis services and help with transitions. The care manager is Care Manager Certified (CMC) and a member of the Aging Life Care Association.",
+  "source": "https://www.agingwithdignitynewyork.com/about/history/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "ElderCare Advocacy",
+  "cat": "care-managers",
+  "counties": [
+   "Staten Island"
+  ],
+  "phone": "718-447-3824",
+  "url": "https://www.eldercareadvocacy.com",
+  "desc": "A geriatric care management practice on Staten Island. Services include geriatric care management, family consultations and evaluations, placement and discharge planning, Medicaid and pooled trust help, fair hearings and CDPAP guidance. It is led by a licensed clinical social worker who is Care Manager Certified (LCSW, CMC).",
+  "source": "https://www.eldercareadvocacy.com/about-us/our-team/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "NorthStar Care & Guidance",
+  "cat": "care-managers",
+  "counties": [
+   "Bronx",
+   "Brooklyn",
+   "Manhattan",
+   "Queens",
+   "Staten Island"
+  ],
+  "phone": "888-288-6152",
+  "url": "https://northstarcare.net",
+  "desc": "Geriatric care management for older adults, people with disabilities and their families in the New York City metro area and northern New Jersey. Services include care assessment and planning, arranging personal care, end of life care planning, advocacy for public and private benefits, help with care decisions, bill paying and placement help. The practice is directed by a licensed clinical social worker (LCSW).",
+  "source": "https://northstarcare.net/who-is-northstar",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "The Elder Expert",
+  "cat": "care-managers",
+  "counties": [
+   "Rockland"
+  ],
+  "phone": "917-576-6273",
+  "url": "https://theelderexpert.com",
+  "desc": "Elder care consulting and care management for older adults and families in Bergen County, NJ and Rockland County, NY. Services include in-home and psychosocial assessments, placement recommendations for assisted living, rehab and nursing facilities, and advice on Medicare and Medicaid. The consultant is a licensed clinical social worker (LCSW, C-ASWCM) affiliated with the Aging Life Care Association.",
+  "source": "https://theelderexpert.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Care Collective Nursing & Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Manhattan",
+   "Brooklyn",
+   "Queens",
+   "Westchester"
+  ],
+  "phone": "646-600-9862",
+  "url": "https://carecollectivehealth.org",
+  "desc": "Nursing and care management under one roof for older adults and families in Manhattan, Brooklyn, Queens and Westchester. Services include planning to age well, aging in place, medical advocacy, care coordination and support for family caregivers. The team includes a licensed master social worker (LMSW, CCM) and a registered nurse (RN, CCM).",
+  "source": "https://carecollectivehealth.org/about-us/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Reddi-Care Connections",
+  "cat": "care-managers",
+  "counties": [
+   "Westchester"
+  ],
+  "phone": "914-450-9611",
+  "url": "https://reddicareconnections.com",
+  "desc": "Aging Life Care management for older adults in Westchester County, NY and Fairfield County, CT. Services include caregiving consultations for families who live far away, comprehensive evaluations, dementia care, management and monitoring, help with living placement and family counseling and mediation. The care manager holds LMSW and CMC credentials.",
+  "source": "https://reddicareconnections.com/about-us/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Pinnacle Senior Care Solutions",
+  "cat": "care-managers",
+  "counties": [
+   "Nassau",
+   "Suffolk",
+   "Westchester",
+   "Bronx",
+   "Brooklyn",
+   "Manhattan",
+   "Queens",
+   "Staten Island"
+  ],
+  "phone": "516-317-9737",
+  "url": "https://pinnacleseniorcaresolutions.com",
+  "desc": "Geriatric care management and nursing consultation for older adults and families in Nassau, Suffolk, Westchester and the five boroughs. Services include geriatric care management, home nursing assessments, PRI and screen assessments for nursing home placement, wound care consultation and help choosing between staying at home, assisted living or a nursing facility. The founder is a registered nurse (RN).",
+  "source": "https://pinnacleseniorcaresolutions.com/about/",
+  "checked": "2026-11-26"
  }
 ]
