@@ -226,10 +226,159 @@
    [
     "Green-Wood: Visit",
     "https://www.green-wood.com/visit/"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: In-Home Services",
+    "https://www.nyc.gov/site/dfta/services/in-home-services.page"
+   ],
+   [
+    "NYC Aging: Caregiving",
+    "https://www.nyc.gov/site/dfta/services/caregiving.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC Aging: Elder Abuse and Crime",
+    "https://www.nyc.gov/site/dfta/services/elder-abuse-crime.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Legal Assistance",
+    "https://www.nyc.gov/site/dfta/services/legal-help.page"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "NYC HRA: Adult Protective Services",
+    "https://www.nyc.gov/site/hra/help/adult-protective-services.page"
+   ],
+   [
+    "NYC HRA: Long Term Care, Home Care Services Program",
+    "https://www.nyc.gov/site/hra/help/long-term-care.page"
+   ],
+   [
+    "NYC HRA: CASA Locations",
+    "https://www.nyc.gov/site/hra/locations/casa-locations.page"
+   ],
+   [
+    "NYC HRA: Health Assistance (Medicaid)",
+    "https://www.nyc.gov/site/hra/help/health-assistance.page"
+   ],
+   [
+    "NYC HRA: Energy Assistance (HEAP)",
+    "https://www.nyc.gov/site/hra/help/energy-assistance.page"
+   ],
+   [
+    "NYC HRA: SNAP Benefits",
+    "https://www.nyc.gov/site/hra/help/snap-benefits-food-program.page"
+   ],
+   [
+    "ACCESS NYC: Senior Citizen Rent Increase Exemption (SCRIE)",
+    "https://access.nyc.gov/programs/senior-citizens-rent-increase-exemption-scrie/"
+   ],
+   [
+    "NYC Department of Finance: Senior Citizen Homeowners' Exemption (SCHE)",
+    "https://www.nyc.gov/site/finance/property/landlords-sche.page"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "MTA: Access-A-Ride paratransit service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Apply or recertify for Access-A-Ride",
+    "https://www.mta.info/accessibility/access-a-ride/apply-or-recertify-for-access-a-ride"
+   ],
+   [
+    "NYS DOH: New York Independent Assessor Program FAQs (October 2025)",
+    "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/faqs/docs/october2025.pdf"
    ]
   ],
   "verified": true,
-  "checked": "2026-11-25"
+  "checked": "2026-11-26",
+  "services": [
+   {
+    "name": "NY Connects",
+    "desc": "In Brooklyn, PSS runs NY Connects for NYC Aging. Staff give free, unbiased help with long-term care choices, check eligibility for benefits, help with applications and refer families to home care. Call 718-671-6200."
+   },
+   {
+    "name": "Case management and home delivered meals",
+    "desc": "A local case management agency does a phone intake, then a case manager visits the home to check eligibility for residents 60 and older. They can arrange NYC Aging home care (bathing, dressing, laundry, shopping) and home delivered meals. Case managers do not charge, though some services carry an income-based fee or suggested contribution, and people on Medicaid get home care through Medicaid instead. Call Aging Connect at 212-244-6469."
+   },
+   {
+    "name": "Older adult centers",
+    "desc": "Free membership for New Yorkers 60 and older, with healthy meals and staff who help members apply for Medicare, Medicaid, SCRIE and SNAP. Some centers also serve breakfast, dinner or grab-and-go meals."
+   },
+   {
+    "name": "Caregiver support",
+    "desc": "NYC Aging funds information and referrals, long-term care planning, support groups, counseling, caregiver training, respite care and limited financial help through community groups. Call Aging Connect at 212-244-6469."
+   },
+   {
+    "name": "HIICAP Medicare counseling",
+    "desc": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help, in person or by phone. Call Aging Connect at 212-244-6469 to reach a counselor."
+   },
+   {
+    "name": "Medicaid home care through HRA",
+    "desc": "HRA's Home Care Services Program oversees Medicaid-funded home care, and managed long term care plans also cover home care for people who qualify. HRA's list of Home Care CASA offices shows CASA South, 2400 Fulton Street, 3rd Floor, Brooklyn (718-250-5631), under Brooklyn and Queens. To learn how to apply, call the DSS OneNumber at 718-557-1399."
+   },
+   {
+    "name": "Access-A-Ride and reduced fare",
+    "desc": "Access-A-Ride (877-337-2017) is the MTA's shared-ride service, running 24 hours a day, for people whose disability keeps them from using buses and subways. Riders 65 and older pay a $1.50 reduced fare on subways and local buses, and OMNY reduced-fare questions go to 877-789-6669."
+   },
+   {
+    "name": "HEAP and SNAP",
+    "desc": "HEAP helps low-income households pay for heat, and a household member 60 or older counts toward the benefit. Apply for HEAP or SNAP through ACCESS HRA, or call the DSS OneNumber at 718-557-1399 to have a HEAP application mailed."
+   },
+   {
+    "name": "SCRIE and SCHE",
+    "desc": "SCRIE freezes the rent for tenants 62 and older in rent regulated apartments who spend over a third of their income on rent and whose household income is under the city's limit. Ask the Rent Freeze Hotline at 929-252-7242 for the current income limit. SCHE cuts the assessed value of a home owned by people 65 and older with income up to $58,399, and the deadline to apply or renew is March 15. Call 311 for either."
+   },
+   {
+    "name": "Elder abuse, crime and legal help",
+    "desc": "NYC Aging's Elder Justice programs offer crisis help, safety planning and court help, C-PASS helps older adults hurt by scams, theft or assault, and Legal Assistance gives free legal help to residents 60 and older. Call Aging Connect at 212-244-6469. For an adult at risk who cannot protect themselves, call the HRA Adult Protective Services Brooklyn office at 718-722-4812."
+   }
+  ],
+  "howto": "<p>If your mom or dad lives in Brooklyn, start with Aging Connect at <span class=\"tel\">212-244-6469</span> or the Brooklyn NY Connects office at PSS, <span class=\"tel\">718-671-6200</span>. Both are free, and you can call on your parent's behalf from New Jersey or anywhere else.</p><ol><li><strong>Write down what is hard.</strong> Note your parent's age, address, income, Medicare and Medicaid status, and the tasks that have become hard, like stairs, bathing, cooking or getting to the doctor. Intake goes faster with this in hand.</li><li><strong>Ask for case management.</strong> A local agency does a phone intake, then a case manager visits the home. For residents 60 and older not on Medicaid, that can mean NYC Aging home care and home delivered meals, with fees based on income. Our <a href=\"#/article/home-care-agencies-ny\">home care guide</a> explains the options.</li><li><strong>Go through HRA if Medicaid fits.</strong> Apply through ACCESS HRA or call the HRA Medicaid Helpline at <span class=\"tel\">1-888-692-6116</span>. To request a first assessment for personal care, CDPAP or a managed long term care plan, call the New York Independent Assessor at <span class=\"tel\">855-222-8350</span>. HRA lists its Home Care CASA office for Brooklyn and Queens, CASA South, at 2400 Fulton Street, <span class=\"tel\">718-250-5631</span>. See <a href=\"#/article/medicaid-ny-seniors\">Medicaid for older New Yorkers</a> and our <a href=\"#/article/cdpap-ny\">CDPAP guide</a>.</li><li><strong>Lower the monthly bills.</strong> Ask HIICAP, through Aging Connect, about the <a href=\"#/article/medicare-savings-program-ny\">Medicare Savings Program</a> and <a href=\"#/article/epic-ny\">EPIC</a>. A renter 62 or older may qualify for <a href=\"#/article/scrie-drie-nyc\">SCRIE</a>, and a homeowner 65 or older for the <a href=\"#/article/senior-homeowners-exemption-ny\">SCHE exemption</a> by March 15.</li><li><strong>Get the papers signed while your parent can.</strong> A power of attorney and a health care proxy let you act when your parent cannot. NYC Aging's Legal Assistance program is free for residents 60 and older. Read <a href=\"#/article/power-of-attorney-ny\">power of attorney in New York</a> and <a href=\"#/article/health-care-proxy-molst-ny\">health care proxy and MOLST</a>.</li></ol><p>If you think your parent is being harmed, neglected or exploited, call the Brooklyn APS office, at <span class=\"tel\">718-722-4812</span>, or the DSS OneNumber at <span class=\"tel\">718-557-1399</span>, weekdays 9 a.m. to 5 p.m. Anyone can make a referral. When a person is eligible, APS visits within three business days, or within 24 hours if life is at risk. Call 911 if there is danger now, and see our <a href=\"#/article/adult-protective-services-ny\">APS guide</a>.</p>",
+  "faq": [
+   {
+    "q": "How do I get home care for my mom in Brooklyn?",
+    "a": "Call Aging Connect at 212-244-6469 or Brooklyn NY Connects at PSS, 718-671-6200, and ask for case management. A case manager will visit and can arrange NYC Aging home care if she is 60 or older and not on Medicaid. If she has Medicaid or may qualify, apply through HRA at 1-888-692-6116, and call the New York Independent Assessor at 855-222-8350 to request a first assessment."
+   },
+   {
+    "q": "Who runs NY Connects in Brooklyn?",
+    "a": "PSS runs NY Connects in Brooklyn under contract with NYC Aging. Call 718-671-6200 for free, unbiased help with long-term care, benefits applications and home care referrals."
+   },
+   {
+    "q": "Where is the HRA home care office for Brooklyn?",
+    "a": "HRA's list of Home Care CASA offices shows CASA South at 2400 Fulton Street, 3rd Floor, Brooklyn, 718-250-5631, under Brooklyn and Queens. To learn how to apply for Medicaid home care, call the DSS OneNumber at 718-557-1399."
+   },
+   {
+    "q": "Can my dad get his rent frozen in Brooklyn?",
+    "a": "He may, through SCRIE, if he is 62 or older, named on the lease of a rent regulated apartment, spends more than a third of his income on rent and has household income under the city's limit. The NYC Department of Finance runs it. Call the Rent Freeze Hotline at 929-252-7242 for the current income limit, or call 311. First-time applicants can apply online through the Department of Finance."
+   },
+   {
+    "q": "How much is the MTA senior fare in Brooklyn?",
+    "a": "Riders 65 and older pay $1.50 on subways and local, limited and Select Bus Service buses. Express buses cost $3.60 outside weekday rush hours. The online application is not available now, so apply in person at a Customer Service Center or by mail."
+   },
+   {
+    "q": "Who do I call if I think my mother is being neglected in Brooklyn?",
+    "a": "Call the Brooklyn Adult Protective Services office, at 718-722-4812, or the DSS OneNumber at 718-557-1399, weekdays 9 a.m. to 5 p.m. For scams or theft, Aging Connect at 212-244-6469 connects you to NYC Aging's C-PASS program. If she is in danger right now, call 911."
+   }
+  ]
  },
  {
   "slug": "broome",
@@ -1142,10 +1291,115 @@
    [
     "New York State Library: Outline Map of NYS Counties (county seats)",
     "https://nysl.nysed.gov/node/3062"
+   ],
+   [
+    "Dutchess County OFA: Services Directory (May 2026)",
+    "https://dutchessny.gov/departments/aging/docs/services-directory.pdf"
+   ],
+   [
+    "Dutchess County OFA: Information and Assistance",
+    "https://www.dutchessny.gov/Departments/Aging/Office-for-the-Aging-Information-and-Assistance.htm"
+   ],
+   [
+    "Dutchess County OFA: Case Management",
+    "https://www.dutchessny.gov/Departments/Aging/Docs/bccatofa.pdf"
+   ],
+   [
+    "Dutchess County OFA: Nutrition",
+    "https://www.dutchessny.gov/Departments/Aging/OFA-Nutrition.htm"
+   ],
+   [
+    "Dutchess County DCFS: Adult Protective Services",
+    "https://www.dutchessny.gov/Departments/Community-Family-Services/Adult-Protective-Services.htm"
+   ],
+   [
+    "Dutchess County DCFS: HEAP",
+    "https://www.dutchessny.gov/Departments/Community-Family-Services/Home-Energy-Assistance-Program-HEAP.htm"
+   ],
+   [
+    "Dutchess County DCFS: Medicaid",
+    "https://www.dutchessny.gov/Departments/Community-Family-Services/Medicaid-Overview.htm"
+   ],
+   [
+    "NYS DOH: New York Independent Assessor Program FAQs (October 2025)",
+    "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/faqs/docs/october2025.pdf"
+   ],
+   [
+    "Dutchess County OFA: Transportation for Seniors",
+    "https://www.dutchessny.gov/Departments/Aging/Transportation-for-Seniors.htm"
    ]
   ],
   "verified": true,
-  "checked": "2026-11-25"
+  "checked": "2026-11-26",
+  "services": [
+   {
+    "name": "NY Connects",
+    "desc": "Free, unbiased information about long-term services and supports. Call the Dutchess NY Connects line at 845-475-3511."
+   },
+   {
+    "name": "Case management and EISEP in-home help",
+    "desc": "Case managers and public health nurses can assess your parent at home, in the hospital or in a nursing home, and help find ways to pay for care. Through the EISEP In Home Services Program, help can include homemaking, personal care and respite. Call 845-486-2555."
+   },
+   {
+    "name": "Friendship Center lunches",
+    "desc": "Hot lunches for adults 60 and older at Friendship Centers in Beacon, East Fishkill, Millerton, Pawling, Poughkeepsie, Red Hook, South Amenia and Tri-Town. Reservations are required. The suggested voluntary contribution is $5, and no one is denied service for not giving."
+   },
+   {
+    "name": "Home delivered meals",
+    "desc": "Hot and frozen meals for homebound adults 60 and older, one to five weekdays. Call the Office for the Aging at 845-486-2555 or 866-486-2555."
+   },
+   {
+    "name": "Caregiver support",
+    "desc": "The National Family Caregiver Support Program helps people 18 and older caring for an adult 60 or older or someone with Alzheimer's disease or a related disorder. Unpaid caregivers who don't fit those rules can use Any Care Counts NY. Call 845-486-2555."
+   },
+   {
+    "name": "HIICAP Medicare counseling",
+    "desc": "Trained counselors help with Medicare, supplemental policies and related questions. Call 845-486-2566 or 866-486-2555."
+   },
+   {
+    "name": "GoGo Grandparent rides",
+    "desc": "Limited free rides within the county to non-emergency medical appointments for older adults not on Medicaid, plus rides to visit a loved one in a hospital, nursing home or hospice in the county. Call 845-486-2555 to register."
+   },
+   {
+    "name": "Legal services",
+    "desc": "The Office for the Aging offers legal services to Dutchess residents 60 and over. Call 845-486-2555 to ask about an appointment."
+   },
+   {
+    "name": "Friendly Calls and emergency response",
+    "desc": "Pre-screened older adults can get a weekly friendly phone call, and the office can connect people to a personal emergency response system with help around the clock. Call 845-486-2555."
+   },
+   {
+    "name": "Medicaid, home care and HEAP (DCFS)",
+    "desc": "Adults 65 and older apply for Medicaid, including community based long term care and immediate need personal care, at the Department of Community and Family Services, 60 Market Street, Poughkeepsie. The department's main number is 845-486-3000. For HEAP, call 845-486-3249, or apply at the Office for the Aging if you are 60 or older."
+   }
+  ],
+  "howto": "<p>Start with the Dutchess County Office for the Aging in Poughkeepsie, <span class=\"tel\">845-486-2555</span> or toll free <span class=\"tel\">866-486-2555</span>. For broader questions about long-term care, the Dutchess NY Connects line is <span class=\"tel\">845-475-3511</span>. You can call for your parent from New Jersey or anywhere else.</p><ol><li><strong>Ask for a case manager.</strong> Case managers and public health nurses can assess your parent at home, in the hospital or in a nursing home. Ask about the EISEP In Home Services Program for homemaking, personal care and respite. Our <a href=\"#/article/eisep-ny\">EISEP guide</a> explains how it works.</li><li><strong>Line up meals and rides.</strong> Home delivered meals go to homebound adults 60 and older. For doctor visits, ask about GoGo Grandparent rides, or call Dutchess County Public Transit at <span class=\"tel\">845-473-8424</span> about Dial-A-Ride and ADA paratransit.</li><li><strong>Check Medicaid home care.</strong> Adults 65 and older apply for Medicaid, including community based long term care and immediate need personal care, through the Department of Community and Family Services, main number <span class=\"tel\">845-486-3000</span>. To schedule a first assessment for Medicaid home care, your parent, or an authorized representative already on file, can call the New York Independent Assessor at <span class=\"tel\">1-855-222-8350</span>. Read <a href=\"#/article/medicaid-ny-seniors\">Medicaid for older New Yorkers</a> and our <a href=\"#/article/cdpap-ny\">CDPAP guide</a>.</li><li><strong>Get the legal papers signed.</strong> The Office for the Aging offers legal services to residents 60 and over. Make sure a health care proxy and power of attorney are signed while your parent can still decide. See <a href=\"#/article/power-of-attorney-ny\">power of attorney in New York</a>.</li></ol><p>If you suspect abuse, neglect or money being taken, call Dutchess County Adult Protective Services at <span class=\"tel\">845-486-3300</span>. The department is open weekdays 9 a.m. to 5 p.m. The state Bureau of Adult Services helpline is <span class=\"tel\">1-844-697-3505</span>. Call 911 if someone is in danger now. Our <a href=\"#/article/adult-protective-services-ny\">APS guide</a> covers what to expect.</p>",
+  "faq": [
+   {
+    "q": "How do I get home care for my mom in Dutchess County?",
+    "a": "Call the Office for the Aging at 845-486-2555 and ask for a case manager. A case manager or public health nurse can assess her at home, in the hospital or in a nursing home and look at EISEP help such as personal care and homemaking. If she needs Medicaid home care, apply through the Department of Community and Family Services, main number 845-486-3000."
+   },
+   {
+    "q": "Does Dutchess County deliver meals to homebound seniors?",
+    "a": "Yes. The Office for the Aging delivers meals to homebound adults 60 and older, one to five weekdays. Call 845-486-2555 or 866-486-2555."
+   },
+   {
+    "q": "How can my dad get rides to medical appointments in Dutchess County?",
+    "a": "If he is not on Medicaid, ask the Office for the Aging (845-486-2555) about limited free GoGo Grandparent rides to non-emergency medical appointments. Dutchess County Public Transit runs Dial-A-Ride and ADA paratransit at 845-473-8424. Medicaid members can call Medicaid Transportation at 866-244-8995."
+   },
+   {
+    "q": "Where do seniors apply for HEAP in Dutchess County?",
+    "a": "Apply online at myBenefits.ny.gov, at the Department of Community and Family Services HEAP line (845-486-3249), or at the Office for the Aging (845-486-2555) if you are 60 or older. Regular HEAP for the 2026 to 2027 season opened November 2, 2026, and closing dates depend on funding."
+   },
+   {
+    "q": "Where can my parents get Medicare help in Dutchess County?",
+    "a": "HIICAP counselors at the Office for the Aging help with Medicare, supplemental policies and related questions. Call 845-486-2566 or 866-486-2555."
+   },
+   {
+    "q": "Who do I call if I think my father is being neglected in Dutchess County?",
+    "a": "Call Adult Protective Services at 845-486-3300. The Department of Community and Family Services is open weekdays 9 a.m. to 5 p.m. If he is in danger right now, call 911."
+   }
+  ]
  },
  {
   "slug": "erie",
@@ -2480,10 +2734,123 @@
    [
     "New York State Library: Outline Map of NYS Counties (county seats)",
     "https://nysl.nysed.gov/node/3062"
+   ],
+   [
+    "Nassau County OFA: In-home Services",
+    "https://www.nassaucountyny.gov/2754/In-home-Services"
+   ],
+   [
+    "Nassau County OFA: Nutrition Programs",
+    "https://www.nassaucountyny.gov/1485/Nutrition-Programs"
+   ],
+   [
+    "Nassau County OFA: Supportive Services",
+    "https://nassaucountyny.gov/5508/Supportive-Services"
+   ],
+   [
+    "Nassau County OFA: Caregiver Resources",
+    "https://www.nassaucountyny.gov/5663/Caregiver-Resources"
+   ],
+   [
+    "Nassau County OFA: NFCSP brochure",
+    "https://www.nassaucountyny.gov/DocumentCenter/View/54272/NFCSP-Brochure"
+   ],
+   [
+    "Nassau County OFA: Transportation",
+    "https://www.nassaucountyny.gov/1499/Transportation"
+   ],
+   [
+    "Nassau County: Veterans Transportation",
+    "https://www.nassaucountyny.gov/5748/Veterans-Transportation"
+   ],
+   [
+    "Nassau County DSS: Adult Services",
+    "https://nassaucountyny.gov/1896/Adult-Services"
+   ],
+   [
+    "Nassau County DSS: Medicaid",
+    "https://www.nassaucountyny.gov/1923/Medicaid"
+   ],
+   [
+    "Nassau County DSS: Directory",
+    "https://www.nassaucountyny.gov/2684/Directory"
+   ],
+   [
+    "Nassau County DSS: FAQ",
+    "https://www.nassaucountyny.gov/2732/Health-Services"
    ]
   ],
   "verified": true,
-  "checked": "2026-11-25"
+  "checked": "2026-11-26",
+  "services": [
+   {
+    "name": "NY Connects",
+    "desc": "NY Connects links people of all ages and their caregivers to long term services and supports, with free, objective information. In Nassau it answers at the Office for the Aging number, so start here if you are not sure what your parent needs. Call 516-227-8900."
+   },
+   {
+    "name": "EISEP in-home services",
+    "desc": "For people 60 and older who need help with an activity of daily living such as eating, dressing, bathing or toileting, or with two instrumental activities of daily living, and who can stay safely at home. A care coordinator does an assessment, writes a care plan and keeps checking in. People on Medicaid are not served, and someone who looks Medicaid eligible must be willing to apply."
+   },
+   {
+    "name": "Home delivered meals",
+    "desc": "Meals for Nassau residents 60 and older (or the spouse, or a disabled adult living with them) who have impaired mobility, cannot shop or cook safely and have no local support. A case manager decides eligibility in a home visit. There is no fee, and a voluntary contribution is encouraged. Call 516-227-8900."
+   },
+   {
+    "name": "Congregate meals at senior centers",
+    "desc": "Group meals are served at county-sponsored sites from Glen Cove and Great Neck to Freeport, Oceanside and Point Lookout. Call the site to reserve. There is no fee, and some sites do not provide transportation."
+   },
+   {
+    "name": "Caregiver support (NFCSP)",
+    "desc": "For adults 18 and older caring for someone 60 or older, or for someone of any age with Alzheimer's disease or a related disorder. Services include case management, counseling, support groups, training and respite. To get respite, the caregiver must be helping with two or more activities of daily living. There is no fee, and a voluntary contribution is encouraged. Call 516-227-8900."
+   },
+   {
+    "name": "HIICAP Medicare counseling",
+    "desc": "Certified counselors at Family and Children's Association help with Medicare Parts A and B, Medicare Advantage, Part D drug plans, Medigap, the Medicare Savings Program and EPIC. Call 516-485-3754."
+   },
+   {
+    "name": "Legal help (Senior Citizen Law Project)",
+    "desc": "Legal Services of Long Island gives advice, representation and referrals on housing, health care, Social Security, wills, powers of attorney, health care proxies, Medicaid planning, pooled trusts, consumer debt and utility shut-offs. Call 516-292-8088."
+   },
+   {
+    "name": "Senior financial counseling",
+    "desc": "Family and Children's Association helps with bills and financial paperwork, financial exploitation and reverse mortgage counseling. Call 516-485-3425."
+   },
+   {
+    "name": "Rides",
+    "desc": "NICE Able-Ride (516-228-4000) is shared-ride paratransit for people whose disability keeps them off fixed-route buses, and age alone does not qualify. Town programs fill gaps, such as North Hempstead's Project Independence (516-869-6311) with free taxi rides for residents 60 and older. Veterans can book free rides to scheduled VA medical appointments through the Veterans Service Agency at 516-572-6526."
+   },
+   {
+    "name": "Medicaid home care (DSS)",
+    "desc": "Medicaid can pay for approved licensed personal care and home health care for people who are financially eligible, and approval requires a nursing assessment. The DSS Medical Services unit (in-home care and long term care) is at 516-227-8111. Medicaid questions go to 516-227-8000."
+   }
+  ],
+  "howto": "<p>The first call is NY Connects at the Nassau County Office for the Aging in Uniondale, <span class=\"tel\">516-227-8900</span>. You can call on your parent's behalf, and the same number covers in-home services, meals and caregiver help.</p><ol><li><strong>Explain what changed.</strong> Give your parent's age, town, insurance and what is hard now, such as bathing, cooking or getting home from the hospital.</li><li><strong>Ask for an EISEP assessment if your parent is 60 or older and not on Medicaid.</strong> A care coordinator assesses your parent, writes a care plan and monitors it. Our <a href=\"#/article/eisep-ny\">EISEP guide</a> explains how the program works.</li><li><strong>Set up meals and rides.</strong> Ask if your parent qualifies for home delivered meals, which a case manager decides in a home visit. For trips, NICE Able-Ride (<span class=\"tel\">516-228-4000</span>) serves people whose disability keeps them off regular buses.</li><li><strong>Check Medicaid home care.</strong> If your parent has or may get Medicaid, call DSS Medical Services at <span class=\"tel\">516-227-8111</span> or Medicaid at <span class=\"tel\">516-227-8000</span>. Approval needs a nursing assessment. Read <a href=\"#/article/medicaid-ny-seniors\">Medicaid for older New Yorkers</a> and our <a href=\"#/article/cdpap-ny\">CDPAP guide</a>.</li><li><strong>Get the legal papers in order.</strong> The Senior Citizen Law Project (<span class=\"tel\">516-292-8088</span>) helps with wills, powers of attorney, health care proxies and Medicaid planning. See <a href=\"#/article/power-of-attorney-ny\">power of attorney in New York</a> and <a href=\"#/article/health-care-proxy-molst-ny\">health care proxies and MOLST</a>.</li></ol><p>If you think an adult is being abused, neglected or exploited, call Nassau County Adult Protective Services at <span class=\"tel\">516-227-8395</span>, the number on the county Adult Services page. APS services may be provided free, without regard to income. Nights, weekends and holidays, call the DSS after-hours line at <span class=\"tel\">516-573-8626</span>. Call 911 if someone is in danger now. Our <a href=\"#/article/adult-protective-services-ny\">APS guide</a> explains what happens after a report.</p>",
+  "faq": [
+   {
+    "q": "How do I get home care for my mom in Nassau County?",
+    "a": "Call NY Connects at the Office for the Aging, 516-227-8900. If she is 60 or older and not on Medicaid, ask for an EISEP assessment, which leads to a care plan with a care coordinator. If she has Medicaid, DSS Medical Services (516-227-8111) handles in-home care, and approval needs a nursing assessment."
+   },
+   {
+    "q": "Can my dad get meals delivered at home in Nassau County?",
+    "a": "Yes, if he is 60 or older, has trouble getting around, cannot shop or cook safely and has no local help. A case manager decides in a home visit. There is no fee, and a voluntary contribution is encouraged. Call 516-227-8900."
+   },
+   {
+    "q": "Who helps with Medicare questions in Nassau County?",
+    "a": "HIICAP counselors at Family and Children's Association help with Medicare, Medicare Advantage, Part D, Medigap, the Medicare Savings Program and EPIC. Call 516-485-3754."
+   },
+   {
+    "q": "Is there free legal help for seniors in Nassau County?",
+    "a": "The Senior Citizen Law Project at Legal Services of Long Island gives advice, representation and referrals on housing, Social Security, wills, powers of attorney, health care proxies and Medicaid planning. Call 516-292-8088."
+   },
+   {
+    "q": "What help is there for family caregivers in Nassau County?",
+    "a": "The Office for the Aging runs the National Family Caregiver Support Program for adults caring for someone 60 or older, or someone with Alzheimer's disease or a related disorder. It offers case management, counseling, support groups, training and respite, with no fee. Call 516-227-8900."
+   },
+   {
+    "q": "Who do I call if I think my mother is being neglected in Nassau County?",
+    "a": "Call Nassau County Adult Protective Services at 516-227-8395, the number on the county Adult Services page. Nights, weekends and holidays, call the DSS after-hours line at 516-573-8626. If she is in danger right now, call 911."
+   }
+  ]
  },
  {
   "slug": "niagara",
@@ -3351,6 +3718,14 @@
    [
     "New York State Library: Outline Map of NYS Counties (county seats)",
     "https://nysl.nysed.gov/node/3062"
+   ],
+   [
+    "Putnam County DSS & Mental Health: Medicaid, HEAP, APS",
+    "https://www.putnamcountyny.gov/department-of-social-services"
+   ],
+   [
+    "NYS DOH: New York Independent Assessor Program FAQs (October 2025)",
+    "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/faqs/docs/october2025.pdf"
    ]
   ],
   "verified": true,
@@ -3359,7 +3734,76 @@
    "phone": "845-808-1500",
    "url": "https://putnamcountyny.gov/department-of-social-services"
   },
-  "checked": "2026-11-25"
+  "checked": "2026-11-26",
+  "services": [
+   {
+    "name": "Putnam NY Connects",
+    "desc": "Free help finding long-term services and supports so older adults, people with disabilities and family caregivers can stay at home, including help applying for Medicaid and other benefits. Call the Office for Senior Resources at 845-808-1700 and ask for NY Connects."
+   },
+   {
+    "name": "EISEP in-home help",
+    "desc": "Expanded In-Home Services for the Elderly Program (EISEP) helps older adults with functional impairments stay at home. A case manager does an assessment first, and the cost is shared based on income. Your parent can also choose and supervise their own aide, though a spouse cannot be hired. Call 845-808-1700."
+   },
+   {
+    "name": "Senior center lunch",
+    "desc": "Lunch is served Monday to Friday at the four Friendship Centers in Carmel, Philipstown, Putnam Valley and Mahopac, except holidays and closure days. Call Carmel at 845-808-1701, Philipstown at 845-808-1705, Putnam Valley at 845-808-1730, or the main line at 845-808-1700."
+   },
+   {
+    "name": "Home delivered and frozen meals",
+    "desc": "Hot meals for sick or homebound older adults, with a physician referral and a home assessment. Frozen meals also need an assessment and can cover up to 7 days a week. Call 845-808-1700."
+   },
+   {
+    "name": "Caregiver Program",
+    "desc": "The Caregiver Program offers counseling, information and referral, support groups, educational workshops and a Caregiver Resource Center that lends books and pamphlets. Call 845-808-1700, extension 47113."
+   },
+   {
+    "name": "HIICAP Medicare counseling",
+    "desc": "Free, unbiased information and counseling on Medicare, private health insurance and related coverage. Call 845-808-1700."
+   },
+   {
+    "name": "Medical transportation",
+    "desc": "Limited rides to doctor and hospital appointments for older residents with no other way to get there, driven by volunteers from Putnam SeniorCorps. Call 845-808-1700, extension 47104."
+   },
+   {
+    "name": "Legal services",
+    "desc": "Consultations on wills, health care proxies and powers of attorney, by appointment. Call 845-808-1700 to book."
+   },
+   {
+    "name": "Shower Out with Assistance Program (SOAP)",
+    "desc": "A certified aide helps older adults who are unsteady in the shower or need help with personal care. Walk-in showers are at the Mahopac and Putnam Valley centers. A case manager assessment decides who qualifies. Call 845-808-1700."
+   },
+   {
+    "name": "Medicaid, HEAP and Adult Protective Services (DSS)",
+    "desc": "The Department of Social Services & Mental Health in Carmel handles Medicaid applications (845-808-1500, ext. 45263), HEAP heating help (ext. 45233) and Adult Protective Services (ext. 45262). Residents 60 and older can also have HEAP applications certified through the Office for Senior Resources at 845-808-1700."
+   }
+  ],
+  "howto": "<p>Start with the Putnam County Office for Senior Resources in Carmel, <span class=\"tel\">845-808-1700</span>. The same number reaches Putnam NY Connects, EISEP, meals, HIICAP and legal help, and you can call for your parent from New Jersey or anywhere else.</p><ol><li><strong>Ask for an assessment.</strong> Explain what has changed, such as a fall, a hospital stay or trouble with bathing. For EISEP, a case manager assesses your parent first, and the cost is shared based on income. Our <a href=\"#/article/eisep-ny\">EISEP guide</a> explains how it works.</li><li><strong>Line up meals and rides.</strong> Home delivered meals need a physician referral and a home assessment. For doctor visits, ask about volunteer medical transportation at extension 47104.</li><li><strong>Check Medicaid home care.</strong> If your parent may qualify for Medicaid, call the Department of Social Services Medicaid unit at <span class=\"tel\">845-808-1500</span>, extension 45263. To schedule a first assessment for Medicaid home care, your parent, or an authorized representative already on file, can call the New York Independent Assessor at <span class=\"tel\">1-855-222-8350</span>. Read <a href=\"#/article/medicaid-ny-seniors\">Medicaid for older New Yorkers</a> and our <a href=\"#/article/cdpap-ny\">CDPAP guide</a>.</li><li><strong>Get the legal papers signed.</strong> The office arranges consultations on wills, health care proxies and powers of attorney by appointment. See <a href=\"#/article/power-of-attorney-ny\">power of attorney in New York</a> and <a href=\"#/article/health-care-proxy-molst-ny\">health care proxy and MOLST</a>.</li><li><strong>Look after the caregiver.</strong> The Caregiver Program (extension 47113) offers counseling, support groups and workshops. See <a href=\"#/article/caregiver-support-ny\">caregiver support in New York</a>.</li></ol><p>If you suspect abuse, neglect or money being taken, call Putnam County Adult Protective Services at <span class=\"tel\">845-808-1500</span>, extension 45262, during business hours. The state Bureau of Adult Services helpline, <span class=\"tel\">1-844-697-3505</span>, answers weekdays 8:30 a.m. to 5 p.m. The county says reports made after hours are seen the next business day, so call 911 if someone is in danger now. Our <a href=\"#/article/adult-protective-services-ny\">APS guide</a> covers what to expect.</p>",
+  "faq": [
+   {
+    "q": "How do I get home care for my mom in Putnam County?",
+    "a": "Call the Office for Senior Resources at 845-808-1700 and ask about EISEP. A case manager assesses her needs first, and the cost is shared based on her income. If she has or may qualify for Medicaid, call the Department of Social Services at 845-808-1500, extension 45263."
+   },
+   {
+    "q": "Does Putnam County deliver meals to homebound seniors?",
+    "a": "Yes. The Office for Senior Resources delivers meals, including frozen meals, to sick or homebound older adults. A physician referral and a home assessment are required. Call 845-808-1700 to start."
+   },
+   {
+    "q": "How can my dad get rides to the doctor in Putnam County?",
+    "a": "The Office for Senior Resources offers limited rides to doctor and hospital appointments for older residents with no other way to get there, using volunteer drivers. Call 845-808-1700, extension 47104."
+   },
+   {
+    "q": "Can I get paid to care for my parent in Putnam County?",
+    "a": "Through EISEP consumer directed in-home services, your parent (or someone they choose) hires and supervises their own aide. Family and friends can be hired, but a spouse cannot. If your parent has Medicaid, CDPAP is another route. Call 845-808-1700 for EISEP or 845-808-1500, extension 45263, for Medicaid."
+   },
+   {
+    "q": "Where can my parents get Medicare help in Putnam County?",
+    "a": "HIICAP counselors at the Office for Senior Resources give free, unbiased counseling on Medicare and related coverage. Call 845-808-1700."
+   },
+   {
+    "q": "Who do I call if I think my mother is being neglected in Putnam County?",
+    "a": "Call Putnam County Adult Protective Services at 845-808-1500, extension 45262, during business hours. Reports made after hours are seen the next business day, so call 911 if she is in danger right now."
+   }
+  ]
  },
  {
   "slug": "queens",
@@ -3446,10 +3890,159 @@
    [
     "NICE: Able-Ride",
     "https://www.nicebus.com/able-ride"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: In-Home Services",
+    "https://www.nyc.gov/site/dfta/services/in-home-services.page"
+   ],
+   [
+    "NYC Aging: Caregiving",
+    "https://www.nyc.gov/site/dfta/services/caregiving.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC Aging: Elder Abuse and Crime",
+    "https://www.nyc.gov/site/dfta/services/elder-abuse-crime.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Legal Assistance",
+    "https://www.nyc.gov/site/dfta/services/legal-help.page"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "NYC HRA: Adult Protective Services",
+    "https://www.nyc.gov/site/hra/help/adult-protective-services.page"
+   ],
+   [
+    "NYC HRA: Long Term Care, Home Care Services Program",
+    "https://www.nyc.gov/site/hra/help/long-term-care.page"
+   ],
+   [
+    "NYC HRA: CASA Locations",
+    "https://www.nyc.gov/site/hra/locations/casa-locations.page"
+   ],
+   [
+    "NYC HRA: Health Assistance (Medicaid)",
+    "https://www.nyc.gov/site/hra/help/health-assistance.page"
+   ],
+   [
+    "NYC HRA: Energy Assistance (HEAP)",
+    "https://www.nyc.gov/site/hra/help/energy-assistance.page"
+   ],
+   [
+    "NYC HRA: SNAP Benefits",
+    "https://www.nyc.gov/site/hra/help/snap-benefits-food-program.page"
+   ],
+   [
+    "ACCESS NYC: Senior Citizen Rent Increase Exemption (SCRIE)",
+    "https://access.nyc.gov/programs/senior-citizens-rent-increase-exemption-scrie/"
+   ],
+   [
+    "NYC Department of Finance: Senior Citizen Homeowners' Exemption (SCHE)",
+    "https://www.nyc.gov/site/finance/property/landlords-sche.page"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "MTA: Access-A-Ride paratransit service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Apply or recertify for Access-A-Ride",
+    "https://www.mta.info/accessibility/access-a-ride/apply-or-recertify-for-access-a-ride"
+   ],
+   [
+    "NYS DOH: New York Independent Assessor Program FAQs (October 2025)",
+    "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/faqs/docs/october2025.pdf"
    ]
   ],
   "verified": true,
-  "checked": "2026-11-25"
+  "checked": "2026-11-26",
+  "services": [
+   {
+    "name": "NY Connects",
+    "desc": "In Queens, Selfhelp Community Services runs NY Connects for NYC Aging. Staff give free, unbiased help with long-term care choices, check eligibility for benefits, help with applications and refer families to home care. Call 718-559-4400, weekdays 9 a.m. to 5 p.m. and Thursdays until 7 p.m."
+   },
+   {
+    "name": "Case management and home delivered meals",
+    "desc": "A local case management agency does a phone intake, then a case manager visits the home to check eligibility for residents 60 and older. They can arrange NYC Aging home care (bathing, dressing, laundry, shopping) and home delivered meals. Case managers do not charge, though some services carry an income-based fee or suggested contribution, and people on Medicaid get home care through Medicaid instead. Call Aging Connect at 212-244-6469."
+   },
+   {
+    "name": "Older adult centers",
+    "desc": "Free membership for New Yorkers 60 and older, with healthy meals and staff who help members apply for Medicare, Medicaid, SCRIE and SNAP. Some centers also serve breakfast, dinner or grab-and-go meals. NYC Aging's center listing includes the Queens Center for Gay Seniors, which serves LGBTQ+ older adults."
+   },
+   {
+    "name": "Caregiver support",
+    "desc": "NYC Aging funds information and referrals, long-term care planning, support groups, counseling, caregiver training, respite care and limited financial help through community groups. Call Aging Connect at 212-244-6469."
+   },
+   {
+    "name": "HIICAP Medicare counseling",
+    "desc": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help, in person or by phone. Call Aging Connect at 212-244-6469 to reach a counselor."
+   },
+   {
+    "name": "Medicaid home care through HRA",
+    "desc": "HRA's Home Care Services Program oversees Medicaid-funded home care, and managed long term care plans also cover home care for people who qualify. HRA's list of Home Care CASA offices shows CASA South, 2400 Fulton Street, 3rd Floor, Brooklyn (718-250-5631), under Brooklyn and Queens. To learn how to apply, call the DSS OneNumber at 718-557-1399."
+   },
+   {
+    "name": "Access-A-Ride and reduced fare",
+    "desc": "Access-A-Ride (877-337-2017) is the MTA's shared-ride service for people whose disability keeps them from using buses and subways. It runs 24 hours a day citywide and about three-quarters of a mile past the city line into Nassau County. Riders 65 and older pay a $1.50 reduced fare on subways and local buses, and OMNY reduced-fare questions go to 877-789-6669."
+   },
+   {
+    "name": "HEAP and SNAP",
+    "desc": "HEAP helps low-income households pay for heat, and a household member 60 or older counts toward the benefit. Apply for HEAP or SNAP through ACCESS HRA, or call the DSS OneNumber at 718-557-1399 to have a HEAP application mailed."
+   },
+   {
+    "name": "SCRIE and SCHE",
+    "desc": "SCRIE freezes the rent for tenants 62 and older in rent regulated apartments who spend over a third of their income on rent and whose household income is under the city's limit. Ask the Rent Freeze Hotline at 929-252-7242 for the current income limit. SCHE cuts the assessed value of a home owned by people 65 and older with income up to $58,399, and the deadline to apply or renew is March 15. Call 311 for either."
+   },
+   {
+    "name": "Elder abuse, crime and legal help",
+    "desc": "NYC Aging's Elder Justice programs offer crisis help, safety planning and court help, C-PASS helps older adults hurt by scams, theft or assault, and Legal Assistance gives free legal help to residents 60 and older. Call Aging Connect at 212-244-6469. For an adult at risk who cannot protect themselves, call the HRA Adult Protective Services Queens office at 718-883-8254."
+   }
+  ],
+  "howto": "<p>For a parent in Queens, the first call is the Queens NY Connects office at Selfhelp Community Services, <span class=\"tel\">718-559-4400</span>, or Aging Connect at <span class=\"tel\">212-244-6469</span>. Both are free, and calling from New Jersey or Long Island is fine.</p><ol><li><strong>Ask for case management.</strong> Say what your parent needs help with, such as bathing, shopping or meals. A local agency does a phone intake, then a case manager visits to check eligibility and set up services like NYC Aging home care and home delivered meals for residents 60 and older not on Medicaid.</li><li><strong>Start Medicaid home care if it fits.</strong> Apply through ACCESS HRA or call the HRA Medicaid Helpline at <span class=\"tel\">1-888-692-6116</span>. To request a first assessment for personal care, CDPAP or a managed long term care plan, call the New York Independent Assessor at <span class=\"tel\">855-222-8350</span>. For other Home Care Services Program questions, call the DSS OneNumber, <span class=\"tel\">718-557-1399</span>. See <a href=\"#/article/medicaid-ny-seniors\">Medicaid for older New Yorkers</a> and <a href=\"#/article/cdpap-ny\">CDPAP</a>, which lets an adult child be hired as the aide.</li><li><strong>Plan the rides.</strong> NYC Aging partners drive residents 60 and older to medical appointments when they cannot use transit. Access-A-Ride (<span class=\"tel\">877-337-2017</span>) serves riders with a disability and reaches a three-quarter-mile corridor past the city line into Nassau County. For trips deeper into Nassau, the MTA points riders to Able-Ride at <span class=\"tel\">516-228-4021</span>. See our <a href=\"#/article/access-a-ride-nyc\">Access-A-Ride guide</a> and <a href=\"#/article/reduced-fare-mta-ny\">MTA reduced fare</a>.</li><li><strong>Check the money help.</strong> HIICAP counselors, reached through Aging Connect, can screen for the <a href=\"#/article/medicare-savings-program-ny\">Medicare Savings Program</a> and <a href=\"#/article/epic-ny\">EPIC</a>. Regular <a href=\"#/article/heap-ny\">HEAP</a> opened November 2, 2026, and you can ask for a mailed application at <span class=\"tel\">718-557-1399</span>.</li><li><strong>Take care of yourself too.</strong> NYC Aging's caregiver programs offer counseling, support groups, training and respite. See <a href=\"#/article/caregiver-support-ny\">caregiver support in New York</a>.</li></ol><p>If you suspect abuse, neglect or money being taken, call the Queens APS office at <span class=\"tel\">718-883-8254</span> or the DSS OneNumber at <span class=\"tel\">718-557-1399</span>, weekdays 9 a.m. to 5 p.m. APS visits within three business days when a person is eligible, or within 24 hours if life is at risk. Call 911 in an emergency, and read our <a href=\"#/article/adult-protective-services-ny\">APS guide</a>.</p>",
+  "faq": [
+   {
+    "q": "How do I get home care for my mom in Queens?",
+    "a": "Call Queens NY Connects at Selfhelp Community Services, 718-559-4400, or Aging Connect at 212-244-6469 and ask for case management. A case manager will visit and can arrange NYC Aging home care if she is 60 or older and not on Medicaid. If she has Medicaid, call HRA's DSS OneNumber at 718-557-1399 about the Home Care Services Program."
+   },
+   {
+    "q": "Who runs NY Connects in Queens?",
+    "a": "Selfhelp Community Services runs NY Connects in Queens for NYC Aging. Call 718-559-4400, weekdays 9 a.m. to 5 p.m., with hours until 7 p.m. on Thursdays."
+   },
+   {
+    "q": "Can Access-A-Ride take my dad from Queens into Nassau County?",
+    "a": "Access-A-Ride runs in the five boroughs and a three-quarter-mile corridor past the city line into Nassau County. For trips deeper into Nassau, the MTA points riders to Able-Ride at 516-228-4021, with transfer points at Northwell Health's Center for Advanced Medicine in New Hyde Park and Green Acres Mall in Valley Stream. You set up both trips yourself, and there are no free transfers. To book Access-A-Ride, call 877-337-2017, pick a language, then press 2, one to two days ahead."
+   },
+   {
+    "q": "How can my parents get free Medicare help in Queens?",
+    "a": "NYC Aging's HIICAP counselors give free, confidential help with Medicare plans, Medigap, EPIC, the Medicare Savings Program and Extra Help, in person or by phone. Call Aging Connect at 212-244-6469 to reach a counselor."
+   },
+   {
+    "q": "Is there a property tax break for older homeowners in Queens?",
+    "a": "Yes. SCHE lowers the assessed value of a home by 5% to 50% when all owners are 65 or older (spouses or siblings need only one) and combined income is $58,399 or less. Apply or renew by March 15 for the tax year that starts July 1. Call 311 with questions."
+   },
+   {
+    "q": "Who do I call about elder abuse in Queens?",
+    "a": "Call the HRA Adult Protective Services Queens office at 718-883-8254 or the DSS OneNumber at 718-557-1399, weekdays 9 a.m. to 5 p.m. For scams, theft or assault, Aging Connect at 212-244-6469 connects you to NYC Aging's C-PASS program. In an emergency, call 911."
+   }
+  ]
  },
  {
   "slug": "rensselaer",
@@ -4551,10 +5144,115 @@
    [
     "New York State Library: Outline Map of NYS Counties (county seats)",
     "https://nysl.nysed.gov/node/3062"
+   ],
+   [
+    "Suffolk County OFA: How Do I?",
+    "https://suffolkcountyny.gov/aging/How-Do-I"
+   ],
+   [
+    "Suffolk County OFA: In Home Care",
+    "https://suffolkcountyny.gov/aging/In-Home-Care"
+   ],
+   [
+    "Suffolk County OFA: Resource List (NY Connects)",
+    "https://suffolkcountyny.gov/aging/Resource-List"
+   ],
+   [
+    "Suffolk County Transit: Paratransit (SCAT)",
+    "https://sctbus.org/Paratransit"
+   ],
+   [
+    "Suffolk County DSS: Medicaid",
+    "https://www.suffolkcountyny.gov/Departments/Social-Services/Medicaid"
+   ],
+   [
+    "Suffolk County Task Force to Prevent Family Violence: Elder Abuse",
+    "https://scafv.suffolkcountyny.gov/Elder-Abuse"
+   ],
+   [
+    "NY Courts Elder Justice: 10th Judicial District resources",
+    "https://elderjustice.nycourts.gov/Resources/Directory/10th.html"
+   ],
+   [
+    "Suffolk County DSS: Family and Children Services (APS)",
+    "https://suffolkcountyny.gov/Departments/social-services/family-and-children-services"
+   ],
+   [
+    "Suffolk County Office for the Aging: Home (HEAP)",
+    "https://suffolkcountyny.gov/aging/Home"
    ]
   ],
   "verified": true,
-  "checked": "2026-11-25"
+  "checked": "2026-11-26",
+  "services": [
+   {
+    "name": "NY Connects",
+    "desc": "The Suffolk County Office for the Aging runs NY Connects, which links older adults and caregivers to home care, meals, transportation, benefits counseling and more. Call 631-853-8200, weekdays 9 a.m. to 4:30 p.m."
+   },
+   {
+    "name": "EISEP in-home care",
+    "desc": "Through the Expanded In-Home Services for the Elderly Program, a case manager visits the home to look at daily needs, family help and finances, then writes a care plan. The program has eligibility rules and a waiting list, so call early at 631-853-8200."
+   },
+   {
+    "name": "Home delivered and congregate meals",
+    "desc": "Home delivered meals come through the nutrition program that serves your parent's area, and congregate nutrition programs offer a hot meal and time with others. Call the nutrition line at 631-853-8227 to find the right program."
+   },
+   {
+    "name": "Caregiver support and respite (NFCSP)",
+    "desc": "The Office for the Aging runs the National Family Caregiver Support Program, which offers caregiver counseling, information and assistance and caregiver training, plus some respite. Call 631-853-8200."
+   },
+   {
+    "name": "HIICAP Medicare counseling",
+    "desc": "The Health Insurance Information Counseling and Assistance Program answers questions about Medicare and other health insurance. Call 631-979-9490, extension 18."
+   },
+   {
+    "name": "Rides",
+    "desc": "Suffolk County Accessible Transportation (SCAT) is curb to curb paratransit for people who meet federal ADA paratransit rules. Apply through the Office for People with Disabilities at 631-853-8333, weekdays 9 a.m. to 4:30 p.m., then book rides at 631-738-1150. Each trip is $4.00, exact change. Towns and local providers also run senior rides to essential services. In general they do not cross town lines, and medical appointments have priority."
+   },
+   {
+    "name": "Residential repair",
+    "desc": "Each of the ten towns runs a Residential Repair program for small jobs around the house, and you pay only for materials. Call the town senior citizen division, such as Babylon 631-789-3309, Brookhaven 631-451-9092, Huntington 631-446-3721, Islip 631-224-5424 or Smithtown 631-360-7616."
+   },
+   {
+    "name": "Legal help",
+    "desc": "The Nassau/Suffolk Law Services Senior Citizen Law Project (516-292-8088) gives free civil legal help to low-income people in both counties. Touro Law Center's Senior Citizens' Law Program (631-761-7062) offers free legal advice and education for older adults and their families."
+   },
+   {
+    "name": "Medicaid home care (DSS)",
+    "desc": "The DSS Home Care Intake Unit handles personal care and CDPAP for people on Medicaid who are not enrolled in Medicaid Managed Care, at 631-854-9585. People with both Medicare and Medicaid, 21 and older, get Medicaid home care information from New York Medicaid Choice at 1-888-401-6582. For questions on an open Medicaid case, call Medicaid East in Riverhead (631-852-3570) or Medicaid West in Smithtown (631-853-8408)."
+   },
+   {
+    "name": "HEAP heating help",
+    "desc": "People 60 and older, or living with a disability, apply for HEAP through the Office for the Aging at 631-853-8326 during the HEAP season (under 60, call 631-853-8820). For heating emergencies after 4:30 p.m. and on weekends, call 631-854-9100."
+   }
+  ],
+  "howto": "<p>Start with NY Connects at the Suffolk County Office for the Aging in Hauppauge, <span class=\"tel\">631-853-8200</span>, weekdays 9 a.m. to 4:30 p.m. It covers the whole county, from Huntington and Babylon to the North and South Forks, and you can call for a parent who lives there.</p><ol><li><strong>Ask for an EISEP home visit early.</strong> A case manager comes to the home, looks at what your parent can and cannot do, and writes a care plan. There is a waiting list, so get on it soon. Our <a href=\"#/article/eisep-ny\">EISEP guide</a> explains the program.</li><li><strong>Set up meals.</strong> Call the nutrition line at <span class=\"tel\">631-853-8227</span> about home delivered meals or a group meal site near your parent.</li><li><strong>Sort out rides.</strong> If a disability keeps your parent off regular buses, apply for SCAT through the Office for People with Disabilities at <span class=\"tel\">631-853-8333</span>. Once approved, book trips at <span class=\"tel\">631-738-1150</span> from 1 to 5 days ahead. Town senior rides are another option for local trips, and medical appointments have priority.</li><li><strong>Check Medicaid home care.</strong> If your parent has Medicaid and is not in a managed care plan, call the DSS Home Care Intake Unit at <span class=\"tel\">631-854-9585</span> for personal care or CDPAP. If your parent has Medicare and Medicaid, New York Medicaid Choice (<span class=\"tel\">1-888-401-6582</span>) explains the home care plans. Read <a href=\"#/article/medicaid-ny-seniors\">Medicaid for older New Yorkers</a> and our <a href=\"#/article/cdpap-ny\">CDPAP guide</a>.</li><li><strong>Put the legal papers in place.</strong> A health care proxy and power of attorney should be signed while your parent can still decide. See <a href=\"#/article/power-of-attorney-ny\">power of attorney in New York</a> and <a href=\"#/article/health-care-proxy-molst-ny\">health care proxies and MOLST</a>.</li></ol><p>If you suspect abuse, neglect or exploitation, call Suffolk County Adult Protective Services at <span class=\"tel\">631-854-3232</span>. The state courts' elder justice directory also lists a 24 hour APS hotline, <span class=\"tel\">631-854-9100</span>. Calls are confidential and may be anonymous. Call 911 if someone is in immediate danger. Our <a href=\"#/article/adult-protective-services-ny\">APS guide</a> covers what to expect.</p>",
+  "faq": [
+   {
+    "q": "How do I get home care for my dad in Suffolk County?",
+    "a": "Call NY Connects at the Office for the Aging, 631-853-8200, and ask about EISEP. A case manager visits, assesses his needs and writes a care plan, but there is a waiting list. If he has Medicaid and is not in a managed care plan, call the DSS Home Care Intake Unit at 631-854-9585."
+   },
+   {
+    "q": "Can my mom get meals delivered in Suffolk County?",
+    "a": "Yes, through the nutrition program that serves her area, and there are also congregate meal sites with a hot meal and company. Call the Office for the Aging nutrition line at 631-853-8227 to find the program near her."
+   },
+   {
+    "q": "How does SCAT work in Suffolk County?",
+    "a": "SCAT is curb to curb paratransit for people who meet federal ADA paratransit rules. Apply through the Office for People with Disabilities at 631-853-8333, and you hear back within 21 days. Rides cost $4.00 per trip, exact change, and are booked at 631-738-1150 from 1 to 5 days ahead."
+   },
+   {
+    "q": "Where can my parents get Medicare help in Suffolk County?",
+    "a": "HIICAP counselors answer Medicare and health insurance questions at 631-979-9490, extension 18. Office for the Aging Senior Advocates also visit over 50 sites around the county to help, and the schedule is on the Office for the Aging calendar."
+   },
+   {
+    "q": "Can I get paid to care for my parent in Suffolk County?",
+    "a": "Possibly, through CDPAP, a Medicaid program that lets your parent choose their own caregiver. If your parent has Medicaid and is not enrolled in Medicaid Managed Care, call the DSS Home Care Intake Unit at 631-854-9585. If your parent is in a plan, call the plan."
+   },
+   {
+    "q": "Who do I call if I think my mother is being abused in Suffolk County?",
+    "a": "Call Suffolk County Adult Protective Services at 631-854-3232. The state courts' elder justice directory also lists a 24 hour APS hotline at 631-854-9100. If she is in immediate danger, call 911."
+   }
+  ]
  },
  {
   "slug": "sullivan",
@@ -4621,10 +5319,115 @@
    [
     "New York State Library: Outline Map of NYS Counties (county seats)",
     "https://nysl.nysed.gov/node/3062"
+   ],
+   [
+    "Sullivan NY Connects",
+    "https://www.sullivanny.gov/Departments/Aging/SullivanNYconnects"
+   ],
+   [
+    "Sullivan County OFA: EISEP",
+    "https://www.sullivanny.gov/sites/default/files/departments/aging/EISEP%20info.pdf"
+   ],
+   [
+    "Sullivan County OFA: Information, Referral, Outreach and Legal Services",
+    "https://www.sullivanny.gov/sites/default/files/departments/aging/Information%20etc.%20ofa2.pdf"
+   ],
+   [
+    "Sullivan County OFA: The Monthly Hoot, September 2026",
+    "https://www.sullivanny.gov/sites/default/files/departments/aging/newsletter/20260901N%20(1).pdf"
+   ],
+   [
+    "Sullivan County DSS: Personal Care Aides and Long Term Home Health Care",
+    "https://www.sullivanny.gov/Departments/Familyservices/Adultservices/PersonalCareAides"
+   ],
+   [
+    "Sullivan County DSS: Long Term Care and Nursing Home Care",
+    "https://www.sullivanny.gov/Departments/Familyservices/Medicalassistanceprograms/Longtermcareandnursinghomecare"
+   ],
+   [
+    "Sullivan County DSS: Apply for HEAP",
+    "https://www.sullivanny.gov/Departments/Familyservices/Temporaryassistanceprograms/HEAP/Applyforheap"
+   ],
+   [
+    "NYS DOH: New York Independent Assessor Program FAQs (October 2025)",
+    "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/faqs/docs/october2025.pdf"
+   ],
+   [
+    "NYSOFA: HIICAP",
+    "https://aging.ny.gov/health-insurance-information-counseling-and-assistance-programs"
    ]
   ],
   "verified": true,
-  "checked": "2026-11-25"
+  "checked": "2026-11-26",
+  "services": [
+   {
+    "name": "Sullivan NY Connects",
+    "desc": "Free, confidential information about medical and non-medical long-term care for anyone with questions, with options counseling to help weigh choices. Call 845-807-0257, 800-342-9871 or 866-715-4700."
+   },
+   {
+    "name": "EISEP in-home help",
+    "desc": "For adults 60 and older who have trouble staying at home and are not on Medicaid. Aides help with bathing, dressing, toileting, light housekeeping, laundry, shopping and meals, and every participant gets a case manager. The cost is on a sliding fee scale based on income and housing expenses. Call 845-807-0241."
+   },
+   {
+    "name": "Respite and safety equipment",
+    "desc": "EISEP also gives family caregivers a break through in-home help or a social adult day program. It can pay for one-time items that help someone stay home safely, such as equipment, home repairs or a personal emergency response system."
+   },
+   {
+    "name": "Senior Nutrition Program",
+    "desc": "Lunch is served at five dining sites, in Bethel (Kauneonga Lake), Wurtsboro, Livingston Manor, Liberty and Jeffersonville, on set days. Call 845-807-0254 at least 24 hours ahead to reserve. The suggested contribution for people over 60 is $3, and no one is denied a meal for not giving. Homebound meals are also available, and registration is required."
+   },
+   {
+    "name": "Shopping Buses",
+    "desc": "Door-to-door rides to shop at Walmart, ShopRite and Aldi in Monticello for residents 60 and older who register with the Office for the Aging. Each town has its own day, and the suggested contribution is $3 per round trip. Call 845-807-0244 ahead to reserve a seat."
+   },
+   {
+    "name": "HIICAP Medicare counseling",
+    "desc": "The Health Insurance Information, Counseling and Assistance Program gives free counseling on Medicare. Call the Office for the Aging at 845-807-0241 and ask for HIICAP."
+   },
+   {
+    "name": "Legal services",
+    "desc": "Through a contract with a Sullivan County attorney, older residents can get help with Social Security and Medicare problems, landlord and tenant issues, public benefit appeals, and health care proxies and living wills. Call 845-807-0241."
+   },
+   {
+    "name": "Caregiver support",
+    "desc": "The Office for the Aging offers caregiver resources and assessment, and its web page links to a Caregiver Resource Center. A Caregiver Café support group meets monthly. Call 845-807-0241 for dates."
+   },
+   {
+    "name": "Medicaid home care (DSS)",
+    "desc": "The Department of Social Services Personal Care unit arranges home care for Medicaid recipients. A doctor sends a medical recommendation, then a caseworker and a Public Health nurse visit the home to assess need. Call the Department of Social Services at 845-292-0100."
+   },
+   {
+    "name": "HEAP heating help",
+    "desc": "HEAP helps income-eligible households pay for heat. Apply online at myBenefits.ny.gov or in person at the Department of Social Services, 16 Community Lane, Liberty. If your parent is 60 or older, they can also apply at the Office for the Aging in Monticello. For HEAP questions, call 845-807-0142."
+   }
+  ],
+  "howto": "<p>Start with the Sullivan County Office for the Aging in Monticello, <span class=\"tel\">845-807-0241</span>, weekdays 8 a.m. to 5 p.m. For questions about long-term care choices, Sullivan NY Connects is at <span class=\"tel\">845-807-0257</span>. You can call for your parent from New Jersey, Pennsylvania or anywhere else.</p><ol><li><strong>Ask for EISEP case management.</strong> If your parent is 60 or older and not on Medicaid, a case manager works with you to figure out what help is needed and arranges it on a sliding fee. On the main line, EISEP case management is option 3. Our <a href=\"#/article/eisep-ny\">EISEP guide</a> explains the fee.</li><li><strong>Line up meals and rides.</strong> Reserve a lunch at a dining site at <span class=\"tel\">845-807-0254</span>, or ask about homebound meals. Once your parent registers with the office, the Shopping Bus (<span class=\"tel\">845-807-0244</span>) runs door to door to Monticello stores.</li><li><strong>Check Medicaid home care.</strong> If your parent has Medicaid, the Department of Social Services Personal Care unit (<span class=\"tel\">845-292-0100</span>) arranges home care after a doctor sends a medical recommendation. To schedule a first assessment for Medicaid home care, your parent, or an authorized representative already on file, can call the New York Independent Assessor at <span class=\"tel\">1-855-222-8350</span>. Start with <a href=\"#/article/medicaid-ny-seniors\">Medicaid for older New Yorkers</a> and our <a href=\"#/article/cdpap-ny\">CDPAP guide</a>.</li><li><strong>Get the papers in order.</strong> The office's contract attorney can help with health care proxies and living wills. See <a href=\"#/article/health-care-proxy-molst-ny\">health care proxy and MOLST</a> and <a href=\"#/article/power-of-attorney-ny\">power of attorney in New York</a>.</li></ol><p>If you suspect abuse, neglect or money being taken, call the Sullivan County Adult Protective Services intake line at <span class=\"tel\">845-513-2390</span>. The Department of Social Services in Liberty is open weekdays 8 a.m. to 5 p.m. Call 911 if someone is in danger now. Our <a href=\"#/article/adult-protective-services-ny\">APS guide</a> covers what to expect.</p>",
+  "faq": [
+   {
+    "q": "How do I get home care for my dad in Sullivan County?",
+    "a": "If he is 60 or older and not on Medicaid, call the Office for the Aging at 845-807-0241 and ask about EISEP. A case manager helps decide what he needs, and the cost is on a sliding fee scale. If he has Medicaid, the Department of Social Services Personal Care unit coordinates home care. Call 845-292-0100."
+   },
+   {
+    "q": "Does Sullivan County deliver meals to seniors?",
+    "a": "The Senior Nutrition Program serves homebound meals as well as lunches at five dining sites. Dining site reservations are needed at least 24 hours ahead at 845-807-0254. The suggested contribution for people over 60 is $3, and no one is denied a meal for not giving."
+   },
+   {
+    "q": "How can my mom get to the store in Sullivan County without driving?",
+    "a": "The county Shopping Buses give door-to-door rides to stores in Monticello, with a set day for each town. She needs to be 60 or older and registered with the Office for the Aging. Call 845-807-0244 ahead to reserve."
+   },
+   {
+    "q": "What does EISEP cost in Sullivan County?",
+    "a": "The cost is based on a sliding fee scale set by income and housing expenses. EISEP is for adults 60 and older who are not receiving Medicaid. Call 845-807-0241 to ask what your parent would pay."
+   },
+   {
+    "q": "Where can seniors get legal help in Sullivan County?",
+    "a": "The Office for the Aging provides legal services through a contract with a Sullivan County attorney. Help covers Social Security and Medicare problems, landlord and tenant issues, public benefit appeals, and health care proxies and living wills. Call 845-807-0241."
+   },
+   {
+    "q": "Who do I report elder abuse to in Sullivan County?",
+    "a": "Call the Adult Protective Services intake line at 845-513-2390. If someone is in danger right now, call 911."
+   }
+  ]
  },
  {
   "slug": "bronx",
