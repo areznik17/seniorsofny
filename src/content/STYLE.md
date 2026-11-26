@@ -38,6 +38,14 @@ Starting points from the owner (RE-VERIFY before use):
 - Trust and safety come first whenever someone comes into the home or touches money: licenses, background checks, references, scams.
 - Key moments: after a hospital stay or rehab, after giving up driving, when a spouse needs care, turning 65.
 
+## Lead the search results (owner's rule, Nov 26 2026)
+Every page must be something people search for that nobody has done well yet, and read like a sharp local wrote it.
+- Before writing, search the page's main query (e.g. "senior exemption income limit Rockland County") and look at the top results. Write down in your report what they're missing. Your page must add at least one thing none of them has: a county or town comparison table, the actual form number and where to file it, a NY plus NJ angle, exact phone numbers by county, real deadlines for this year, or a worked example with real official figures.
+- Prefer local, specific, checkable detail over general explanation. A page about a program names the office, the form, the deadline, the fee and the phone for each NJ-near county where they differ.
+- No filler. Cut any sentence that would fit on any state's site. No "it's important to", "plays a crucial role", "in today's world", "peace of mind", "navigating", "journey", "a wide range of", "whether you", "look no further", "rest assured", "seamless", "empower", "unlock", "delve". No summary paragraph at the end that repeats the page.
+- Vary sentence length. Use the second person and plain verbs. Questions families actually ask go in H2s and FAQs, in their words.
+- No invented examples or people. A worked example uses real official figures and says it is an illustration.
+
 ## Length and shape
 - 1,400 to 2,400 words of body text. Real depth: who qualifies, amounts, how to apply step by step, what to bring, what happens next, common mistakes, NYC vs rest of state.
 - 5 to 8 H2 sections, question-style. Use <h2>, <h3>, <p>, <ul>/<ol>, <strong>, <a href> (official links with target="_blank" rel="noopener"), and these blocks:

@@ -12,3 +12,7 @@ For each guide in your assigned file:
 7. Validate the JSON with python3 json.load and grep for em/en dashes.
 
 Write the corrected file to the output path you were given. Reply with: each correction (old value to new value, with the official URL), anything removed as unverifiable, dead links fixed, and final word counts.
+
+## Originality and voice check (owner's rule, Nov 26 2026)
+- Cut stock AI phrasing: "it's important to", "crucial", "in today's world", "peace of mind", "navigate", "journey", "a wide range of", "whether you", "rest assured", "seamless", "empower", "unlock", "delve", closing summary paragraphs that repeat the page.
+- Confirm the page adds something the top search results don't (the writer lists it). If it doesn't, flag it in your report.
