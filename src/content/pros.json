@@ -246,5 +246,265 @@
   "desc": "Geriatric care management and nursing consultation for older adults and families in Nassau, Suffolk, Westchester and the five boroughs. Services include geriatric care management, home nursing assessments, PRI and screen assessments for nursing home placement, wound care consultation and help choosing between staying at home, assisted living or a nursing facility. The founder is a registered nurse (RN).",
   "source": "https://pinnacleseniorcaresolutions.com/about/",
   "checked": "2026-11-26"
+ },
+ {
+  "name": "Home Again Transitions",
+  "cat": "move-managers",
+  "counties": [
+   "Westchester"
+  ],
+  "phone": "914-734-9187",
+  "url": "https://www.homeagainny.com",
+  "desc": "Move managers serving Westchester who help with move planning and floor plans, sorting and downsizing, choosing and supervising movers, packing and unpacking, and setting up the new home. They also arrange sale, donation or disposal of unwanted items and clear and clean the former home. The site says it is recognized by NASMM, the National Association of Senior Move Managers.",
+  "source": "https://www.homeagainny.com/services/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Organize Me, Inc.",
+  "cat": "move-managers",
+  "counties": [
+   "Bronx",
+   "Brooklyn",
+   "Manhattan",
+   "Queens",
+   "Staten Island"
+  ],
+  "phone": "212-842-8301",
+  "url": "https://organizeme-inc.com",
+  "desc": "Organizing and move management company serving New York City and the greater NYC area. Senior move management covers downsizing, space and furniture planning, packing and unpacking, donations, shredding papers and getting the old home ready for sale. They also offer estate clearance.",
+  "source": "https://organizeme-inc.com/senior-move-management/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Paper Moon Moves",
+  "cat": "move-managers",
+  "counties": [
+   "Bronx",
+   "Brooklyn",
+   "Manhattan",
+   "Queens",
+   "Staten Island"
+  ],
+  "phone": "917-374-1525",
+  "url": "https://www.papermoonmoves.com",
+  "desc": "New York City company offering senior moves, downsizing, estate clearouts and aging in place help. For a move they make a floor plan of the new home, help sort and decide what to keep, donate or sell, hire and oversee movers, and unpack and set up the new place. The site lists NASMM among its affiliations.",
+  "source": "https://www.papermoonmoves.com/main-st",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "123Organize",
+  "cat": "move-managers",
+  "counties": [
+   "Westchester",
+   "Manhattan"
+  ],
+  "phone": "914-430-4123",
+  "url": "https://www.123organize.com",
+  "desc": "Organizing and move management company with senior move management for people leaving a longtime home. Help includes a move plan and floor plan, sorting and deciding what to keep, ship, donate or sell, estate sale and clear out coordination, packing and unpacking, and supervising move day. The site shows NASMM and NAPO member logos.",
+  "source": "https://www.123organize.com/senior-move-management/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Caring Transitions of Syracuse",
+  "cat": "move-managers",
+  "counties": [
+   "Onondaga"
+  ],
+  "phone": "315-401-7633",
+  "url": "https://caringtransitionsofsyr.com",
+  "desc": "Local office serving Onondaga County, including Syracuse, Cicero, Clay, Baldwinsville, Manlius, Camillus and DeWitt. Services include senior relocation and packing, resettling in the new home, downsizing and space planning, decluttering, estate sales and online auctions, and estate cleanouts. The site says every franchise has a Certified Relocation and Transition Specialist (CRTS) on staff and shows the NASMM emblem.",
+  "source": "https://caringtransitionsofsyr.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Elder Transition Consulting",
+  "cat": "move-managers",
+  "counties": [
+   "Erie",
+   "Monroe"
+  ],
+  "phone": "716-440-0933",
+  "url": "https://eldertransitionconsulting.com",
+  "desc": "Senior move management for older adults and their families in the Buffalo and Rochester areas. Services include consulting and downsizing, estate clean outs and aging in place help. The site says the team follows the NASMM Code of Ethics and lists NASMM membership.",
+  "source": "https://eldertransitionconsulting.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Glimmerglass Move Managers",
+  "cat": "move-managers",
+  "counties": [
+   "Otsego"
+  ],
+  "phone": "607-437-3200",
+  "url": "https://glimmerglassmove.com",
+  "desc": "Senior move managers serving Otsego County and nearby communities. They coordinate local or out of state moves, help with decluttering and downsizing, make space and furniture plans for the new home, shred old records, and sell belongings to buyers and dealers or through estate sales and online auctions. The site says it is a member of the National Association of Senior & Specialty Move Managers.",
+  "source": "https://glimmerglassmove.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Hither Hive",
+  "cat": "move-managers",
+  "counties": [
+   "Bronx",
+   "Brooklyn",
+   "Manhattan",
+   "Queens",
+   "Staten Island",
+   "Suffolk"
+  ],
+  "phone": "917-277-4177",
+  "url": "https://hitherhive.com",
+  "desc": "Manhattan based company offering senior and specialty move management and senior downsizing in New York City, East Hampton and beyond, for people moving from a longtime home to a senior community or smaller place. The site shows NASMM and NAPO badges.",
+  "source": "https://hitherhive.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Home Hands of Rochester",
+  "cat": "move-managers",
+  "counties": [
+   "Monroe",
+   "Ontario",
+   "Wayne"
+  ],
+  "phone": "585-484-0454",
+  "url": "https://homehandsrochester.com",
+  "desc": "Senior downsizing and move management by the company's own team across greater Rochester and the Finger Lakes, from Brighton, Greece and Webster to Victor, Canandaigua and Naples. They plan furniture for the new home, hold sorting sessions, pack, manage move day, then unpack, set up the kitchen and make the beds. The site says it is a member of the National Association of Senior & Specialty Move Managers.",
+  "source": "https://homehandsrochester.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Never Move Alone",
+  "cat": "move-managers",
+  "counties": [
+   "Delaware"
+  ],
+  "phone": "607-746-6692",
+  "url": "https://www.nevermovealone.com",
+  "desc": "Move management company in Delaware County that specializes in senior moves. Services include rightsizing and decluttering, move management, and dispersal of household items. The site says it is an insured and bonded member of NASMM.",
+  "source": "https://www.nevermovealone.com/services",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "SAMMS",
+  "cat": "move-managers",
+  "counties": [
+   "Nassau",
+   "Suffolk"
+  ],
+  "phone": "516-519-1900",
+  "url": "https://movewithsamms.com",
+  "desc": "Senior move managers serving Nassau and Suffolk counties on Long Island. For assisted living moves they plan the new apartment, help choose what to bring, coordinate with the community and licensed movers, pack, unpack and set up the room. Downsizing help covers sorting, space planning, estate sales, donations and buyouts, and readying the family home for sale. The site says it is a NASMM member.",
+  "source": "https://movewithsamms.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "RDM Move Managers",
+  "cat": "move-managers",
+  "counties": [
+   "Dutchess",
+   "Putnam",
+   "Rockland",
+   "Westchester"
+  ],
+  "phone": "914-817-2594",
+  "url": "https://rdmmove.com",
+  "desc": "Family owned company offering senior downsizing and move management alongside home remediation, serving families in Dutchess, Putnam, Rockland and Westchester counties. They make a plan for the move, help sort what to keep, donate or sell, pack and label boxes, hire and supervise movers, and coordinate with the new building. Their downsizing service also sells unwanted items, collects donation tax forms and clears the house for sale. The site says it is a member of NASMM.",
+  "source": "https://rdmmove.com/down-sizing-services",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Aging Well ElderCare Specialists",
+  "cat": "care-managers",
+  "counties": [
+   "Erie",
+   "Niagara"
+  ],
+  "phone": "716-204-1063",
+  "url": "https://agingwellwny.com",
+  "desc": "Aging Life Care management in the Buffalo Niagara region, including Buffalo, Amherst, Clarence, East Aurora, Orchard Park, Niagara Falls and Lockport. Care managers help families make a plan, manage and prevent crises, address memory loss, recommend care options and support aging in place. The owner is a nationally Certified Geriatric Care Manager (CMC), and the practice is a member of the Aging Life Care Association.",
+  "source": "https://agingwellwny.com/about/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Aging Well Rochester",
+  "cat": "care-managers",
+  "counties": [
+   "Monroe",
+   "Ontario"
+  ],
+  "phone": "585-271-0400",
+  "url": "https://agingwellrochester.com",
+  "desc": "Geriatric care management in the Rochester area since 1988, serving Monroe and Ontario counties. Services cover aging in place, dementia care, crisis help after a hospital or rehab stay, and help choosing memory care, assisted living or a nursing home. The team includes licensed master social workers (LMSW), registered nurses (RN) and Certified Care Managers (CMC), and the practice is a member of the Aging Life Care Association.",
+  "source": "https://agingwellrochester.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Together in Caring Rochester",
+  "cat": "care-managers",
+  "counties": [
+   "Monroe",
+   "Ontario",
+   "Wayne",
+   "Livingston",
+   "Yates"
+  ],
+  "phone": "585-450-3828",
+  "url": "https://togetherincaring.com/rochester-senior-care-management/",
+  "desc": "Care management for older adults from a Rochester office serving Monroe, Ontario, Wayne, Livingston and Yates counties. Services include medical, cognitive and safety assessments (including PRI and screens), care coordination, help with senior living moves, aging in place support and advocacy. Staff include registered nurses (RN), a licensed master social worker (LMSW) and Certified Care Managers (CMC), and the president is an Advanced Professional Member of the Aging Life Care Association.",
+  "source": "https://togetherincaring.com/rochester-senior-care-management/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Together in Caring Syracuse",
+  "cat": "care-managers",
+  "counties": [
+   "Onondaga",
+   "Madison",
+   "Oswego",
+   "Oneida",
+   "Cortland",
+   "Cayuga"
+  ],
+  "phone": "315-447-3164",
+  "url": "https://togetherincaring.com/syracuse-ny-care-management/",
+  "desc": "Care management for older adults from a Syracuse office serving Onondaga, Madison, Oswego, Oneida, Cortland and Cayuga counties. Services include medical, cognitive and safety assessments (including PRI and screens), care coordination, help with senior living moves, aging in place support and advocacy. Staff include registered nurses (RN), a licensed master social worker (LMSW) and Certified Care Managers (CMC), and the president is an Advanced Professional Member of the Aging Life Care Association.",
+  "source": "https://togetherincaring.com/syracuse-ny-care-management/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Together in Caring Albany",
+  "cat": "care-managers",
+  "counties": [
+   "Albany"
+  ],
+  "phone": "518-300-3077",
+  "url": "https://togetherincaring.com/capital-district-care-management/",
+  "desc": "Care management for older adults from an Albany office serving the Capital District. Services include medical, cognitive and safety assessments (including PRI and screens), care coordination, help with senior living moves, aging in place support and advocacy. Staff include a PRI nurse (RN) and Certified Care Managers (CMC), and the president is an Advanced Professional Member of the Aging Life Care Association.",
+  "source": "https://togetherincaring.com/capital-district-care-management/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Seniors Choice Care",
+  "cat": "care-managers",
+  "counties": [
+   "Monroe"
+  ],
+  "phone": "585-787-0009",
+  "url": "https://seniorschoicecare.com",
+  "desc": "Geriatric care management, also known as Aging Life Care, for older adults in Rochester, Webster and the rest of Monroe County. Services include dementia care guidance, medication management, PRI assessments, household finance and record keeping, insurance and long-term care claim help, and relocation help. The care consultants are registered nurses (RN).",
+  "source": "https://seniorschoicecare.com/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "Senior Care Consultation Services",
+  "cat": "care-managers",
+  "counties": [
+   "Suffolk"
+  ],
+  "phone": "631-246-5656",
+  "url": "https://seniorcarecs.com",
+  "desc": "Geriatric care consultation for older adults and families in Suffolk County, with a Setauket mailing address. Services include comprehensive assessments and long-term care planning, Medicaid planning and applications, help with Medicare, Medigap and long-term care insurance, PRI and screen forms, admission arrangements for nursing homes and assisted living, and care monitoring for families who live far away. The team includes a licensed clinical social worker and Certified Care Manager (LCSW, CMC), a registered nurse (RN) and a geriatric nurse practitioner.",
+  "source": "https://seniorcarecs.com/about-senior-care-cs/",
+  "checked": "2026-11-26"
  }
 ]
