@@ -170,6 +170,92 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "belmont-bronx-ny",
+  "name": "Belmont",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Belmont is in the central Bronx and is home to the Little Italy of the Bronx. The Belmont Library and Enrico Fermi Cultural Center on East 186th Street is dedicated to Italian-American heritage. For older adult centers nearby, call Aging Connect or use the NYC Aging Service Finder.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Belmont Library and Enrico Fermi Cultural Center",
+   "address": "610 East 186th Street, Bronx, NY 10458",
+   "phone": "718-933-6410",
+   "url": "https://www.nypl.org/locations/belmont",
+   "notes": "Fully accessible. A three-floor branch open since 1981, built after a long community effort. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Belmont Library and Enrico Fermi Cultural Center",
+    "https://www.nypl.org/locations/belmont"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "blooming-grove-ny",
   "name": "Blooming Grove",
   "county": "orange",
@@ -584,6 +670,119 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "chelsea-manhattan-ny",
+  "name": "Chelsea",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Chelsea is on Manhattan's West Side. Hudson Guild, established in 1895 and rooted in Chelsea, runs an older adult center at its Fulton Community Center on Ninth Avenue. The Muhlenberg Library on West 23rd Street has served Chelsea since 1906.",
+  "seniorCenter": {
+   "name": "Hudson Guild Fulton Community Center (Adult Services)",
+   "address": "119 9th Avenue, New York, NY 10011",
+   "phone": "212-924-6710",
+   "url": "https://hudsonguild.org/adult-services",
+   "notes": "Breakfast and lunch are served Monday to Friday for people 60 and older, with about 60 activities such as yoga, tai chi, painting and sewing. Hudson Guild's Social Services Unit offers counseling, help applying for benefits, free legal assistance, financial coaching, a health insurance advocate, MetroCard mobile services and tenant help. Staff speak Spanish, Cantonese and Mandarin as well as English. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Muhlenberg Library",
+   "address": "209 West 23rd Street, New York, NY 10011",
+   "phone": "212-924-1585",
+   "url": "https://www.nypl.org/locations/muhlenberg",
+   "notes": "Fully accessible. A Carnegie branch that has served Chelsea since 1906. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Hudson Guild: Adult Services",
+    "https://hudsonguild.org/adult-services"
+   ],
+   [
+    "Hudson Guild: Locations",
+    "https://hudsonguild.org/locations"
+   ],
+   [
+    "Manhattan Community Board 4: Senior Centers",
+    "https://cbmanhattan.cityofnewyork.us/cb4/resources/senior-centers/"
+   ],
+   [
+    "NYPL: Muhlenberg Library",
+    "https://www.nypl.org/locations/muhlenberg"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "chester-ny",
   "name": "Chester",
   "county": "orange",
@@ -643,6 +842,111 @@
   ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
+ },
+ {
+  "slug": "chinatown-manhattan-ny",
+  "name": "Chinatown",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Chinatown is in lower Manhattan. The Chinese-American Planning Council runs the NY Chinatown Older Adult Center on Chrystie Street, founded in 1974. The Chatham Square Library has had a Chinese-language collection since 1911.",
+  "seniorCenter": {
+   "name": "NY Chinatown Older Adult Center (Chinese-American Planning Council)",
+   "address": "55 Chrystie Street, New York, NY 10002",
+   "phone": "212-233-8930",
+   "url": "https://www.cpc-nyc.org/programs/family-support/ny-chinatown-older-adult-center",
+   "notes": "Formerly the Chinatown Senior Center, founded in 1974 and funded by NYC Aging. Open Monday to Friday. It serves nutritious meals and offers activities, health workshops, case assistance, information and referral, and special events. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Chatham Square Library",
+   "address": "33 East Broadway, New York, NY 10002",
+   "phone": "212-964-6598",
+   "url": "https://www.nypl.org/locations/chatham-square",
+   "notes": "Fully accessible. One of the busiest NYPL branches, with a circulating Chinese-language collection. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "CPC: NY Chinatown Older Adult Center",
+    "https://www.cpc-nyc.org/programs/family-support/ny-chinatown-older-adult-center"
+   ],
+   [
+    "NYPL: Chatham Square Library",
+    "https://www.nypl.org/locations/chatham-square"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
  },
  {
   "slug": "clarkstown-ny",
@@ -746,6 +1050,115 @@
   ],
   "checked": "2026-11-25",
   "updated": "2026-11-25"
+ },
+ {
+  "slug": "co-op-city-bronx-ny",
+  "name": "Co-op City",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Co-op City is in the northeast Bronx. JASA runs the Bartow Older Adult Center, listed by NYC Aging as the Co-op City center, on Bartow Avenue. The Baychester Library has served Co-op City since 1973.",
+  "seniorCenter": {
+   "name": "JASA Bartow Older Adult Center",
+   "address": "2049 Bartow Avenue, Bronx, NY 10475",
+   "phone": "718-320-2066",
+   "url": "https://www.jasa.org/services/older-adult-centers",
+   "notes": "Run by JASA. Grab-and-go meals are offered, and JASA asks members to call before arriving for a meal. The center has an on-site mental health clinician through NYC Aging. JASA also runs the Dreiser (177 Dreiser Loop, 718-320-1345) and Einstein (135 Einstein Loop, Room 46, 718-671-5161) centers in the same ZIP code, plus Co-op City case management at 718-379-0433. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Baychester Library",
+   "address": "2049 Asch Loop North, Bronx, NY 10475",
+   "phone": "718-379-6700",
+   "url": "https://www.nypl.org/locations/baychester",
+   "notes": "Fully accessible. Open since March 13, 1973, with books, CDs, DVDs, online resources and free programs. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "JASA: Older Adult Centers",
+    "https://www.jasa.org/services/older-adult-centers"
+   ],
+   [
+    "JASA: Locations",
+    "https://jasa.org/about/locate"
+   ],
+   [
+    "NYPL: Baychester Library",
+    "https://www.nypl.org/locations/baychester"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
  },
  {
   "slug": "cold-spring-ny",
@@ -1187,6 +1600,117 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "east-harlem-manhattan-ny",
+  "name": "East Harlem",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "East Harlem is on Manhattan's East Side above 96th Street. Union Settlement runs older adult centers in East Harlem, including the Jefferson Older Adult Center on First Avenue at 113th Street. The 125th Street Library has served East Harlem since 1904.",
+  "seniorCenter": {
+   "name": "Jefferson Older Adult Center (Union Settlement)",
+   "address": "2205 First Avenue (at 113th Street), New York, NY 10029",
+   "phone": "212-828-6104",
+   "url": "https://www.unionsettlement.org/olderadultservices/",
+   "notes": "One of Union Settlement's East Harlem older adult centers, along with Corsi (307 East 116th Street, 212-828-6756), Gaylord White (2029 Second Avenue, 212-828-6055) and Wagner (435 East 120th Street, 646-672-2599). The centers offer daily group meals, exercise, benefits assistance, nutrition and health classes, and computer classes. Visitors are welcome, and Union Settlement asks you to call the center first to schedule a visit. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "125th Street Library",
+   "address": "224 East 125th Street, New York, NY 10035",
+   "phone": "212-534-5050",
+   "url": "https://www.nypl.org/locations/125th-street",
+   "notes": "Fully accessible. Books and magazines in English and Spanish and a strong African-American heritage collection. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Union Settlement Meals on Wheels",
+    "phone": "646-504-4999",
+    "url": "https://www.unionsettlement.org/olderadultservices/",
+    "note": "Home-delivered meals for homebound older adults in East Harlem. Call this number to register."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Union Settlement: Aging, Health and Wellness Services",
+    "https://www.unionsettlement.org/olderadultservices/"
+   ],
+   [
+    "NYPL: 125th Street Library",
+    "https://www.nypl.org/locations/125th-street"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "eastchester-ny",
   "name": "Eastchester",
   "intro": "Eastchester is a town in Westchester County that includes the villages of Bronxville and Tuckahoe. Eastchester Senior Programs and Services serves adults 60 and older with medical and shopping rides, case management, long term care planning, home-delivered meals, small home repairs, Medicare counseling, and senior centers at Lake Isle and Garth Road.",
@@ -1623,6 +2147,111 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "greenwich-village-manhattan-ny",
+  "name": "Greenwich Village",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Greenwich Village is in lower Manhattan, around Washington Square Park. Greenwich House runs the Center on the Square older adult center on Washington Square North. The Jefferson Market Library, a landmark former courthouse, serves the Village.",
+  "seniorCenter": {
+   "name": "Center on the Square (Greenwich House)",
+   "address": "20 Washington Square North, New York, NY 10011",
+   "phone": "212-777-3555 ext. 106",
+   "url": "https://greenwichhouse.org/network-of-older-adult-centers/our-locations/",
+   "notes": "Open Monday to Friday, 9 am to 5 pm, closed Saturday. Lunch is served Monday to Friday from noon to 2 pm. Greenwich House also runs the Our Lady of Pompeii center at 25 Carmine Street (212-989-3620, Monday to Friday, 9 am to 5 pm) and a center at Westbeth, 155 Bank Street (212-255-5191). NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Jefferson Market Library",
+   "address": "425 Avenue of the Americas, New York, NY 10011",
+   "phone": "212-243-4334",
+   "url": "https://www.nypl.org/locations/jefferson-market",
+   "notes": "Fully accessible. A Victorian Gothic city landmark built as a courthouse in the 1870s. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Greenwich House: Our Locations",
+    "https://greenwichhouse.org/network-of-older-adult-centers/our-locations/"
+   ],
+   [
+    "NYPL: Jefferson Market Library",
+    "https://www.nypl.org/locations/jefferson-market"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "greenwood-lake-ny",
   "name": "Greenwood Lake",
   "county": "orange",
@@ -1672,6 +2301,121 @@
   ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
+ },
+ {
+  "slug": "harlem-manhattan-ny",
+  "name": "Harlem",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Harlem is a large neighborhood in upper Manhattan. The PSS Harlem Center on West 127th Street is an NYC Aging older adult center run by Presbyterian Senior Services. The Harlem Library on West 124th Street has served the community since 1826.",
+  "seniorCenter": {
+   "name": "PSS Harlem Center (Presbyterian Senior Services)",
+   "address": "127 West 127th Street, Room 125, New York, NY 10027",
+   "phone": "212-222-3132",
+   "url": "https://pssusa.org/harlem/",
+   "notes": "Open Monday to Friday, 8:30 am to 3:30 pm. The center is on the first floor of the Oberia D. Dempsey Multi-Service Center, so bring ID and tell the front desk you are going to the PSS Center. It offers health screenings, exercise classes, computer classes, day trips, congregate lunches, and case and benefits assistance. From the 2 or 3 train at 125th Street, walk two blocks north on Lenox Avenue (Malcolm X Boulevard) and turn left on West 127th Street. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Harlem Library",
+   "address": "9 West 124th Street, New York, NY 10027",
+   "phone": "212-348-5620",
+   "url": "https://www.nypl.org/locations/harlem",
+   "notes": "Partially accessible. The lower level houses a Center for Reading and Writing with small group and one-on-one literacy help for adults. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "PSS Circle of Care caregiver hotline",
+    "phone": "866-665-1713",
+    "url": "https://pssusa.org/",
+    "note": "Free toll-free line, call or text, for New Yorkers caring for someone who is frail, chronically ill or has memory loss."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "PSS: Harlem Center",
+    "https://pssusa.org/harlem/"
+   ],
+   [
+    "PSS: Centers",
+    "https://pssusa.org/centers/"
+   ],
+   [
+    "NYPL: Harlem Library",
+    "https://www.nypl.org/locations/harlem"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
  },
  {
   "slug": "harrison-ny",
@@ -1949,6 +2693,121 @@
   "updated": "2026-11-25"
  },
  {
+  "slug": "highbridge-bronx-ny",
+  "name": "Highbridge",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Highbridge is in the southwest Bronx. The PSS Highbridge Center on Nelson Avenue is an NYC Aging older adult center run by Presbyterian Senior Services. The High Bridge Library on West 168th Street has served the neighborhood for over 100 years.",
+  "seniorCenter": {
+   "name": "PSS Highbridge Center (Presbyterian Senior Services)",
+   "address": "1181 Nelson Avenue, 2nd Floor, Bronx, NY 10452",
+   "phone": "718-588-3004",
+   "url": "https://pssusa.org/highbridge/",
+   "notes": "Open Monday to Friday, 8 am to 4 pm. The center is between 167th and 168th Streets, with an elevator, and the building is handicapped accessible. The nearest subway is the 4 train at 167th Street, and the Bx11 and Bx13 buses stop close by. Congregate meals are served each day, with exercise, falls prevention, English as a second language, computer classes and help with benefits. Guests 60 and older show ID, and after a third visit they are asked to register as members. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "High Bridge Library",
+   "address": "78 West 168th Street, Bronx, NY 10452",
+   "phone": "718-293-7800",
+   "url": "https://www.nypl.org/locations/high-bridge",
+   "notes": "Fully accessible. Books in Spanish, Arabic and French, a meeting space for community groups and computers for public use. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "PSS Circle of Care caregiver hotline",
+    "phone": "866-665-1713",
+    "url": "https://pssusa.org/",
+    "note": "Free toll-free line, call or text, for New Yorkers caring for someone who is frail, chronically ill or has memory loss."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "PSS: Highbridge Center",
+    "https://pssusa.org/highbridge/"
+   ],
+   [
+    "PSS: Centers",
+    "https://pssusa.org/centers/"
+   ],
+   [
+    "NYPL: High Bridge Library",
+    "https://www.nypl.org/locations/high-bridge"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "highlands-ny",
   "name": "Highlands (Highland Falls and West Point area)",
   "county": "orange",
@@ -2097,6 +2956,92 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "inwood-manhattan-ny",
+  "name": "Inwood",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Inwood sits at the northern tip of Manhattan. The Inwood Library on Broadway is Manhattan's northernmost branch and has strong Spanish-language collections. For older adult centers nearby, call Aging Connect or use the NYC Aging Service Finder.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Inwood Library (Joseph and Sheila Rosenblatt Building)",
+   "address": "4790 Broadway, New York, NY 10034",
+   "phone": "212-942-2445",
+   "url": "https://www.nypl.org/locations/inwood",
+   "notes": "Fully accessible. Manhattan's northernmost branch, with strong Spanish-language and small Russian-language collections, audiobooks and DVDs, plus English classes for adults who speak another language. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Inwood Library",
+    "https://www.nypl.org/locations/inwood"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "kent-ny",
   "name": "Kent",
   "county": "putnam",
@@ -2178,6 +3123,115 @@
   ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
+ },
+ {
+  "slug": "kingsbridge-bronx-ny",
+  "name": "Kingsbridge",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Kingsbridge is in the northwest Bronx. JASA runs the Van Cortlandt Older Adult Center on West 231st Street. The Kingsbridge Library, on the same street, has been part of the neighborhood since 1905.",
+  "seniorCenter": {
+   "name": "JASA Van Cortlandt Older Adult Center",
+   "address": "185 West 231st Street, Bronx, NY 10463",
+   "phone": "718-549-4700",
+   "url": "https://www.jasa.org/services/older-adult-centers",
+   "notes": "Run by JASA. Grab-and-go meals are offered, and JASA asks members to call the center before arriving for a meal, since meal types vary by site. This is one of the JASA centers with an on-site mental health clinician through NYC Aging. JASA's Help Center is 212-273-5272. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Kingsbridge Library",
+   "address": "291 West 231st Street, Bronx, NY 10463",
+   "phone": "718-548-5656",
+   "url": "https://www.nypl.org/locations/kingsbridge",
+   "notes": "Fully accessible. Two floors of collections, an outdoor garden, a meeting space and computers and laptops for public use. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "JASA: Older Adult Centers",
+    "https://www.jasa.org/services/older-adult-centers"
+   ],
+   [
+    "JASA: Locations",
+    "https://jasa.org/about/locate"
+   ],
+   [
+    "NYPL: Kingsbridge Library",
+    "https://www.nypl.org/locations/kingsbridge"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
  },
  {
   "slug": "kiryas-joel-ny",
@@ -2338,6 +3392,115 @@
   "countyName": "Westchester County",
   "updated": "2026-11-25",
   "checked": "2026-11-25"
+ },
+ {
+  "slug": "lower-east-side-manhattan-ny",
+  "name": "Lower East Side",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "The Lower East Side is in lower Manhattan, east of the Bowery. University Settlement, the first settlement house in the United States, runs its Neighborhood Center for older adults on Allen Street. The Seward Park Library is on East Broadway.",
+  "seniorCenter": {
+   "name": "University Settlement Neighborhood Center",
+   "address": "189 Allen Street, first floor, New York, NY 10002",
+   "phone": "212-473-8217",
+   "url": "https://www.universitysettlement.org/programs/older-adults/neighborhood-center/",
+   "notes": "Services are in English, Spanish, Mandarin and Cantonese. The center offers nutritious meals, meal delivery for people who are homebound, a monthly food pantry, blood pressure screenings, health education, fitness and dance classes, technology tutoring and mental health referrals. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Seward Park Library",
+   "address": "192 East Broadway, New York, NY 10002",
+   "phone": "212-477-6770",
+   "url": "https://www.nypl.org/locations/seward-park",
+   "notes": "Fully accessible. A Carnegie branch with world language collections on the first floor and a literacy center on the lower level. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "University Settlement: Neighborhood Center",
+    "https://www.universitysettlement.org/programs/older-adults/neighborhood-center/"
+   ],
+   [
+    "Manhattan Community Board 4: Senior Centers",
+    "https://cbmanhattan.cityofnewyork.us/cb4/resources/senior-centers/"
+   ],
+   [
+    "NYPL: Seward Park Library",
+    "https://www.nypl.org/locations/seward-park"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
  },
  {
   "slug": "mahopac-ny",
@@ -2686,6 +3849,115 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "midtown-hells-kitchen-manhattan-ny",
+  "name": "Midtown and Hell's Kitchen",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Hell's Kitchen, also called Clinton, is on Manhattan's West Side in Midtown. Encore Community Services runs an older adult center on West 49th Street. The Columbus Library on 10th Avenue has served Clinton since 1909.",
+  "seniorCenter": {
+   "name": "Encore Community Services, Aging Through Arts Center",
+   "address": "239 West 49th Street, New York, NY 10019",
+   "phone": "212-581-2910",
+   "url": "https://cbmanhattan.cityofnewyork.us/cb4/resources/senior-centers/",
+   "notes": "Listed by Manhattan Community Board 4 with hours of Tuesday to Saturday, 9 am to 5 pm. Encore also runs the Lifelong Learning Center at 755 10th Avenue (Monday to Friday, 9 am to 5 pm, per Community Board 4), with a backyard garden and social service case assistance. Project FIND runs the Clinton center at 530 West 55th Street (212-757-2026) and the Coffeehouse center at 331 West 42nd Street (646-545-4621). NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Columbus Library",
+   "address": "742 10th Avenue, New York, NY 10019",
+   "phone": "212-586-5098",
+   "url": "https://www.nypl.org/locations/columbus",
+   "notes": "Fully accessible. The branch has a TechConnect computer lab with free weekday computer classes taught by trained professionals. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Manhattan Community Board 4: Senior Centers",
+    "https://cbmanhattan.cityofnewyork.us/cb4/resources/senior-centers/"
+   ],
+   [
+    "NYPL: Columbus Library",
+    "https://www.nypl.org/locations/columbus"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ],
+   [
+    "Manhattan Community Board 4: About",
+    "https://cbmanhattan.cityofnewyork.us/cb4/"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "monroe-ny",
   "name": "Monroe",
   "county": "orange",
@@ -2863,6 +4135,264 @@
   ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
+ },
+ {
+  "slug": "morningside-heights-manhattan-ny",
+  "name": "Morningside Heights",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Morningside Heights is the upper Manhattan neighborhood around Columbia University. The Morningside Heights Library on Broadway at 113th Street has served the area since 1914. For older adult centers nearby, call Aging Connect or use the NYC Aging Service Finder.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Morningside Heights Library",
+   "address": "2900 Broadway, New York, NY 10025",
+   "phone": "212-864-2530",
+   "url": "https://www.nypl.org/locations/morningside-heights",
+   "notes": "Fully accessible. On Broadway at the corner of 113th Street, in a building that opened in 2001 and also holds a Columbia University dorm. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Morningside Heights Library",
+    "https://www.nypl.org/locations/morningside-heights"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
+  "slug": "morris-park-bronx-ny",
+  "name": "Morris Park",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Morris Park is in the east Bronx. The Morris Park Library opened in 2006 as the neighborhood's first library. For older adult centers nearby, call Aging Connect or use the NYC Aging Service Finder.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Morris Park Library",
+   "address": "985 Morris Park Avenue, Bronx, NY 10462",
+   "phone": "718-931-0636",
+   "url": "https://www.nypl.org/locations/morris-park",
+   "notes": "Fully accessible. Two levels, with books and recordings in English, Italian, Albanian and Chinese and 19 public computers. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Morris Park Library",
+    "https://www.nypl.org/locations/morris-park"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
+  "slug": "mott-haven-bronx-ny",
+  "name": "Mott Haven",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Mott Haven is in the South Bronx. The Mott Haven Library on East 140th Street, open since 1905, is the oldest library building in the Bronx and a city landmark. For older adult centers nearby, call Aging Connect or use the NYC Aging Service Finder.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Mott Haven Library",
+   "address": "321 East 140th Street, Bronx, NY 10454",
+   "phone": "718-665-4878",
+   "url": "https://www.nypl.org/locations/mott-haven",
+   "notes": "Fully accessible. A community room on the third floor is available for community groups. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Mott Haven Library",
+    "https://www.nypl.org/locations/mott-haven"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
  },
  {
   "slug": "mount-kisco-ny",
@@ -3968,6 +5498,92 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "parkchester-bronx-ny",
+  "name": "Parkchester",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Parkchester is in the east Bronx. The Parkchester Library on Westchester Avenue has materials in English, Spanish, Bengali, French, Chinese, Urdu and Hindi. For older adult centers nearby, call Aging Connect or use the NYC Aging Service Finder.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Parkchester Library",
+   "address": "1985 Westchester Avenue, Bronx, NY 10462",
+   "phone": "718-829-7830",
+   "url": "https://www.nypl.org/locations/parkchester",
+   "notes": "Fully accessible. English classes for speakers of other languages and a TechConnect computer lab, with classes in English and some in Spanish and Bengali. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Parkchester Library",
+    "https://www.nypl.org/locations/parkchester"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "patterson-ny",
   "name": "Patterson",
   "county": "putnam",
@@ -4857,6 +6473,197 @@
   ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
+ },
+ {
+  "slug": "riverdale-bronx-ny",
+  "name": "Riverdale",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Riverdale is in the northwest Bronx. The Riverdale Library on Mosholu Avenue was built in 1967 at the request of local residents. For older adult centers nearby, call Aging Connect or use the NYC Aging Service Finder.",
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Riverdale Library",
+   "address": "5540 Mosholu Avenue, Bronx, NY 10471",
+   "phone": "718-549-1212",
+   "url": "https://www.nypl.org/locations/riverdale",
+   "notes": "Fully accessible. Collections for adults include DVDs, CDs and recorded books, with a small collection in other languages, mostly Russian. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYPL: Riverdale Library",
+    "https://www.nypl.org/locations/riverdale"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
+  "slug": "roosevelt-island-manhattan-ny",
+  "name": "Roosevelt Island",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Roosevelt Island sits in the East River and is part of Manhattan. The Carter Burden Network runs an older adult program on Main Street with weekday lunches and home-delivered meals. The Roosevelt Island Library is also on Main Street.",
+  "seniorCenter": {
+   "name": "Carter Burden Roosevelt Island Older Adult Center",
+   "address": "546 Main Street, Roosevelt Island, New York, NY 10044",
+   "phone": "212-980-1888",
+   "url": "https://www.carterburdennetwork.org/risc",
+   "notes": "Open Monday to Friday, 9 am to 5 pm. Weekday lunch, exercise, dance and yoga classes, computer training and health and wellness programs. Case assistance helps with benefit applications, landlord and tenant problems and getting medical care, and the program delivers weekday meals to homebound people on Roosevelt Island. Open to anyone over 60, wherever they live. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Roosevelt Island Library",
+   "address": "504 Main Street, New York, NY 10044",
+   "phone": "212-308-6243",
+   "url": "https://www.nypl.org/locations/roosevelt-island",
+   "notes": "Fully accessible. The branch moved to this larger space in a former school in January 2021, with a community room for programs. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Carter Burden Network: Roosevelt Island Older Adult Center",
+    "https://www.carterburdennetwork.org/risc"
+   ],
+   [
+    "NYPL: Roosevelt Island Library",
+    "https://www.nypl.org/locations/roosevelt-island"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
  },
  {
   "slug": "rye-ny",
@@ -6257,6 +8064,333 @@
   "checked": "2026-11-25"
  },
  {
+  "slug": "upper-east-side-manhattan-ny",
+  "name": "Upper East Side",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "The Upper East Side runs along the east side of Central Park. Lenox Hill Neighborhood House runs the Center @ Lenox Hill Neighborhood House on East 70th Street, open seven days a week. The 67th Street Library serves the neighborhood.",
+  "seniorCenter": {
+   "name": "Center @ Lenox Hill Neighborhood House",
+   "address": "343 East 70th Street, New York, NY 10021",
+   "phone": "212-218-0319",
+   "url": "https://www.lenoxhill.org/center-lenox-hill-neighborhood-house",
+   "notes": "Open Monday to Friday, 8 am to 6 pm, and Saturday and Sunday, 8 am to 3 pm. The center serves three meals a day and runs at least 20 activities daily, including fitness classes and swimming in the Neighborhood House pool, language and computer classes, and classes taught in Chinese. Members can get benefits screenings, support groups and free assisted transportation. Membership is free for adults 60 and over, with a suggested donation of $1 for breakfast and $1.50 for lunch and dinner."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "67th Street Library",
+   "address": "328 East 67th Street, New York, NY 10065",
+   "phone": "212-734-1717",
+   "url": "https://www.nypl.org/locations/67th-street",
+   "notes": "Fully accessible. The branch dates to 1905 and serves the Upper East Side. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Lenox Hill Neighborhood House: Center @ Lenox Hill",
+    "https://www.lenoxhill.org/center-lenox-hill-neighborhood-house"
+   ],
+   [
+    "NYPL: 67th Street Library",
+    "https://www.nypl.org/locations/67th-street"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
+  "slug": "upper-west-side-manhattan-ny",
+  "name": "Upper West Side",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "The Upper West Side runs between Central Park and the Hudson River. Goddard Riverside runs an NYC Aging older adult center at 593 Columbus Avenue. The St. Agnes Library is on Amsterdam Avenue between West 81st and West 82nd Streets.",
+  "seniorCenter": {
+   "name": "Goddard Riverside Older Adult Center",
+   "address": "593 Columbus Avenue, New York, NY 10024",
+   "phone": "212-873-6600",
+   "url": "https://goddard.org/programs/older-adults/olderadultcenter/",
+   "notes": "Funded by NYC Aging. The center serves a hot weekday lunch and posts its monthly menu and activities calendar online, with programs such as chair yoga, art and singing classes, and blood pressure screenings. Goddard Riverside says membership is free to anyone 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "St. Agnes Library",
+   "address": "444 Amsterdam Avenue (between West 81st and West 82nd Streets), New York, NY 10024",
+   "phone": "212-621-0619",
+   "url": "https://www.nypl.org/locations/st-agnes",
+   "notes": "Fully accessible. The branch has been in its Amsterdam Avenue building since 1906. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Goddard Riverside: Older Adult Centers",
+    "https://goddard.org/programs/older-adults/olderadultcenter/"
+   ],
+   [
+    "Goddard Riverside: Menu and Activities, Columbus Ave.",
+    "https://goddard.org/menu-and-activities-columbus-ave-senior-center/"
+   ],
+   [
+    "Goddard Riverside: Locations",
+    "https://goddard.org/locations/"
+   ],
+   [
+    "NYPL: St. Agnes Library",
+    "https://www.nypl.org/locations/st-agnes"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
+  "slug": "wakefield-bronx-ny",
+  "name": "Wakefield",
+  "county": "bronx",
+  "countyName": "The Bronx (Bronx County)",
+  "intro": "Wakefield is in the north Bronx. R.A.I.N. runs the Nereid Older Adult Center on Nereid Avenue. The Wakefield Library, open since 1938, is one block west of 229th Street and White Plains Road.",
+  "seniorCenter": {
+   "name": "R.A.I.N. Nereid Older Adult Center",
+   "address": "720 Nereid Avenue, Bronx, NY 10466",
+   "phone": "718-994-0132",
+   "url": "https://www.raininc.org/locations/",
+   "notes": "Run by Regional Aid for Interim Needs (R.A.I.N.) and listed by NYC Aging and Bronx Community Board 12. R.A.I.N. has served New Yorkers since 1964, and its Eastchester transportation program serves Bronx Community Districts 9, 10, 11 and 12 (347-341-7679, ext. 264 or 265). Call the center for hours and meal times. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Wakefield Library",
+   "address": "4100 Lowerre Place, Bronx, NY 10466",
+   "phone": "718-652-4663",
+   "url": "https://www.nypl.org/locations/wakefield",
+   "notes": "Fully accessible. Next to the offices of Bronx Community Board 12, with adult, young adult and children's collections on the main floor. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Bronx (Neighborhood SHOPP)",
+    "phone": "347-862-5200",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Neighborhood SHOPP runs NY Connects in the Bronx for NYC Aging. Open Monday to Friday, 9 am to 5 pm, and until 7 pm on Wednesdays."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Bronx Community Board 12: Senior Centers",
+    "https://www.nyc.gov/site/bronxcb12/resources/senior-centers.page"
+   ],
+   [
+    "R.A.I.N.: Locations",
+    "https://www.raininc.org/locations/"
+   ],
+   [
+    "NYPL: Wakefield Library",
+    "https://www.nypl.org/locations/wakefield"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
+ },
+ {
   "slug": "walden-ny",
   "name": "Walden",
   "county": "orange",
@@ -6418,6 +8552,115 @@
   ],
   "updated": "2026-11-25",
   "checked": "2026-11-25"
+ },
+ {
+  "slug": "washington-heights-manhattan-ny",
+  "name": "Washington Heights",
+  "county": "manhattan",
+  "countyName": "Manhattan (New York County)",
+  "intro": "Washington Heights is a northern Manhattan neighborhood. Riverstone Senior Life Services runs an older adult center on Fort Washington Avenue, with programs in English and Spanish. The Washington Heights Library is on St. Nicholas Avenue.",
+  "seniorCenter": {
+   "name": "Riverstone Senior Life Services Older Adult Center",
+   "address": "99 Fort Washington Avenue, New York, NY 10032",
+   "phone": "212-927-5600",
+   "url": "https://www.riverstonenyc.org/programs/senior-center/",
+   "notes": "Open Monday to Friday, 8:30 am to 4:30 pm, with activities in English and Spanish. Members get a hot lunch, health education workshops, computer and ESL classes, exercise such as Zumba, yoga and tai chi, and free consultation on legal issues and benefits. Riverstone began in 1985 as a bilingual senior service agency, and all of its programs are offered in Spanish and English. NYC Aging older adult center membership is free for New Yorkers 60 and older."
+  },
+  "transport": {
+   "name": "Access-A-Ride (MTA paratransit)",
+   "phone": "877-337-2017",
+   "url": "https://www.mta.info/accessibility/access-a-ride",
+   "notes": "Paratransit service for people whose disabilities keep them from using buses or the subway. It runs 24 hours a day, every day, including holidays, in all five boroughs. The fare is the same as the full subway and bus fare, paid in exact change, and an authorized personal care attendant rides free. Press 2 to book a trip one to two days ahead (agents 7 am to 5 pm, every day), or press 4 for eligibility and application questions (9 am to 5 pm, Monday to Friday). Anyone 65 or older can also get the MTA Reduced Fare, $1.50 a ride on the subway and local buses, and can get the card the same day by signing up in person at an MTA Customer Service Center."
+  },
+  "library": {
+   "name": "Washington Heights Library",
+   "address": "1000 St. Nicholas Avenue, New York, NY 10032",
+   "phone": "212-923-6054",
+   "url": "https://www.nypl.org/locations/washington-heights",
+   "notes": "Fully accessible. The four-story building has been the branch's home since 1914 and has an auditorium for community meetings. Check the branch page for this week's hours. The New York Public Library no longer charges late fines."
+  },
+  "more": [
+   {
+    "name": "NY Connects Manhattan (Hudson Guild)",
+    "phone": "212-966-9852",
+    "url": "https://www.nyc.gov/site/dfta/services/ny-connects.page",
+    "note": "Free help finding long-term care and support, including home care, caregiver support groups and help applying for benefits. Hudson Guild runs NY Connects in Manhattan for NYC Aging. Open 9 am to 5 pm on Monday, Tuesday, Thursday and Friday, and 9 am to 7 pm on Wednesday."
+   },
+   {
+    "name": "Aging Connect (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/transportation.page",
+    "note": "NYC Aging's main line. Ask about rides to medical and social service appointments for residents 60 and older who cannot use public transit, and about older adult centers near your parent."
+   },
+   {
+    "name": "HIICAP Medicare counseling (NYC Aging)",
+    "phone": "212-244-6469",
+    "url": "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page",
+    "note": "Free, confidential help with Medicare Parts A, B, C and D, Medigap, EPIC, the Medicare Savings Program and Extra Help. Call Aging Connect to reach a counselor in person or by phone."
+   },
+   {
+    "name": "DSS OneNumber (NYC Human Resources Administration)",
+    "phone": "718-557-1399",
+    "url": "https://www.nyc.gov/site/hra/about/contact.page",
+    "note": "One number for information about HRA programs. Press 2 for SNAP only, press 3 for Medicaid, or listen to the menu for cash assistance, rent help and other programs."
+   }
+  ],
+  "sources": [
+   [
+    "NYC Aging Service Finder: Older Adult Centers",
+    "https://a125-egovt.nyc.gov/AgingService/ProgramService/searchResult?programType=SRCTR"
+   ],
+   [
+    "Riverstone Senior Life Services: Senior Center",
+    "https://www.riverstonenyc.org/programs/senior-center/"
+   ],
+   [
+    "Riverstone Senior Life Services: About",
+    "https://www.riverstonenyc.org/about/"
+   ],
+   [
+    "NYPL: Washington Heights Library",
+    "https://www.nypl.org/locations/washington-heights"
+   ],
+   [
+    "NYC Aging: Older Adult Centers",
+    "https://www.nyc.gov/site/dfta/services/older-adult-center.page"
+   ],
+   [
+    "MTA: Access-A-Ride Paratransit Service",
+    "https://www.mta.info/accessibility/access-a-ride"
+   ],
+   [
+    "MTA: Contact the Department of Paratransit",
+    "https://www.mta.info/accessibility/access-a-ride/contact"
+   ],
+   [
+    "MTA: Access-A-Ride fare policy",
+    "https://www.mta.info/accessibility/access-a-ride/policies-and-forms/fare-policy"
+   ],
+   [
+    "MTA: Reduced-Fare program",
+    "https://www.mta.info/fares-tolls/subway-bus/reduced-fare"
+   ],
+   [
+    "NYC Aging: NY Connects",
+    "https://www.nyc.gov/site/dfta/services/ny-connects.page"
+   ],
+   [
+    "NYC Aging: Transportation",
+    "https://www.nyc.gov/site/dfta/services/transportation.page"
+   ],
+   [
+    "NYC Aging: Health Insurance Assistance (HIICAP)",
+    "https://www.nyc.gov/site/dfta/services/health-insurance-assistance.page"
+   ],
+   [
+    "NYC HRA: Contact HRA",
+    "https://www.nyc.gov/site/hra/about/contact.page"
+   ]
+  ],
+  "updated": "2026-11-26",
+  "checked": "2026-11-26"
  },
  {
   "slug": "washingtonville-ny",
