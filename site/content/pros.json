@@ -11,5 +11,58 @@
   "source": "https://www.caremanagementconnect.net/services",
   "featured": true,
   "checked": "2026-11-25"
+ },
+ {
+  "name": "Umbrella Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Orange",
+   "Rockland",
+   "Westchester",
+   "Bronx",
+   "Brooklyn",
+   "Manhattan",
+   "Queens",
+   "Staten Island",
+   "Nassau",
+   "Suffolk"
+  ],
+  "phone": "845-723-0536",
+  "url": "https://umbrellacaremanagement.com",
+  "desc": "Geriatric care management and patient advocacy for seniors and people with disabilities. Services include comprehensive assessments, care planning, care coordination, patient advocacy and crisis intervention, plus coordination of medical services, home safety evaluations and in-home welfare checks. The team includes a registered nurse (RN).",
+  "source": "https://umbrellacaremanagement.com/our-team/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "VNS Health Geriatric Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Bronx",
+   "Brooklyn",
+   "Manhattan",
+   "Queens",
+   "Staten Island",
+   "Nassau",
+   "Rockland",
+   "Suffolk",
+   "Westchester"
+  ],
+  "phone": "888-735-8913",
+  "url": "https://www.vnshealth.org/homecare/geriatric-care-management/",
+  "desc": "Geriatric care management for older adults and the families who care for them. Care managers assess needs, write care plans, arrange and supervise care, go to medical appointments and oversee medications, help with bills, insurance claims and paperwork, and advise families on care decisions, including researching long-term care facilities. Care managers are nurses or social workers certified through the Commission for Case Manager Certification.",
+  "source": "https://www.vnshealth.org/homecare/geriatric-care-management/",
+  "checked": "2026-11-26"
+ },
+ {
+  "name": "WJCS Senior Care Management",
+  "cat": "care-managers",
+  "counties": [
+   "Westchester"
+  ],
+  "phone": "914-761-0600",
+  "url": "https://www.wjcs.com/services/seniors/senior-care-management/",
+  "desc": "Senior care management from Westchester Jewish Community Services, a nonprofit in White Plains, to help older adults age safely at home. Services include in-home assessments, personalized care planning, case management, guidance on senior living options, and information and referrals. Senior Services is directed by a licensed clinical social worker (LCSW). Ask for extension 2340.",
+  "source": "https://www.wjcs.com/aging-in-place-with-dignity/",
+  "checked": "2026-11-26"
  }
 ]
