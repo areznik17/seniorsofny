@@ -43,6 +43,15 @@ Build in waves, biggest search demand first. Local pages: county pages for all 6
 ## Pennsylvania (owner, Nov 26 2026)
 A separate Pennsylvania site is planned. Seniors of NY carries only a couple of cross-border pages that can also rank for PA near NJ (tri-state-port-jervis-ny, moving-parent-ny-pa). Don't build PA-only content here.
 
+## Keyword map (owner, Nov 26 2026): own every elder care search in every part of NY
+For each county, in this order (NJ-near first: Rockland, Westchester, Orange, Putnam, the five boroughs, Nassau, Suffolk, Sullivan, Dutchess; then Albany, Erie, Monroe, Onondaga and the rest):
+1. County page with services, how-to and FAQ (done for 6).
+2. elder-care-<county>-county-ny, senior-transportation-<county>-county-ny, senior-exemption-<county>-county-ny guides (done for Rockland, Westchester, Orange; exemption also Putnam).
+3. Care listing pages from the state data: /county/<slug>/home-care/, home-health, hospice, nursing-homes, adult-homes, adult-day (waiting on the data download).
+4. Find care help listings: care managers, social work agencies, senior move managers, placement advisors, by county. Practice and agency names only, confirmed on their own sites.
+5. Town and neighborhood pages with senior center, transport, library and care help.
+Every page follows STYLE.md "Lead the search results": one thing the top results don't have, real local figures, no AI phrasing. Never publish a thin page just to fill a slot.
+
 ## Care data download (run in a session whose network allows health.data.ny.gov, profiles.health.ny.gov, data.cms.gov)
 1. `python3 scripts/fetch_facilities.py` downloads the official lists into data/raw/ (refused host: stop and report it, never route around).
 2. `python3 scripts/make_facilities.py` builds src/content/facilities.json (care pages: /care/<slug>/, /county/<slug>/<category>/, /care/).
